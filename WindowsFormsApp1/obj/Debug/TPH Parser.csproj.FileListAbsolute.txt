@@ -1,0 +1,10 @@
+D:\TPH-L10n\WindowsFormsApp1\bin\Debug\TPH.exe.config
+D:\TPH-L10n\WindowsFormsApp1\bin\Debug\TPH.exe
+D:\TPH-L10n\WindowsFormsApp1\bin\Debug\TPH.pdb
+D:\TPH-L10n\WindowsFormsApp1\obj\Debug\TPH Parser.csprojAssemblyReference.cache
+D:\TPH-L10n\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\TPH-L10n\WindowsFormsApp1\obj\Debug\TPH.Properties.Resources.resources
+D:\TPH-L10n\WindowsFormsApp1\obj\Debug\TPH Parser.csproj.GenerateResource.cache
+D:\TPH-L10n\WindowsFormsApp1\obj\Debug\TPH Parser.csproj.CoreCompileInputs.cache
+D:\TPH-L10n\WindowsFormsApp1\obj\Debug\TPH.exe
+D:\TPH-L10n\WindowsFormsApp1\obj\Debug\TPH.pdb
