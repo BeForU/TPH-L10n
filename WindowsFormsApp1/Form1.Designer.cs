@@ -30,6 +30,7 @@
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.LineNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.titleText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DescText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.EngText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ChnText = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -41,9 +42,13 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.LineNum,
+            this.titleText,
             this.DescText,
             this.EngText,
             this.ChnText,
@@ -59,6 +64,11 @@
             // 
             this.LineNum.HeaderText = "Line";
             this.LineNum.Name = "LineNum";
+            // 
+            // titleText
+            // 
+            this.titleText.HeaderText = "Title";
+            this.titleText.Name = "titleText";
             // 
             // DescText
             // 
@@ -87,6 +97,7 @@
             // 
             // runBtn
             // 
+            this.runBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.runBtn.Location = new System.Drawing.Point(934, 19);
             this.runBtn.Name = "runBtn";
             this.runBtn.Size = new System.Drawing.Size(107, 23);
@@ -112,13 +123,14 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button runBtn;
         private System.Windows.Forms.DataGridViewTextBoxColumn LineNum;
+        private System.Windows.Forms.DataGridViewTextBoxColumn titleText;
         private System.Windows.Forms.DataGridViewTextBoxColumn DescText;
         private System.Windows.Forms.DataGridViewTextBoxColumn EngText;
         private System.Windows.Forms.DataGridViewTextBoxColumn ChnText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorTextCN;
-        private System.Windows.Forms.Button runBtn;
     }
 }
 
