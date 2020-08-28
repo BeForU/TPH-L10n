@@ -15,11 +15,11 @@ namespace WindowsFormsApp1
     {
         string[] textData;
         string[] tempStringArray;
-        string tempString;
 
         int column;
         string title;
-        string korean;
+        string description;
+        string english;
         string chinese;
 
         public Form1()
@@ -38,13 +38,23 @@ namespace WindowsFormsApp1
                     column = int.Parse(textData[i].Split('[', ']')[1]);
                 }
 
-                else if (textData[i].Contains("1 string Description"))
+                else if (textData[i].Contains("1 string Term"))
                 {
                     tempStringArray = textData[i].Split('"');
 
                     if (tempStringArray.Length > 1)
                     {
                         title = tempStringArray[1];
+                    }
+                }
+
+                else if (textData[i].Contains("1 string Description"))
+                {
+                    tempStringArray = textData[i].Split('"');
+
+                    if (tempStringArray.Length > 1)
+                    {
+                        description = tempStringArray[1];
                     }
                 }
 
@@ -60,7 +70,7 @@ namespace WindowsFormsApp1
                             {
 
                             }
-                            korean = tempStringArray[1];
+                            english = textData[i + 1].Substring(textData[i + 1].IndexOf('"') + 1, textData[i + 1].LastIndexOf('"') - textData[i + 1].IndexOf('"') - 1);
                         }
                     }
                 }
@@ -73,10 +83,10 @@ namespace WindowsFormsApp1
 
                         if (tempStringArray.Length > 1)
                         {
-                            chinese = tempStringArray[1];
+                            chinese = textData[i + 1].Substring(textData[i + 1].IndexOf('"') + 1, textData[i + 1].LastIndexOf('"') - textData[i + 1].IndexOf('"') - 1);
                         }
 
-                        dataGridView1.Rows.Add(column, title, korean, chinese, i);
+                        dataGridView1.Rows.Add(column, title, description, english, chinese, i);
                     }
                 }
             }
