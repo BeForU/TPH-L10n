@@ -91,5 +91,12 @@ namespace WindowsFormsApp1
                 }
             }
         }
+
+        private void transBtn_Click(object sender, EventArgs e)
+        {
+            TPH.Papago papago = new TPH.Papago();
+
+            papago.Translate(null);
+        }
     }
 }

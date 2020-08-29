@@ -37,6 +37,7 @@
             this.KorText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.KorTextCN = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.runBtn = new System.Windows.Forms.Button();
+            this.transBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -106,11 +107,22 @@
             this.runBtn.UseVisualStyleBackColor = true;
             this.runBtn.Click += new System.EventHandler(this.runBtn_Click);
             // 
+            // transBtn
+            // 
+            this.transBtn.Location = new System.Drawing.Point(934, 48);
+            this.transBtn.Name = "transBtn";
+            this.transBtn.Size = new System.Drawing.Size(107, 23);
+            this.transBtn.TabIndex = 2;
+            this.transBtn.Text = "Translate";
+            this.transBtn.UseVisualStyleBackColor = true;
+            this.transBtn.Click += new System.EventHandler(this.transBtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1053, 450);
+            this.Controls.Add(this.transBtn);
             this.Controls.Add(this.runBtn);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form1";
@@ -131,6 +143,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn ChnText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorTextCN;
+        private System.Windows.Forms.Button transBtn;
     }
 }
 
