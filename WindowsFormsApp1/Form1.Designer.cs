@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.runBtn = new System.Windows.Forms.Button();
             this.LineNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.titleText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DescText = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -37,9 +36,11 @@
             this.ChnText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.KorText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.KorTextCN = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.runBtn = new System.Windows.Forms.Button();
             this.saveBtn = new System.Windows.Forms.Button();
             this.loadBtn = new System.Windows.Forms.Button();
             this.combineBtn = new System.Windows.Forms.Button();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,17 +63,6 @@
             this.dataGridView1.RowTemplate.Height = 23;
             this.dataGridView1.Size = new System.Drawing.Size(904, 412);
             this.dataGridView1.TabIndex = 0;
-            // 
-            // runBtn
-            // 
-            this.runBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.runBtn.Location = new System.Drawing.Point(934, 19);
-            this.runBtn.Name = "runBtn";
-            this.runBtn.Size = new System.Drawing.Size(107, 23);
-            this.runBtn.TabIndex = 1;
-            this.runBtn.Text = "Run";
-            this.runBtn.UseVisualStyleBackColor = true;
-            this.runBtn.Click += new System.EventHandler(this.runBtn_Click);
             // 
             // LineNum
             // 
@@ -109,6 +99,17 @@
             this.KorTextCN.HeaderText = "Korean (from 2nd)";
             this.KorTextCN.Name = "KorTextCN";
             // 
+            // runBtn
+            // 
+            this.runBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.runBtn.Location = new System.Drawing.Point(934, 19);
+            this.runBtn.Name = "runBtn";
+            this.runBtn.Size = new System.Drawing.Size(107, 23);
+            this.runBtn.TabIndex = 1;
+            this.runBtn.Text = "Run";
+            this.runBtn.UseVisualStyleBackColor = true;
+            this.runBtn.Click += new System.EventHandler(this.runBtn_Click);
+            // 
             // saveBtn
             // 
             this.saveBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -133,6 +134,7 @@
             // 
             // combineBtn
             // 
+            this.combineBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.combineBtn.Location = new System.Drawing.Point(934, 106);
             this.combineBtn.Name = "combineBtn";
             this.combineBtn.Size = new System.Drawing.Size(107, 23);
@@ -171,6 +173,7 @@
         private System.Windows.Forms.Button saveBtn;
         private System.Windows.Forms.Button loadBtn;
         private System.Windows.Forms.Button combineBtn;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
     }
 }
 
