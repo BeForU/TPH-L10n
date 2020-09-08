@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.runBtn = new System.Windows.Forms.Button();
             this.LineNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.titleText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DescText = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -36,8 +37,9 @@
             this.ChnText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.KorText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.KorTextCN = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.runBtn = new System.Windows.Forms.Button();
-            this.transBtn = new System.Windows.Forms.Button();
+            this.saveBtn = new System.Windows.Forms.Button();
+            this.loadBtn = new System.Windows.Forms.Button();
+            this.combineBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -61,6 +63,17 @@
             this.dataGridView1.Size = new System.Drawing.Size(904, 412);
             this.dataGridView1.TabIndex = 0;
             // 
+            // runBtn
+            // 
+            this.runBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.runBtn.Location = new System.Drawing.Point(934, 19);
+            this.runBtn.Name = "runBtn";
+            this.runBtn.Size = new System.Drawing.Size(107, 23);
+            this.runBtn.TabIndex = 1;
+            this.runBtn.Text = "Run";
+            this.runBtn.UseVisualStyleBackColor = true;
+            this.runBtn.Click += new System.EventHandler(this.runBtn_Click);
+            // 
             // LineNum
             // 
             this.LineNum.HeaderText = "Line";
@@ -83,7 +96,7 @@
             // 
             // ChnText
             // 
-            this.ChnText.HeaderText = "Traditional Chinese";
+            this.ChnText.HeaderText = "2ndLanguage";
             this.ChnText.Name = "ChnText";
             // 
             // KorText
@@ -93,36 +106,48 @@
             // 
             // KorTextCN
             // 
-            this.KorTextCN.HeaderText = "Korean (from Chinese)";
+            this.KorTextCN.HeaderText = "Korean (from 2nd)";
             this.KorTextCN.Name = "KorTextCN";
             // 
-            // runBtn
+            // saveBtn
             // 
-            this.runBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.runBtn.Location = new System.Drawing.Point(934, 19);
-            this.runBtn.Name = "runBtn";
-            this.runBtn.Size = new System.Drawing.Size(107, 23);
-            this.runBtn.TabIndex = 1;
-            this.runBtn.Text = "Run";
-            this.runBtn.UseVisualStyleBackColor = true;
-            this.runBtn.Click += new System.EventHandler(this.runBtn_Click);
+            this.saveBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.saveBtn.Location = new System.Drawing.Point(934, 48);
+            this.saveBtn.Name = "saveBtn";
+            this.saveBtn.Size = new System.Drawing.Size(107, 23);
+            this.saveBtn.TabIndex = 2;
+            this.saveBtn.Text = "Save";
+            this.saveBtn.UseVisualStyleBackColor = true;
+            this.saveBtn.Click += new System.EventHandler(this.saveBtn_Click);
             // 
-            // transBtn
+            // loadBtn
             // 
-            this.transBtn.Location = new System.Drawing.Point(934, 48);
-            this.transBtn.Name = "transBtn";
-            this.transBtn.Size = new System.Drawing.Size(107, 23);
-            this.transBtn.TabIndex = 2;
-            this.transBtn.Text = "Translate";
-            this.transBtn.UseVisualStyleBackColor = true;
-            this.transBtn.Click += new System.EventHandler(this.transBtn_Click);
+            this.loadBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.loadBtn.Location = new System.Drawing.Point(934, 77);
+            this.loadBtn.Name = "loadBtn";
+            this.loadBtn.Size = new System.Drawing.Size(107, 23);
+            this.loadBtn.TabIndex = 3;
+            this.loadBtn.Text = "Load";
+            this.loadBtn.UseVisualStyleBackColor = true;
+            this.loadBtn.Click += new System.EventHandler(this.loadBtn_Click);
+            // 
+            // combineBtn
+            // 
+            this.combineBtn.Location = new System.Drawing.Point(934, 106);
+            this.combineBtn.Name = "combineBtn";
+            this.combineBtn.Size = new System.Drawing.Size(107, 23);
+            this.combineBtn.TabIndex = 4;
+            this.combineBtn.Text = "Combine";
+            this.combineBtn.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1053, 450);
-            this.Controls.Add(this.transBtn);
+            this.Controls.Add(this.combineBtn);
+            this.Controls.Add(this.loadBtn);
+            this.Controls.Add(this.saveBtn);
             this.Controls.Add(this.runBtn);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form1";
@@ -143,7 +168,9 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn ChnText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorTextCN;
-        private System.Windows.Forms.Button transBtn;
+        private System.Windows.Forms.Button saveBtn;
+        private System.Windows.Forms.Button loadBtn;
+        private System.Windows.Forms.Button combineBtn;
     }
 }
 

@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
     {
         string[] textData;
         string[] tempStringArray;
+        string[] koreanData;
 
         int column;
         string title;
@@ -75,7 +76,7 @@ namespace WindowsFormsApp1
                     }
                 }
 
-                else if (textData[i].StartsWith("        [8]"))
+                else if (textData[i].StartsWith("        [2]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {
@@ -92,11 +93,25 @@ namespace WindowsFormsApp1
             }
         }
 
-        private void transBtn_Click(object sender, EventArgs e)
+        private void saveBtn_Click(object sender, EventArgs e)
         {
-            TPH.Papago papago = new TPH.Papago();
+            int line;
+            string[] output = new string[dataGridView1.Rows.Count + 1];
 
-            papago.Translate(null);
+            for (int i = 0; i < dataGridView1.Rows.Count; i++)
+            {
+                line = Convert.ToInt32(dataGridView1.Rows[i].Cells[0].Value);
+
+                if (output[line] == null)
+                    output[line] = (string)dataGridView1.Rows[i].Cells[3].Value;
+            }
+
+            System.IO.File.WriteAllLines("English.txt", output);
+        }
+
+        private void loadBtn_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
