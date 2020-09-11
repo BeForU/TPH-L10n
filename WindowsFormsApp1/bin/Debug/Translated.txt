@@ -1,21 +1,21 @@
-글꼴 및 재료 / ARIAL SDF
+Fonts & Materials/Google Noto/Traditional Chinese/NotoSansCJKtc-Regular SDF
 현재 병원에는 평범한 인간으로 위장한 외계인이 많이 있습니다. 당신은 그들을 찾아서 즉시 집으로 보내야합니다!   
-달성 한 경력 목표 : <style = "AdvisorHighlight"> {[OBJECTIVE]} </ style>\n보상을 받으려면지도의 경력 목표 목록으로 이동하십시오."
-Two Point Health Ministry에서 수여 한 수여 : <style = "AdvisorHighlight"> {[REWARD]} </ style>"
-챌린지 완료 : <style = "AdvisorHighlight"> {[NAME]} </ style>\n보상 : <style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-챌린지 실패 : <style = "AdvisorHighlight"> {[NAME]} </ style>\n벌칙 : <style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Wave <style = "AdvisorHighlight"> {[WAVE]} </ style>가 지금 시작됩니다!"
+달성 한 경력 목표 : <style="AdvisorHighlight">{[OBJECTIVE]}</style>\n보상을 받으려면지도의 경력 목표 목록으로 이동하십시오."
+Two Point Health Ministry에서 수여 한 수여 : <style="AdvisorHighlight">{[REWARD]}</style>"
+챌린지 완료 : <style="AdvisorHighlight">{[NAME]}</style>\n보상 : <style="AdvisorHighlight">{[REWARDS]}</style>"
+챌린지 실패 : <style="AdvisorHighlight">{[NAME]}</style>\n벌칙 : <style="AdvisorHighlight">{[REWARDS]}</style>"
+Wave <style="AdvisorHighlight">{[WAVE]}</style>가 지금 시작됩니다!"
 마지막 웨이브 동안 {[PROCESSED]} 명의 환자 중 {[CURED]}를 치료했습니다. 안타깝게도 {[CURERATE]}의 치료율은 {[TARGET]}이되어야하고 그 웨이브를 반복해야합니다.
 이제 모든 {[PROCESSED]} 명의 환자를 처리했으며 웨이브가 끝났지 만 모든 웨이브 목표를 완료 할 수 없었습니다. 불행히도 우리는 그 물결을 반복해야합니다.
 개요 화면의 순위표 탭을 확인하여 친구 및 경쟁 병원과 비교하여 자신의 상태를 확인하십시오.
-카운티의 <style = "AdvisorHighlight"> 북쪽 </ style> 및 <style = "AdvisorHighlight"> 남쪽 </ style>에 우리 조직을위한 몇 가지 <style = "AdvisorHighlight"> 새로운 기회 </ style>가 있습니다. 구경하다."
-카운티 전역에 우리 조직을위한 몇 가지 <style = "AdvisorHighlight"> 새로운 기회 </ style>가 있습니다. 주위를 둘러보세요."
+카운티의 <style="AdvisorHighlight">북쪽</style>및 <style="AdvisorHighlight">남쪽</style>에 우리 조직을위한 몇 가지 <style="AdvisorHighlight">새로운 기회</style>가 있습니다. 구경하다."
+카운티 전역에 우리 조직을위한 몇 가지 <style="AdvisorHighlight">새로운 기회</style>가 있습니다. 주위를 둘러보세요."
 병원은 비용을 부담하지 않습니다. 지출을 낮추거나 더 많은 돈을 버는 것을 고려해야합니다.
 우리 돈이 상당히 낮아지고 있고 우리가 청구서를 감당할 수 있을지 모르겠습니다. 대출이 필요하다고 생각하십니까?
 병원에 빚이 있습니다. 대출을 받아야 할지도 몰라요.
-환자가 <style = "AdvisorHighlight"> {[ROOM]} </ style>의 진단에 대해 <style = "AdvisorHighlight"> {[PRICE]} </ style> 지불을 거부했습니다. 가격이 너무 높을까요?"
-환자가 <style = "AdvisorHighlight"> {[ITEM]} </ style>에 대해 <style = "AdvisorHighlight"> {[PRICE]} </ style> 지불을 거부했습니다. 가격이 너무 높을까요?"
-환자가 <style = "AdvisorHighlight">에서 <style = "AdvisorHighlight"> {[ILLNESS]} </ style> 치료에 대해 <style = "AdvisorHighlight"> {[PRICE]} </ style> 지불을 거부했습니다. {[ROOM]} </ style>. 가격이 너무 높을까요?"
+환자가 <style="AdvisorHighlight">{[ROOM]}</style>의 진단에 대해 <style="AdvisorHighlight">{[PRICE]}</style>지불을 거부했습니다. 가격이 너무 높을까요?"
+환자가 <style="AdvisorHighlight">{[ITEM]}</style>에 대해 <style="AdvisorHighlight">{[PRICE]}</style>지불을 거부했습니다. 가격이 너무 높을까요?"
+환자가 <style="AdvisorHighlight">에서 <style="AdvisorHighlight">{[ILLNESS]}</style>치료에 대해 <style="AdvisorHighlight">{[PRICE]}</style>지불을 거부했습니다. {[ROOM]}</style>. 가격이 너무 높을까요?"
 병원의 위생 수준이 불쾌하게 낮아지고 있습니다. 싱크대를 추가하거나 소독제 디스펜서를 배치하는 것을 고려할 수 있습니다.
 병원은 나쁜 평판을 받기 시작했습니다.
 병원을 방문하는 환자를 더 많이 치료하면 병원 평판이 향상 될 것입니다.
@@ -46,35 +46,35 @@ Resolution Lab 외부에 대기열이 있습니다. 다른 것을 만들 가치�
 수술 밖에 줄이 있습니다. 다른 방을 지을 가치가 있습니까?
 와드 외부에 대기열이 있습니다. 다른 것을 만들 가치가 있습니까?
 X-Ray 외부에 대기열이 있습니다. 다른 방을 지을 가치가 있습니까?
-축하합니다. <style = "AdvisorHighlight"> 병원 수준 </ style>이 증가했습니다.\n더 많은 환자와 직원을 유치하기 위해 계속 확장하세요."
-<style = "AdvisorHighlight"> {[UNLOCK]} </ style>이 잠금 해제되었습니다!"
+축하합니다. <style="AdvisorHighlight">병원 수준</style>이 증가했습니다.\n더 많은 환자와 직원을 유치하기 위해 계속 확장하세요."
+<style="AdvisorHighlight">{[UNLOCK]}</style>이 잠금 해제되었습니다!"
 병원에는 막힌 화장실이 많아서 오히려 비위생적이되고 있습니다. 관리인을 더 고용 할 수 있습니다.
 병원에는 막힌 화장실이 많이 있습니다. Hire 메뉴에서 관리인을 고용하면 그들이 처리 해줄 것입니다.
 {[ITEM]}에 유지 보수가 필요합니다. 청소부가 화재 위험이되지 않도록 수리를 수행하도록 요청됩니다.
 {[ITEM]}에 유지 보수가 필요합니다. 수리를 수행하려면 고용 메뉴에서 청소부를 고용하십시오.
 병원 주변에 쓰레기가 많습니다. 더 많은 저장소를 배치하는 것을 고려해야합니다.
 병원 주변에 쓰레기가 많습니다. 쓰레기통을 더 많이 배치하고 청소 메뉴에서 청소부를 고용하여 깨끗하게 유지하는 것을 고려해야합니다.
-<style = "AdvisorHighlight"> {[MACHINE]} </ style>를 업그레이드하여 더 효과적으로 만들 수 있습니다. 아이템을 선택하고 업그레이드를 선택하면 {[QUALIFICATION]}에서 훈련을받은 청소부가 업그레이드를 적용 할 수 있습니다."
+<style="AdvisorHighlight">{[MACHINE]}</style>를 업그레이드하여 더 효과적으로 만들 수 있습니다. 아이템을 선택하고 업그레이드를 선택하면 {[QUALIFICATION]}에서 훈련을받은 청소부가 업그레이드를 적용 할 수 있습니다."
 바닥에 '의료 폐기물'이 많이 있습니다. 일부 환자는 불만을 제기했습니다. 청소를 위해 더 많은 수위가 필요할 수 있습니다.
 바닥에 '의료 폐기물'이 많이 있습니다. 일부 환자는 불만을 제기했습니다. 청소를 위해 고용 메뉴에서 청소부를 고용해야 할 수도 있습니다.
 일부 자판기는 재고가 없습니다. 관리인을 더 고용하여 잘 보관할 수 있습니다.
 일부 자판기는 재고가 없습니다. 고용 메뉴에서 관리인을 고용하여 처리 할 수 ??있습니다.
 꽤 많은 식물이 시들어 환자를 비참하게 만듭니다. 더 많은 수위를 고용하여 물을 유지하십시오.
 꽤 많은 식물이 절뚝 거려서 환자를 비참하게 만듭니다. 고용 메뉴에서 청소부를 고용하여 물을 계속받을 수 있습니다.
-완료된 마케팅 캠페인 : <style = "AdvisorHighlight"> {[CAMPAIGN]} </ style>"
+완료된 마케팅 캠페인 : <style="AdvisorHighlight">{[CAMPAIGN]}</style>"
 {[NAME]} 님이 원하는 곳으로 이동할 수 없습니다. 경로 차단을 해제하려면 항목을 재정렬해야 할 수 있습니다.
 {[NAME]}이 원하는 위치 ({[DEST]})로 이동할 수 없습니다. 경로 차단을 해제하려면 항목을 재정렬해야 할 수 있습니다.
-좋은 소식입니다. 총 <style = "AdvisorHighlight"> 10 </ style> 명의 환자를 치료했습니다. 각 치료법은 <style = "AdvisorHighlight"> 평판 </ style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
-좋은 소식입니다. 총 <style = "AdvisorHighlight"> 100 </ style> 명의 환자를 치료했습니다! 각 치료법은 <style = "AdvisorHighlight"> 평판 </ style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
-좋은 소식입니다. 총 <style = "AdvisorHighlight"> 20 </ style> 명의 환자를 치료했습니다. 각 치료법은 <style = "AdvisorHighlight"> 평판 </ style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
-좋은 소식입니다. 총 <style = "AdvisorHighlight"> 5 </ style> 명의 환자를 치료했습니다. 각 치료법은 <style = "AdvisorHighlight"> 평판 </ style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
-좋은 소식입니다. 총 <style = "AdvisorHighlight"> 50 </ style> 환자를 치료했습니다. 각 치료법은 <style = "AdvisorHighlight"> 평판 </ style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
-의사가 <style = "AdvisorHighlight"> {[ILLNESS]} </ style>로 환자를 진단했지만 치료를 위해서는 <style = "AdvisorHighlight"> {[ROOM]} </ style>가 필요합니다. 하나를 만드는 것을 고려해야합니다."
+좋은 소식입니다. 총 <style="AdvisorHighlight">10</style>명의 환자를 치료했습니다. 각 치료법은 <style="AdvisorHighlight">평판</style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
+좋은 소식입니다. 총 <style="AdvisorHighlight">100</style>명의 환자를 치료했습니다! 각 치료법은 <style="AdvisorHighlight">평판</style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
+좋은 소식입니다. 총 <style="AdvisorHighlight">20</style>명의 환자를 치료했습니다. 각 치료법은 <style="AdvisorHighlight">평판</style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
+좋은 소식입니다. 총 <style="AdvisorHighlight">5</style>명의 환자를 치료했습니다. 각 치료법은 <style="AdvisorHighlight">평판</style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
+좋은 소식입니다. 총 <style="AdvisorHighlight">50</style>환자를 치료했습니다. 각 치료법은 <style="AdvisorHighlight">평판</style>을 높여 더 많은 환자를 병원으로 유치 할 것입니다."
+의사가 <style="AdvisorHighlight">{[ILLNESS]}</style>로 환자를 진단했지만 치료를 위해서는 <style="AdvisorHighlight">{[ROOM]}</style>가 필요합니다. 하나를 만드는 것을 고려해야합니다."
 우리 환자 중 일부는 정말 배고프다. 자판기 구입이나 키오스크 추가를 고려하십시오.
 우리 환자 중 일부는 원하는 것보다 더럽습니다. 우리는 정말로 병원을 덜 더럽게 유지하려고 노력해야합니다. 싱크대를 추가하거나 소독제 디스펜서를 배치하는 것도 고려할 수 있습니다.
 우리 환자 중 일부는 병원 상태에 혐오감을 느낍니다. 더 좋은 환경을 만드는 것에 대해 생각하십시오.
 우리 환자 중 일부는 정말 지루합니다. 그들에게 약간의 오락을 제공하는 것을 고려하십시오.
-환자를 진단하려면 <style = "AdvisorHighlight"> GP 사무실 </ style>이 필요합니다."
+환자를 진단하려면 <style="AdvisorHighlight">GP 사무실</style>이 필요합니다."
 우리 환자 중 일부는 성질이 나 빠지고 있습니다. 우리는 그들을 더 행복하게해주어야합니다.
 우리 환자 중 일부는 약간 밧줄처럼 보입니다. 우리는 그들을 더 빨리 볼 필요가 있습니다.
 저희 의사들은 환자가 이용할 수있는 모든 형태의 진단을 다했습니다. 다른 진단실을 만들어야합니다.
@@ -83,32 +83,32 @@ X-Ray 외부에 대기열이 있습니다. 다른 방을 지을 가치가 있습
 우리 환자 중 일부는 화장실이 필사적입니다. 그들을 도와 더 많은 화장실을 지으십시오.
 우리 환자 중 일부는 끓고 있습니다. 더 많은 에어컨 추가를 고려할 수 있습니다.
 환자가 병원에서 사망했습니다.
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료 실패 후 환자가 사망하고 있습니다. 진단의 확실성은 <style = "AdvisorHighlight"> {[DIAGNOSIS]} </ style>에 불과하여 성공 가능성을 줄였습니다."
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. 진단의 확실성은 <style = "AdvisorHighlight"> {[DIAGNOSIS]} </ style>에 불과하여 성공 가능성을 줄였습니다."
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료 실패 후 환자가 사망하고 있습니다. 진단의 확실성은 <style="AdvisorHighlight">{[DIAGNOSIS]}</style>에 불과하여 성공 가능성을 줄였습니다."
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. 진단의 확실성은 <style="AdvisorHighlight">{[DIAGNOSIS]}</style>에 불과하여 성공 가능성을 줄였습니다."
 환자가 건강 악화로 사망했습니다. 위생 수준이 낮 으면 건강이 더 빨리 악화 될 수 있습니다.
 환자가 건강 악화로 사망했습니다. 이것은 우리의 평판에 좋지 않습니다. 사람들을 더 빨리 볼 수 있도록 노력하십시오. 대기열을 짧게 유지하거나 건강에 해로운 사람들을 대기열의 맨 앞으로 이동하십시오.
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료가 실패한 후 환자가 사망하고 있습니다. 사람들을 성공적으로 치료할 가능성을 높이기 위해 직원과 장비를 계속 개선하십시오."
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. 사람들을 성공적으로 치료할 가능성을 높이기 위해 직원과 장비를 계속 개선하십시오."
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료 실패 후 환자가 사망하고 있습니다. <style = "AdvisorHighlight"> {[STAFF]} </ style>가 치료 기술을 향상시키기 위해 더 많은 교육이 필요합니까?"
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. <style = "AdvisorHighlight"> {[STAFF]} </ style>가 치료 기술을 향상시키기 위해 더 많은 교육이 필요합니까?"
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료 실패 후 환자가 사망하고 있습니다. <style = "AdvisorHighlight"> {[MACHINE]} </ style>를 업그레이드하여 더 효과적으로 만들 수 있을까요?"
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. <style = "AdvisorHighlight"> {[MACHINE]} </ style>를 업그레이드하여 더 효과적으로 만들 수 있을까요?"
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료가 실패한 후 환자가 사망하고 있습니다. 사람들을 성공적으로 치료할 가능성을 높이기 위해 직원과 장비를 계속 개선하십시오."
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. 사람들을 성공적으로 치료할 가능성을 높이기 위해 직원과 장비를 계속 개선하십시오."
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료 실패 후 환자가 사망하고 있습니다. <style="AdvisorHighlight">{[STAFF]}</style>가 치료 기술을 향상시키기 위해 더 많은 교육이 필요합니까?"
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. <style="AdvisorHighlight">{[STAFF]}</style>가 치료 기술을 향상시키기 위해 더 많은 교육이 필요합니까?"
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료 실패 후 환자가 사망하고 있습니다. <style="AdvisorHighlight">{[MACHINE]}</style>를 업그레이드하여 더 효과적으로 만들 수 있을까요?"
+<style="AdvisorHighlight">{[ROOM]}</style>에서 치료가 효과가 없었던 환자가 퇴원하고 있습니다. <style="AdvisorHighlight">{[MACHINE]}</style>를 업그레이드하여 더 효과적으로 만들 수 있을까요?"
 환자는 당신이 병원을 운영하는 데 충분한 방법을 가지고 있었고 습격했습니다.
-한 환자가 <style = "AdvisorHighlight"> 새 진단실 </ style>을 기다리는 것을 포기하고 돌진하고 있습니다. 이것은 우리의 평판에 좋지 않을 것입니다."
+한 환자가 <style="AdvisorHighlight">새 진단실</style>을 기다리는 것을 포기하고 돌진하고 있습니다. 이것은 우리의 평판에 좋지 않을 것입니다."
 너무 오래 기다리다
-한 환자가 병원에 ??만족하지 못하고 뛰쳐 나가고 있습니다. 주요 불만 사항은 다음과 같습니다. <style = "AdvisorHighlight"> {[COMPLAINTS]} </ style>. <style = "AdvisorHighlight"> {[DAYS]} 일 </ style> 동안 병원에있었습니다."
-환자가 <style = "AdvisorHighlight"> {[ROOM]} </ style>를 기다리는 것을 포기하고 돌진하고 있습니다. 이것은 우리의 평판에 좋지 않을 것입니다."
+한 환자가 병원에 ??만족하지 못하고 뛰쳐 나가고 있습니다. 주요 불만 사항은 다음과 같습니다. <style="AdvisorHighlight">{[COMPLAINTS]}</style>. <style="AdvisorHighlight">{[DAYS]} 일</style>동안 병원에있었습니다."
+환자가 <style="AdvisorHighlight">{[ROOM]}</style>를 기다리는 것을 포기하고 돌진하고 있습니다. 이것은 우리의 평판에 좋지 않을 것입니다."
 우리 환자 중 일부는 목이 마릅니다. 자판기 구입이나 키오스크 추가를 고려할 수 있습니다.
-방문자가 체크인 할 수 있도록 <style = "AdvisorHighlight"> 접수 </ style>가 필요합니다."
-<style = "AdvisorHighlight"> Hogsport </ style>, <style = "AdvisorHighlight"> Lower Bullocks </ style> 및 <style = "AdvisorHighlight"> 플로팅 </ style>은 이제 <style = "AdvisorHighlight">에서 사용할 수 있습니다. REMI X </ style>!"
-<style = "AdvisorHighlight"> Mitton University </ style>, <style = "AdvisorHighlight"> Tumble </ style> 및 <style = "AdvisorHighlight"> Flemington </ style>을 이제 <style = "AdvisorHighlight">에서 사용할 수 있습니다. REMI X </ style>!"
-<style = "AdvisorHighlight"> 병원 평판 </ style>은 이제 <style = "AdvisorHighlight"> 좋은 </ style>입니다. 이것은 더 많은 환자와 직원을 끌어들일 것입니다."
-<style = "AdvisorHighlight"> 병원 평판 </ style>이 이제 <style = "AdvisorHighlight"> 훌륭한 </ style>입니다. 이것은 더 많은 환자와 직원을 끌어들일 것입니다."
-완료된 연구 프로젝트 : <style = "AdvisorHighlight"> {[PROJECT]} </ style>\n출력 : <style = "AdvisorHighlight"> {[REWARDS]} </ style>"
+방문자가 체크인 할 수 있도록 <style="AdvisorHighlight">접수</style>가 필요합니다."
+<style="AdvisorHighlight">Hogsport</style>, <style="AdvisorHighlight">Lower Bullocks</style>및 <style="AdvisorHighlight">플로팅</style>은 이제 <style="AdvisorHighlight">에서 사용할 수 있습니다. REMI X</style>!"
+<style="AdvisorHighlight">Mitton University</style>, <style="AdvisorHighlight">Tumble</style>및 <style="AdvisorHighlight">Flemington</style>을 이제 <style="AdvisorHighlight">에서 사용할 수 있습니다. REMI X</style>!"
+<style="AdvisorHighlight">병원 평판</style>은 이제 <style="AdvisorHighlight">좋은</style>입니다. 이것은 더 많은 환자와 직원을 끌어들일 것입니다."
+<style="AdvisorHighlight">병원 평판</style>이 이제 <style="AdvisorHighlight">훌륭한</style>입니다. 이것은 더 많은 환자와 직원을 끌어들일 것입니다."
+완료된 연구 프로젝트 : <style="AdvisorHighlight">{[PROJECT]}</style>\n출력 : <style="AdvisorHighlight">{[REWARDS]}</style>"
 새로운 진단 기계를 연구하고 업그레이드하면 환자를 더 빨리 진단 할 수 있습니다. 이렇게하면 대기열 크기와 대기 시간을 줄이는 데 도움이되며 치료율이 향상됩니다.
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에 <style = "AdvisorHighlight"> {[ITEM]} </ style>이 없습니다. 하나 없이는 작동하지 않습니다."
+<style="AdvisorHighlight">{[ROOM]}</style>에 <style="AdvisorHighlight">{[ITEM]}</style>이 없습니다. 하나 없이는 작동하지 않습니다."
 방은 아직 필요한 항목을 담기에 충분하지 않습니다. 최소 크기 요구 사항을 충족하도록 공간을 확장합니다.
-<style = "AdvisorHighlight"> 샌드 박스 : 프리 플레이 </ style> 잠금 해제! 나만의 맞춤 설정으로 병원을 만드세요. 기본 메뉴에서 샌드 박스 모드에 액세스합니다."
+<style="AdvisorHighlight">샌드 박스 : 프리 플레이</style>잠금 해제! 나만의 맞춤 설정으로 병원을 만드세요. 기본 메뉴에서 샌드 박스 모드에 액세스합니다."
 {0} 소유의 경쟁 병원은 {2} 개 중 {1} 개를 보유하고 있습니다. 현재는 {3}입니다.
 저희 병원은 {1} / {3}입니다. {2}에 불과한 {0}의 병원보다 훨씬 낫습니다!
 Advisor_Social_LeaderboardBoast
@@ -118,16 +118,16 @@ Advisor_Social_LeaderboardBoast
 많은 환자가 의사가 운영하는 방 밖에서 대기하고 있지만 사용할 수있는 방이 없습니다. 더 많은 의사를 고용하십시오.
 많은 환자가 간호사가 운영하는 방 밖에서 대기하고 있지만 사용할 수있는 방이 없습니다. 더 많은 간호사를 고용하십시오.
 우리 직원들은 사기가 매우 낮습니다. 그들에게 더 많은 돈을 지불하거나 더 많은 휴식을 취하도록 할 수 있습니다.
-<style = "AdvisorHighlight"> {[ROOM]} </ style> 회의실이 있지만 <style = "AdvisorHighlight"> {[STAFF]} </ style>에는 <style = "AdvisorHighlight "> {[QUALIFICATION]} </ style> 자격."
+<style="AdvisorHighlight">{[ROOM]}</style>회의실이 있지만 <style="AdvisorHighlight">{[STAFF]}</style>에는 <style="AdvisorHighlight "> {[QUALIFICATION]}</style>자격."
 우리 직원들은 피곤해졌지만 갈 직원 실이 없습니다.
 우리 직원 중 일부는 급여에 만족하지 않습니다. 인상을주는 것을 고려해야합니다. 직원 목록에서 급여 검토를 살펴보십시오.
-<style = "AdvisorHighlight"> {[NAME]} </ style>이 (가) <style = "AdvisorHighlight"> {[OLDTITLE]} </ style>에서 <style = "AdvisorHighlight"> {[NEWTITLE]} <(으)로 승격되었습니다. / 스타일>"
+<style="AdvisorHighlight">{[NAME]}</style>이 (가) <style="AdvisorHighlight">{[OLDTITLE]}</style>에서 <style="AdvisorHighlight">{[NEWTITLE]} <(으)로 승격되었습니다. / 스타일>"
 상당수의 직원이 승진 할 준비가되어 있습니다. 그들에게 약간의 관심을 기울이지 않으면 무시 당하게 될 것입니다.
 상당수의 직원이 무료 교육 슬롯을 가지고 있습니다. 훈련실에서 훈련하여 잠재력을 극대화하십시오.
 상당수의 직원이 무료 교육 슬롯을 가지고 있습니다. 잠재력을 극대화하려면 훈련실을 만들어야합니다!
-<style = "AdvisorHighlight"> {[STAFF]} </ style>는 매우 불행하고 떠나겠다고 위협합니다. 주요 불만 사항은 다음과 같습니다. <style = "AdvisorHighlight"> {[COMPLAINTS]} </ style>."
-<style = "AdvisorHighlight"> {[STAFF]} </ style>가 사임했습니다! 주요 불만 사항은 다음과 같습니다. <style = "AdvisorHighlight"> {[COMPLAINTS]} </ style>. 나머지 직원들을 행복하게 유지해야합니다."
-<style = "AdvisorHighlight"> {[ROOM]} </ style>에는 <style = "AdvisorHighlight"> {[STAFF]} </ style>가 필요합니다. 하나를 얻으려면 고용 메뉴로 이동하십시오."
+<style="AdvisorHighlight">{[STAFF]}</style>는 매우 불행하고 떠나겠다고 위협합니다. 주요 불만 사항은 다음과 같습니다. <style="AdvisorHighlight">{[COMPLAINTS]}</style>."
+<style="AdvisorHighlight">{[STAFF]}</style>가 사임했습니다! 주요 불만 사항은 다음과 같습니다. <style="AdvisorHighlight">{[COMPLAINTS]}</style>. 나머지 직원들을 행복하게 유지해야합니다."
+<style="AdvisorHighlight">{[ROOM]}</style>에는 <style="AdvisorHighlight">{[STAFF]}</style>가 필요합니다. 하나를 얻으려면 고용 메뉴로 이동하십시오."
 어시스턴트가 너무 많을 수 있으며 현재 일부는 유휴 상태입니다.
 의사가 너무 많을 수도 있고, 현재 일부는 유휴 상태입니다."
 관리인이 너무 많을 수 있으며 현재 일부는 유휴 상태입니다.
@@ -147,7 +147,7 @@ Advisor_Social_LeaderboardBoast
 알고 계셨습니까? 병원의 별점을 높이고 다른 도전 과제를 완료하여 조직을 위해 Kudosh를 획득하십시오. 그것을 사용하여 새 항목을 잠금 해제하십시오.
 알고 계십니까 : 추가 현금이 필요한 경우 금융 탭에서 대출을받을 수 있습니다.
 알고 계십니까 :지도를 사용하여 저희 조직 내의 모든 병원으로 돌아갈 수 있습니다. 잠금 해제 한 모든 방과 아이템을 사용할 수 있습니다.
-알고 계십니까 : <style = "AdvisorHighlight"> 조직 과제 </ style>에 참여하면 해당 지역의 다른 병원과 경쟁하고 더 많은 보상을받을 수 있습니다. 오른쪽 상단의 탭을 클릭하여 사용 가능한 도전을 확인합니다."
+알고 계십니까 : <style="AdvisorHighlight">조직 과제</style>에 참여하면 해당 지역의 다른 병원과 경쟁하고 더 많은 보상을받을 수 있습니다. 오른쪽 상단의 탭을 클릭하여 사용 가능한 도전을 확인합니다."
 알고 계십니까 : 환자는 시간이 지남에 따라 지루해집니다. 대기 장소 주변에 흥미로운 물건을 놓아 즐겁게 지내십시오.
 알고 계십니까 : 환자와 직원은 시간이 지남에 따라 배가 고파집니다. 병원 주변에 간식을 제공하여 환자를 행복하게합니다.
 알고 계십니까 : 환자와 직원은 시간이 지남에 따라 목이 마르게됩니다. 병원 주변에 음료수를 제공하여 환자를 행복하게합니다.
@@ -173,7 +173,7 @@ Advisor_Social_LeaderboardBoast
 알고 계십니까 : 항목 목록 및 방 사용자 지정 메뉴에서 작업장 버튼을 클릭하여 자신의 사진, 깔개, 벽 및 바닥을 디자인 할 수 있습니다."
 알고 계십니까 : 머신을 업그레이드하면 더 효과적입니다. 업그레이드가 잠금 해제되면 시스템을 업그레이드하도록 선택할 수 있습니다. 작업을 수행하려면 역학 교육을받은 청소부가 필요합니다.
 알고 계셨습니까? 시각화 탭을 사용하여 환경 요인, 행복, 건강, 에너지, 필요, 유지 관리 등에 따라 병원을 볼 수 있습니다."
-교육 과정 완료 : <style = "AdvisorHighlight"> {[QUALIFICATION]} </ style>"
+교육 과정 완료 : <style="AdvisorHighlight">{[QUALIFICATION]}</style>"
 외계인
 {0} 일 후 도착… [i2p_Zero] 오늘 도착… [i2p_One] 내일 도착…
 그들이 여기있다!!!
@@ -183,7 +183,7 @@ The Four Freddies라는 지역 이발소 4 중주가 우리의 도움이 필요�
 이발소 4 중주
 잘하셨습니다. 이발소 4 중주단이 회복의 길에 있습니다. 그들은 우리를 위해 관대 한 기부를했습니다.
 특별 보고서
-보너스 업데이트 : 마지막 평가 기간 동안 <style = "AdvisorHighlight"> {[PROCESSED]} </ style> 명의 게스트 중 <style = "AdvisorHighlight"> {[CURED]} </ style>를 치료했습니다. 이제 호텔에서 향후 3 개월 동안 총 운영 비용의 <style = "AdvisorHighlight"> {[PERCENT]} </ style>를 부담하게됩니다."
+보너스 업데이트 : 마지막 평가 기간 동안 <style="AdvisorHighlight">{[PROCESSED]}</style>명의 게스트 중 <style="AdvisorHighlight">{[CURED]}</style>를 치료했습니다. 이제 호텔에서 향후 3 개월 동안 총 운영 비용의 <style="AdvisorHighlight">{[PERCENT]}</style>를 부담하게됩니다."
 치료율 : {[RATE]}
 포함 된 운영 비용 : {[PERCENT]}\n다음 평가 기간 시작 : {[MONTH]}
 Popstar Jasmine Odyssey가 병원에 ??도착합니다.
@@ -222,7 +222,7 @@ Two Point Circus는 우리를 잠금 해제하고 모든 광대가 탈출했습�
 지역 매체는이 지역에서 잊혀지지 않는 사람들이 급증 할 것이라고 예측했습니다. 영혼은 'Troubled'에서 'Mildly Bothered'까지 다양합니다. 병원에서 더 많은 유령을 찾아야합니다.
 Underlook Hotel의 소유자가 우리에게 최신 목표를 보냈습니다.
 Underlook Hotel 소유주가 설정 한 목표를 완료하지 못했습니다.
-Underlook Hotel은 목표 달성을 위해 <style = "AdvisorHighlight"> {[REWARDS]} </ style>를 받았습니다."
+Underlook Hotel은 목표 달성을 위해 <style="AdvisorHighlight">{[REWARDS]}</style>를 받았습니다."
 우리는 호텔에서 목표를 설정했습니다. 목표를 달성 할 수 있다면 약간의 자금을 받게됩니다.
 호텔 경영 소식
 호텔 타겟
@@ -852,9 +852,9 @@ Two Point Health Ministry는 대학에서 기계에 대한 전문성을 입증 �
 공개 3
 Foxbridge 경은 우리의 최신 목표에 대한 세부 사항을 우리에게 연락했습니다.
 나쁜 소식. 우리는 목표를 달성하지 못했습니다. Foxbridge 경은 당분간 추가 자금을 보류 할 것입니다.
-나쁜 소식. 우리는 목표를 달성하지 못했습니다. Foxbridge 경은 추가 자금을 보류 할 것입니다.\n벌칙 : <style = "AdvisorHighlight"> {[REWARDS]} </ style>"
+나쁜 소식. 우리는 목표를 달성하지 못했습니다. Foxbridge 경은 추가 자금을 보류 할 것입니다.\n벌칙 : <style="AdvisorHighlight">{[REWARDS]}</style>"
 좋은 소식. 우리는 목표를 달성했습니다. Foxbridge 경은 우리에게 약간의 추가 자금을 제공 할 것입니다.
-좋은 소식. 우리는 목표를 달성했습니다. Foxbridge 경이 추가 자금을 제공 할 것입니다.\n보상 : <style = "AdvisorHighlight"> {[REWARDS]} </ style>"
+좋은 소식. 우리는 목표를 달성했습니다. Foxbridge 경이 추가 자금을 제공 할 것입니다.\n보상 : <style="AdvisorHighlight">{[REWARDS]}</style>"
 Foxbridge 경은 앞으로 몇 달 동안 우리의 목표에 대한 자세한 내용을 우리에게 연락했습니다. 아래 요약을 참조하십시오.\n병원을 계속 유지하기 위해 추가 자금을 원하면이를 달성해야합니다.
 Lord Foxbridge의 새로운 목표
 공공 표적
@@ -1211,7 +1211,7 @@ Two Point Squabbler가 잘못된 다이어그램이있는 "고급 수면 자세"
 스타 챌린지
 타겟 마케팅을 사용하여 특정 유형의 환자를 병원으로 유도합니다.
 루어 앤 큐어
-REMI X는 총 운영 비용의 <style = "AdvisorHighlight"> {[PERCENT]} </ style>를 부담합니다."
+REMI X는 총 운영 비용의 <style="AdvisorHighlight">{[PERCENT]}</style>를 부담합니다."
 {[POINTS]} 연구 점수 ({[PROJECT]})
 {[POINTS]} 연구 포인트
 없음
@@ -1367,7 +1367,7 @@ X- 레이 작업
 녹색 에너지 기계를 구입하여 전력 공급을 늘리십시오. 도시 주변에는 풍력 터빈, 태양 전지판 및 수력 댐이 있습니다."
 건물 {[COUNT]} 개 구매 [i2p_One] 건물 {[COUNT]} 개 구매
 호텔에서받는 월별 보너스는 이전 3 개월 평가 기간 동안의 치료율에 따라 현재 운영 비용의 {[LOWER]}에서 {[UPPER]} 사이로 달라질 수 있습니다.
-여분의 힘을 사용하여 닫힌 방 중 하나 이상을 <style = "AdvisorHighlight"> 열기 </ style>하는 것을 고려하십시오."
+여분의 힘을 사용하여 닫힌 방 중 하나 이상을 <style="AdvisorHighlight">열기</style>하는 것을 고려하십시오."
 연구 프로젝트 완료
 유령 {[COUNT]} 명 포획
 {[COUNT]} 비트의 쓰레기 쓸기 [i2p_One] 약간의 쓰레기 쓸기
@@ -1779,7 +1779,7 @@ Jumbo Mega Corp는 방해 행위 부서의 누군가를 병원으로 보내고 �
 처리 된 환자 : {[PROCESSED]}\n남은 환자 : {[REMAIN]}
 웨이브 목표
 웨이브 목표 완료
-자금 업데이트 : 이제 Holistix에서 <style = "AdvisorHighlight"> 웰빙 지수 <의 점수를 기준으로 향후 3 개월 동안 총 운영 비용의 <style = "AdvisorHighlight"> {[PERCENT]} </ style>를 부담하게됩니다. / 스타일>."
+자금 업데이트 : 이제 Holistix에서 <style="AdvisorHighlight">웰빙 지수 <의 점수를 기준으로 향후 3 개월 동안 총 운영 비용의 <style="AdvisorHighlight">{[PERCENT]}</style>를 부담하게됩니다. / 스타일>."
 굶주림
 갈증
 화장실
@@ -1805,7 +1805,7 @@ XP
 {[ROOM]}의 {[PERCENT]} 치료 기술
 {[PERCENT]} 치료 기술
 {[PERCENT]} 업그레이드 기술
-Superbug 프로젝트 완료 : <style = "AdvisorHighlight"> {0} </ style>\n여기를 클릭하여 <style = "AdvisorHighlight"> 보상 </ style>을 받으세요."
+Superbug 프로젝트 완료 : <style="AdvisorHighlight">{0}</style>\n여기를 클릭하여 <style="AdvisorHighlight">보상</style>을 받으세요."
 Superbug 네트워크\n공동 프로젝트
 연속 치료
 알버트 크랭크
@@ -1835,7 +1835,7 @@ loooooooooove를 조사하려면 파트너가 필요합니다
 파일 손상
 다음과 같은 이유로 프로젝트 리더 {0}에서 데이터를 검색하는 데 문제가 있습니다.\n\n{1}\n\n하지만 기다리지 않으려면 데이터 검색을 계속 시도합니다. ,이 프로젝트를 중단 할 수 있습니다. 프로젝트를 중단하면 모든 기여가 손실됩니다."
 재시작
-<style = "AdvisorHighlight"> 공동 프로젝트 </ style>가 잠금 해제되었습니다! 다른 의료 기관과 협력하여 새로운 연구 방법을 탐색하고 놀라운 발견을하십시오."
+<style="AdvisorHighlight">공동 프로젝트</style>가 잠금 해제되었습니다! 다른 의료 기관과 협력하여 새로운 연구 방법을 탐색하고 놀라운 발견을하십시오."
 버리다
 이 목표를 포기 하시겠습니까?\n\n이 목표를 향한 모든 진행 상황이 손실됩니다.
 이 프로젝트를 중단 하시겠습니까? \\n\\n리더 / 비 리더의 결과는 어쩌구 저쩌구 저쩌구입니다.
@@ -1918,10 +1918,10 @@ Superbug Network의 모든 조직과 협력하여 Gyro-Nut에 대한 응용 프�
 Superbug Initiative는 Healthy Appetite 글로벌 프로젝트가 완료되었음을 발표하게되어 기쁘게 생각합니다.\n\n모두가 우리 간식에 대해 이야기하고 있습니다. 당신이 그들을 위해 든 반대하든 ... 간식. 모두를위한 간식입니다.\n\n잘하셨습니다.
 Superbug Initiative가 다양한 플래터 바인딩 스낵을 개발하도록 도와주세요.
 건강한 식욕
-완료된 공동 작업 목표 : <style = "AdvisorHighlight"> {0} </ style>\n보상 : <style = "AdvisorHighlight"> {1} </ style>\n프로젝트 상태를 보려면 여기를 클릭하세요…"
-<style = "AdvisorHighlight"> {0} </ style>가 업데이트되었습니다. 여기를 클릭하십시오."
-<style = "AdvisorHighlight"> {0} </ style> 및 <style = "AdvisorHighlight"> {1} </ style>가 업데이트되었습니다. 여기를 클릭하십시오."
-<style = "AdvisorHighlight"> {0} </ style>, <style = "AdvisorHighlight"> {1} </ style> 및 <style = "AdvisorHighlight"> {2} </ style>가 업데이트되었습니다. 여기를 클릭하십시오."
+완료된 공동 작업 목표 : <style="AdvisorHighlight">{0}</style>\n보상 : <style="AdvisorHighlight">{1}</style>\n프로젝트 상태를 보려면 여기를 클릭하세요…"
+<style="AdvisorHighlight">{0}</style>가 업데이트되었습니다. 여기를 클릭하십시오."
+<style="AdvisorHighlight">{0}</style>및 <style="AdvisorHighlight">{1}</style>가 업데이트되었습니다. 여기를 클릭하십시오."
+<style="AdvisorHighlight">{0}</style>, <style="AdvisorHighlight">{1}</style>및 <style="AdvisorHighlight">{2}</style>가 업데이트되었습니다. 여기를 클릭하십시오."
 이 프로젝트에 친구를 초대하십시오.
 귀하의 조직은 큰 가능성을 보여 주었으며 결과적으로 Bungle Superbug Initiative에 참여하도록 선택되었습니다. 축하합니다.\n\nSuperbug Initiative는 우리의 가장 시급한 의료 문제를 해결하기 위해 카운티에서 가장 훌륭한 사람들을 연결하려는 의도로 설립되었습니다. 그 이후로 Superbug는 모든 형태의 연구 및 기술을위한 최고의 인터페이스로 변모했습니다.\n\n준비가되면 Superbug Network에 액세스 할 수있게 되었으니 흥미 진진한 공동 연구 세계로 뛰어 드세요.
 최근에 병원에 갔을 때 나는 "이 장소는 더 많은 동물이 필요하다"고 생각했습니다. 그러나 어떤 동물이 우리 환자와 직원에게 좋은 회사뿐만 아니라 의료 시설에 적합할까요? 야크? 에머 스? Platypuses? 나는 혼자서 그 결정을 내리기에 적합하지 않다는 것을 금방 깨달았습니다.\n\n이 작업에 가장 적합한 생물을 조사하고 싶습니다. 무엇보다도 특정 병원의 전체 "살아남은"비율을 개선해야합니다.\n\n슈퍼 버그 이니셔티브는 글로벌 프로젝트를 시작했습니다. Superbug Network를 확인하여 프로젝트에 기여하고 보상을 받으세요."
@@ -2305,6 +2305,8 @@ REMI X 입문
 \nR.EMI X에는 이제 해당 병원에서 별 1 개 등급을 획득 한 관리자를위한 Mitton University, Tumble 및 Flemington의 대체 버전이 포함되어 있습니다."
 Jukebox, Pinball Machine 및 Hypno Pole과 같은 과거의 일로 과거의 영광스러운 날을 되풀이하십시오!"
 레트로 아이템 팩
+새로운 회의실 템플릿 기능을 사용하여 좋아하는 레이아웃을 저장하고 어디를 가든 가져갈 수 있습니다!
+룸 템플릿
 슬롯 저장
 설정
 여름을 기념하기 위해 고기 맛이 나는 아이템 세트를 추가했습니다. "특별"항목 필터에서 찾으십시오."
@@ -3989,7 +3991,7 @@ Jasmine은 프로젝트에 대한 귀하의 공헌을 위해 앨범 "Salivation"
 잽 마스터 II
 고급 주입 성공.
 잽 마스터 III
-병원에 문제를 일으키는 물건이 있습니다. <style = "AdvisorHighlight"> {[ITEM]} </ style>은 (는) 다른 항목을 배치하기 전에 있어야하거나 접근 할 수없는 위치에있을 수 있으며 이동 또는 제거해야합니다. 이동하려면 여기를 클릭하십시오."
+병원에 문제를 일으키는 물건이 있습니다. <style="AdvisorHighlight">{[ITEM]}</style>은 (는) 다른 항목을 배치하기 전에 있어야하거나 접근 할 수없는 위치에있을 수 있으며 이동 또는 제거해야합니다. 이동하려면 여기를 클릭하십시오."
 심각한 과학적 어리 석음.
 Giggle 펌프
 지역 핫스팟에 대한 지침과 최상의 생존 방법을 제공하는 유용한 전단지가 포함되어 있습니다.
@@ -4101,8 +4103,8 @@ Flipboard
 업무용 책상
 책상이있는 물건을위한 쾌적한 책상.
 데스크-항목 및 프리팩을 삭제할 수 있습니까?
-<style = "AdvisorHighlight"> {[ITEM]} </ style>가 폭발했습니다! 교체품을 구매해야합니다. 또한 해당 지역에 충분한 소화기가 있는지 확인하십시오."
-<style = "AdvisorHighlight"> {[ITEM]} </ style>이 (가) 불타고 있습니다! 청소부와 소화기가 필요합니다!"
+<style="AdvisorHighlight">{[ITEM]}</style>가 폭발했습니다! 교체품을 구매해야합니다. 또한 해당 지역에 충분한 소화기가 있는지 확인하십시오."
+<style="AdvisorHighlight">{[ITEM]}</style>이 (가) 불타고 있습니다! 청소부와 소화기가 필요합니다!"
 그 안에 붙어있는 머리에서 팬을 제거합니다.
 팬 추출
 추출 기능이 향상되었습니다.
@@ -4405,7 +4407,7 @@ Ms Odyssey가 주변에있을 수없는 슬픈 시간을 대신 할 수 있습�
 발자국을 거의 맛볼 수 있습니다.
 핫도그 러그
 
-<style = "AdvisorHighlight"> Scorch Mark </ style>가 우리 병원을 불 태우고 있습니다! <style = "AdvisorHighlight"> Janitor </ style>와 <style = "AdvisorHighlight"> 소화기 </ style>가 필요합니다."
+<style="AdvisorHighlight">Scorch Mark</style>가 우리 병원을 불 태우고 있습니다! <style="AdvisorHighlight">Janitor</style>와 <style="AdvisorHighlight">소화기</style>가 필요합니다."
 정말 뛰어난 컴퓨터.\n연구 속도를 높입니다.
 슈퍼 컴퓨터
 Two Point County에서 가장 똑똑한 두 대의 기계 중 하나입니다.
@@ -4470,8 +4472,8 @@ Burp의 최신 맛을 모두 갖추고 있습니다!
 짠 스낵 기계
 Two Point County에서 가장 많이 볼 수있는 간식 인 Cheesy Gubbins가 들어 있습니다.
 스낵 머신
-<style = "AdvisorHighlight"> 핫 마그마 </ style>가 병원 전체에서 폭발했습니다! 해당 지역에 <style = "AdvisorHighlight"> 소화기 </ style>가 충분한 지 확인하십시오."
-<style = "AdvisorHighlight"> 핫 마그마 </ style>가 우리 병원을 불 태우고 있습니다! <style = "AdvisorHighlight"> Janitor </ style>와 <style = "AdvisorHighlight"> 소화기 </ style>가 필요합니다."
+<style="AdvisorHighlight">핫 마그마</style>가 병원 전체에서 폭발했습니다! 해당 지역에 <style="AdvisorHighlight">소화기</style>가 충분한 지 확인하십시오."
+<style="AdvisorHighlight">핫 마그마</style>가 우리 병원을 불 태우고 있습니다! <style="AdvisorHighlight">Janitor</style>와 <style="AdvisorHighlight">소화기</style>가 필요합니다."
 Vomit_1_Description
 토하다
 작은 개인 공간.
@@ -4501,9 +4503,9 @@ Vomit_1_Description
 플 레밍턴에서 별 1 개 이후 잠금 해제
 Bigfoot Foundation의 요청을 받아 Pointy Mountains를 방문하십시오.
 큰 발
-<style = "AdvisorHighlight"> Roquefort Castle </ style>이 출시되었습니다!"
-<style = "AdvisorHighlight"> 언더 룩 호텔 </ style>이 출시되었습니다!"
-이제 <style = "AdvisorHighlight"> Swelbard </ style>를 사용할 수 있습니다!"
+<style="AdvisorHighlight">Roquefort Castle</style>이 출시되었습니다!"
+<style="AdvisorHighlight">언더 룩 호텔</style>이 출시되었습니다!"
+이제 <style="AdvisorHighlight">Swelbard</style>를 사용할 수 있습니다!"
 귀족 가족의 여분의 성을 이웃 산악 공동체의 병원으로 바꾸십시오.
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 1 개 등급을 받았습니다.\n\n놀랍게도, 문화적으로 관련된 장소에서 자신을 찾는 데 겨우 몇 세기 늦었습니다. 우리의 가장 귀중한 유물 중 하나를 비하하는 것은 나를 역 겹게 할 수 있지만, 당신은 당신의 손에 기능적인 병원을 가지고있는 것 같고, 그것이 "요점"이라고 들었습니다. 한숨.\n\n더 많은 보상을 위해 역사의 얼굴에 계속 침을 뱉거나 문명으로 돌아가 일터로 돌아가십시오."
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 2 개 등급을 받았습니다.\n\n귀하의 최신 병원이 행정적 합법성을 갖추게됨에 따라 Roquefort Castle의 신성한 홀도 천천히, 그리고 너무 확실하게 인식 할 수 없게됩니다.\n\n“이게 누구에게 이익이됩니까?”, 나는 묻고\n“지역 주민들”이라고 대답합니다.\n나는 다시 묻습니다.“어떤 대가를 치르겠습니까?”\n\n더 많은 보상을 위해 계속해서 역사상 침을 뱉거나 반환 문명으로 돌아가 직장으로 돌아갑니다."
@@ -4520,26 +4522,26 @@ Roquefort Castle 중 하나 인 Roquefort Castle에 오신 것을 환영합니�
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 2 개 등급을 받았습니다.\n\n귀하의 새로운 부문에 대한 재주를 보여주고 계십니까? 키 카드, 미니어처 재계 보조제, 작은 금속 트롤리에 담긴 음식의 매력이 당신을 영원히 우리에게서 멀어지게하지 않기를 바랍니다. 회복 할 수 있을지 모르겠습니다. 오, 그리고 베개 박하도 잊지 마세요.\n\n더 많은 보상을 위해 모호한 토끼 구멍을 계속 내려가거나, 문명으로 돌아가서 다시 일하세요."
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 3 성급 등급을 받았습니다.\n\n3 등급 호텔에 1 등급 병원을 제공하기로 결정하신 것이 매우 궁금합니다. 아마도 당신은 호텔이 완전한 근접성을 통해 품질을 얻을 수 있기를 바 랐을 것입니다. 체육 단지 고품질의 병원을 개발처럼 당신을 rhaps. 알다시피, 내가 그것에 대해 더 많이 생각할수록, 아마도 나는 상관하지 않는다고 생각합니다."
 언더 룩 호텔
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style> "현관에 곰"\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style> "내 인생 최악의 주말이지만 좋은 날씨입니다."\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style>“베개가 뭉툭하고 신발도 사라졌습니다. 약한 시간 "\n<style ="AdvisorHighlight "> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style> "짐이 방이 아닌 냉동실로 옮겨졌습니다."\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style>“음식은 결코 오지 않았습니다. 의자에서 떨어졌다. 슬픈 기념일입니다.”\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style> "휴가에 갔고 질병에 걸렸지 만 이상적이지 않았습니다."\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style>“정전. 보이지 않음-밤새 산에서 멈춰라 !!!”\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style>“제안 된 산책, 남편과 저는 절벽 아래로 떨어졌습니다. 감탄하지 않음 "\n<style ="AdvisorHighlight "> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style> "스티키"\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 1/5 </ style> "찬장에있는 썩은 물고기"\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 3/5 </ style> "조식은 관대했습니다. 많은 청어"\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 3/5 </ style> "멋진 벽지 선택"\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 3/5 </ style> "침대가 예상보다 몇 인치 더 컸습니다. 괜찮 았습니다."\n<style = "AdvisorHighlight"> {[REWARDS] } </ 스타일>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 3/5 </ style> "직원 중 누구도 나를 모욕하지 않았습니다. 그런 일이 발생하면 싫어요."\n<style = "AdvisorHighlight"> {[REWARDS]} </ 스타일>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 3/5 </ style> "끝없이 수용 가능"\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 4/5 </ style> "제 방에는 욕실이 딸려 있습니다. 저는 유명인 이죠? Lol. 멋진 장소입니다."\n<style = "AdvisorHighlight" > {[REWARDS]} </ style>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 4/5 </ style> "그 주말에 참여해서 여행이 얼마나 좋았는지 기억이납니다."\n<style = "AdvisorHighlight"> {[REWARDS ]} </ 스타일>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 4/5 </ style> "저기 으스스합니다. 비정상적이고 비정상적인 팬에게는 필수품입니다."\n<style = "AdvisorHighlight"> {[REWARDS ]} </ 스타일>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 4/5 </ style> "2 점 만에 산인지 몰랐습니다!? 너무 멋지다"\n<style = "AdvisorHighlight"> {[REWARDS]} < / 스타일>"
-Underlook 호텔 리뷰 : <style = "AdvisorHighlight"> 4/5 </ style> "아름다운 곳-지역을 볼 수있는 좋은 방법입니다."\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>"현관에 곰"\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>"내 인생 최악의 주말이지만 좋은 날씨입니다."\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>“베개가 뭉툭하고 신발도 사라졌습니다. 약한 시간 "\n<style ="AdvisorHighlight "> {[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>"짐이 방이 아닌 냉동실로 옮겨졌습니다."\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>“음식은 결코 오지 않았습니다. 의자에서 떨어졌다. 슬픈 기념일입니다.”\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>"휴가에 갔고 질병에 걸렸지 만 이상적이지 않았습니다."\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>“정전. 보이지 않음-밤새 산에서 멈춰라 !!!”\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>“제안 된 산책, 남편과 저는 절벽 아래로 떨어졌습니다. 감탄하지 않음 "\n<style ="AdvisorHighlight "> {[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>"스티키"\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">1/5</style>"찬장에있는 썩은 물고기"\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">3/5</style>"조식은 관대했습니다. 많은 청어"\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">3/5</style>"멋진 벽지 선택"\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">3/5</style>"침대가 예상보다 몇 인치 더 컸습니다. 괜찮 았습니다."\n<style="AdvisorHighlight">{[REWARDS] } </ 스타일>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">3/5</style>"직원 중 누구도 나를 모욕하지 않았습니다. 그런 일이 발생하면 싫어요."\n<style="AdvisorHighlight">{[REWARDS]} </ 스타일>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">3/5</style>"끝없이 수용 가능"\n<style="AdvisorHighlight">{[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">4/5</style>"제 방에는 욕실이 딸려 있습니다. 저는 유명인 이죠? Lol. 멋진 장소입니다."\n<style="AdvisorHighlight" > {[REWARDS]}</style>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">4/5</style>"그 주말에 참여해서 여행이 얼마나 좋았는지 기억이납니다."\n<style="AdvisorHighlight">{[REWARDS ]} </ 스타일>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">4/5</style>"저기 으스스합니다. 비정상적이고 비정상적인 팬에게는 필수품입니다."\n<style="AdvisorHighlight">{[REWARDS ]} </ 스타일>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">4/5</style>"2 점 만에 산인지 몰랐습니다!? 너무 멋지다"\n<style="AdvisorHighlight">{[REWARDS]} < / 스타일>"
+Underlook 호텔 리뷰 : <style="AdvisorHighlight">4/5</style>"아름다운 곳-지역을 볼 수있는 좋은 방법입니다."\n<style="AdvisorHighlight">{[REWARDS]}</style>"
 Underlook의 이벤트
 Underlook에 오신 것을 환영합니다. 이 호텔 & 리조트는 불행과 관리 불량으로 인해 사고, 질병 발생 및 불행한 손님을 초래합니다. 주인은 부정적인 리뷰와 이익 감소에 질려서 호텔의 명성을 구하고 더 이상의 소송을 피하기 위해 '의료 응급 예산'을 설정했습니다. 리조트의 새로운 의료 시설을 운영하도록 초대 받았습니다.\n\n환자 처리 비용 대신 호텔에서 설정 한 목표 달성에 대한 돈을 받고 성공 여부에 따라 월별 성과 보너스를 받게됩니다. 당신은 손님을 대하고 있습니다. 처음 3 개월 동안 모든 운영 비용은 월별 보너스로 충당됩니다. 당신이 호텔의 일원이기 때문에 당신은 그것이받는 모든 나쁜 언론과 싸워야 할 것입니다. 그것은 마케팅에 투자 할 가치가있을 것입니다."
 언더 룩 호텔 & 스키 리조트
@@ -4550,8 +4552,8 @@ Underlook에 오신 것을 환영합니다. 이 호텔 & 리조트는 불행과 
 Swelbard
 Two Point County에서 가장 외딴 마을 인 Swelbard에 오신 것을 환영합니다. 연구 병원을 세워 Swelbard 연구소의 활력을 되찾도록 초대 받았습니다. 이 지역의 질병을 치료하는 것뿐만 아니라 연구소의 뛰어난 연구를 완료해야합니다.\n\nSwelbard는 고립 된 장소이므로 여기에 올 직원을 찾기가 어려울 수 있습니다. 가능한 후보자는 자격이 없거나 필사적이거나 기술이 부족한 마을 사람들이 될 가능성이 높습니다. 산 사람들을 치료하고 학술 화장실에서 연구소의 명성을 구하려면 교수진을 훈련시켜야합니다.
 Swelbard 연구소
-연구소의 후원자들이 조사를 완료 한 데 대해 <style = "AdvisorHighlight"> {[REWARDS]} </ style>의 보조금을 보내 셨습니다! "
-연수회 후원자들이 교육을 이수한 데 대해 <style = "AdvisorHighlight"> {[REWARDS]} </ style>의 보조금을 보내 셨습니다!"
+연구소의 후원자들이 조사를 완료 한 데 대해 <style="AdvisorHighlight">{[REWARDS]}</style>의 보조금을 보내 셨습니다! "
+연수회 후원자들이 교육을 이수한 데 대해 <style="AdvisorHighlight">{[REWARDS]}</style>의 보조금을 보내 셨습니다!"
 정말 대단한 일을 해주셨 고,이 지역에와 주셔서 다시 한 번 감사드립니다.\n\n이전에 언급했듯이 Pointy Mountains 사람들은별로 관심을 기울이지 않았습니다. 귀하가 제공 한 치료의 이점은 다양하고 오래 지속될 것이라고 생각합니다.\n\n행정적인 다리 스트레칭을 즐겼기를 바랍니다."
 당신의 친구,\nBartholomew F. Yeti"
 당신은 Swelbard 사람들에게 그들이받을만한 훌륭한 의료 서비스를 제공 한 것이 아니라 그들의 도시에 정체성을 되돌려주었습니다. 당신을위한 프로젝트가 하나 더 있습니다 ...\n\n카운티에서 가장 오래된 가족 중 하나 인 Roquefort 가족과 연락을 받았고 예비 성 중 하나를 사용하도록 제안했습니다. . 수세기에 걸친 봉건제, 찌그러짐, 비싸게 배급 된 밀이 지난 후에도 여전히 지역 사회에서 긍정적 인 홍보를 찾고있는 것 같습니다.\n\n성 주변에 사는 산악 지역 사회에 의료 서비스를 제공하게 될 것입니다. 특이한 레이아웃, 설명 할 수없는 초안, 가끔-음, 음-유령 같은 성 관련 특이한 점을 예상해야한다고 들었습니다.\n\n행운을 빕니다."
@@ -4564,9 +4566,9 @@ Flemington에서 별 1 개 이후 잠금 해제\nDuckworth-upon-Bilge에서 별 
 죽음을 막는 물의 전설적인 원천을 찾기 위해 괴상한 백만장자를 위해 열대 섬을 통과하는 살균 된 길을 타십시오.
 페 벌리 아일랜드
 관리 재능을 Pebberley Island의 열대 해안으로 데려가 괴상한 백만장 자 Wiggy Silverbottom의 최근 집착을 도와주세요.\n\n경고 :이 요청을 수락하기 전에 본토에서 조직을 확장하고 더 많은 기술을 습득하고 더 많은 질병에 직면하는 것이 좋습니다.
-<style = "AdvisorHighlight"> Pebberley Reef </ style>가 출시되었습니다!"
-이제 <style = "AdvisorHighlight"> Topless Mountain </ style>을 사용할 수 있습니다!"
-이제 <style = "AdvisorHighlight"> 초과 성 </ style>을 사용할 수 있습니다!"
+<style="AdvisorHighlight">Pebberley Reef</style>가 출시되었습니다!"
+이제 <style="AdvisorHighlight">Topless Mountain</style>을 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">초과 성</style>을 사용할 수 있습니다!"
 이제 병원이 덜 더럽 기 때문에 합법적으로 병원이라고 부를 수 있습니다. 아, 그리고 약을 시작하세요.\n\n섬에있는 동안 마주 칠 가능성이 높은 질병 인 블랭크 룩 환자를 치료할 수있는 기술도 받았습니다."
 공백 그리기
 섬에서 인구 밀도가 가장 높은 지역은 덥고 끈적 거리며 극심한 날씨에 취약합니다.
@@ -4602,9 +4604,9 @@ Flemington에서 별 1 개 이후 잠금 해제\nDuckworth-upon-Bilge에서 별 
 '우주 질환'환자를 치료하여 카운티 남부의 비정상적인 사건을 조사하는 데 도움을줍니다.
 가까운 만남
 외계인 작업을 수행하고 저널리스트 Charlatene Fishwrapper가 "Goldpan Scandal"의 신비한 사건을 조사하도록 도와주세요.\n\n경고 :이 요청을 수락하기 전에 본토에서 조직을 확장하고 더 많은 기술을 습득하고 더 많은 질병에 직면하는 것이 좋습니다."
-이제 <style = "AdvisorHighlight"> 위장 폭포 </ style>를 사용할 수 있습니다!"
-이제 <style = "AdvisorHighlight"> Goldpan </ style>을 사용할 수 있습니다!"
-<style = "AdvisorHighlight"> Chasm 24 </ style>가 출시되었습니다!"
+이제 <style="AdvisorHighlight">위장 폭포</style>를 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">Goldpan</style>을 사용할 수 있습니다!"
+<style="AdvisorHighlight">Chasm 24</style>가 출시되었습니다!"
 주택 개발로 위장한 비밀 군사 기지.
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 1 개 등급을 받았습니다.\n\n귀하가 "공개되지 않은 위치"에 있다고 들었습니다. 그것은 모두 좋고 좋습니다. 그러나 귀하가 귀하의 위치를 ??공개하지 않는 한 나는 내 상표 유쾌함을 보류 할 것입니다. 병원에 대한 칭찬. 그것이 어디에 있든.\n\n더 많은 보상을 위해 그림자 속으로 계속 내려가거나 알려진 우주로 돌아가서 다시 일하십시오."
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 2 개 등급을 받았습니다.\n\n"권한이있는 사람을 압박"하는 것에 대한 반발을 받았습니다. 나는 당신과 그 매력적인 관리들에게 사과하고 그들의 철저한 편지 확인 과정에 대해 칭찬합니다 ... 나는 고백합니다, 저로서는 사소한 고통이었습니다. 그리고 정말로 이것을 의미합니다. 당신이 무엇을하는지 상관하지 마십시오.\n\n계속해서 그림자 속으로 내려가 더 많은 보상을 받거나 알려진 우주로 돌아가 다시 일하세요."
@@ -4637,9 +4639,9 @@ Chasm 24에 오신 것을 환영합니다.이 글을 읽고 있다면 카운티�
 Tabitha Windsock 시장을위한 캠페인은 그녀의 녹색 이니셔티브 지지자들에게 의료 서비스를 제공합니다. 
 그리드에서
 Windsock 시장의 친환경 이니셔티브를 지원하고 참여자 인 그녀의 최신 지지자에게 의료 서비스를 제공하여 그녀가 재선 될 수 있도록 도와주세요.\n\n경고 :이 요청을 수락하기 전에 조직을 확장하고 더 많은 기술을 확보하며 더 많은 질병에 직면하는 것이 좋습니다.
-이제 <style = "AdvisorHighlight"> 이전 Newpoint </ style>를 사용할 수 있습니다!"
-이제 <style = "AdvisorHighlight"> Windsock </ style>을 사용할 수 있습니다!"
-이제 <style = "AdvisorHighlight"> Wanderoff </ style>를 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">이전 Newpoint</style>를 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">Windsock</style>을 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">Wanderoff</style>를 사용할 수 있습니다!"
 유서 깊은 투 포인트 타운에서 자연 요법을 재배하세요.
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 1 개 등급을 받았습니다.\n\n당신의 어리석은 경력의 모든 왜곡 중에서 우리가 당신의 관심을 끌기 위해 골수와 쐐기풀과 경쟁 할 가능성이 없다고 생각했습니다. 그들이 사랑 스러울 것 같으니, 상자를 보내 주시거나, 더 나은 방법은 제게 직접 가져 와서 일을하세요.\n\n계속해서 밭을 갈아서 더 많은 보상을 받거나 반도에서 돌아와서 다시 일."
 축하합니다. 귀하의 병원은 Two Point Health Ministry에서 별 2 개 등급을 받았습니다.\n\n보좌관 중 한 명에게 자신을 반복 해달라고 요청했습니다.-오, 모르겠습니다. 자신의 약. 얼마나 기괴한가. 우리 모두가 당신의 정원사 매뉴얼에서 한 페이지를 가져와 우리 자신의 편지지를 재배하기를 기대한다고 생각합니까? 그럼 좋아요.\n\n계속해서 밭을 갈아서 더 많은 보상을 받거나 반도에서 돌아와서 다시 일하세요."
@@ -4675,46 +4677,46 @@ Wanderoff에서 커뮤니티의 성공은 Department of Green Things를 위해 �
 다시 그 시간입니다. 우리 카운티는 또 다른 시장 선거를 앞두고 있으며, 저는 더 친환경적인 내일을 향한 여정을 시작하는 것이 오래 늦어 졌다고 결정했습니다. 우리의 유권자 조사에 따르면 그것이 모든 사람의 마음에있는 문제라는 것을 시사하고 있으며, 저는 녹색 사물학과를 설립함으로써 광범위한 긍정적 언론의 검에 기꺼이 떨어질 것입니다.\n\n사람들이 Tabitha Windsock을 기억할 때 제 녹색 이니셔티브를 기억하기를 바랍니다. 그리고 그 시간에 내가 어떻게 재선되었는지. 우리의 녹색 마인드, 최근에 프로 윈드 삭 커뮤니티를 돌봄으로써 이니셔티브를 지원하십시오. 솔직히 죽은 사람은 투표 할 수 없기 때문에이 필요, 불확실성, 열악한 유권자 투표의시기에 그들을 필요로합니다."
 투표\n윈드 삭
 모든 빌
-이제 <style = "AdvisorHighlight"> Lower Bullocks </ style>를 사용할 수 있습니다!"
-이제 <style = "AdvisorHighlight"> 플로팅 </ style>을 사용할 수 있습니다!"
-이것이 <style = "AdvisorHighlight"> Hogsport </ style>이며 첫 번째 병원입니다. 시작하려면 클릭하세요!"
-<style = "AdvisorHighlight"> 투 포인트 카운티 </ style>에 오신 것을 환영합니다! 저는 <style = "AdvisorHighlight"> Albert Crank </ style>입니다.이 여정에서 신뢰할 수있는 <style = "AdvisorHighlight"> 어드바이저 </ style>가 되겠습니다."
-이제 <style = "AdvisorHighlight"> Tumble </ style>을 사용할 수 있습니다!"
-이제 <style = "AdvisorHighlight"> Mitton University </ style>를 사용할 수 있습니다!"
-<style = "AdvisorHighlight"> Flemington </ style>이 출시되었습니다!"
-이제 <style = "AdvisorHighlight"> 멜트 다운 </ style>을 사용할 수 있습니다!"
-<style = "AdvisorHighlight"> Duckworth-upon-Bilge </ style>가 출시되었습니다!"
-<style = "AdvisorHighlight"> Smogley </ style>가 출시되었습니다!"
-<style = "AdvisorHighlight"> Sweaty Palms </ style>가 출시되었습니다!"
-이제 <style = "AdvisorHighlight"> Blighton </ style>을 사용할 수 있습니다!"
-이제 <style = "AdvisorHighlight"> Grockle Bay </ style>를 사용할 수 있습니다!"
-<style = "AdvisorHighlight"> Rotting Hill </ style>이 출시되었습니다!"
-이제 <style = "AdvisorHighlight"> Croquembouche </ style>를 사용할 수 있습니다!"
-<style = "AdvisorHighlight"> Pelican Wharf </ style>가 출시되었습니다!"
-<style = "AdvisorHighlight"> 정신과 </ style> 방이 잠금 해제되었습니다. \\n인상적인 정신과 방을 만들어 사람들을 행복하게 만드세요."
+이제 <style="AdvisorHighlight">Lower Bullocks</style>를 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">플로팅</style>을 사용할 수 있습니다!"
+이것이 <style="AdvisorHighlight">Hogsport</style>이며 첫 번째 병원입니다. 시작하려면 클릭하세요!"
+<style="AdvisorHighlight">투 포인트 카운티</style>에 오신 것을 환영합니다! 저는 <style="AdvisorHighlight">Albert Crank</style>입니다.이 여정에서 신뢰할 수있는 <style="AdvisorHighlight">어드바이저</style>가 되겠습니다."
+이제 <style="AdvisorHighlight">Tumble</style>을 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">Mitton University</style>를 사용할 수 있습니다!"
+<style="AdvisorHighlight">Flemington</style>이 출시되었습니다!"
+이제 <style="AdvisorHighlight">멜트 다운</style>을 사용할 수 있습니다!"
+<style="AdvisorHighlight">Duckworth-upon-Bilge</style>가 출시되었습니다!"
+<style="AdvisorHighlight">Smogley</style>가 출시되었습니다!"
+<style="AdvisorHighlight">Sweaty Palms</style>가 출시되었습니다!"
+이제 <style="AdvisorHighlight">Blighton</style>을 사용할 수 있습니다!"
+이제 <style="AdvisorHighlight">Grockle Bay</style>를 사용할 수 있습니다!"
+<style="AdvisorHighlight">Rotting Hill</style>이 출시되었습니다!"
+이제 <style="AdvisorHighlight">Croquembouche</style>를 사용할 수 있습니다!"
+<style="AdvisorHighlight">Pelican Wharf</style>가 출시되었습니다!"
+<style="AdvisorHighlight">정신과</style>방이 잠금 해제되었습니다. \\n인상적인 정신과 방을 만들어 사람들을 행복하게 만드세요."
 두 번째 병원을 설립하여 조직을 확장하십시오.
 오, 환자가 죽음에서 돌아온 것 같습니다. 고스트 포획 자격을 가진 수위가 필요합니다!"
 축하합니다. 귀하의 병원은 Two Point Health Ministry에서 별 1 개 등급을 받았습니다. 번개처럼, 당신은 두 번째로 타격을 가하여 비방하는 사람들을 조롱했습니다.\n\n각각 기계의 내부 작동과 인간의 마음에 대한 당신의 노력에 대해 칭찬을받습니다. 이제 현재는 제국이 아니기 때문에 Flottering에 새 병원을 열어 신진 두 머리의 제국에 집중하거나 세 번째 머리를 추가하십시오."
 축하합니다. 귀하의 병원은 Two Point Health Ministry에서 별 2 개 등급을 받았습니다.\n\n귀하의 조직의 수명은 우리의 사무실 전체 베팅에서 가장 대담한 예측조차도 계속해서 앞 지르고 있습니다. 더 커지고 회전이 필요한 새 판을 조달할수록 불가피한 충돌은 점점 더 가까워집니다. 그것에 대해 생각하지 않는 것이 가장 좋습니다.
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 3 개 등급을 받았습니다.\n\n일류 시설로 인정받는 것은 항상 축하해야 할 업적입니다. 당신의 축제가 의롭지 만 짧게 진행 되길 바랍니다.
 Lower Bullocks
-<style = "AdvisorHighlight"> Pharmacy Drug Mixer II 업그레이드 </ style>가 잠금 해제되었습니다. \\n<style = "AdvisorHighlight"> 일반 진단 EZ-Scan II 업그레이드 </ style>가 잠금 해제되었습니다!"
+<style="AdvisorHighlight">Pharmacy Drug Mixer II 업그레이드</style>가 잠금 해제되었습니다. \\n<style="AdvisorHighlight">일반 진단 EZ-Scan II 업그레이드</style>가 잠금 해제되었습니다!"
 Bungle Technologies는 약국 약물 혼합기 업그레이드 및 일반 진단 EZ-Scan 기계 업그레이드와 같은 최신 기술에 대한 액세스를 제공했습니다. 기계 용으로 구입하면 더 강력 해져 더 많은 환자를 진단하고 치료할 수 있습니다. \\n\\n기계를 업그레이드하려면 기계 자격을 갖춘 청소부가 필요합니다. 머신을 선택하고 업그레이드 옵션을 선택합니다. 그러면 자격을 갖춘 관리인이 시간이 지남에 따라 시스템을 업그레이드 할 것입니다. \\n\\n한 번 시도해 보면 Bungle이 더 많은 기술을 제공 할 수 있습니다 ...
 새로운 기술
-<style = "AdvisorHighlight"> Pans Lab </ style> 방이 잠금 해제되었습니다!"
+<style="AdvisorHighlight">Pans Lab</style>방이 잠금 해제되었습니다!"
 좋습니다. 머신 업그레이드가 완료되었습니다! 우리의 소중한 기계를 안전하게 지키기 위해 몇 개의 소화기가 흩어져 있는지 확인하십시오. \\n\\nBungle Technologies는 정신과 환자에 대한 지속적인 지원에 감사하며 기계 중 하나 인 Extract를 사용할 수있게 해주었습니다. -a-Pan. 이 첨단 기기는 원치 않는 주방 도구를 제거하는 데 좋습니다. 필요한 사람을 찾아보세요! \\n\\n계속해서 병원을 확장하여 더 많은 기술을 잠금 해제하십시오. 근처의 다른 부지를 구입하면 병원을 개발할 수있는 더 많은 공간을 확보 할 수 있습니다.
 새로운 기술
 벙글의 정신과 환자를 다루는 동안 병원을 조금 건설합시다 ...
 카운티 전역에서 다양한 연구 병원을 운영하는 Bungle Technologies의 연락을 받았습니다. 그들은 우리에게 흥미로운 제안을 가지고 있습니다. 그들의 정신과 면허증은 최근에 사건으로 인해 취소되었습니다 ... 음, 그것에 들어 가지 않는 것이 가장 좋습니다. 그들은 우리에게 정신과 환자를 보내고 싶어하고 그 대가로 그들의 최신 기술을 구매할 수있게 될 것입니다. \\n\\n우리 조직이 연구 라이센스를 획득 할 때까지 우리는 우리가 손에 넣을 수있는 모든 기술이 필요합니다."
 새로운 기술
-기계를 업그레이드하여 더 강력하게 만드십시오. <style = "AdvisorHighlight"> 약국 </ style> 또는 <style = "AdvisorHighlight"> 일반 진단 </ style>에서 컴퓨터를 클릭 한 다음 업그레이드 옵션을 선택합니다."
+기계를 업그레이드하여 더 강력하게 만드십시오. <style="AdvisorHighlight">약국</style>또는 <style="AdvisorHighlight">일반 진단</style>에서 컴퓨터를 클릭 한 다음 업그레이드 옵션을 선택합니다."
 우리는 근처의 토지를 구입하여 새로운 병원 건물을 지을 수 있습니다. 병원 부지를 둘러보세요. 근처의 구획 위로 마우스를 가져가 구획의 크기와 모양, 가격을 확인하십시오.\n\n구획을 구입하려면 해당 구획을 클릭하고 구매 옵션을 선택하십시오. 시간이 지남에 따라 새 건물이 건설됩니다.\n\n새 건물이 완공되면 추가 공간을 사용하여 병원을 확장 할 수 있습니다. 재 배열을 원할 경우 기존 방을 플롯간에 이동할 수도 있습니다."
 새로운 건물 건설
 Lower Bullocks에 오신 것을 환영합니다. 큰 문제가있는 사랑스러운 작은 마을입니다. 인구의 상당 부분이 자신이 록 스타라고 생각합니다. 이 문제를 치료할 수있는 유일한 방법은 ... 정신과입니다. \\n\\n정신과 자격을 갖춘 의사 만이 정신 과실에있는 사람들을 진단하고 치료할 수 있습니다. 우리는 하나를 찾았지만 정신과 및 기타 유용한 자격을 갖춘 입사 지원자를 위해 눈을 떼지 마십시오.
 직원 자격
 기계를 더 효과적으로 업그레이드 할 수 있습니다. 업그레이드 된 진단기는 환자의 진단에 더 큰 도움을줍니다. 업그레이드 된 치료 기계는 환자를 성공적으로 치료할 가능성이 더 큽니다.\n\n각 기계의 업그레이드는 도전을 완료하고 결국에는 자체 연구를 통해 얻을 수 있습니다.\n\n업그레이드를 잠금 해제하면 관리인이 필요합니다. 기계를 업그레이드하기 위해 역학 교육을 받았습니다. 머신을 업그레이드하려면 머신을 선택하고 업그레이드 옵션을 선택합니다. 자격을 갖춘 청소부가 시간이 지남에 따라 필요한 작업을 수행합니다.
 기계 업그레이드
-<style = "AdvisorHighlight"> 광대 클리닉 </ style>이 잠금 해제되었습니다!"
+<style="AdvisorHighlight">광대 클리닉</style>이 잠금 해제되었습니다!"
 Flottering은 최근에 약간의 문제가있었습니다. 광대들. 그들은 어디에나 있습니다! 분명히 그들은 여행하는 서커스에서 계속 탈출합니다. 그들의 높은 징크는 진짜 성가신 일이 될 수 있습니다. 그들을 처리하려면 새로운 장비가 필요합니다. \\n\\n오브 재단은 광대의 정신을 재조정하고 사회로의 재활을 지원하는 특허받은 방법을 보유하고 있습니다. 그들은 우리가 우리 직원을 '조형'할 수있는 우리의 능력을 입증 할 수 있다면 필요한 장비를 우리에게 제공하겠다고 제안했습니다. 나에게는 조금 사악한 것 같지만 내가 누구를 판단해야합니까?
 조심하세요 ... 광대들!
 직원 개발 및 교육에 대해 알아보십시오.
@@ -4724,7 +4726,7 @@ Flottering은 최근에 약간의 문제가있었습니다. 광대들. 그들은
 플로팅
 직원을 최대한 활용하려면 직원을 교육하고 홍보해야합니다. 누군가가 직장에서 충분한 경험을 쌓고 훈련을 받으면 승진 할 준비가 된 것입니다. 그들을 승진시킴으로써 그들의 기술이 향상되고 새로운 자격을 배울 수 있습니다. 임금 인상을 원할 수도 있습니다. \\n\\n먼저 교육 면허가 필요합니다. Two Point Health Ministry는 Flottering에서 직원 복지에 대한 우리의 헌신을 입증 할 수 있다면 면허를 부여하겠다고 약속했습니다.
 직원 개발
-<style = "AdvisorHighlight"> 트레이닝 룸 </ style>이 잠금 해제되었습니다!"
+<style="AdvisorHighlight">트레이닝 룸</style>이 잠금 해제되었습니다!"
 좋은 소식입니다. Two Point Health Ministry에서 훈련 면허를 부여했습니다! 이를 통해 모든 병원의 직원을 교육 할 수 있습니다. \\n\\n교육 실을 구축하면 교육 과정을 운영 할 수 있습니다. 무료 교육 슬롯을 가진 직원은 새로운 자격을 배우기 위해 과정을 진행할 수 있습니다.
 교육 라이센스
 교육 과정을 시작하려면 강연 대를 클릭하거나 적절한 직원을 회의실에 배치합니다. 직원도 준비가되면 교육을 요청합니다. \\n\\n교육 화면에서 직원이 학습 할 자격을 선택하고 트레이너를 지정한 다음이 과정에 보낼 직원을 선택합니다. 준비가되면 시작 버튼을 클릭하십시오. \\n\\n트레이너를 고를 때 자신의 직원을 사용하여 교육 할 자격 중 하나를 선택할 수 있습니다. 또는 추가 비용을 지불하여 게스트 트레이너를 데려 올 수 있습니다.
@@ -4738,7 +4740,7 @@ Hogsport
 GP의 사무실
 큰. 공식적으로 개업하기 전에 GP 사무실이 필요합니다.\n\n환자는 진단의 각 단계에서 일반의로 일하는 의사를 방문합니다. GP는 환자를 평가하고 치료할 준비가되었는지 또는 추가 진단이 필요한지 결정합니다.\n\n지금 GP의 사무실을 구축합시다 ...
 일반의의 사무실
-<style = "AdvisorHighlight"> 회의실 </ style>을 클릭 한 다음 <style = "AdvisorHighlight"> GP의 사무실 </ style>을 클릭합니다. 평면도를 드래그합니다 (최소 크기 <style = "AdvisorHighlight"> 3 x 3 </ style>). 문, 사무실 책상 및 파일 캐비넷을 배치합니다. 그런 다음 <style = "AdvisorHighlight"> 녹색 체크 </ style>를 클릭합니다."
+<style="AdvisorHighlight">회의실</style>을 클릭 한 다음 <style="AdvisorHighlight">GP의 사무실</style>을 클릭합니다. 평면도를 드래그합니다 (최소 크기 <style="AdvisorHighlight">3 x 3</style>). 문, 사무실 책상 및 파일 캐비넷을 배치합니다. 그런 다음 <style="AdvisorHighlight">녹색 체크</style>를 클릭합니다."
 방을 만들려면 방 버튼을 클릭하고 목록에서 하나를 선택하십시오. \\n\\n방을 선택한 상태에서 적절한 크기의 평면도를 드래그하십시오. \\n\\n그런 다음 필요한 항목을 방에 배치하십시오.
 룸 빌딩
 직원은 휴식 시간에 직원 실로 이동합니다. 휴식이 끝나기 전에 완전히 재충전 할 수 있도록 방을 흥미로운 항목으로 채우십시오. \\n\\n참고 : 직원을 직원 방에 배치하여 휴식을 취하거나 작업실에 배치하여 휴식을 취할 수 있습니다. 거기서 일하다. 직원을 선택하려면 직원 위로 마우스를 가져간 다음 마우스 왼쪽 버튼을 누르고 있습니다.
@@ -4755,9 +4757,9 @@ GP의 사무실
 이제 우리는 단순한 질병을 진단하고 치료하는 데 필요한 모든 것을 갖추고 있습니다. 우리의 새로운 직원이 임무를 수행하는지 보자!
 잘하셨습니다. 첫 환자를 치료했습니다! 우리는 약간의 돈을 벌었고 병원의 명성이 향상되어 더 많은 환자를 유치 할 것입니다. \\n\\n의사 나 간호사가 환자를 치료할 때 그들의 능력이 성공 가능성에 영향을 미칩니다. 일부 질병은 다른 질병보다 더 강합니다. \\n\\n환자를 계속 진단하고 치료하여 돈이 계속 들어 오도록하여 병원을 확장 할 수 있습니다.
 환자가 치료되었습니다!
-환자를 치료함으로써 <style = "AdvisorHighlight"> 병원 평판 </ style>을 개선합니다. 이것은 더 많은 환자를 유치하여 더 많은 돈을 가져올 수 있습니다!"
+환자를 치료함으로써 <style="AdvisorHighlight">병원 평판</style>을 개선합니다. 이것은 더 많은 환자를 유치하여 더 많은 돈을 가져올 수 있습니다!"
 우리의 첫 번째 환자가 GP 진단을받을 때 계속 주시합시다 ...
-<style = "AdvisorHighlight"> 일반 진단 </ style>이 잠금 해제되었습니다!"
+<style="AdvisorHighlight">일반 진단</style>이 잠금 해제되었습니다!"
 마을에서 몇 가지 새로운 질병에 대한보고를 듣고 있습니다. 진단하기가 더 어려울 수 있습니다. \\n\\n새 진단실을 만들어야 할 수도 있습니다. GP가 확실하지 않은 경우 추가 진단을 위해 환자를 보냅니다.
 추가 진단
 오, 환자가 죽음에서 돌아온 것 같습니다. 고스트 포획 자격을 가진 수위가 필요합니다!"
@@ -4767,23 +4769,23 @@ GP의 사무실
 환자를위한 멋진 대기 공간을 만들기 위해 몇 가지 항목을 배치하십시오.
 병원이 원활하게 운영 될 수 있도록 직원과 환자를 행복하게 유지하는 것이 중요합니다. \\n\\n환자는 시간이 지남에 따라 지루하고 목이 마르고 배가 고파 질 것입니다. 약속 시간 사이에 엔터테인먼트, 음식, 음료 및 편안한 좌석을 이용할 수 있는지 확인하십시오. 불행 해지면 다른 병원으로 떠나게됩니다."
 사람들을 행복하게 유지
-<style = "AdvisorHighlight"> 채용 </ style>을 클릭 한 다음 <style = "AdvisorHighlight"> 의사 </ style>를 클릭 한 다음 고용 할 사람을 선택하십시오. GP의 사무실에 두십시오."
+<style="AdvisorHighlight">채용</style>을 클릭 한 다음 <style="AdvisorHighlight">의사</style>를 클릭 한 다음 고용 할 사람을 선택하십시오. GP의 사무실에 두십시오."
 우수한. 이제 GP의 사무실을 운영 할 의사가 필요합니다. \\n\\n지금 하나 고용 ...
 닥터 후
 병원을 계속 확장하고 환자를 치료하여 첫 번째 금성 등급을 획득하십시오 ...
 병원 도전
-더 많은 병실과 직원으로 병원을 확장하여 <style = "AdvisorHighlight"> 병원 수준 </ style>을 높입니다."
+더 많은 병실과 직원으로 병원을 확장하여 <style="AdvisorHighlight">병원 수준</style>을 높입니다."
 더 많은 병실과 직원으로 병원을 확장하면 병원 수준이 증가합니다. 큰 병원은 더 많은 환자를 유치합니다. \\n\\n병원이 바쁠수록 대기열이 길어질 수 있습니다. 추가 환자를 처리하기 위해 더 많은 GP의 사무실과 다른 방을 짓고 더 많은 직원을 고용해야 할 수도 있습니다. \\n\\n방 위의 대기열 경고를 확인하십시오. 회의실 위로 마우스를 가져가 해당 회의실에 대기중인 사람들을 강조 표시 할 수도 있습니다.
 병원 수준
 좋은 소식입니다. 이제 저희 병원이 영업을 시작했습니다! 환자들이 도착하기 시작했습니다. 리셉션에 등록한 후 진단을 위해 GP로 보내집니다.
 병원 오픈
 Two Point Health Ministry는 카운티에있는 모든 병원의 성과를 인정하고 있습니다. 지역의 요구를 충족하는 병원을 지을 수 있다면 병원은 공식 별점을 받게됩니다.\n\n이는 우리 조직에 큰 도움이 될 것입니다. 각 별은 관련 보상을 제공 할뿐만 아니라 카운티 주변에 새로운 병원을 설립 할 수도 있습니다.\n\n병원을 계속 확장하여 별 1 개 등급을 획득하세요 ...
 병원 별 등급
-<style = "AdvisorHighlight"> 항목 회전 : </ style> 왼쪽 마우스 버튼을 누른 상태에서 왼쪽 / 오른쪽으로 드래그합니다. 또는 {[Menu / InputActions / RotateItemClockwise]} 및 {[Menu / InputActions / RotateItemAntiClockwise]} 키를 사용합니다.\n<style = "AdvisorHighlight"> 항목 배치 : </ style> 왼쪽 마우스 버튼을 클릭합니다.\n<style = "AdvisorHighlight"> 항목 취소 : </ style> 오른쪽 마우스 버튼을 클릭합니다."
+<style="AdvisorHighlight">항목 회전 :</style>왼쪽 마우스 버튼을 누른 상태에서 왼쪽 / 오른쪽으로 드래그합니다. 또는 {[Menu / InputActions / RotateItemClockwise]} 및 {[Menu / InputActions / RotateItemAntiClockwise]} 키를 사용합니다.\n<style="AdvisorHighlight">항목 배치 :</style>왼쪽 마우스 버튼을 클릭합니다.\n<style="AdvisorHighlight">항목 취소 :</style>오른쪽 마우스 버튼을 클릭합니다."
 항목 회전 : 항목을 잡고있을 때 왼쪽 마우스 버튼을 클릭 한 채로 왼쪽 / 오른쪽으로 드래그하여 회전합니다. {[Menu / InputActions / RotateItemClockwise]} 및 {[Menu / InputActions / RotateItemAntiClockwise]} 키를 사용할 수도 있습니다.\n\n항목 배치 : 항목을 들고있을 때 왼쪽 마우스 버튼을 클릭하여 배치합니다.\n\n항목 취소 : 항목을 누른 상태에서 마우스 오른쪽 버튼을 클릭하면 항목이 제거됩니다. 이것은 소유 한 아이템을 판매 할 것입니다.\n\n아이템 줍기 : 아이템 위로 마우스를 가져간 다음 왼쪽 마우스 버튼을 클릭하고 있습니다. 또는 클릭하고 드래그하여 빠르게 선택하세요.\n\n상품 판매 : 상품을 선택하고 오른쪽 마우스 버튼을 클릭하세요. 또는 항목 위에 마우스를 올려 놓고 {[Menu / InputActions / DeleteItem]} 키를 누릅니다.\n\n자유 배치 : {[Menu / InputActions / DisableSnap]} 키를 누르고 있으면 격자없이 고정 된 항목을 자유롭게 이동하고 회전 할 수 있습니다. 스냅 또는 각도 스냅.
 아이템 컨트롤
 항목을 선택하려면 항목 위로 마우스를 가져간 다음 왼쪽 마우스 버튼을 클릭 한 채로 있습니다. 또는 클릭하고 드래그하여 빠르게 선택하세요.
-<style = "AdvisorHighlight"> 화장실 </ style>이 출시되었습니다!"
+<style="AdvisorHighlight">화장실</style>이 출시되었습니다!"
 청소부는 필요할 때 쓰레기통을 비우고 화장실을 차단 해제합니다. 이것은 쓰레기와 음, 다른 쓰레기를 쓸어내는 것보다 훨씬 낫습니다."
 음료와 간식은 사람들을 행복하게하는 데 좋지만 근처에 쓰레기통이 없으면 쓰레기로 이어질 수 있습니다. 우리가 거기에있는 동안 직원과 환자는 화장실에 접근 할 수 없다면 꽤 심술 궂을 것입니다. 양질의 도자기에 투자하고 싶을 수도 있습니다. \\n\\n자판기 재입고, 쓰레기 수거, 쓰레기통 비우기, 화장실 차단 해제 등의 모든 것을 유지하는 데 재직자가 도움을 줄 것입니다."
 찰리 작업
@@ -4792,43 +4794,43 @@ Two Point Health Ministry는 카운티에있는 모든 병원의 성과를 인�
 기계의 유지 보수 수준이 50 % 미만으로 떨어지면 관리인이 기계 수리를 요청합니다. 항목 옵션을 통해 관리인에게 즉시 수리를 요청할 수도 있습니다.
 목표와 과제를 완수함으로써 우리 조직은 Kudosh를 얻습니다. \\n\\n이를 사용하여 새 항목에 액세스 할 수 있습니다. 항목 목록을 살펴보십시오. 자물쇠가있는 모든 항목은 K를 사용하여 잠금 해제 할 수 있습니다. 무엇보다도 우리는 병원에서 해당 항목을 구입할 수 있습니다. \\n\\n현명하게 사용하십시오!
 Kudosh
-<style = "AdvisorHighlight"> 디럭스 클리닉 </ style>이 잠금 해제되었습니다! \\n이것을 사용하여 현기증 환자를 치료하십시오."
+<style="AdvisorHighlight">디럭스 클리닉</style>이 잠금 해제되었습니다! \\n이것을 사용하여 현기증 환자를 치료하십시오."
 잘하셨습니다. De-lux Clinic을 열었습니다. 여기에는 Lightheaded 환자를 처리하기위한 일부 첨단 기계가 포함됩니다.
 디럭스 클리닉 잠금 해제!
 NEWS FLASH : 마을의 무서운 새로운 질병! 자세한 내용은 메시지를 확인하십시오.
 마을에 특이한 새로운 질병이 ... 현기증! 이 문제를 해결하려면 값 비싼 새 장비가 필요합니다. \\n\\n치료실을 열기 위해 병원을 계속 확장하십시오. 우리는 또한 다른 GP의 사무실과 더 많은 직원이 필요합니다.
 뉴스 플래시
-<style = "AdvisorHighlight"> 카메라 이동 : </ style> 건물을 둘러보세요. 마우스 오른쪽 버튼을 누른 상태에서지면으로 드래그하거나 커서를 화면 가장자리로 이동하거나 {[Menu / InputActions / CameraPanUp]}, {[Menu / InputActions / CameraPanLeft]}, {[Menu / InputActions / CameraPanDown]} 및 {[Menu / InputActions / CameraPanRight]} 키."
+<style="AdvisorHighlight">카메라 이동 :</style>건물을 둘러보세요. 마우스 오른쪽 버튼을 누른 상태에서지면으로 드래그하거나 커서를 화면 가장자리로 이동하거나 {[Menu / InputActions / CameraPanUp]}, {[Menu / InputActions / CameraPanLeft]}, {[Menu / InputActions / CameraPanDown]} 및 {[Menu / InputActions / CameraPanRight]} 키."
 먼저 주변을 둘러보고 싶을 것입니다.\n\n병원 주변을 이동하려면 :\n- 마우스 오른쪽 버튼을 누른 상태로 드래그\n- 커서를 화면 가장자리로 이동\n- 사용 {[Menu / InputActions / CameraPanUp]}, {[Menu / InputActions / CameraPanLeft]}, {[Menu / InputActions / CameraPanDown]} 및 {[Menu / InputActions / CameraPanRight]} 키\n\n마우스 휠, 마우스 가운데 버튼으로 회전 및 피치."
 병원 둘러보기
-지도로 돌아가 다른 병원으로 이동하려면 화면 왼쪽 하단의 <style = "AdvisorHighlight">지도 버튼 </ style>을 클릭하면됩니다."
-<style = "AdvisorHighlight"> 약국 </ style>을 잠금 해제했습니다! <style = "AdvisorHighlight"> 약국 </ style>을 건설하고 <style = "AdvisorHighlight"> 간호사 </ style>를 고용하십시오."
+지도로 돌아가 다른 병원으로 이동하려면 화면 왼쪽 하단의 <style="AdvisorHighlight">지도 버튼</style>을 클릭하면됩니다."
+<style="AdvisorHighlight">약국</style>을 잠금 해제했습니다! <style="AdvisorHighlight">약국</style>을 건설하고 <style="AdvisorHighlight">간호사</style>를 고용하십시오."
 우리는 첫 환자를 진단했습니다. GP가 귀하에게 메시지를 보냈습니다. 오른쪽 하단의 메시지 목록을보십시오. \\n\\n환자를 치료하기 위해 약국을 만들어야 할 것 같습니다.
 메시지
 뉴스 플래시 : 부상당한 환자가 들어옵니다! 자세한 내용은 메시지를 확인하십시오.
 Two Point County 사람들은 최근 치즈 롤링에 집착하게되었습니다. 곧 Portishead 환자가 올 ??것입니다. 새로운 치료실을 열어야합니다.
 뉴스 플래시
 주요 목표는 항상 화면 오른쪽 상단에 나타납니다. 자세한 내용을 보려면 마우스를 올려 놓으세요.
-<style = "AdvisorHighlight"> 약국 </ style>을 건설하고 <style = "AdvisorHighlight"> 간호사 </ style>를 고용하십시오."
-<style = "AdvisorHighlight"> 항목 </ style> 버튼을 클릭하고 <style = "AdvisorHighlight"> 접수 </ style>를 선택합니다."
-<style = "AdvisorHighlight"> 항목 배치 : </ style> 왼쪽 마우스 버튼을 클릭합니다. \\n<style = "AdvisorHighlight"> 항목 회전 : </ style> 왼쪽 마우스 버튼을 누른 상태에서 왼쪽 / 오른쪽으로 드래그합니다. \\n<style = "AdvisorHighlight"> 항목 취소 : </ style> 오른쪽 마우스 버튼을 클릭합니다."
+<style="AdvisorHighlight">약국</style>을 건설하고 <style="AdvisorHighlight">간호사</style>를 고용하십시오."
+<style="AdvisorHighlight">항목</style>버튼을 클릭하고 <style="AdvisorHighlight">접수</style>를 선택합니다."
+<style="AdvisorHighlight">항목 배치 :</style>왼쪽 마우스 버튼을 클릭합니다. \\n<style="AdvisorHighlight">항목 회전 :</style>왼쪽 마우스 버튼을 누른 상태에서 왼쪽 / 오른쪽으로 드래그합니다. \\n<style="AdvisorHighlight">항목 취소 :</style>오른쪽 마우스 버튼을 클릭합니다."
 병원에 가장 먼저 필요한 것은 리셉션입니다. 환자가 병원에 ??도착하면 여기로 향합니다. \\n\\n입구 근처에 접수 데스크를 세워 요 ...
 수신
-<style = "AdvisorHighlight"> 채용 </ style>을 클릭 한 다음 <style = "AdvisorHighlight"> 어시스턴트 </ style>를 클릭합니다. 구직자를 선택한 다음 <style = "AdvisorHighlight"> 채용 </ style> 버튼을 클릭하십시오. 왼쪽 클릭하여 리셉션 근처에 놓으십시오."
+<style="AdvisorHighlight">채용</style>을 클릭 한 다음 <style="AdvisorHighlight">어시스턴트</style>를 클릭합니다. 구직자를 선택한 다음 <style="AdvisorHighlight">채용</style>버튼을 클릭하십시오. 왼쪽 클릭하여 리셉션 근처에 놓으십시오."
 큰. 리셉션을 운영하려면 도우미가 필요합니다. \\n\\n지금 고용합시다 ... \\n\\n고용 버튼을 클릭하고 지원자를 선택하여 지원자를 확인하십시오.
 접수 원
 병원 평판은 각 환자가 성공적으로 치료 될수록 증가하지만 치료에 실패하면 특히 환자가 사망하면 감소 합니다. 평판이 높을수록 더 많은 환자와 더 나은 직원을 고용 할 수 있습니다.
 병원 평판
-목표와 과제를 완수함으로써 우리 조직은 <style = "AdvisorHighlight"> Kudosh </ style>를 얻습니다. 이것을 사용하여 우리 병원에서 사용할 항목을 잠금 해제 할 수 있습니다. 우리가 감당할 수있는 것을 보려면 항목 목록을 확인하십시오."
-병원의 별표 등급을 높임으로써 우리 조직은 <style = "AdvisorHighlight"> Kudosh </ style>를 많이 얻었습니다. 이것을 사용하여 우리 병원의 새 항목을 잠금 해제하십시오."
-이제 <style = "AdvisorHighlight"> 직원 실 </ style>을 이용하실 수 있습니다!"
+목표와 과제를 완수함으로써 우리 조직은 <style="AdvisorHighlight">Kudosh</style>를 얻습니다. 이것을 사용하여 우리 병원에서 사용할 항목을 잠금 해제 할 수 있습니다. 우리가 감당할 수있는 것을 보려면 항목 목록을 확인하십시오."
+병원의 별표 등급을 높임으로써 우리 조직은 <style="AdvisorHighlight">Kudosh</style>를 많이 얻었습니다. 이것을 사용하여 우리 병원의 새 항목을 잠금 해제하십시오."
+이제 <style="AdvisorHighlight">직원 실</style>을 이용하실 수 있습니다!"
 직원들은 일하면서 피곤해지며 결국 휴식을 취하게됩니다. 직원 실은 휴식을 취하고 활력을 불어 넣어 업무에 복귀하도록 도와줍니다. 음료와 간식도 그들을 행복하게하는 데 도움이됩니다. \\n\\n방을 더 크게 만들고 흥미로운 물건으로 채우면 더 권위있는 곳으로 간주 될 것입니다. 고급스러운 방을 이용하는 사람들은 더 행복해질 것입니다. 멋진 직원 실은 직원들이 더 빨리 에너지를 회복 할 수 있도록 도와줍니다.
 직원 에너지 및 휴식
 첫 번째 환자를 진단하는 동안 사람들이 기다리는 동안 행복을 유지하기 위해 벤치를 내려 놓는 것이 좋습니다.
-<style = "AdvisorHighlight"> 구 </ style>가 잠금 해제되었습니다! 병동은 진단뿐만 아니라 다양한 질병 치료에도 사용할 수 있습니다."
+<style="AdvisorHighlight">구</style>가 잠금 해제되었습니다! 병동은 진단뿐만 아니라 다양한 질병 치료에도 사용할 수 있습니다."
 Two Point County에 오신 것을 환영합니다!\n\n첫 병원을 짓고 일부 환자를 치료할 준비가 되셨습니까?
 투 포인트 병원
-<style = "AdvisorHighlight"> 확대 / 축소 : </ style> 마우스 휠 \\n<style = "AdvisorHighlight"> 회전 : </ style> 마우스 가운데 버튼 왼쪽 / 오른쪽으로 드래그 \\n<style = "AdvisorHighlight"> 피치 : </ style> 가운데 마우스 버튼 위로 / 아래로 드래그"
+<style="AdvisorHighlight">확대 / 축소 :</style>마우스 휠 \\n<style="AdvisorHighlight">회전 :</style>마우스 가운데 버튼 왼쪽 / 오른쪽으로 드래그 \\n<style="AdvisorHighlight">피치 :</style>가운데 마우스 버튼 위로 / 아래로 드래그"
 확대 및 축소하려면 마우스 휠을 사용하십시오. \\n\\n보기를 회전하려면 마우스 가운데 버튼을 누른 상태에서 마우스를 왼쪽 / 오른쪽으로 이동하십시오. \\n\\n보기를 높이려면 마우스 가운데 버튼을 누른 상태에서 마우스를 위 / 아래로 움직입니다.
 확대 / 축소 및 회전
 하이킹, 낚시, 쓰러짐을 즐길 수있는 카운티의 고산 지대 놀이터에서 모든 종류의 휴식과 타박상을 치료하십시오."
@@ -4851,10 +4853,10 @@ Two Point County에서 가장 영리한 사람들의 고향입니다. 쌀쌀 할
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 2 개 등급을 받았습니다.\n\n귀하의 연구 개발이 더 많은 진전을 이루고 있다고 들었습니다. 귀하를 괴롭 히십시오.\n\n더 많은 보상을 위해 연구를 계속하거나 다른 곳으로 가십시오. 조직을 확장하십시오.
 축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 3 개 등급을 받았습니다.\n\n최고 수준의 연구 기관을 설립하고 대학에 큰 혜택을 주셨습니다. 나는 그들이 매우 감사하다고 들었고 나도 그렇게해야한다고 생각한다. 아아.
 미튼 대학교
-좋은 소식! Mitton University는 일부 연구를 완료하여 <style = "AdvisorHighlight"> {[REWARDS]} </ style>를 수여했습니다."
+좋은 소식! Mitton University는 일부 연구를 완료하여 <style="AdvisorHighlight">{[REWARDS]}</style>를 수여했습니다."
 좋은 소식입니다. Two Point Health Ministry에서 연구 라이센스를 부여했습니다! 이렇게하면 모든 병원에서 새로운 기계, 업그레이드 등을 연구 할 수 있습니다. \\n\\n연구 프로젝트를 시작하려면 연구실과 연구 자격을 갖춘 의사가 필요합니다. \\n\\n진단 및 치료 의 환자도 연구 진행에 기여할 수 있습니다. 유령을 수확하는 것도 아주 ... 깨달을 수 있습니다."
 연구 라이센스
-좋은 소식! Mitton University는 일부 교육 수료로 <style = "AdvisorHighlight"> {[REWARDS]} </ style>를 수여했습니다."
+좋은 소식! Mitton University는 일부 교육 수료로 <style="AdvisorHighlight">{[REWARDS]}</style>를 수여했습니다."
 Mitton University의 부총장은 우리의 발전에 깊은 인상을 받았으며 우리는 Mitton University Research & Teaching Hospital을 설립하도록 초대 받았습니다. 이것은 우리에게 좋은 기회입니다. 연구 부서를 설립하고 새로운 기술을 개발할 수 있습니다.\n\n여기에서는 학생 의사와 간호사 만 모집 할 수 있으므로 교육을 받아야합니다. Mitton University는 우리가 훈련하는 각 사람과 우리가 완료하는 각 연구 프로젝트에 대해 추가 자금을 제공 할 것입니다.\n\n첫째, 우리는 연구 라이센스가 필요합니다. 우리가 일부 업그레이드 된 기계를 갖춘 병원을 설립하여 우리의 기술력을 입증 할 수 있다면 교육부는 우리에게 하나를 부여 할 것입니다."
 미튼 대학교
 마케팅 캠페인을 시작하려면 마케팅 테이블을 클릭하거나 마케팅 자격이있는 조수를 방에 배치하십시오. \\n\\n일반 캠페인은 병원의 전반적인 평판을 향상시킵니다. \\n\\n모집 캠페인은 다양한 직업 지원자를 더 많이 유치합니다. \\n\\n질병 캠페인은 특정 증상을 보이는 더 많은 환자를 유치하고 특정 질병에 대한 평판을 향상시킵니다. 참고 : 각 지역에서 더 많은 질병을 발견하여 더 많은 질병 캠페인을 잠금 해제하십시오.
@@ -4942,16 +4944,16 @@ REMI X를 부팅하고 인공 Hogsport에서 환자 무리를 치료하십시오
 이 레벨의 플롯은 챌린지 뒤에 잠겨 있습니다.\n도전을 완료하여 플롯을 잠금 해제하고 별을 획득하세요.\n\n이게 뭐죠? 좋아요, 그렇게 간단하게 들리면 서둘러서하세요. Blimey."
 플롯을 해방하십시오
 경력 개발에서 이익을 얻습니다 (귀하의 것이 아님).
-REMI X는 새로운 <style = "AdvisorHighlight"> 사이드 퀘스트 </ style>를 생성했습니다."
+REMI X는 새로운 <style="AdvisorHighlight">사이드 퀘스트</style>를 생성했습니다."
 다가오는 도전
-사이드 퀘스트를 완료하지 못했습니다. <style = "AdvisorHighlight"> {[REWARDS]} </ style>"
-사이드 퀘스트를 완료했습니다. 축하합니다.\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>"
+사이드 퀘스트를 완료하지 못했습니다. <style="AdvisorHighlight">{[REWARDS]}</style>"
+사이드 퀘스트를 완료했습니다. 축하합니다.\n<style="AdvisorHighlight">{[REWARDS]}</style>"
 REMI X는 새로운 사이드 퀘스트를 생성했습니다.
 사이드 퀘스트
 아뇨, 사이드 퀘스트를 완료하지 못한 것에 대해 불이익을 받았습니다."
 잘 했어! 사이드 퀘스트를 성공적으로 완료하여 상을 받았습니다.
 사이드 퀘스트 : 결과 
-교육 보너스!\n<style = "AdvisorHighlight"> {[REWARDS]} </ style>."
+교육 보너스!\n<style="AdvisorHighlight">{[REWARDS]}</style>."
 이 시나리오에서 REMI X는 진단 및 치료를 포함하여 귀하의 모든 일반적인 소득 형태를 잔인하게 줄였습니다.\n\n하지만 걱정하지 마십시오. 당신이 걱정했다고 말할 수 있습니다. 이상하지 않습니까? -직원 개발 및 직원 교육과 관련된 과제 또는 "사이드 퀘스트"를 완료하면 충분한 금전적 보상을 받게되기 때문입니다."
 비테 링
 이 "레벨"에서는 Hogsport의 디지털 레크리에이션에서 한 번에 한 웨이브 씩 환자를 치료하게됩니다. REMI X에서는 별을 받기위한 목표를 완료합니다. 이 별들은 가시적 인 어떤 것도 반영하지 않습니다. Two Point Health Ministry와 같은 공인 된위원회에 의해 표준화 된 등급이 아닙니다. 그들은 단지 비디오 게임의 진보와 이해 된 관행을 상징합니다. 그리고 현실을 직시합시다. 이제 그들에 대해 들었으니 하나 원 하시죠?\n\n어떤 사람들은 병원 운영에 관한 게임 같은 소프트웨어를 디자인하는 것이 나쁜 취향이라고 주장 할 수도 있지만 ... 예 . Bungle의 사람들과 함께하십시오."
@@ -4963,7 +4965,7 @@ REMI X는 새로운 사이드 퀘스트를 생성했습니다.
 Mitton의 의과 대학은 다른 모든 것보다 두 가지 기술을 중요하게 생각합니다.\n아니요, 치료와 진단이 아니라 훈련과 연구입니다!\n\n공동 영예를 받고, 대학 건물을 모두 잠금 해제하고, 매우 뛰어난 디지털 기술을 획득하려는 두 가지 추구 모두에서 적성을 보여주세요. 별."
 학교 프로젝트
 의료 마케팅의 한계를 테스트하십시오.
-REMI X는 새로운 <style = "AdvisorHighlight"> Timed Side Quest </ style>를 생성했습니다."
+REMI X는 새로운 <style="AdvisorHighlight">Timed Side Quest</style>를 생성했습니다."
 REMI X는 새로운 Timed Side Quest를 생성했습니다.\n\n특정 질병이있는 환자를 병원으로 유치하기 위해 마케팅 캠페인을 실행할 수 있습니다.
 시간 제한 사이드 퀘스트
 특정 질병을 앓고있는 여러 환자를 일정 시간 내에 치료하여 시간 제한 "사이드 퀘스트"를 완료하고 레벨을 완료하는 과정에서 금전적 보상을받습니다.\n\n앉아서 오래된 팀을 만족스럽게 치료할 필요가 없습니다. , Rich 또는 Gary가 표시됩니다. 대신 마케팅의 마법을 사용하여 고객을 선별하고 특정 질병이있는 환자를 병원으로 유치하십시오. 마케팅실에서 약국 캠페인을 시작하여 시작하십시오.\n"
@@ -5234,6 +5236,7 @@ Tarquin Foxbridge\n보건부 장관
 커스터마이즈
 팔다
 통계
+템플릿
 추가 진단을 기다리는 것을 포기
 약속
 성공 확률 : {[VALUE]}
@@ -5245,6 +5248,10 @@ Tarquin Foxbridge\n보건부 장관
 최고 불만
 곧 떠날 것입니다
 {[SECONDS]} 초 기다림
+지우다
+덮어 쓰기
+이름 바꾸기
+새 템플릿 저장
 문은 복도에\n방에 들어가야합니다.
 잘못된 모서리 위치
 방에 대한 잘못된 항목
@@ -5706,9 +5713,9 @@ Tannoy 볼륨
 언어 (오디오)
 언어
 독일어 (Deutsch)
-영어 (영어)
-스페인어 (Espa?ol)
-프랑스어 (Fran?ais)
+영어 (English)
+스페인어 (Español)
+한국어 (Korean)
 이탈리아어 (Italiano)
 폴란드어 (Polski)
 러시아어 (Русский)
@@ -5802,9 +5809,9 @@ Tannoy 볼륨
 1/4 크기
 사용할 다양한 크기의 텍스처를 선택합니다.\n\n특히 비디오 메모리가 부족한 경우 그래픽 성능을 향상시키기 위해 텍스처 세부 사항을 줄입니다.
 수직 동기
-켜짐 (더블)
-떨어져서
-의 위에
+켜기 (더블)
+끄기
+켜기
 게임 프레임 속도를 디스플레이의 재생률과 동기화합니다.\n\n화면 끊김을 줄이지 만 입력 지연을 늘릴 수 있습니다.
 창 설정
 세계 세부 사항
@@ -5899,6 +5906,13 @@ Two Point County 아티스트이자 디자이너 Zara Fitzpocket의 도발적인
 외벽
 H
 W
+템플릿에 잠긴 사용자 지정 옵션이 있습니다.
+템플릿에 하나 이상의 잠긴 항목이 있습니다.
+객실 유형은 아직 사용할 수 없습니다.
+템플릿에 누락 된 사용자 생성 콘텐츠가 있습니다.
+템플릿 미완료
+템플릿을 사용할 수 없음
+룸 템플릿 전환
 현금
 재해
 전염병
@@ -6475,8 +6489,8 @@ W
 와이
 지
 Kudosh
-? Two Point Studios 2019. SEGA Publishing Europe Limited에서 발행. Two Point, Two Point Hospital, Two Point Hospital 로고 및 Two Point Studios는 Two Point Studios Limited의 등록 상표 또는 상표입니다. SEGA 및 SEGA 로고는 SEGA Holdings Co., Ltd. 또는 그 계열사의 등록 상표 또는 상표입니다. SEGA는 미국 특허청에 등록되어 있습니다. 기타 모든 상표, 로고 및 저작권은 해당 소유자의 재산입니다."
-? Two Point Studios 2019. SEGA Publishing Europe Limited에서 발행. Two Point, Two Point Hospital, Two Point Hospital 로고 및 Two Point Studios는 Two Point Studios Limited의 등록 상표 또는 상표입니다. SEGA 및 SEGA 로고는 SEGA Holdings Co., Ltd. 또는 그 계열사의 등록 상표 또는 상표입니다. SEGA는 미국 특허청에 등록되어 있습니다. 기타 모든 상표, 로고 및 저작권은 해당 소유자의 재산입니다."
+© Two Point Studios 2019. SEGA Publishing Europe Limited에서 발매. Two Point, Two Point Hospital, Two Point Hospital 로고 및 Two Point Studios는 Two Point Studios Limited의 등록 상표 또는 상표입니다. SEGA 및 SEGA 로고는 SEGA Holdings Co., Ltd. 또는 그 계열사의 등록 상표 또는 상표입니다. SEGA는 미국 특허청에 등록되어 있습니다. 기타 모든 상표, 로고 및 저작권은 해당 소유자의 재산입니다.\n\n한글화 : 이키나! (beforu.net)
+© Two Point Studios 2019. SEGA Publishing Europe Limited에서 발매. Two Point, Two Point Hospital, Two Point Hospital 로고 및 Two Point Studios는 Two Point Studios Limited의 등록 상표 또는 상표입니다. SEGA 및 SEGA 로고는 SEGA Holdings Co., Ltd. 또는 그 계열사의 등록 상표 또는 상표입니다. SEGA는 미국 특허청에 등록되어 있습니다. 기타 모든 상표, 로고 및 저작권은 해당 소유자의 재산입니다.\n\n한글화 : 이키나! (beforu.net)
 잠김
 연속 처치 {[COUNT]}
 4 월
@@ -7521,22 +7535,29 @@ McNally
 방 취소
 보상 : {[REWARDS]}
 벌칙 : {[REWARDS]}
-환자 중 한 명인 {[NAME]}이 모든 진단실로 보내졌습니다. 그러나 우리는 진단을 {[확실 함]} 확신 할뿐입니다.\n\n진단실이 더 생길 때까지 기다리거나, 위험을 감수하고 어쨌든 치료하거나 집으로 보내달라고 요청할 수 있습니다. 무엇을하고 싶으십니까?"
-환자 중 한 명인 {[NAME]}이 모든 진단실로 보내졌습니다. 그러나 우리는 진단을 {[확실 함]} 확신 할뿐입니다.\n\n진단실이 더 생길 때까지 기다리거나, 위험을 감수하고 어쨌든 치료하거나 집으로 보내달라고 요청할 수 있습니다. 무엇을하고 싶으십니까?"
-환자 중 한 명인 {[NAME]}이 모든 진단실로 보내졌습니다. 그러나 우리는 진단을 {[확실 함]} 확신 할뿐입니다.\n\n진단실이 더 생길 때까지 기다리거나, 위험을 감수하고 어쨌든 치료하거나 집으로 보내달라고 요청할 수 있습니다. 무엇을하고 싶으십니까?"
+새 템플릿
+이 회의실 템플릿을 삭제 하시겠습니까?
+템플릿을 삭제 하시겠습니까?
+환자 중 한 명인 {[NAME]}이 모든 진단실로 보내졌습니다. 그러나 우리는 진단을 {[CERTAINTY]} 확신 할뿐입니다.\n\n진단실이 더 생길 때까지 기다리거나, 위험을 감수하고 어쨌든 치료하거나 집으로 보내달라고 요청할 수 있습니다. 무엇을하고 싶으십니까?"
+환자 중 한 명인 {[NAME]}이 모든 진단실로 보내졌습니다. 그러나 우리는 진단을 {[CERTAINTY]} 확신 할뿐입니다.\n\n진단실이 더 생길 때까지 기다리거나, 위험을 감수하고 어쨌든 치료하거나 집으로 보내달라고 요청할 수 있습니다. 무엇을하고 싶으십니까?"
+환자 중 한 명인 {[NAME]}이 모든 진단실로 보내졌습니다. 그러나 우리는 진단을 {[CERTAINTY]} 확신 할뿐입니다.\n\n진단실이 더 생길 때까지 기다리거나, 위험을 감수하고 어쨌든 치료하거나 집으로 보내달라고 요청할 수 있습니다. 무엇을하고 싶으십니까?"
 진단 결정
 안타깝게도 예산이 {[GAMEOVER]}에 도달했습니다.\n{[경고]} 일 때 경고를 받았으며 상황이 악화 될뿐입니다…\n\n병원이 폐쇄되고 있습니다.
 파산 통지
 예산이\n{[WARNING]}에 도달하여 공식 경고를 받았습니다.\n\n예산이 {[GAMEOVER]}에 도달하면 병원이 문을 닫습니다.
 파산 경고
+새 룸 템플릿 이름 지정
 의사들이 새로운 질병을 발견했습니다.\n{[질병]}\n\n{[설명]}\n\n치료를 위해 환자를 {[ROOM]}에서 보내겠습니다.
 의사들이 새로운 질병을 발견했습니다.\n{[질병]}\n\n{[설명]}\n\n즉시 치료를 위해 환자를 보내겠습니다.
 새로운 질병 {[ILLNESS]} 발견!
 잘하셨습니다. 해냈습니다!
 목표 완료
-도전 :\n{[목표]}\n{[ROOM]}\n{[TIMELIMIT]}\n보상 : {[REWARDS]}
+도전 :\n{[OBJECTIVE]}\n{[ROOM]}\n{[TIMELIMIT]}\n보상 : {[REWARDS]}
 {[QUALIFICATION]} 학습 함
 지불 거부
+템플릿 이름 바꾸기
+이 회의실 템플릿을 덮어 쓰시겠습니까?
+템플릿을 덮어 쓰시겠습니까?
 연구가 완료되었습니다. 잘하셨습니다!
 연구 완료
 동의하기
@@ -7562,7 +7583,7 @@ McNally
 이 방을 {[COST]}에 판매 하시겠습니까?
 룸 판매
 진단 {[DIAGNOSIS]}\n행복 {[HAPPINESS]}
-도전 :\n{[목표]}\n{[TIMELIMIT]}\n보상 : {[REWARDS]}
+도전 :\n{[OBJECTIVE]}\n{[TIMELIMIT]}\n보상 : {[REWARDS]}
 시간 제한 : {[DAYS]} 일
 {[NAME]}의 직원 도전
 {[STAFF]}를 해고 하시겠습니까?

@@ -2305,6 +2305,8 @@ New to R.E.M.I. X
 \nR.E.M.I. X now includes alternate versions of Mitton University, Tumble and Flemington for administrators who have achieved a 1 Star rating in those hospitals.
 Retread the glorious days of a while ago with things of the past such as the Jukebox, Pinball Machine and Hypno Pole!
 Retro Item Pack
+Use the new Room Templates feature to save your favourite layouts and take them with you wherever you go!
+Room Templates
 Save Slots
 Settings
 To celebrate the summertime, we've added a set of meat-tastic items. Find them in the "Special" item filter.
@@ -5234,6 +5236,7 @@ Queue
 Customise
 Sell
 Stats
+Templates
 Gave up waiting for further diagnosis
 Appointment
 Chance of Success was: {[VALUE]}
@@ -5245,6 +5248,10 @@ Happiness reached zero
 Top Complaints
 Will leave soon
 Willing to wait {[SECONDS]} seconds
+Delete
+Overwrite
+Rename
+Save New Template
 Door must join room\nto a corridor
 Invalid corner location
 Invalid item for room
@@ -5899,6 +5906,13 @@ Inner Walls
 Outer Walls
 H
 W
+Template contains locked customisation option.
+Template contains one or more locked items.
+Room type not yet available.
+Template contains missing user-generated content.
+Template Incomplete
+Template Unavailable
+Toggle Room Templates
 Cash
 Disasters
 Epidemics
@@ -7521,6 +7535,9 @@ Do you want to stop editing this room?
 Cancel Room
 Rewards: {[REWARDS]}
 Penalties: {[REWARDS]}
+New Template
+Are you sure you want to delete this room template?
+Delete Template?
 One of our patients, {[NAME]}, has been sent to all of our diagnosis rooms. But we’re only {[CERTAINTY]} sure of the diagnosis.\n\nWe can ask them to wait until we have more diagnosis rooms, take a risk and treat them anyway, or send them home. What would you like to do?
 One of our patients, {[NAME]}, has been sent to all of our diagnosis rooms. But we’re only {[CERTAINTY]} sure of the diagnosis.\n\nWe can ask them to wait until we have more diagnosis rooms, take a risk and treat them anyway, or send them home. What would you like to do?
 One of our patients, {[NAME]}, has been sent to all of our diagnosis rooms. But we’re only {[CERTAINTY]} sure of the diagnosis.\n\nWe can ask them to wait until we have more diagnosis rooms, take a risk and treat them anyway, or send them home. What would you like to do?
@@ -7529,6 +7546,7 @@ Unfortunately our budget has reached {[GAMEOVER]}.\nWe were warned when it was {
 Bankruptcy Notice
 We've been given an official warning due to our budget reaching \n{[WARNING]}.\n\nIf our budget reaches {[GAMEOVER]} the hospital will be shut down.
 Bankruptcy Warning
+Name New Room Template
 Our doctors have discovered a new illness:\n{[ILLNESS]}\n\n{[DESCRIPTION]}\n\nWe'll send the patient for treatment in our {[ROOM]}.
 Our doctors have discovered a new illness:\n{[ILLNESS]}\n\n{[DESCRIPTION]}\n\nWe'll send the patient for treatment immediately.
 New Illness {[ILLNESS]} Discovered!
@@ -7537,6 +7555,9 @@ Objective Complete
 Challenge:\n{[OBJECTIVE]}\n{[ROOM]}\n{[TIMELIMIT]}\nRewards: {[REWARDS]}
 {[QUALIFICATION]} learned
 Refused to Pay
+Rename Template
+Are you sure you want to overwrite this room template?
+Overwrite Template?
 Research is completed, well done you!
 Research Complete
 Accept
