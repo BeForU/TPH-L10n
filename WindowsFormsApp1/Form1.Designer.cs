@@ -41,6 +41,8 @@
             this.loadBtn = new System.Windows.Forms.Button();
             this.combineBtn = new System.Windows.Forms.Button();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.exportBtn = new System.Windows.Forms.Button();
+            this.importBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -113,7 +115,7 @@
             // saveBtn
             // 
             this.saveBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.saveBtn.Location = new System.Drawing.Point(934, 48);
+            this.saveBtn.Location = new System.Drawing.Point(934, 106);
             this.saveBtn.Name = "saveBtn";
             this.saveBtn.Size = new System.Drawing.Size(107, 23);
             this.saveBtn.TabIndex = 2;
@@ -124,7 +126,7 @@
             // loadBtn
             // 
             this.loadBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.loadBtn.Location = new System.Drawing.Point(934, 77);
+            this.loadBtn.Location = new System.Drawing.Point(934, 135);
             this.loadBtn.Name = "loadBtn";
             this.loadBtn.Size = new System.Drawing.Size(107, 23);
             this.loadBtn.TabIndex = 3;
@@ -135,18 +137,43 @@
             // combineBtn
             // 
             this.combineBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.combineBtn.Location = new System.Drawing.Point(934, 106);
+            this.combineBtn.Location = new System.Drawing.Point(934, 164);
             this.combineBtn.Name = "combineBtn";
             this.combineBtn.Size = new System.Drawing.Size(107, 23);
             this.combineBtn.TabIndex = 4;
             this.combineBtn.Text = "Combine";
             this.combineBtn.UseVisualStyleBackColor = true;
+            this.combineBtn.Click += new System.EventHandler(this.combineBtn_Click);
+            // 
+            // exportBtn
+            // 
+            this.exportBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.exportBtn.Location = new System.Drawing.Point(934, 48);
+            this.exportBtn.Name = "exportBtn";
+            this.exportBtn.Size = new System.Drawing.Size(107, 23);
+            this.exportBtn.TabIndex = 5;
+            this.exportBtn.Text = "Export";
+            this.exportBtn.UseVisualStyleBackColor = true;
+            this.exportBtn.Click += new System.EventHandler(this.exportBtn_Click);
+            // 
+            // importBtn
+            // 
+            this.importBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.importBtn.Location = new System.Drawing.Point(934, 77);
+            this.importBtn.Name = "importBtn";
+            this.importBtn.Size = new System.Drawing.Size(107, 23);
+            this.importBtn.TabIndex = 6;
+            this.importBtn.Text = "Import";
+            this.importBtn.UseVisualStyleBackColor = true;
+            this.importBtn.Click += new System.EventHandler(this.importBtn_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1053, 450);
+            this.Controls.Add(this.importBtn);
+            this.Controls.Add(this.exportBtn);
             this.Controls.Add(this.combineBtn);
             this.Controls.Add(this.loadBtn);
             this.Controls.Add(this.saveBtn);
@@ -174,6 +201,8 @@
         private System.Windows.Forms.Button loadBtn;
         private System.Windows.Forms.Button combineBtn;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
+        private System.Windows.Forms.Button exportBtn;
+        private System.Windows.Forms.Button importBtn;
     }
 }
 

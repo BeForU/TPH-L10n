@@ -13,11 +13,6 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        string[] textData;
-        string[] tempStringArray;
-        string[] koreanData;
-
-        int column;
         string title;
         string description;
         string english;
@@ -30,7 +25,9 @@ namespace WindowsFormsApp1
 
         private void runBtn_Click(object sender, EventArgs e)
         {
-            textData = File.ReadAllLines("I2Languages.txt");
+            string[] textData = File.ReadAllLines("I2Languages.txt");
+            string[] tempStringArray;
+            int column = 0;
 
             for (int i = 0; i < textData.Length; i++)
             {
@@ -67,10 +64,6 @@ namespace WindowsFormsApp1
 
                         if (tempStringArray.Length > 1)
                         {
-                            for (int j = 0; j < tempStringArray.Length; j++)
-                            {
-
-                            }
                             english = textData[i + 1].Substring(textData[i + 1].IndexOf('"') + 1, textData[i + 1].LastIndexOf('"') - textData[i + 1].IndexOf('"') - 1);
                         }
                     }
@@ -87,13 +80,13 @@ namespace WindowsFormsApp1
                             chinese = textData[i + 1].Substring(textData[i + 1].IndexOf('"') + 1, textData[i + 1].LastIndexOf('"') - textData[i + 1].IndexOf('"') - 1);
                         }
 
-                        dataGridView1.Rows.Add(column, title, description, english, chinese, i);
+                        dataGridView1.Rows.Add(column, title, description, english, chinese, "", i);
                     }
                 }
             }
         }
 
-        private void saveBtn_Click(object sender, EventArgs e)
+        private void exportBtn_Click(object sender, EventArgs e)
         {
             int line;
             string[] output = new string[dataGridView1.Rows.Count + 1];
@@ -109,9 +102,76 @@ namespace WindowsFormsApp1
             System.IO.File.WriteAllLines("English.txt", output);
         }
 
+        private void importBtn_Click(object sender, EventArgs e)
+        {
+            string[] textData = File.ReadAllLines("Translated.txt");
+
+            for (int i = 0; i < dataGridView1.Rows.Count; i++)
+            {
+                dataGridView1.Rows[i].Cells[5].Value = textData[i];
+            }
+        }
+
+        private void saveBtn_Click(object sender, EventArgs e)
+        {
+            
+        }
+
         private void loadBtn_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void combineBtn_Click(object sender, EventArgs e)
+        {
+            string[] textData = File.ReadAllLines("I2Languages.txt");
+            string[] koreanData = File.ReadAllLines("Translated.txt");
+            string[] tempStringArray;
+            int column = 0;
+       
+            for (int i = 0; i < textData.Length; i++)
+            {
+                if (textData[i].StartsWith("    ["))
+                {
+                    column = int.Parse(textData[i].Split('[', ']')[1]);
+                }
+
+                else if (textData[i].Contains("1 string Term"))
+                {
+                    tempStringArray = textData[i].Split('"');
+
+                    if (tempStringArray.Length > 1)
+                    {
+                        title = tempStringArray[1];
+                    }
+                }
+
+                else if (textData[i].Contains("1 string Description"))
+                {
+                    tempStringArray = textData[i].Split('"');
+
+                    if (tempStringArray.Length > 1)
+                    {
+                        description = tempStringArray[1];
+                    }
+                }
+
+                else if (textData[i].StartsWith("        [0]"))
+                {
+                    if (textData[i + 1].Contains("1 string data"))
+                    {
+                        tempStringArray = textData[i + 1].Split('"');
+
+                        if (tempStringArray.Length > 1)
+                        {
+                            textData[i + 1] = textData[i + 1].Substring(0, textData[i + 1].IndexOf('"') + 1) + koreanData[column] + '"';
+                            Console.WriteLine(textData[i + 1]);
+                        }
+                    }
+                }
+            }
+
+            System.IO.File.WriteAllLines("Combined.txt", textData);
         }
     }
 }
