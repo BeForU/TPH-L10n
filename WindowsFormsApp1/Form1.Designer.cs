@@ -43,6 +43,7 @@
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.exportBtn = new System.Windows.Forms.Button();
             this.importBtn = new System.Windows.Forms.Button();
+            this.charBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -108,7 +109,7 @@
             this.runBtn.Name = "runBtn";
             this.runBtn.Size = new System.Drawing.Size(107, 23);
             this.runBtn.TabIndex = 1;
-            this.runBtn.Text = "Run";
+            this.runBtn.Text = "View File";
             this.runBtn.UseVisualStyleBackColor = true;
             this.runBtn.Click += new System.EventHandler(this.runBtn_Click);
             // 
@@ -121,6 +122,7 @@
             this.saveBtn.TabIndex = 2;
             this.saveBtn.Text = "Save";
             this.saveBtn.UseVisualStyleBackColor = true;
+            this.saveBtn.Visible = false;
             this.saveBtn.Click += new System.EventHandler(this.saveBtn_Click);
             // 
             // loadBtn
@@ -132,6 +134,7 @@
             this.loadBtn.TabIndex = 3;
             this.loadBtn.Text = "Load";
             this.loadBtn.UseVisualStyleBackColor = true;
+            this.loadBtn.Visible = false;
             this.loadBtn.Click += new System.EventHandler(this.loadBtn_Click);
             // 
             // combineBtn
@@ -167,11 +170,22 @@
             this.importBtn.UseVisualStyleBackColor = true;
             this.importBtn.Click += new System.EventHandler(this.importBtn_Click);
             // 
+            // charBtn
+            // 
+            this.charBtn.Location = new System.Drawing.Point(934, 193);
+            this.charBtn.Name = "charBtn";
+            this.charBtn.Size = new System.Drawing.Size(107, 23);
+            this.charBtn.TabIndex = 7;
+            this.charBtn.Text = "Char List Up";
+            this.charBtn.UseVisualStyleBackColor = true;
+            this.charBtn.Click += new System.EventHandler(this.charBtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1053, 450);
+            this.Controls.Add(this.charBtn);
             this.Controls.Add(this.importBtn);
             this.Controls.Add(this.exportBtn);
             this.Controls.Add(this.combineBtn);
@@ -197,12 +211,13 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn ChnText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorText;
         private System.Windows.Forms.DataGridViewTextBoxColumn KorTextCN;
-        private System.Windows.Forms.Button saveBtn;
         private System.Windows.Forms.Button loadBtn;
         private System.Windows.Forms.Button combineBtn;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.Button exportBtn;
         private System.Windows.Forms.Button importBtn;
+        private System.Windows.Forms.Button saveBtn;
+        private System.Windows.Forms.Button charBtn;
     }
 }
 

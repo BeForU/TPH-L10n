@@ -106,9 +106,12 @@ namespace WindowsFormsApp1
         {
             string[] textData = File.ReadAllLines("Translated.txt");
 
-            for (int i = 0; i < dataGridView1.Rows.Count; i++)
+            for (int i = 0; i < dataGridView1.Rows.Count - 1; i++)
             {
-                dataGridView1.Rows[i].Cells[5].Value = textData[i];
+                if (i < textData.Length)
+                    dataGridView1.Rows[i].Cells[5].Value = textData[i];
+                else
+                    Console.WriteLine("Line Over!! " + i);
             }
         }
 
@@ -156,7 +159,7 @@ namespace WindowsFormsApp1
                     }
                 }
 
-                else if (textData[i].StartsWith("        [0]"))
+                else if (textData[i].StartsWith("        [1]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {
@@ -165,13 +168,25 @@ namespace WindowsFormsApp1
                         if (tempStringArray.Length > 1)
                         {
                             textData[i + 1] = textData[i + 1].Substring(0, textData[i + 1].IndexOf('"') + 1) + koreanData[column] + '"';
-                            Console.WriteLine(textData[i + 1]);
+                            //Console.WriteLine(textData[i + 1]);
                         }
                     }
                 }
             }
 
             System.IO.File.WriteAllLines("Combined.txt", textData);
+            Console.WriteLine("Combine Done.");
+        }
+
+        private void charBtn_Click(object sender, EventArgs e)
+        {
+            string textData = File.ReadAllText("Translated.txt");
+            char[] output = (new string(textData.ToCharArray().Distinct().ToArray())).ToCharArray();
+
+            Array.Sort(output);
+
+            System.IO.File.WriteAllText("CharList.txt", string.Concat(output));
+            Console.WriteLine("Char List Up Done.");
         }
     }
 }
