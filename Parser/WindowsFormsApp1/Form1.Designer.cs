@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace TPHParser
 {
     partial class Form1
     {
