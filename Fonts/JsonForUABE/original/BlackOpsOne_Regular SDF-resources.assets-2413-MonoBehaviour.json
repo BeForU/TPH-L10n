@@ -1,0 +1,298 @@
+{
+    "0 MonoBehaviour Base": 
+    {
+        "0 PPtr<GameObject> m_GameObject": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 0
+        },
+        "1 UInt8 m_Enabled": 1,
+        "0 PPtr<MonoScript> m_Script": 
+        {
+            "0 int m_FileID": 1,
+            "0 SInt64 m_PathID": 1733
+        },
+        "1 string m_Name": "BlackOpsOne-Regular SDF",
+        "0 int hashCode": -2035891415,
+        "0 PPtr<$Material> material": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 55
+        },
+        "0 int materialHashCode": -1821910142,
+        "0 int fontAssetType": 1,
+        "0 TMPro.FaceInfo m_fontInfo": 
+        {
+            "1 string Name": "Black Ops One",
+            "0 float PointSize": 61,
+            "0 float Scale": 1,
+            "0 int CharacterCount": 5,
+            "0 float LineHeight": 76.25,
+            "0 float Baseline": 0,
+            "0 float Ascender": 55.75,
+            "0 float CapHeight": 0,
+            "0 float Descender": -20.5,
+            "0 float CenterLine": 0,
+            "0 float SuperscriptOffset": 55.75,
+            "0 float SubscriptOffset": -8.84619141,
+            "0 float SubSize": 0.5,
+            "0 float Underline": -8.84619141,
+            "0 float UnderlineThickness": 5.74853516,
+            "0 float strikethrough": 12.818182,
+            "0 float strikethroughThickness": 5.74853516,
+            "0 float TabWidth": 152.5,
+            "0 float Padding": 5,
+            "0 float AtlasWidth": 128,
+            "0 float AtlasHeight": 128
+        },
+        "0 PPtr<$Texture2D> atlas": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 165
+        },
+        "0 Array m_glyphInfoList": [
+            {"0 TMPro.TMP_Glyph data": 
+            {
+                "0 int id": 65,
+                "0 float x": 6,
+                "0 float y": 82,
+                "0 float width": 44.1875,
+                "0 float height": 39.5,
+                "0 float xOffset": 0.25,
+                "0 float yOffset": 39.5,
+                "0 float xAdvance": 44.6875,
+                "0 float scale": 1
+            }},
+            {"0 TMPro.TMP_Glyph data": 
+            {
+                "0 int id": 69,
+                "0 float x": 62,
+                "0 float y": 82,
+                "0 float width": 35.8125,
+                "0 float height": 39.5,
+                "0 float xOffset": 3.4375,
+                "0 float yOffset": 39.5,
+                "0 float xAdvance": 42.125,
+                "0 float scale": 1
+            }},
+            {"0 TMPro.TMP_Glyph data": 
+            {
+                "0 int id": 73,
+                "0 float x": 100,
+                "0 float y": 31,
+                "0 float width": 21.125,
+                "0 float height": 39.5,
+                "0 float xOffset": 2.875,
+                "0 float yOffset": 39.5,
+                "0 float xAdvance": 26.875,
+                "0 float scale": 1
+            }},
+            {"0 TMPro.TMP_Glyph data": 
+            {
+                "0 int id": 76,
+                "0 float x": 55,
+                "0 float y": 31,
+                "0 float width": 33.6875,
+                "0 float height": 39.5,
+                "0 float xOffset": 3.4375,
+                "0 float yOffset": 39.5,
+                "0 float xAdvance": 37.75,
+                "0 float scale": 1
+            }},
+            {"0 TMPro.TMP_Glyph data": 
+            {
+                "0 int id": 78,
+                "0 float x": 6,
+                "0 float y": 31,
+                "0 float width": 37.9375,
+                "0 float height": 39.5,
+                "0 float xOffset": 3.4375,
+                "0 float yOffset": 39.5,
+                "0 float xAdvance": 44.9375,
+                "0 float scale": 1
+            }}
+        ],
+        "0 TMPro.KerningTable m_kerningInfo": 
+        {
+            "0 Array kerningPairs": []
+        },
+        "0 TMPro.KerningPair m_kerningPair": 
+        {
+            "0 unsigned int m_FirstGlyph": 0,
+            "0 TMPro.GlyphValueRecord m_FirstGlyphAdjustments": 
+            {
+                "0 float xPlacement": 0,
+                "0 float yPlacement": 0,
+                "0 float xAdvance": 0,
+                "0 float yAdvance": 0
+            },
+            "0 unsigned int m_SecondGlyph": 0,
+            "0 TMPro.GlyphValueRecord m_SecondGlyphAdjustments": 
+            {
+                "0 float xPlacement": 0,
+                "0 float yPlacement": 0,
+                "0 float xAdvance": 0,
+                "0 float yAdvance": 0
+            },
+            "0 float xOffset": 0
+        },
+        "0 Array fallbackFontAssets": [],
+        "0 TMPro.FontAssetCreationSettings m_CreationSettings": 
+        {
+            "1 string sourceFontFileName": "",
+            "1 string sourceFontFileGUID": "516a46f4317bfe14a94277a3776483ac",
+            "0 int pointSizeSamplingMode": 0,
+            "0 int pointSize": 61,
+            "0 int padding": 5,
+            "0 int packingMode": 4,
+            "0 int atlasWidth": 128,
+            "0 int atlasHeight": 128,
+            "0 int characterSetSelectionMode": 7,
+            "1 string characterSequence": "ALIEN",
+            "1 string referencedFontAssetGUID": "213ca954b504be040a0f95c96ed51109",
+            "1 string referencedTextAssetGUID": "",
+            "0 int fontStyle": 0,
+            "0 float fontStyleModifier": 2,
+            "0 int renderMode": 6,
+            "1 UInt8 includeFontFeatures": 0
+        },
+        "0 Array fontWeights": [
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }},
+            {"0 TMPro.TMP_FontWeights data": 
+            {
+                "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                },
+                "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 0
+                }
+            }}
+        ],
+        "0 float normalStyle": 0,
+        "0 float normalSpacingOffset": 0,
+        "0 float boldStyle": 0.75,
+        "0 float boldSpacing": 7,
+        "1 UInt8 italicStyle": 35,
+        "1 UInt8 tabSize": 10
+    }
+}
