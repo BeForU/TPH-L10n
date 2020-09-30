@@ -13,7 +13,7 @@
             "0 SInt64 m_PathID": 1733
         },
         "1 string m_Name": "DancingScript-Regular SDF",
-        "0 int hashCode": 1106470,
+        "0 int hashCode": -529117759,
         "0 PPtr<$Material> material": 
         {
             "0 int m_FileID": 0,

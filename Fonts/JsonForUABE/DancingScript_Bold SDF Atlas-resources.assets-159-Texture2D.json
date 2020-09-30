@@ -4,9 +4,9 @@
         "1 string m_Name": "DancingScript-Bold SDF Atlas",
         "0 int m_ForcedFallbackFormat": 4,
         "1 bool m_DownscaleFallback": false,
-        "0 int m_Width": 1024,
+        "0 int m_Width": 2048,
         "0 int m_Height": 2048,
-        "0 int m_CompleteImageSize": 2097152,
+        "0 int m_CompleteImageSize": 4194304,
         "0 int m_TextureFormat": 1,
         "0 int m_MipCount": 1,
         "0 bool m_IsReadable": false,
@@ -28,9 +28,9 @@
         "1 TypelessData image data": [],
         "0 StreamingInfo m_StreamData": 
         {
-            "0 unsigned int offset": 20718072,
-            "0 unsigned int size": 2097152,
-            "1 string path": "resources.assets.resS"
+            "0 unsigned int offset": 0,
+            "0 unsigned int size": 4194304,
+            "1 string path": "sharedassetskr10.assets.resS"
         }
     }
 }

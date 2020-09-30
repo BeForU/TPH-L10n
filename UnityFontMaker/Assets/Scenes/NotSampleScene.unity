@@ -303,8 +303,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Sample\ntext123\uD14C\uC2A4\uD2B8"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5831c9d21b5c4794296778469abe7f66, type: 2}
-  m_sharedMaterial: {fileID: 21510846781367150, guid: 5831c9d21b5c4794296778469abe7f66,
+  m_fontAsset: {fileID: 11400000, guid: bed39257ca942f84b98846fb8c4a7449, type: 2}
+  m_sharedMaterial: {fileID: 21565970460136982, guid: bed39257ca942f84b98846fb8c4a7449,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -429,7 +429,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 21510846781367150, guid: 5831c9d21b5c4794296778469abe7f66, type: 2}
+  - {fileID: 21565970460136982, guid: bed39257ca942f84b98846fb8c4a7449, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -228,7 +228,7 @@
                     {"0 pair data": 
                     {
                         "1 string first": "_GradientScale",
-                        "0 float second": 6
+                        "0 float second": 2
                     }},
                     {"0 pair data": 
                     {
@@ -278,17 +278,17 @@
                     {"0 pair data": 
                     {
                         "1 string first": "_ScaleRatioA",
-                        "0 float second": 0.833333313
+                        "0 float second": 0.5
                     }},
                     {"0 pair data": 
                     {
                         "1 string first": "_ScaleRatioB",
-                        "0 float second": 0.677083313
+                        "0 float second": 0.40625
                     }},
                     {"0 pair data": 
                     {
                         "1 string first": "_ScaleRatioC",
-                        "0 float second": 0.677083313
+                        "0 float second": 0.40625
                     }},
                     {"0 pair data": 
                     {
@@ -343,7 +343,7 @@
                     {"0 pair data": 
                     {
                         "1 string first": "_TextureWidth",
-                        "0 float second": 1024
+                        "0 float second": 2048
                     }},
                     {"0 pair data": 
                     {

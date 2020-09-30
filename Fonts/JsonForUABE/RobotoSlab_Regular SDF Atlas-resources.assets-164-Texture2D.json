@@ -28,9 +28,9 @@
         "1 TypelessData image data": [],
         "0 StreamingInfo m_StreamData": 
         {
-            "0 unsigned int offset": 59515384,
+            "0 unsigned int offset": 0,
             "0 unsigned int size": 4194304,
-            "1 string path": "resources.assets.resS"
+            "1 string path": "sharedassetskr6.assets.resS"
         }
     }
 }

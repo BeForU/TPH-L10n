@@ -99,7 +99,7 @@
                             "0 PPtr<Texture> m_Texture": 
                             {
                                 "0 int m_FileID": 2,
-                                "0 SInt64 m_PathID": 30
+                                "0 SInt64 m_PathID": 5
                             },
                             "0 Vector2f m_Scale": 
                             {

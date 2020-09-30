@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/TPH-L10n/UnityFontMaker/BuildsByFont/SeoulM/TPH_Test.exe
+D:/TPH-L10n/UnityFontMaker/build/TPH_Test.exe
 SceneListBegin?
 Assets/Scenes/NotSampleScene.unity
 SceneListEnd?
