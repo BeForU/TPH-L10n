@@ -1,0 +1,11 @@
+sharedassetskr0.assets.resS - 나눔 아빠의 연애편지
+sharedassetskr1.assets.resS - 배민 주아체
+sharedassetskr2.assets.resS - 동그라미재단M
+sharedassetskr3.assets.resS - 네오둥근모
+sharedassetskr4.assets.resS - 닉시곤
+sharedassetskr5.assets.resS - Noto Sans Mono R
+sharedassetskr6.assets.resS - 서울한강B
+sharedassetskr7.assets.resS - 서울한강EB
+sharedassetskr8.assets.resS - 서울한강L
+sharedassetskr9.assets.resS - 서울한강M
+sharedassetskr10.assets.resS - 나눔 아빠의 연애편지 Bold

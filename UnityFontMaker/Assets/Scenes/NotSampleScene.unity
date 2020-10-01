@@ -303,8 +303,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Sample\ntext123\uD14C\uC2A4\uD2B8"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bed39257ca942f84b98846fb8c4a7449, type: 2}
-  m_sharedMaterial: {fileID: 21565970460136982, guid: bed39257ca942f84b98846fb8c4a7449,
+  m_fontAsset: {fileID: 11400000, guid: f1cf1f33d6afa444794512a69a8f06d5, type: 2}
+  m_sharedMaterial: {fileID: 21634432242156908, guid: f1cf1f33d6afa444794512a69a8f06d5,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -329,8 +329,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -347,7 +347,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 7
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -375,7 +375,7 @@ MonoBehaviour:
     spaceCount: 1
     wordCount: 2
     linkCount: 0
-    lineCount: 3
+    lineCount: 2
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0
@@ -429,7 +429,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 21565970460136982, guid: bed39257ca942f84b98846fb8c4a7449, type: 2}
+  - {fileID: 21634432242156908, guid: f1cf1f33d6afa444794512a69a8f06d5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
