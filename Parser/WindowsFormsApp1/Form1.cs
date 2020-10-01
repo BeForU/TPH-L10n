@@ -180,7 +180,11 @@ namespace TPHParser
 
         private void charBtn_Click(object sender, EventArgs e)
         {
-            string textData = File.ReadAllText("Translated.txt");
+            string ASCIIData = File.ReadAllText("CharList/ASCII.TXT");
+            string KSXData = File.ReadAllText("CharList/KSX1001.TXT");
+            string AppendData = File.ReadAllText("CharList/Append.TXT");
+
+            string textData = File.ReadAllText("Translated.txt") + ASCIIData + KSXData + AppendData;
             char[] output = (new string(textData.ToCharArray().Distinct().ToArray())).ToCharArray();
 
             Array.Sort(output);

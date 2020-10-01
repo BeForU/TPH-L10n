@@ -1,5 +1,5 @@
 Fonts & Materials/ARIAL SDF
-현재 병원에는 평범한 인간으로 위장한 외계인이 많이 있습니다. 당신은 그들을 찾아서 즉시 집으로 보내야합니다!   
+현재 병원에는 평범한 인간으로 위장한 외계인이 많이 있습니다. 당신은 그들을 찾아서 즉시 집으로 보내야합니다!
 달성 한 경력 목표 : <style="AdvisorHighlight">{[OBJECTIVE]}</style>\n보상을 받으려면지도의 경력 목표 목록으로 이동하십시오.
 Two Point Health Ministry에서 수여 한 수여 : <style="AdvisorHighlight">{[REWARD]}</style>
 챌린지 완료 : <style="AdvisorHighlight">{[NAME]}</style>\n보상 : <style="AdvisorHighlight">{[REWARDS]}</style>
