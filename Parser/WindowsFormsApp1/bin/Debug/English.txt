@@ -1,5 +1,5 @@
 Fonts & Materials/ARIAL SDF
-There are currently a lot of aliens in your hospital disguised as ordinary humans. You need to find them and send them home immediately!	
+There are currently a lot of aliens in your hospital disguised as ordinary humans. You need to find them and send them home immediately!
 Career Goal Achieved: <style="AdvisorHighlight">{[OBJECTIVE]}</style>\nTo collect your reward, go to the career goals list on the map.
 The Two Point Health Ministry has awarded you: <style="AdvisorHighlight">{[REWARD]}</style>
 Challenge Completed: <style="AdvisorHighlight">{[NAME]}</style>\nReward: <style="AdvisorHighlight">{[REWARDS]}</style>
@@ -10287,5 +10287,3 @@ CEO of Holistix
 CEO of Jumbo Mega Corp
 The Orb Foundation
 CEO of Bungle Tech
-
-

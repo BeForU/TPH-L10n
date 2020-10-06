@@ -37,7 +37,7 @@
             this.KorText = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.KorTextCN = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.runBtn = new System.Windows.Forms.Button();
-            this.saveBtn = new System.Windows.Forms.Button();
+            this.csvBtn = new System.Windows.Forms.Button();
             this.loadBtn = new System.Windows.Forms.Button();
             this.combineBtn = new System.Windows.Forms.Button();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
@@ -113,17 +113,16 @@
             this.runBtn.UseVisualStyleBackColor = true;
             this.runBtn.Click += new System.EventHandler(this.runBtn_Click);
             // 
-            // saveBtn
+            // csvBtn
             // 
-            this.saveBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.saveBtn.Location = new System.Drawing.Point(934, 106);
-            this.saveBtn.Name = "saveBtn";
-            this.saveBtn.Size = new System.Drawing.Size(107, 23);
-            this.saveBtn.TabIndex = 2;
-            this.saveBtn.Text = "Save";
-            this.saveBtn.UseVisualStyleBackColor = true;
-            this.saveBtn.Visible = false;
-            this.saveBtn.Click += new System.EventHandler(this.saveBtn_Click);
+            this.csvBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.csvBtn.Location = new System.Drawing.Point(934, 106);
+            this.csvBtn.Name = "csvBtn";
+            this.csvBtn.Size = new System.Drawing.Size(107, 23);
+            this.csvBtn.TabIndex = 2;
+            this.csvBtn.Text = "Export CSV";
+            this.csvBtn.UseVisualStyleBackColor = true;
+            this.csvBtn.Click += new System.EventHandler(this.csvBtn_Click);
             // 
             // loadBtn
             // 
@@ -172,6 +171,7 @@
             // 
             // charBtn
             // 
+            this.charBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.charBtn.Location = new System.Drawing.Point(934, 193);
             this.charBtn.Name = "charBtn";
             this.charBtn.Size = new System.Drawing.Size(107, 23);
@@ -190,7 +190,7 @@
             this.Controls.Add(this.exportBtn);
             this.Controls.Add(this.combineBtn);
             this.Controls.Add(this.loadBtn);
-            this.Controls.Add(this.saveBtn);
+            this.Controls.Add(this.csvBtn);
             this.Controls.Add(this.runBtn);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form1";
@@ -216,7 +216,7 @@
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.Button exportBtn;
         private System.Windows.Forms.Button importBtn;
-        private System.Windows.Forms.Button saveBtn;
+        private System.Windows.Forms.Button csvBtn;
         private System.Windows.Forms.Button charBtn;
     }
 }

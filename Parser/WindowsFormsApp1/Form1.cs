@@ -115,9 +115,47 @@ namespace TPHParser
             }
         }
 
-        private void saveBtn_Click(object sender, EventArgs e)
+        private void csvBtn_Click(object sender, EventArgs e)
         {
-            
+            int line;
+            string[] output = new string[dataGridView1.Rows.Count + 1];
+
+            for (int i = 0; i < dataGridView1.Rows.Count; i++)
+            {
+                line = Convert.ToInt32(dataGridView1.Rows[i].Cells[0].Value);
+
+                if (output[line] == null)
+                {
+                    output[line] = (string)dataGridView1.Rows[i].Cells[1].Value; // title(ID)
+                    output[line] += ("\t");
+                    output[line] += (string)dataGridView1.Rows[i].Cells[3].Value; // english
+                }
+            }
+
+            System.IO.File.WriteAllLines("English.csv", output);
+
+            output = null;
+            output = new string[dataGridView1.Rows.Count + 1];
+
+            for (int i = 0; i < dataGridView1.Rows.Count; i++)
+            {
+                line = Convert.ToInt32(dataGridView1.Rows[i].Cells[0].Value);
+
+                if (output[line] == null)
+                {
+                    output[line] = (string)dataGridView1.Rows[i].Cells[1].Value; // title
+                    output[line] += ("\t");
+                    output[line] += (string)dataGridView1.Rows[i].Cells[3].Value; // english
+                    output[line] += ("\t");
+                    output[line] += (string)dataGridView1.Rows[i].Cells[5].Value; // korean
+                    output[line] += ("\t");
+                    output[line] += (string)dataGridView1.Rows[i].Cells[2].Value; // comment
+                }
+            }
+
+            System.IO.File.WriteAllLines("Sheet.csv", output);
+
+            Console.WriteLine("CSV Export Done.");
         }
 
         private void loadBtn_Click(object sender, EventArgs e)
