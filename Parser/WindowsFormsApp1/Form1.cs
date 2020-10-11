@@ -52,7 +52,7 @@ namespace TPHParser
 
                     if (tempStringArray.Length > 1)
                     {
-                        description = tempStringArray[1];
+                        description = textData[i].Substring(textData[i].IndexOf('"') + 1, textData[i].LastIndexOf('"') - textData[i].IndexOf('"') - 1);
                     }
                 }
 
