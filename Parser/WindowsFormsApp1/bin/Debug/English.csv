@@ -2283,6 +2283,8 @@ Frontend/ContinueButton	Continue
 Frontend/DidYouKnow_Name	Albert Crank's Tips
 Frontend/Exhibition_Pack_Description	Give your next hospital the icy charm of an art gallery with items like the Armless Statue, Rocket Pig and Floppy Clock!
 Frontend/Exhibition_Pack_Name	Exhibition Item Pack
+Frontend/FancyDress_Pack_Description	Take off those regular clothes and replace them with… something else! Dress up your hospital with outfits, and items, like the Penguin Suit, Dying Trend and Roman Scandal!
+Frontend/FancyDress_Pack_Name	Fancy Dress Pack
 Frontend/FeaturedWorkshopItem_Description	As always, the latest featured item is our favourite yet. Design your own items and share them on Workshop, and maybe, one day, you'll be featured too.
 Frontend/FeaturedWorkshopItem_Name	Featured Workshop Item
 Frontend/HospitalPass_Items_Name	Hospital Pass
@@ -2307,6 +2309,8 @@ Frontend/Retro_Pack_Description	Retread the glorious days of a while ago with th
 Frontend/Retro_Pack_Name	Retro Item Pack
 Frontend/RoomTemplates_Description	Use the new Room Templates feature to save your favourite layouts and take them with you wherever you go!
 Frontend/RoomTemplates_Name	Room Templates
+Frontend/SEGA60th_Description	Celebrate 60 years of SEGA with arcade classics like OutRun and Periscope.
+Frontend/SEGA60th_Name	SEGA 60th Anniversary
 Frontend/SaveSlotsButton	Save Slots
 Frontend/SettingsButton	Settings
 Frontend/SummerFree_Items_2020_Description	To celebrate the summertime, we've added a set of meat-tastic items. Find them in the "Special" item filter.
@@ -3785,8 +3789,6 @@ Items/Exhibition_Pack/Bust_Description	Did they run out of clay?
 Items/Exhibition_Pack/Bust_Name	Bust
 Items/Exhibition_Pack/Bust_Name	Bust
 Items/Exhibition_Pack/Cowboy_Description	You can have this space cowboy.
-Items/Exhibition_Pack/Cowboy_Description	You can have this space cowboy.
-Items/Exhibition_Pack/Cowboy_Name	Space Cowboy
 Items/Exhibition_Pack/Cowboy_Name	Space Cowboy
 Items/Exhibition_Pack/Cube_Shifting_Description	Makes you think of a cube, despite not being one.
 Items/Exhibition_Pack/Cube_Shifting_Description	Makes you think of a cube, despite not being one.
@@ -3818,7 +3820,6 @@ Items/Exhibition_Pack/Kinetic_Black&White_Name	Black & White
 Items/Exhibition_Pack/Kinetic_Bronze_Description	Not a hat, just interesting.
 Items/Exhibition_Pack/Kinetic_Bronze_Description	Not a hat, just interesting.
 Items/Exhibition_Pack/Kinetic_Bronze_Name	Fascinator
-Items/Exhibition_Pack/Kinetic_Bronze_Name	Fascinator
 Items/Exhibition_Pack/Lionhead_Statue_Description	King of the synthetic pride.
 Items/Exhibition_Pack/Lionhead_Statue_Description	King of the synthetic pride.
 Items/Exhibition_Pack/Lionhead_Statue_Name	Lion's Head
@@ -3827,7 +3828,6 @@ Items/Exhibition_Pack/Lost_Keys_Description	Not finished, only lost.
 Items/Exhibition_Pack/Lost_Keys_Description	Not finished, only lost.
 Items/Exhibition_Pack/Lost_Keys_Name	Some Keys
 Items/Exhibition_Pack/Lost_Keys_Name	Some Keys
-Items/Exhibition_Pack/Melted_Clock_Description	Time fries.
 Items/Exhibition_Pack/Melted_Clock_Description	Time fries.
 Items/Exhibition_Pack/Melted_Clock_Name	Floppy Clock
 Items/Exhibition_Pack/Melted_Clock_Name	Floppy Clock
@@ -3875,6 +3875,18 @@ Items/Exhibition_Pack/Swinging_Balls_Description	Watch how they swing.
 Items/Exhibition_Pack/Swinging_Balls_Description	Watch how they swing.
 Items/Exhibition_Pack/Swinging_Balls_Name	Swinging Balls
 Items/Exhibition_Pack/Swinging_Balls_Name	Swinging Balls
+Items/FancyDress_Pack/Bunting_Description	Walls can wear costumes too.
+Items/FancyDress_Pack/Bunting_Name	Wall Dressing
+Items/FancyDress_Pack/CakeSale_Description	Chocolate and co.
+Items/FancyDress_Pack/CakeSale_Name	Cake Sale
+Items/FancyDress_Pack/Chest_Description	Like a dressing room but smaller.
+Items/FancyDress_Pack/Chest_Name	Costume Chest
+Items/FancyDress_Pack/CoinDrop_Description	Twirling towards freedom.
+Items/FancyDress_Pack/CoinDrop_Name	Coin Drop
+Items/FancyDress_Pack/HatStand_Description	A lid for all seasons.
+Items/FancyDress_Pack/HatStand_Name	Hat Stand
+Items/FancyDress_Pack/Tombola_Description	Spin the handle. Win a candle.
+Items/FancyDress_Pack/Tombola_Name	Tombola
 Items/FilingCabinet_Description	Stores medical records and romantic novels.
 Items/FilingCabinet_Mini_Description	Functional and adorable.
 Items/FilingCabinet_Mini_Name	Mini Filing Cabinet
@@ -3885,6 +3897,7 @@ Items/Filters/All	All
 Items/Filters/Decorative	Decorative
 Items/Filters/Entertainment	Entertainment
 Items/Filters/Exhibition	Exhibition
+Items/Filters/FancyDress	Fancy Dress
 Items/Filters/FoodDrink	Food & Drink
 Items/Filters/HealthSafety	Health & Safety
 Items/Filters/Locked	Locked
@@ -4357,6 +4370,14 @@ Items/RunningMachine_Upgrade_0_Description	Improved belt speed.
 Items/RunningMachine_Upgrade_0_Name	Heart Racer II
 Items/RunningMachine_Upgrade_1_Description	Advanced belt speed.
 Items/RunningMachine_Upgrade_1_Name	Heart Racer III
+Items/SEGA60th/DreamCatcher_Description	A real money-making crane game!\nSEGA 1989
+Items/SEGA60th/DreamCatcher_Name	Dream Catcher Arcade
+Items/SEGA60th/OutRun_Description	Push Start Button!\nInsert Coins!\nSEGA 1986
+Items/SEGA60th/OutRun_Name	OutRun Arcade
+Items/SEGA60th/Periscope_Description	Fun - Suspense - Excitement\nSEGA 1966
+Items/SEGA60th/Periscope_Name	Periscope Arcade
+Items/SEGA60th/SpaceHarrier_Description	Welcome to the Fantasy Zone.\nGet ready!\nSEGA 1985
+Items/SEGA60th/SpaceHarrier_Name	Space Harrier Mammoth
 Items/Server_1_Description	I've forgotten what this does. Seems good though.
 Items/Server_1_Name	Server
 Items/Server_AI_Description	The other smartest machine in Two Point County.
@@ -5715,9 +5736,10 @@ Menu/Preferences/Language/LanguageLabel	Language
 Menu/Preferences/Language/de	German (Deutsch)
 Menu/Preferences/Language/en	English (English)
 Menu/Preferences/Language/es	Spanish (Español)
-Menu/Preferences/Language/fr	Korean (한국어)
+Menu/Preferences/Language/fr	French (Français)
 Menu/Preferences/Language/it	Italian (Italiano)
 Menu/Preferences/Language/pl	Polish (Polski)
+Menu/Preferences/Language/pt-BR	Brazilian Portuguese (Português do Brasil)
 Menu/Preferences/Language/ru	Russian (Русский)
 Menu/Preferences/Language/zh-CN	Simplified Chinese (简体中文)
 Menu/Preferences/Language/zh-TW	Traditional Chinese (繁體中文)
@@ -6081,6 +6103,26 @@ Menu/StaffCustomisation/ApplyToAllAssistantsButton	Apply to all Assistants
 Menu/StaffCustomisation/ApplyToAllDoctorsButton	Apply to all Doctors
 Menu/StaffCustomisation/ApplyToAllJanitorsButton	Apply to all Janitors
 Menu/StaffCustomisation/ApplyToAllNursesButton	Apply to all Nurses
+Menu/StaffCustomisation/FancyDress_Pack_Head_Bunny	Bunny Ears
+Menu/StaffCustomisation/FancyDress_Pack_Head_DayOfTheDead	Festival Face
+Menu/StaffCustomisation/FancyDress_Pack_Head_Disguise	Mask of Mystery
+Menu/StaffCustomisation/FancyDress_Pack_Head_Drinks	Bev Brain
+Menu/StaffCustomisation/FancyDress_Pack_Head_Horse	Horse Head
+Menu/StaffCustomisation/FancyDress_Pack_Head_Venetian	Masquerade Masque
+Menu/StaffCustomisation/FancyDress_Pack_Head_Viking	Horny Helmet
+Menu/StaffCustomisation/FancyDress_Pack_Head_Wizard	Wizard Chops
+Menu/StaffCustomisation/FancyDress_Pack_Head_Wolf	Wolf Wear 
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_60s	Groovy Garb
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_70s	Disco Shawl
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_80s	Leisure Flare
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_90s	Spicy Smock
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_Egyptian	Pyramid Dreams
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_Fish	Something Fishy
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_Ninja	Ninja Girdle
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_Penguin	Penguin Suit
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_Pirate	Scurvy Dog
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_Roman	Roman Scandal
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_Zombie	Dying Trend
 Menu/StaffCustomisation/Options/Assistant_V2	Inverse
 Menu/StaffCustomisation/Options/Assistant_V3	Godric's Choice
 Menu/StaffCustomisation/Options/Assistant_V4	Aubergine

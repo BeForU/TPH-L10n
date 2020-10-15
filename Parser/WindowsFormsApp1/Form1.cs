@@ -31,7 +31,7 @@ namespace TPHParser
 
             for (int i = 0; i < textData.Length; i++)
             {
-                if (textData[i].StartsWith("    ["))
+                if (textData[i].StartsWith("   ["))
                 {
                     column = int.Parse(textData[i].Split('[', ']')[1]);
                 }
@@ -56,7 +56,7 @@ namespace TPHParser
                     }
                 }
 
-                else if (textData[i].StartsWith("        [0]"))
+                else if (textData[i].StartsWith("      [0]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {
@@ -69,7 +69,7 @@ namespace TPHParser
                     }
                 }
 
-                else if (textData[i].StartsWith("        [2]"))
+                else if (textData[i].StartsWith("      [2]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {
@@ -172,7 +172,7 @@ namespace TPHParser
        
             for (int i = 0; i < textData.Length; i++)
             {
-                if (textData[i].StartsWith("    ["))
+                if (textData[i].StartsWith("   ["))
                 {
                     column = int.Parse(textData[i].Split('[', ']')[1]);
                 }
@@ -197,7 +197,7 @@ namespace TPHParser
                     }
                 }
 
-                else if (textData[i].StartsWith("        [1]"))
+                else if (textData[i].StartsWith("      [1]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {

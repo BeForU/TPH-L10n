@@ -1,5 +1,5 @@
 Fonts & Materials/ARIAL SDF
-There are currently a lot of aliens in your hospital disguised as ordinary humans. You need to find them and send them home immediately!
+There are currently a lot of aliens in your hospital disguised as ordinary humans. You need to find them and send them home immediately!	
 Career Goal Achieved: <style="AdvisorHighlight">{[OBJECTIVE]}</style>\nTo collect your reward, go to the career goals list on the map.
 The Two Point Health Ministry has awarded you: <style="AdvisorHighlight">{[REWARD]}</style>
 Challenge Completed: <style="AdvisorHighlight">{[NAME]}</style>\nReward: <style="AdvisorHighlight">{[REWARDS]}</style>
@@ -2283,6 +2283,8 @@ Continue
 Albert Crank's Tips
 Give your next hospital the icy charm of an art gallery with items like the Armless Statue, Rocket Pig and Floppy Clock!
 Exhibition Item Pack
+Take off those regular clothes and replace them with… something else! Dress up your hospital with outfits, and items, like the Penguin Suit, Dying Trend and Roman Scandal!
+Fancy Dress Pack
 As always, the latest featured item is our favourite yet. Design your own items and share them on Workshop, and maybe, one day, you'll be featured too.
 Featured Workshop Item
 Hospital Pass
@@ -2307,6 +2309,8 @@ Retread the glorious days of a while ago with things of the past such as the Juk
 Retro Item Pack
 Use the new Room Templates feature to save your favourite layouts and take them with you wherever you go!
 Room Templates
+Celebrate 60 years of SEGA with arcade classics like OutRun and Periscope.
+SEGA 60th Anniversary
 Save Slots
 Settings
 To celebrate the summertime, we've added a set of meat-tastic items. Find them in the "Special" item filter.
@@ -3785,8 +3789,6 @@ Did they run out of clay?
 Bust
 Bust
 You can have this space cowboy.
-You can have this space cowboy.
-Space Cowboy
 Space Cowboy
 Makes you think of a cube, despite not being one.
 Makes you think of a cube, despite not being one.
@@ -3818,7 +3820,6 @@ Black & White
 Not a hat, just interesting.
 Not a hat, just interesting.
 Fascinator
-Fascinator
 King of the synthetic pride.
 King of the synthetic pride.
 Lion's Head
@@ -3827,7 +3828,6 @@ Not finished, only lost.
 Not finished, only lost.
 Some Keys
 Some Keys
-Time fries.
 Time fries.
 Floppy Clock
 Floppy Clock
@@ -3875,6 +3875,18 @@ Watch how they swing.
 Watch how they swing.
 Swinging Balls
 Swinging Balls
+Walls can wear costumes too.
+Wall Dressing
+Chocolate and co.
+Cake Sale
+Like a dressing room but smaller.
+Costume Chest
+Twirling towards freedom.
+Coin Drop
+A lid for all seasons.
+Hat Stand
+Spin the handle. Win a candle.
+Tombola
 Stores medical records and romantic novels.
 Functional and adorable.
 Mini Filing Cabinet
@@ -3885,6 +3897,7 @@ All
 Decorative
 Entertainment
 Exhibition
+Fancy Dress
 Food & Drink
 Health & Safety
 Locked
@@ -4357,6 +4370,14 @@ Improved belt speed.
 Heart Racer II
 Advanced belt speed.
 Heart Racer III
+A real money-making crane game!\nSEGA 1989
+Dream Catcher Arcade
+Push Start Button!\nInsert Coins!\nSEGA 1986
+OutRun Arcade
+Fun - Suspense - Excitement\nSEGA 1966
+Periscope Arcade
+Welcome to the Fantasy Zone.\nGet ready!\nSEGA 1985
+Space Harrier Mammoth
 I've forgotten what this does. Seems good though.
 Server
 The other smartest machine in Two Point County.
@@ -5718,6 +5739,7 @@ Spanish (Español)
 French (Français)
 Italian (Italiano)
 Polish (Polski)
+Brazilian Portuguese (Português do Brasil)
 Russian (Русский)
 Simplified Chinese (简体中文)
 Traditional Chinese (繁體中文)
@@ -6081,6 +6103,26 @@ Apply to all Assistants
 Apply to all Doctors
 Apply to all Janitors
 Apply to all Nurses
+Bunny Ears
+Festival Face
+Mask of Mystery
+Bev Brain
+Horse Head
+Masquerade Masque
+Horny Helmet
+Wizard Chops
+Wolf Wear 
+Groovy Garb
+Disco Shawl
+Leisure Flare
+Spicy Smock
+Pyramid Dreams
+Something Fishy
+Ninja Girdle
+Penguin Suit
+Scurvy Dog
+Roman Scandal
+Dying Trend
 Inverse
 Godric's Choice
 Aubergine
@@ -10287,3 +10329,5 @@ CEO of Holistix
 CEO of Jumbo Mega Corp
 The Orb Foundation
 CEO of Bungle Tech
+
+

@@ -5,7 +5,7 @@
         "0 PPtr<Shader> m_Shader": 
         {
             "0 int m_FileID": 0,
-            "0 SInt64 m_PathID": 7
+            "0 SInt64 m_PathID": 6
         },
         "1 string m_ShaderKeywords": "",
         "0 unsigned int m_LightmapFlags": 4,
