@@ -1,5 +1,6 @@
 ARIAL SDF	Fonts & Materials/ARIAL SDF
 Advisor/Aliens_TooManyAliens	There are currently a lot of aliens in your hospital disguised as ordinary humans. You need to find them and send them home immediately!	
+Advisor/Aliens_TooManyPaparazzi	There are currently a lot of paparazzi in your hospital disguised as ordinary guests. You need to find them and send them home immediately!	
 Advisor/CareerGoalComplete_CS	Career Goal Achieved: <style="AdvisorHighlight">{[OBJECTIVE]}</style>\nTo collect your reward, go to the career goals list on the map.
 Advisor/CareerGoalRewards_CS	The Two Point Health Ministry has awarded you: <style="AdvisorHighlight">{[REWARD]}</style>
 Advisor/Challenge_Completed	Challenge Completed: <style="AdvisorHighlight">{[NAME]}</style>\nReward: <style="AdvisorHighlight">{[REWARDS]}</style>
@@ -483,6 +484,65 @@ Challenges/DLC_4/VIP_Inspector_R9_V3_Intro_Message	Henry Jobsworth, the County�
 Challenges/DLC_4/VIP_RivalBoss_Holistix_R9_V1_Intro_Message	CEO of Holistix, Augustus Lavender will be coming to the hospital, soon.\n\nHe wants to see how we're getting on and chat to some likeminded herb-chewers.
 Challenges/DLC_4/VIP_RivalBoss_Holistix_R9_V2_Intro_Message	CEO of Holistix, Augustus Lavender will be coming to the hospital, soon.\n\nHe needs to lie low for a while because a group of employees, who weren't thrilled with receiving a "homeopathic bonus", have set up camp outside of his house, complete with pitchforks and burning effigy.
 Challenges/DLC_4/VIP_RivalBoss_Holistix_R9_V3_Intro_Message	CEO of Holistix, Augustus Lavender will be coming to the hospital, soon.\n\nHe's in the area to check on the mushroom harvest for the company's new "Fungal Foot Cream".
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Advisor_Intro	The show's producers have had an idea…
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Advisor_Outro_Failure_V1	We failed to fulfil the producers' request.
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Advisor_Outro_Success_V1	We've been given <style="AdvisorHighlight">{[REWARDS]}</style> by the producers, for fulfilling their request.
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Intro	The show's producers have had an idea. We'll receive some additional funding if we make it happen.
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Intro_Title	Producer Idea
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Name	Producer Idea
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Outro_Failure_V1	Failed Producer Request
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Outro_Success_V1	Completed Producer Request
+Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Outro_Title	Producer Idea
+Challenges/DLC_5/Objective_Television_Tutorial_Description	Kick off your medical masterpiece. Every story starts somewhere.
+Challenges/DLC_5/Objective_Television_Tutorial_Name	Pilot Episode
+Challenges/DLC_5/Patients_Mud_Arrival_Advisor	Soiled Self patients are arriving now…
+Challenges/DLC_5/Patients_Mud_Intro_Message	There's been an outbreak of Soiled Self at the festival after a portable toilet was knocked over and sprayed those waiting in line with mud. Well, it looked like mud.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_Mud_Intro_Message_V2	There's been an outbreak of Soiled Self at the festival after a group of attendees experienced leg tiredness and almost disappeared into the mud after trying to sit on the floor.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_Mud_Intro_Message_V3	There's been an outbreak of Soiled Self in the area after some joker thought it would be funny to start a "mud fight".\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_Mud_Intro_Title	Soiled Self Emergency
+Challenges/DLC_5/Patients_Mud_Name	Soiled Self Patients
+Challenges/DLC_5/Patients_Stuntman_Arrival_Advisor	Stunt Trouble patients are arriving now…
+Challenges/DLC_5/Patients_Stuntman_Intro_Message	There's been an outbreak of Stunt Trouble after a run on actors doing their own stunts has left their doubles sickeningly out of work.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_Stuntman_Intro_Message_V2	There's been an outbreak of Stunt Trouble in the area after a flash sale at Jimbo's Scooters, Capes & Jumpsuits got out of hand and negatively impacted the health of the community.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_Stuntman_Intro_Message_V3	There's been an outbreak of Stunt Trouble in the area after a recent screening of Roderick Cushion's blood-thumping classic "Brisk and Livid".\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_Stuntman_Intro_Title	Stunt Trouble Emergency
+Challenges/DLC_5/Patients_Stuntman_Name	Stunt Trouble Patients
+Challenges/DLC_5/Patients_ToySoldier_Arrival_Advisor	Private Parts patients are arriving now…
+Challenges/DLC_5/Patients_ToySoldier_Intro_Message	There's been an outbreak of Private Parts in the area after a rogue make-up artist used industrial strength costume putty and turned a group of extras in animated toys.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_ToySoldier_Intro_Message_V2	There's been an outbreak of Private Parts after a cluster of classic of family films were released on Bungle pictures, bringing out the local population's inner children to such an extent that they've fallen ill.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_ToySoldier_Intro_Message_V3	There's been an outbreak of Private Parts in the area after a local toy factory burned their faulty stock and the resulting fumes caused the rain to become especially acidic and wistful.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_5/Patients_ToySoldier_Intro_Title	Private Parts Emergency
+Challenges/DLC_5/Patients_ToySoldier_Name	Private Parts Patients
+Challenges/DLC_5/VIP_Celebrity_Actor_R10_V1_Intro_Message	Film star, and TV's favourite doctor, Roderick Cushion is in the area filming an episode of "Back Wards". His agents have asked if we'll let him run around in the fields to stretch his legs.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Challenges/DLC_5/VIP_Celebrity_Actor_R10_V2_Intro_Message	Film star, and occasional calorie counter, Roderick Cushion is in the area trying to find the VIP section. His agents have asked if we'll distract him by showing him around the hospital.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Challenges/DLC_5/VIP_Celebrity_Actor_R10_V3_Intro_Message	Film star, and novice bird-watcher, Roderick Cushion is in the area after donating a bronze chaffinch to the Mudbury Hawk Sanctuary. His agents have asked if we can get him into the festival for free, despite his vast, ever-growing wealth.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Challenges/DLC_5/VIP_Celebrity_PartyGuest_R10_Intro_Message	Zara has invited one of her famous friends to the hospital. We're not sure who it is, but they're on their way.\nIf they're impressed with the hospital it could be good for our reputation, and they might even make a donation. What do you think?
+Challenges/DLC_5/VIP_Celebrity_PopStar_R10_V1_Intro_Message	Popstar Jasmine Odyssey is in the area buying up large parts of the Arts District. Her agents have asked if we'd let her look around Plywood while she's at it.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Challenges/DLC_5/VIP_Celebrity_PopStar_R10_V2_Intro_Message	Popstar Jasmine Odyssey is in the area recording a music video for her latest single "Lights, Cameras, Fractions" and her agents have asked if she can stop by to take a break and use the toilet.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Challenges/DLC_5/VIP_Celebrity_PopStar_R10_V3_Intro_Message	Popstar Jasmine Odyssey is in the area visiting an unnamed friend in an unnamed location. Her agents have asked if she can come for a visit and remind us not to speak to her unless we're spoken to.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Challenges/DLC_5/VIP_Inspector_R10_V1_Intro_Message	Henry Jobsworth, the County’s foremost health and safety inspector, has informed us that he’ll be visiting us for an inspection soon. Mr Jobsworth adds that he watched television once and didn't see what the fuss was about, but he's willing to try again.\nHe’ll be arriving soon, a good report would help our reputation.
+Challenges/DLC_5/VIP_Inspector_R10_V2_Intro_Message	Henry Jobsworth, the County’s foremost health and safety inspector, has informed us that he’ll be visiting us for an inspection soon. Mr Jobsworth notes that he plays the trombone and is available to play at the festival, provided, of course, that we pass the inspection.\nHe’ll be arriving soon, a good report would help our reputation.
+Challenges/DLC_5/VIP_Inspector_R10_V3_Intro_Message	Henry Jobsworth, the County’s foremost health and safety inspector, has informed us that he’ll be visiting us for an inspection soon. Mr Jobsworth adds that he won't be able to inspect the yachts at the mansion due to chronic sea-sickness and a general mistrust of anything buoyant.\nHe’ll be arriving soon, a good report would help our reputation.
+Challenges/DLC_5/VIP_PartyGuest_Arrival_Advisor	A VIP guest is arriving at the Academy.
+Challenges/DLC_5/VIP_PartyGuest_Intro_Title	Zara's Guest
+Challenges/DLC_5/VIP_PartyGuest_Reward_Message_1	Zara says that her guest had a terrible time on their recent visit. Apparently it felt like being at a hospital. Harsh, but fair.
+Challenges/DLC_5/VIP_PartyGuest_Reward_Message_2	Zara says that her guest was a little disappointed by the hospital. Maybe we should try serving some salmon puffs?
+Challenges/DLC_5/VIP_PartyGuest_Reward_Message_3	Zara says that her guest hasn't mentioned their trip to the hospital, almost as if they don't remember coming… 
+Challenges/DLC_5/VIP_PartyGuest_Reward_Message_4	Zara says that her guest really enjoyed visiting the hospital. Zara has sent us a reward to compensate for the fact that she apparently took quite a lot of the credit.
+Challenges/DLC_5/VIP_PartyGuest_Reward_Message_5	Zara says her guest had a wonderful time during their visit. In fact, they even asked to come again, but Zara told them that we were "fully booked". She seemed to really enjoy doing that, so she's sent us a reward.
+Challenges/DLC_5/VIP_Zara_Arrival_Advisor	Artist Zara Fitzpocket is arriving at the hospital.
+Challenges/DLC_5/VIP_Zara_R10_V1_Intro_Message	Zara Fitzpocket has promised Roderick that she'll pay him a visit back stage. She's on her way to the hospital now.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Challenges/DLC_5/VIP_Zara_R10_V2_Intro_Message	Zara Fitzpocket is going to be stopping by the festival to take a quick photo and see how things are going.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Challenges/DLC_5/VIP_Zara_R10_V3_Intro_Message	Zara Fitzpocket is coming home for a fresh pair of socks. She says that she’ll make an appearance at the hospital while she's home.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Challenges/DLC_5/VIP_Zara_Reward_Message_1	Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Darling, I'm not sure what's going on at your hospital, but it doesn't seem to be living up to our initiative at the moment… I ask myself, is that what I want a hospital to be? Is that what I want Art to be? The answer, currently, is a resounding: no. Keep going and remember, failure is merely the opportunity to be less terrible in the future!"
+Challenges/DLC_5/VIP_Zara_Reward_Message_2	Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Your hospital reminds me of the first pancake. It's a little burnt, a tad uneven, the merest bit dreadful. You must embrace criticism to fulfil your promise. You must eat the bad pancake, for tomorrow is a new day. Return to your batter and prepare to flip again. Today is bitter, but the future looks delicious."
+Challenges/DLC_5/VIP_Zara_Reward_Message_3	Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "I can't say that I'm disappointed, nor can I can say that I'm all that excited. I can see what you're getting at, but it's just a little derivative, you know? It's... a hospital. Be bold! You have so much more to offer us."
+Challenges/DLC_5/VIP_Zara_Reward_Message_4	Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Exactly what I had hoped to find. The taste of my visit lingers sweetly in the mouth like an old, fond friend. Well done! I can't wait to see what you treat us to next."
+Challenges/DLC_5/VIP_Zara_Reward_Message_5	Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Your latest hospital is a triumph, my dear! Exquisitely unexpected, delectably subtle. Like all great Art, your hospital has surely changed the County, as well as my life, forever. What an experience. What a hospital. Thank you."
+Challenges/DLC_5/VIP_Zara_Title	Art Review
+Challenges/DLC_5/VIP_Zara_V1_Intro_Message	Zara Fitzpocket is tired of watching paint dry, so she's on her way to the hospital for a visit.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Challenges/DLC_5/VIP_Zara_V2_Intro_Message	Zara Fitzpocket is on her way to a salmon tasting but wants to pop in for a visit.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Challenges/DLC_5/VIP_Zara_V3_Intro_Message	Zara Fitzpocket is in a mid-painting rut and wants to visit the hospital for a change of scenery.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
 Challenges/Earthquake_AdvisorMessage	Earthquake Warning: There are reports of seismic activity in the area.
 Challenges/Earthquake_Description	
 Challenges/Earthquake_ElectricalStorm_AdvisorMessage	Disaster Warning: There are reports of electrical storms in the area.
@@ -982,6 +1042,7 @@ Challenges/Objective_VS_Ward_Name	Ward & Peace
 Challenges/Online/StarsAchieved_CS	Stars Achieved
 Challenges/Online/TotalKudoshEarned	Total Kudosh Earned
 Challenges/Online/TotalSilverEarned_CS	Total Silver Earned
+Challenges/PaparazziaRevealedInspectorStamp	PRESS
 Challenges/PatientsCuredAndFailed_CS	<color=#22ff22>Cured: {0}</color> <color=#ff2222>Failed: {1}</color>
 Challenges/Patients_8Bit_Arrival_Advisor	8-bitten patients are arriving…
 Challenges/Patients_8Bit_Intro_Message	A group of 8-bitten patients need curing!
@@ -1138,7 +1199,7 @@ Challenges/Patients_Pharmacy_R3_Intro_Message	A group of Pharmacy patients have 
 Challenges/Patients_Pharmacy_R4_Intro_Message	A group of Pharmacy patients have broken out of an Orb Wellness Centre, and are now looking for further treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 Challenges/Patients_Pharmacy_R5_Intro_Message	A group of Pharmacy patients were kicked out of a Jumbo Hospital for making "slanderous" comments about Mr McNally, and are now looking for further treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 Challenges/Patients_Pharmacy_V1_Intro_Message	There's been an outbreak of Pharmacy-related illnesses after a recent craze that involved eating highlighter pens took the County by storm. There's a group looking for treatment, now.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
-Challenges/Patients_Pharmacy_V2_Intro_Message	There's been an outbreak of Pharmacy-related illnesses after a software update for Bungle's "Smart-Plasters" led to multiples cases of blood poisoning. A group are looking for treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
+Challenges/Patients_Pharmacy_V2_Intro_Message	There's been an outbreak of Pharmacy-related illnesses after a software update for Bungle's "Smart-Plasters" led to multiple cases of blood poisoning. A group are looking for treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 Challenges/Patients_PlantWard_Arrival_Advisor	Patients for Herb Garden are arriving…
 Challenges/Patients_PlantWard_Intro_Message	There's a group of patients looking for treatment in the Herb Garden after some cavalier allotmenteers played around with radioactivity and developed illnesses instead of superpowers.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 Challenges/Patients_PlantWard_Intro_Message_V2	There's a group of patients looking for treatment in the Herb Garden after Jasmine Odyssey's performance at a local botanical garden was so potent that it triggered a mass blooming that made the air mildly toxic.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
@@ -1206,8 +1267,6 @@ Challenges/Patients_Ward_R5_Intro_Message	A group of Ward patients were kicked o
 Challenges/Patients_Ward_V1_Intro_Message	There's been an outbreak of Ward-related illnesses after a range of ultra-organic bedding from Holistix caused widespread irritation and inflammation. There's a group looking for treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 Challenges/Patients_Ward_V2_Intro_Message	There's been an outbreak of Ward-related illnesses after the Two Point Squabbler released a feature on "Advanced Sleeping Positions" with incorrect diagrams, that led to a range of internal and external conditions. There's a group looking for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
 Challenges/Remix/Objective_HospitalStarRating_Description	Receive a star for completing challenges in this simulated hospital scenario.
-Challenges/Remix/Objective_HospitalStarRating_Description	Receive a star for completing challenges in this simulated hospital scenario.
-Challenges/Remix/Objective_HospitalStarRating_Name	Star Challenge
 Challenges/Remix/Objective_HospitalStarRating_Name	Star Challenge
 Challenges/Remix/Objective_WealthyHospitalTutorial_Description	Use targeted marketing to draw specific types of patients to the hospital.
 Challenges/Remix/Objective_WealthyHospitalTutorial_Name	Lure & Cure
@@ -1417,6 +1476,8 @@ Challenges/SubGoals/Epidemic_CS	Infected: {[COUNT]}\nVaccines: {[VACCINES]}\nEsc
 Challenges/SubGoals/FeedPatients_Progress	{[COUNT]} Remaining
 Challenges/SubGoals/FeedPatients_Title	Feed {[COUNT]} People
 Challenges/SubGoals/FeedPatients_Tooltip	Cater for patients by collecting rainwater and growing fruit and vegetables. It'll take some time, and can't be rushed, but it's better for you than all that delicious, processed rubbish.
+Challenges/SubGoals/FireStaff_Goal_CS	Fire {[COUNT]} Members of Staff[i2p_One]Fire a Member of Staff
+Challenges/SubGoals/FireStaff_Goal_Tooltip_CS	To fire a member of staff, select them and then select the "Fire" button. Fired staff cannot be re-hired.
 Challenges/SubGoals/GeneralMarketingCampaignCompleteAny_CS	Complete A General Marketing Campaign
 Challenges/SubGoals/GenerateElectricity_Tooltip	Purchase green energy machines to increase your power supply. Different types of machine will provide your hospital with different amounts of energy.
 Challenges/SubGoals/HireStaff_Assistant_Goal_CS	Hire {[COUNT]} Assistants[i2p_One]Hire an Assistant
@@ -1439,9 +1500,15 @@ Challenges/SubGoals/Hygiene_Goal_CS	Hygiene Rating of {[RATING]}
 Challenges/SubGoals/Hygiene_Progress_CS	Hygiene Rating {[RATING]}
 Challenges/SubGoals/Hygiene_Tooltip	Improve hygiene levels by placing hand sanitiser dispensers, sinks and hand dryers, as well as getting your janitors to clean up any waste around the hospital.
 Challenges/SubGoals/IllnessMarketingCampaignCompleteAny_CS	Complete an Illness Marketing Campaign
+Challenges/SubGoals/ImpressVIPs_Goal_CS	Impress {[COUNT]} VIPs[i2p_One]Impress a VIP
+Challenges/SubGoals/ImpressVIPs_Goal_Tooltip_CS	Impress visiting VIPs by having an attractive, clean and well-maintained hospital with lots of entertainment and prestigiously decorated rooms.
 Challenges/SubGoals/LaunchMarketingCampaigns_Goal_CS	Launch {[COUNT]} Marketing Campaigns[i2p_One]Launch a Marketing Campaign
 Challenges/SubGoals/LearnAnyQualification_Goal_CS	Learn any Qualification
 Challenges/SubGoals/LearnQualification_Goal_CS	Learn {[QUALIFICATION]}
+Challenges/SubGoals/MachinesCatchFire_Goal_CS	Allow {[COUNT]} Machines to Catch Fire[i2p_One]Allow a Machine to Catch Fire
+Challenges/SubGoals/MachinesCatchFire_Goal_Tooltip_CS	Machines will catch fire if they're neglected by maintenance staff.
+Challenges/SubGoals/MachinesExplode_Goal_CS	Allow {[COUNT]} Machines to Catch Explode[i2p_One]Allow a Machine to Explode
+Challenges/SubGoals/MachinesExplode_Goal_Tooltip_CS	Machines will catch fire if they're neglected by maintenance staff. If a fire isn't extinguished, the machine will eventually explode.
 Challenges/SubGoals/MarketingCampaignCompleteAny_CS	Complete a Marketing Campaign
 Challenges/SubGoals/MarketingCampaignComplete_CS	Complete a {[CAMPAIGN]} campaign
 Challenges/SubGoals/MarketingCampaignMonthsSpentOnLONG_CS	Conduct {[MONTHS]} Months of Marketing
@@ -1463,6 +1530,7 @@ Challenges/SubGoals/OwnPlots_Goal_CS_Jungle	Own {[COUNT]} Plots[i2p_One]Own {[CO
 Challenges/SubGoals/OwnPlots_PlotChallenges_Tooltip	Click on a plot to view its objective. Select "Start Challenge" to activate that objective, then achieve the criteria in order to unlock that plot. Up to three plot objectives can be active at the same time.
 Challenges/SubGoals/OwnPlots_Tooltip	Buy another plot of land or building nearby to expand your hospital.
 Challenges/SubGoals/PatientDeaths_CS	Sacrifice {[DEATHS]} Patients
+Challenges/SubGoals/PatientDeaths_TV_CS	Kill Off {[DEATHS]} Patients[i2p_One]Kill Off a Patient
 Challenges/SubGoals/Power_Patients_Title	Patient Flow
 Challenges/SubGoals/Power_Patients_Tooltip_CS	Allocate power to the Patient Flow transport system to increase the number of patients arriving at the hospital.
 Challenges/SubGoals/Power_Rooms_Title	Open Rooms
@@ -1486,6 +1554,14 @@ Challenges/SubGoals/Research_Tooltip	Complete research in a Research Room. Selec
 Challenges/SubGoals/RevealAliens_Goal_CS	Expose {[COUNT_ALIENS]} Alien Infiltrators
 Challenges/SubGoals/RevealAliens_Progress_CS	Found {[COUNT_REVEALED]} of {[COUNT_ALIENS]}
 Challenges/SubGoals/RevealAliens_Tooltip	Look out for Alien Infiltrators, they'll make a mess and waste our time. Send them home if you spot them. Their cloaking devices faulter occasionally, but they can also be seen looking in bins, taking notes or acting in an un-human-like fashion. 
+Challenges/SubGoals/RevealPaparazzi_Goal_CS	Expose {[COUNT_ALIENS]} Paparazzi[i2p_One]Expose {[COUNT_ALIENS]} Paparazzo
+Challenges/SubGoals/RevealPaparazzi_Progress_CS	Found {[COUNT_REVEALED]} of {[COUNT_ALIENS]}
+Challenges/SubGoals/RevealPaparazzi_Tooltip	Look out for Paparazzi, they'll invade our privacy and waste our time. You may notice them looking in bins, taking pictures or writing down secrets. Send them home if you spot them and their flashing cameras.
+Challenges/SubGoals/Roderick_CurePatientsInRoom_Goal_CS	Have Roderick Cushion Cure {[COUNT]} Patients in {[ROOM]}[i2p_One]Have Roderick Cushion Cure a Patient in {[ROOM]}
+Challenges/SubGoals/Roderick_CurePatientsWithIllness_Goal_CS	Have Roderick Cushion Cure {[COUNT]} Patients with {[ILLNESS]}[i2p_One]Have Roderick Cushion Cure a Patient with {[ILLNESS]}
+Challenges/SubGoals/Roderick_CurePatients_Goal_CS	Have Roderick Cushion Cure {[COUNT]} Patients[i2p_One]Have Roderick Cushion Cure a Patient
+Challenges/SubGoals/Roderick_Cure_Tooltip_CS	Roderick Cushion may need to be qualified to work in certain rooms. He won't listen to any changes you make in the Job Assignment screen, but you can pick him up and place him wherever you like.
+Challenges/SubGoals/Roderick_DiagnosePatients_Goal_CS	Have Roderick Cushion Diagnose {[COUNT]} Patients[i2p_One]Have Roderick Cushion Diagnose a Patient
 Challenges/SubGoals/RoomCount_Goal_CS	Build {[COUNT]} rooms
 Challenges/SubGoals/RoomCount_Progress_CS	{[COUNT]} remaining
 Challenges/SubGoals/RoomPrestigeAny_CS	Get a Level {[LEVEL]} Room
@@ -1515,6 +1591,7 @@ Challenges/SubGoals/StaffTrain_Janitor_Goal_CS	Train {[COUNT]} Janitors[i2p_One]
 Challenges/SubGoals/StaffTrain_NurseQualification_Goal_CS	Train {[COUNT]} Nurses in {[QUALIFICATION]}[i2p_One]Train a Nurse in {[QUALIFICATION]}
 Challenges/SubGoals/StaffTrain_Nurse_Goal_CS	Train {[COUNT]} Nurses[i2p_One]Train a Nurse
 Challenges/SubGoals/StaffTrain_Qualification_Goal_CS	Train {[COUNT]} Staff in {[QUALIFICATION]}[i2p_One]Train a Staff member in {[QUALIFICATION]}
+Challenges/SubGoals/StaffTrain_Roderick_Goal_CS	Train Roderick Cushion
 Challenges/SubGoals/StaffTrain_Tooltip	Staff with a free training slot can be sent on a training course in a Training Room. Promote staff to allow them to do more training.
 Challenges/SubGoals/ThermalComfort_Goal_CS	Thermal Comfort of {[TARGET]}
 Challenges/SubGoals/ThermalComfort_Progress_CS	Thermal Comfort {[SCORE]}
@@ -1525,18 +1602,24 @@ Challenges/SubGoals/TotalStars_Goal_CS	Get {[COUNT]} stars[i2p_One]Get a star
 Challenges/SubGoals/TotalStars_Progress_CS	{[COUNT]} remaining
 Challenges/SubGoals/UpgradeItem_Goal_CS	Upgrade {[COUNT]} Machines[i2p_One]Upgrade a Machine
 Challenges/SubGoals/UpgradeItem_Tooltip	Select a machine and choose the upgrade option if you have one available. You'll need a Janitor with a Mechanics Qualification to apply the upgrade. Unlock more upgrades through research and challenges.
+Challenges/SubGoals/VIBE_ToolTip_CS	The monthly funding that you receive from Zara can vary between {[LOWER]} and {[UPPER]} of your current running costs, depending on our rating from the Vibe System during the previous 3 month evaluation period.
 Challenges/SubGoals/Vaccination_Goal_CS	Vaccinate {[COUNT]} Infected People
 Challenges/SubGoals/Vaccination_Tooltip	When there is a contagious disease in the hospital, vaccinate people who exhibit the symptoms.
 Challenges/SubGoals/Wellness_Attractiveness_ToolTip_CS	Decorate the hospital and minimise loose rubbish and waste.
 Challenges/SubGoals/Wellness_CureRate_ToolTip_CS	Use upgraded machinery and qualified staff.
 Challenges/SubGoals/Wellness_Hygiene_ToolTip_CS	Supply hand sanitiser and keep toilets well-equipped.
 Challenges/SubGoals/Wellness_PatientHappiness_ToolTip_CS	Keep visitors entertained and well-fed.
+Challenges/SubGoals/Wellness_PatientHealth_Name_CS	Patient Health
+Challenges/SubGoals/Wellness_PatientHealth_ToolTip_CS	Cure patients quickly (or send them home).
 Challenges/SubGoals/Wellness_Reputation_ToolTip_CS	Use marketing and positive word-of-mouth.
+Challenges/SubGoals/Wellness_RoomPrestige_ToolTip_CS	Decorate every room to the highest standard.
 Challenges/SubGoals/Wellness_StaffHappiness_ToolTip_CS	Pay well and provide a nice working environment.
 Challenges/SubGoals/Wellness_ToolTip_CS	The monthly funding that you receive from Holistix can vary between {[LOWER]} and {[UPPER]} of your current running costs, depending on your score on the Wellness Index during the previous 3 month evaluation period.
 Challenges/Subgoals/JungleClearingUnlockPlot_Tooltip	Click on an overgrown plot to view its objective. Select "Start Challenge" to activate that objective, then achieve the criteria in order to unlock that plot. Up to three plot objectives can be active at the same time.
 Challenges/Subgoals/ReachHordeWave_Tooltip	A wave is completed, and we'll advance to the next wave, if we're able to achieve the target cure rate for that wave. If the target cure rate isn't met, we'll have to repeat the last wave.
 Challenges/Subgoals/ReachWaveObjectivesHordeWave_Tooltip	Each wave begins with a number of patients arriving. We'll need to successfully complete all Wave Objectives, before all of the patients have been processed, in order to progress to the next wave.
+Challenges/Subgoals/VIBE_Funding	VIBE Funding
+Challenges/Subgoals/VIBE_Title	VIBE System
 Challenges/Subgoals/Wellness_Funding	Wellness Funding
 Challenges/Subgoals/Wellness_Title	Wellness Index
 Challenges/Sunbeam_AdvisorMessage	Disaster Warning: There are reports of a solar event affecting the area.
@@ -1544,6 +1627,7 @@ Challenges/Sunbeam_Name	Solar Event
 Challenges/Sunbeam_NotificationMessage	Warning, a solar event has been detected! This could damage our machinery.
 Challenges/TimeLimit_CS	{0} / {1} days[i2p_One]{0} / {1} day
 Challenges/Travelling_CS	Travelling ...
+Challenges/VIBE_AdvisorMessage_CS	Funding Update: Zara will now cover <style="AdvisorHighlight">{[PERCENT]}</style> of our total running costs for the next 3 months, based on our rating from the <style="AdvisorHighlight">VIBE System</style>.
 Challenges/VIPInspector_AdvisorMessage	Health Inspector Henry Jobsworth is arriving at the hospital.
 Challenges/VIPInspector_NotificationMessage	We are delighted to announce that the Board of Health and Safety will be sending one of our inspectors to your hospital shortly for an inspection. Mr Henry Jobsworth will arrive and be carrying out inspections of your diagnosis equipment. We hope everything is in ship-shape!
 Challenges/VIPInspector_NotificationTitle	Notice of Inspection
@@ -2161,7 +2245,6 @@ Credits/Resource Manager	Resource Manager
 Credits/Retail Licensing Manager	Retail Licensing Manager
 Credits/SEGA HARDlight	SEGA HARDlight
 Credits/SVP Business Planning	SVP, Business Planning
-Credits/SVP Business Planning	SVP, Business Planning
 Credits/SVP Commercial Publishing	SVP, Commercial Publishing
 Credits/Searchlight	Searchlight
 Credits/SegaInternalTPSTeam	Brand and Community Team
@@ -2193,7 +2276,6 @@ Credits/Testology QA Academy	Testology QA Academy
 Credits/Thanks for playing	Thanks for playing!
 Credits/Training and Recruitment Supervisor	Training and Recruitment Supervisor
 Credits/VP Digital Business	VP, Digital Business
-Credits/VP Digital Business	VP, Digital Business
 Credits/VP HR	VP, HR
 Credits/VP of Production and Development Services	VP of Production and Development Services
 Credits/Video Suite Assistant	Video Suite Assistant
@@ -2212,10 +2294,12 @@ DJ/SongArtists/BlueberryLonghorn	Blueberry Longhorn
 DJ/SongArtists/BookSmell	Book Smell
 DJ/SongArtists/BoysOnKrill	Boys On Krill
 DJ/SongArtists/ChickenButter	Chicken Butter
+DJ/SongArtists/CreditSequins	Credit Sequins
 DJ/SongArtists/CuticleKarate	Cuticle Karate
 DJ/SongArtists/EasilyEasely	Easily Easely
 DJ/SongArtists/EggAndTerracottaSoldiers	Egg and Terracotta Soldiers
 DJ/SongArtists/FlemingtonLa	Flemington La
+DJ/SongArtists/FourManTent	Four Man Tent
 DJ/SongArtists/GibbonMoon	Gibbon Moon
 DJ/SongArtists/HavingItLarge	Having It Large
 DJ/SongArtists/JULIA	J-U-L-I-A
@@ -2232,6 +2316,7 @@ DJ/SongArtists/PuffinPot	Puffin Pot
 DJ/SongArtists/SpeakingFaces	Speaking Faces
 DJ/SongArtists/Starfish&LunaTuna	Starfish & Luna Tuna
 DJ/SongArtists/SteamTrout	Steam Trout
+DJ/SongArtists/TheSoupSwoons	The Soup Swoons
 DJ/SongArtists/TheStudMuffins	The Stud Muffins
 DJ/SongArtists/TwoWithMustard	Two with Mustard
 DJ/SongArtists/UncleMonk	Uncle Monk Funkle
@@ -2244,6 +2329,7 @@ DJ/SongNames/BigFootsCommute	Big Foot's Commute
 DJ/SongNames/CoastalCanopy	Coastal Canopy
 DJ/SongNames/ComeOnOver	Come on Over
 DJ/SongNames/DjangoInTheJungle	Django in the Jungle
+DJ/SongNames/FebricantFestival	Febricant Festival
 DJ/SongNames/FiresideFling	Fireside Fling
 DJ/SongNames/FishWhispers	Fish Whispers
 DJ/SongNames/Frosty Bells	Frosty Bells
@@ -2268,8 +2354,10 @@ DJ/SongNames/RegainRecover	Recover & Regain
 DJ/SongNames/RemedyHill	Remedy Hill
 DJ/SongNames/Route69	Route 69
 DJ/SongNames/SambadeMedicana	Samba de Medicana
+DJ/SongNames/SitcomStrum	Sitcom Strum
 DJ/SongNames/Stethoscopes	Stethoscopes and Kaleidoscopes
 DJ/SongNames/Sundries	Sundries
+DJ/SongNames/TheGalereGala	The Galère Gala
 DJ/SongNames/TheGambleMan	The Gamble Man
 DJ/SongNames/TheLastDose	The Last Dose
 DJ/SongNames/TheUrbanElectric	The Urban Electric
@@ -2283,6 +2371,8 @@ Frontend/ContinueButton	Continue
 Frontend/DidYouKnow_Name	Albert Crank's Tips
 Frontend/Exhibition_Pack_Description	Give your next hospital the icy charm of an art gallery with items like the Armless Statue, Rocket Pig and Floppy Clock!
 Frontend/Exhibition_Pack_Name	Exhibition Item Pack
+Frontend/FancyDress_Free_Description	Click here to view the Fancy Dress Pack and claim your free "Dying Trend" staff customisation option.
+Frontend/FancyDress_Free_Name	Fancy Dress Freebie
 Frontend/FancyDress_Pack_Description	Take off those regular clothes and replace them with… something else! Dress up your hospital with outfits, and items, like the Penguin Suit, Dying Trend and Roman Scandal!
 Frontend/FancyDress_Pack_Name	Fancy Dress Pack
 Frontend/FeaturedWorkshopItem_Description	As always, the latest featured item is our favourite yet. Design your own items and share them on Workshop, and maybe, one day, you'll be featured too.
@@ -2300,8 +2390,6 @@ Frontend/Music_Name	Radio Customisation
 Frontend/NewCareerButton	Start New Game
 Frontend/QuitButton	Quit
 Frontend/Remix_Description	"Play" challenging hypothetical scenarios in the prototype of Bungle's hospital simulation software. Rendered Environments of Medical Intrigue (X) will be used to train administrators, but first they need someone (that's you) to test it out.
-Frontend/Remix_Description	"Play" challenging hypothetical scenarios in the prototype of Bungle's hospital simulation software. Rendered Environments of Medical Intrigue (X) will be used to train administrators, but first they need someone (that's you) to test it out.
-Frontend/Remix_Name	R.E.M.I. X
 Frontend/Remix_Name	R.E.M.I. X
 Frontend/Remix_NewToRemix_Name	New to R.E.M.I. X
 Frontend/Remix_World2_Description	\nR.E.M.I. X now includes alternate versions of Mitton University, Tumble and Flemington for administrators who have achieved a 1 Star rating in those hospitals.
@@ -2318,8 +2406,6 @@ Frontend/SummerFree_Items_2020_Name	BBQ Season
 Frontend/Superbug_Beta_Name	Superbug Beta
 Frontend/Superbug_Betal_Description	The Superbug Initiative has begun on Open Beta. Collaborate with your friends, and the entire medical community to discover rewards and give Two Point County's tech an update.
 Frontend/Superbug_General_Description	Collaborate with your friends, and the entire medical community, on cutting-edge research to discover unique in-game rewards. Head to the Superbug Network to get started.
-Frontend/Superbug_General_Description	Collaborate with your friends, and the entire medical community, on cutting-edge research to discover unique in-game rewards. Head to the Superbug Network to get started.
-Frontend/Superbug_General_Name	The Superbug Initiative
 Frontend/Superbug_General_Name	The Superbug Initiative
 Frontend/Superbug_Global_Description	There is currently an active Global Superbug Project. Head to the Superbug Network to contribute and collect your rewards!
 Frontend/Superbug_Global_Name	Superbug: Global Project Alert!
@@ -2483,6 +2569,18 @@ HospitalPlot/AbandonedHospital_Plot_06_Name	Plot 7
 HospitalPlot/BuyPlotSeparator_CS	 or 
 HospitalPlot/BuyPlot_CS	Requires 
 HospitalPlot/Config_Plot_00_Name	Plot 0
+HospitalPlot/DLC/Studio_A	Stage A
+HospitalPlot/DLC/Studio_B	Stage B
+HospitalPlot/DLC/Studio_C	Stage C
+HospitalPlot/DLC/Studio_D	Stage D
+HospitalPlot/DLC/Studio_E	Stage E
+HospitalPlot/DLC/Studio_F	Stage F
+HospitalPlot/DLC/Studio_G	Stage G
+HospitalPlot/DLC/Studio_H	Stage H
+HospitalPlot/DLC/Studio_I	Stage I
+HospitalPlot/DLC/Studio_J	Stage J
+HospitalPlot/DLC/Studio_K	Stage K
+HospitalPlot/DLC/Studio_L	Stage L
 HospitalPlot/DemoHospital_Plot_00_Name	Plot 1
 HospitalPlot/DisasterHospital_Plot_00_Name	Plot 1
 HospitalPlot/DisasterHospital_Plot_01_Name	Plot 2
@@ -2975,6 +3073,81 @@ Illness/DLC_4/VegNose_Description	An infection that transmogrifies the nose, tur
 Illness/DLC_4/VegNose_Name	Root Snoot
 Illness/DLC_4/WeepingIris_Description	Sustained sobbing has left the sufferer with a leaky aperture, or two. They require cheering up, and a chemical treatment that tightens the body's plumbing.
 Illness/DLC_4/WeepingIris_Name	Weeping Iris
+Illness/DLC_5/ActionHero_Description	Sufferers have an inflated, totally unreasonable perception of their own importance and ability. They must undergo a course of mild, psychiatric beration to be reverted from pathologically obnoxious to neurotically normal. Caused by two-for-one film tickets and letting relatively small compliments go to your head. 
+Illness/DLC_5/ActionHero_Name	Protagony
+Illness/DLC_5/ArtSick_Description	A condition that ranges in severity from mild ennui to intense, existential hopelessness. Caused by paint fumes, undiluted watercolours and colouring outside the lines.
+Illness/DLC_5/ArtSick_Name	Art Sick
+Illness/DLC_5/Blooper_Description	The body's internal code has adopted a fundamental, often comical, error. The unprofessional sequence must be removed from main body of the DNA and transferred into the body's bonus DNA. Sufferers may laugh uncontrollably or ask for their "line". 
+Illness/DLC_5/Blooper_Name	Blooper
+Illness/DLC_5/BlueBlood_Description	The sufferer's vital fluids have taken on a garish, almost smug, shade of blue. Caught from money that has been left sitting out, often for generations, the sufferer must have their blood audited and the troublesome wealth taken away from them, at once.
+Illness/DLC_5/BlueBlood_Name	Blue Blood
+Illness/DLC_5/BrokenLeg_Description	Veterans of the theatre, as well as medical professionals, understand the risks of wishing performers "good luck". In fact, over 1.5% of the broken legs in Two Point County - every year - are a direct, ironic result of a well-wisher forgetting to say the much safer "break a leg". Your intentions don't matter. Think before you wish luck on others.
+Illness/DLC_5/BrokenLeg_Name	Broken Leg
+Illness/DLC_5/Canapains_Description	Sufferers experience little morsels of intestinal discomfort. Caused by dodgy finger food and poorly washed silverware. The Hors d'oeuvre (order) of business is to rummage around inside them to remove whatever exotic egg, expensive seasoning or smoked-something that's causing all their discomfort. 
+Illness/DLC_5/Canapains_Name	Canapains
+Illness/DLC_5/Concertoes_Description	Films have led us to believe that pianos only fall on people's heads, but sometimes they land on people's feet, too, and that is also really unideal. Due to severe fracturing of the toes, the sufferer produces a noise when they walk that sounds faintly like classical music.
+Illness/DLC_5/Concertoes_Name	Concertoes
+Illness/DLC_5/CorruptFootage_Description	The sufferer has developed holes in the bones of their feet that will require editing. Must be restored carefully and then wrapped in a protective, analogue film. Caused by tripping on set, dropping reels on your heels and someone leaving a franchised coffee cup in the shot... 
+Illness/DLC_5/CorruptFootage_Name	Corrupt Footage
+Illness/DLC_5/CrossFrayed_Description	A form of allergic reaction to 'cross-fading', a traditional transition technique in the film industry. Although it goes unnoticed by the human eye, the cells of a Cross-Frayed individual will appear to be "fading out" when examined under a microscope. Due to the ubiquity of the technique, it is safest for the sufferer to have their intolerance removed from their genetic code.
+Illness/DLC_5/CrossFrayed_Name	Cross-Frayed
+Illness/DLC_5/DirectorsGut_Description	Chronic stomach ache caused by excessive decision making and mouldy bagels.
+Illness/DLC_5/DirectorsGut_Name	Director's Gut
+Illness/DLC_5/DramaticPaws_Description	The sufferer's hands have developed a taste for... drama! The hands exhibit a life of their own, doing things purely for the sake of "narrative", often to the disadvantage and danger of the individual. So-called "Dramatic Paws" have been known to start fights, throw drinks, or - even - knock over things that ought not be knocked over.
+Illness/DLC_5/DramaticPaws_Name	Dramatic Paws
+Illness/DLC_5/Dressage_Description	A viral condition contracted from horses, stables and sleeveless, quilted jackets. Most cases remain symptomless, as the internal organs begin to promenade around the body in an orderly, elegant fashion, however some physicians have attested to diminishing peripheral vision and occasional whinnying.
+Illness/DLC_5/Dressage_Name	Dressage
+Illness/DLC_5/Extrasensory_Description	A condition contracted by actors without speaking lines and character names such as "tired old man" and "ballerina #4". A life of pretending to talk in the background of café scenes has worn away at the sufferer’s social behaviour. They now gesture and mumble, laughing at intervals: “Hurgh nu fa, ba-da-la-da-DA! Haha. Oh.” It goes to show: background life imitates background art... 
+Illness/DLC_5/Extrasensory_Name	Extrasensory
+Illness/DLC_5/FlashBack_Description	Bursts of sudden back pain caused by intense déjà vu related hallucinations. The patient may believe that they're back from the future to save themselves (from back pain). They need to be convinced otherwise before they hurt themselves or somehow manage to change the future.
+Illness/DLC_5/FlashBack_Name	Flash Back
+Illness/DLC_5/FourthwallProblem_Description	A condition first recognised by the celebrated, now infamous, psychiatrist Ebenezer Fourthwall. The sufferer can't tell reality from fantasy, or stage left from stage right. Caused by hidden cameras, "pranks" and having one's reality totally shattered. Extreme cases have been known to lead sufferers to believe that they're in some kind of extravagant simulation.
+Illness/DLC_5/FourthwallProblem_Name	Fourthwall Problem
+Illness/DLC_5/Foxtrodden_Description	Infinitesimally small bruising, inside and out, has given the body a radiant glow but left it unfortunately close to bursting. The sufferer must undergo surgery to repair the body's structural integrity and avoid going "pop". Caused by long nights on the dance floor, illegal spa treatments and fox stampedes.
+Illness/DLC_5/Foxtrodden_Name	Foxtrodden
+Illness/DLC_5/GuestCist_Description	A common malady in organisers, producers and caterers alike. Planning an event is a stressful occupation. In the early days of party-throwing, it was said that the lumpy bulge contained the spirits of the uninvited. Traditionally, at the end of the party, the organiser was beaten with sticks until it burst, thus freeing the souls of the absentee. This was later deemed dangerous and pretty gross.
+Illness/DLC_5/GuestCist_Name	Guest Cist
+Illness/DLC_5/HeadBanger_Description	An extreme form of headache that hardens the sufferer's head, giving it a subtle, often imperceptible, metallic quality. They need to keep their head still for a while and be given an injection of laid-back vibes. Caused by power chords, rocks and/or rolls and not drinking enough water.
+Illness/DLC_5/HeadBanger_Name	Banging Headache
+Illness/DLC_5/Hotdog_Description	A delusional condition that causes the sufferer to dress like a hot dog, as they believe that it's what's best for their career (in the long run). They need to be given a course of mustard placebo and assured that very few famous actors ever had to dress like a sausage. Caused by a lack of auditions and trusting what the guy at the hot dog stand had to say.
+Illness/DLC_5/Hotdog_Name	Misdewiener
+Illness/DLC_5/Limelit_Description	The sufferer's insides appear to be illuminated by a yellow-green light. A surgeon must go inside them and correct the problem before it burns them out. Caused by sudden media attention and swallowing stage lights.
+Illness/DLC_5/Limelit_Name	Limelit
+Illness/DLC_5/Listless_Description	A form of exclusion trauma caused by an unhealthy concern for one's own perceived importance. Essentially, they're really very sad that they're not considered important, let alone "very" important. The sufferer must be convinced that lists are just bits of paper, that importance is subjective and other heinous lies to regain their self-esteem.
+Illness/DLC_5/Listless_Name	Listless
+Illness/DLC_5/Metrognomic_Description	Sufferers hear a recurring and regular beat that they believe is being played by a tiny magical being or "ear gnome". After undergoing a course of treatment for their hearing - that has nothing to do with gnomes - the patient may well believe in magic, or even try and complete some kind of quest for their gnome-y friend. Healthcare practitioners have found that it's best to indulge them, sadly.
+Illness/DLC_5/Metrognomic_Name	Metrognomic
+Illness/DLC_5/MintyCondition_Description	Despite its name, the sufferer - who may emit a faint, peppermint aroma - is in a state that is far from perfect. The strange bacteria responsible is most commonly contracted through expensive herbal teas and really old comic books. 
+Illness/DLC_5/MintyCondition_Name	Minty Condition
+Illness/DLC_5/MoCap_Description	Caused by overexposure to special effects, the sufferer's body is caught in a state between the procedurally generated world and our own. They must be cured, and have every ping-pong ball removed, before they disappear, forever.
+Illness/DLC_5/MoCap_Name	Motion Sickness
+Illness/DLC_5/Monopoly_Description	Sufferers are dangerously concerned with their perceived wealth. They will spend every penny they can on race cars, top hats and thimbles in an attempt to seem absolutely loaded. To avoid bankruptcy, they need to be injected with something sappy that'll convince them that lying is for bad guys and true wealth comes from within. Sufferers must go to hospital. Go directly to hospital. Don't… well, you know.
+Illness/DLC_5/Monopoly_Name	Monopolies
+Illness/DLC_5/MudPerson_Name	Mudperson
+Illness/DLC_5/Mud_Description	Sufferers have 'mud poisoning' after accidentally ingesting dirt. Sure, they may have fun for a while, dancing and feeling at one with the earth, but after a while they'll become entirely soily. They need a deep clean, inside and out.
+Illness/DLC_5/Mud_Name	Soiled Self
+Illness/DLC_5/PaperBag_Description	Sufferers believe that they're being watched by spies or the international press. To combat their suspicions, and protect their identity, they have adopted a derivative and ineffective form of disguise. They'll need treatment before they get any shyer, and must be reassured that no-one cares who they are. Besides, they're not kidding anyone…
+Illness/DLC_5/PaperBag_Name	Inbagneato
+Illness/DLC_5/Scream_Description	Sufferers display the outward signs of extreme shock. All the time. Commonly contracted from haunted paint, but may also manifest spontaneously in art galleries, after looking at the price of that piece they liked that was "only a print".
+Illness/DLC_5/Scream_Name	Culture Shock
+Illness/DLC_5/ShiftingPerspective_Description	A condition that targets depth perception. The sufferer will struggle to process flat surfaces or identify whether an object is, in fact, small or just really far away. Caused by bad reactions to visual tricks and Sundays on the island.
+Illness/DLC_5/ShiftingPerspective_Name	Shifting Perspective
+Illness/DLC_5/Sinewment_Description	Pain and tension in the body's fibres, caused by happy endings, finishing stories and over-indulging on credit sequences.
+Illness/DLC_5/Sinewment_Name	Sinewment
+Illness/DLC_5/SnotTwist_Description	A complex twisting of the mucus that affects the sufferer's airways. Caused by sudden changes in narrative and finding out that it's all been a dream.
+Illness/DLC_5/SnotTwist_Name	Snot Twist
+Illness/DLC_5/SquareEyes_Description	The sufferer's eyes have become square - no kidding - and backlit. They need some anti-pixel medication and to be told to sit a little further away from their screens. 
+Illness/DLC_5/SquareEyes_Name	Square Eyes
+Illness/DLC_5/StageHand_Description	A collective term, coined for the wide variety of manual maladies contracted by the crew members of film, theatre and television industries. Common causes include: dry ice, cannibal actors and picking up the wrong end of irresponsibly sharp "fake" weaponry.
+Illness/DLC_5/StageHand_Name	Stage Hand
+Illness/DLC_5/Stuntman_Description	Sufferers have lost the ability to tell what's boring, what's exciting and what's dangerous and will take great pleasure from even the most mundane task. They need to be recalibrated before they do something brilliant but fatal. Not everything can be exciting, it's not healthy and it's not realistic. Caused by sliding down banisters, having exact change and rolling around on film sets.
+Illness/DLC_5/Stuntman_Name	Stunt Trouble
+Illness/DLC_5/ToySoldier_Description	The body has been invaded by a hostile, part-polymer, parasite. Sufferers exhibit a monochromatic green exterior and extremely limited flexibility. They'll soldier on until they freeze - in pose - but they need to be melted down, strained and reset, if they ever want to regain regular rigidity.
+Illness/DLC_5/ToySoldier_Name	Private Parts
+Illness/DLC_5/WardrobeMalfunction_Description	A range of bone-related conditions caused by walking into, or being crushed by, a wardrobe or similarly weighty container of costumes and/or props. Often the result of waning focus at an inopportune moment. Common catalysts include day-dreaming, sandwich distraction and checking to see if your business is showing.
+Illness/DLC_5/WardrobeMalfunction_Name	Wardrobe Malfunction
+Illness/DLC_5/WritersBlock_Description	It's perfectly normal to have a paintbrush in your hair, but not a pencil in your head. The unwelcome piece of stationary is blocking the part of the brain responsible for… what's the word… sentences. Anyway, that'll need to be removed if they want to write good.
+Illness/DLC_5/WritersBlock_Name	Writer's Block
 Illness/DecisionRash_Description	An unpleasant rash triggered when the sufferer is forced to make a decision too quickly.
 Illness/DecisionRash_Name	Decision Rash
 Illness/DenimGenes_Description	Skin has the appearance of denim. Causes a great deal of irritation, mainly due to the time it takes to dry after a shower. Believed to be caused by Bungle's genetically-engineered jeans, which have since been recalled.
@@ -3244,8 +3417,6 @@ Items/Bed_Jasmine_Collab_Tooltip	We've been sent a Jasmine Odyssey bedspread to 
 Items/Bed_Jasmine_Description	Guaranteed to promote nice smelling dreams.
 Items/Bed_Jasmine_Name	Jasmine Bed
 Items/Bed_Jazza_Description	
-Items/Bed_Jazza_Description	
-Items/Bed_Jazza_Name	Jasmine Bed
 Items/Bed_Jazza_Name	Jasmine Bed
 Items/Bed_Name	Bed
 Items/BedsideTable_Description	A table on which patients can place their tat.
@@ -3710,6 +3881,93 @@ Items/DLC_4/WallPlant_Description	Just hanging out.
 Items/DLC_4/WallPlant_Name	Wall Plant
 Items/DLC_4/WindChimes_Description	Nice at first.
 Items/DLC_4/WindChimes_Name	Wind Chimes
+Items/DLC_5/ArtTank_Description	Art (that) can consume you.
+Items/DLC_5/ArtTank_Name	Shark Art
+Items/DLC_5/BenchTwoSeater_Posh_Description	Sitting pretty.
+Items/DLC_5/BenchTwoSeater_Posh_Name	French Bench
+Items/DLC_5/Bin_Shark_Description	Hungry to help.
+Items/DLC_5/Bin_Shark_Name	Shark Bin
+Items/DLC_5/BoomBox_Description	Feel the bass with your face.
+Items/DLC_5/BoomBox_Name	Boom Box
+Items/DLC_5/Chair_Throne_Description	Overkill.
+Items/DLC_5/Chair_Throne_Name	Throne
+Items/DLC_5/Clapperboard_Description	"Cut."
+Items/DLC_5/Clapperboard_Name	Clapperboard
+Items/DLC_5/CocktailGlass_Description	Quite the mouthful.
+Items/DLC_5/CocktailGlass_Name	Giant Glass
+Items/DLC_5/Diamond_Description	Compressed for maximum value.
+Items/DLC_5/Diamond_Name	Jewel
+Items/DLC_5/FilmAward_Description	Highly esteemed and recently misplaced.
+Items/DLC_5/FilmAward_Name	Golden Statuette
+Items/DLC_5/Function_VendingMachine_Caviar	Reduces Hunger\nIncreases Thirst\nDrastically Increases Happiness
+Items/DLC_5/GrandfatherClock_Description	Its children have children.
+Items/DLC_5/GrandfatherClock_Name	Grandfather Clock
+Items/DLC_5/IceSculpture_Description	Pretty cool.
+Items/DLC_5/IceSculpture_Name	Frozen Art
+Items/DLC_5/Machine_Mud_Description	Rinse, don't repeat.
+Items/DLC_5/Machine_Mud_Name	Rub-0-Dub Tub
+Items/DLC_5/Machine_Mud_Upgrade_0_Description	Improved lather density and sponge action.
+Items/DLC_5/Machine_Mud_Upgrade_0_Name	Rub-0-Dub Tub II
+Items/DLC_5/Machine_Mud_Upgrade_1_Description	Advanced lather density and sponge action.
+Items/DLC_5/Machine_Mud_Upgrade_1_Name	Rub-0-Dub Tub III
+Items/DLC_5/Machine_Stuntman_Description	"Wee!"-inducing
+Items/DLC_5/Machine_Stuntman_Name	Crash Course
+Items/DLC_5/Machine_Stuntman_Upgrade_0_Description	Improved drudgery and vroom noises.
+Items/DLC_5/Machine_Stuntman_Upgrade_0_Name	Crash Course II
+Items/DLC_5/Machine_Stuntman_Upgrade_1_Description	Advanced drudgery and vroom noises.
+Items/DLC_5/Machine_Stuntman_Upgrade_1_Name	Crash Course III
+Items/DLC_5/Machine_ToySoldier_Description	Recycle plastic patients.
+Items/DLC_5/Machine_ToySoldier_Name	Meltn' Mould
+Items/DLC_5/Machine_ToySoldier_Upgrade_0_Description	Improved military fun and thermal magnification.
+Items/DLC_5/Machine_ToySoldier_Upgrade_0_Name	Meltn' Mould II
+Items/DLC_5/Machine_ToySoldier_Upgrade_1_Description	Advanced military fun and thermal magnification.
+Items/DLC_5/Machine_ToySoldier_Upgrade_1_Name	Meltn' Mould III
+Items/DLC_5/Mud_CautionSign_Description	If you're reading this, it may be too late.
+Items/DLC_5/Mud_CautionSign_Name	Slippery Sign
+Items/DLC_5/Mud_Mop&Bucket_Description	The classic comedy duo.
+Items/DLC_5/Mud_Mop&Bucket_Name	Mop & Bucket
+Items/DLC_5/Mud_SoapBottle_Description	See back for more in-foam-ation.
+Items/DLC_5/Mud_SoapBottle_Name	Soap Bottle
+Items/DLC_5/Mud_SoapBottle_V2_Description	Not another soap bottle.
+Items/DLC_5/Mud_SoapBottle_V2_Name	Lather Flagon
+Items/DLC_5/NeonSign_One_Description	Lights up any room.
+Items/DLC_5/NeonSign_One_Name	Neon One
+Items/DLC_5/NeonSign_Two_Description	Positively glowing.
+Items/DLC_5/NeonSign_Two_Name	Neon Two
+Items/DLC_5/Origami_Description	"A goose."
+Items/DLC_5/Origami_Name	Origami
+Items/DLC_5/Picture_Poster_Mud_Description	Poor hygiene may affect your health.
+Items/DLC_5/Picture_Poster_Mud_Name	Soiled Self Poster
+Items/DLC_5/Picture_Poster_Roderick_Description	From the Roderick Cushion film: "Brisk and Livid".
+Items/DLC_5/Picture_Poster_Roderick_Name	Action Poster
+Items/DLC_5/Picture_Poster_Roderick_V2_Description	From the Roderick Cushion film: "People That Work Together".
+Items/DLC_5/Picture_Poster_Roderick_V2_Name	Rom-Com Poster
+Items/DLC_5/Picture_Poster_Roderick_V3_Description	From the Roderick Cushion film: "Rotting Hill".
+Items/DLC_5/Picture_Poster_Roderick_V3_Name	Zombie Poster
+Items/DLC_5/Picture_Poster_Stuntman_Description	Stay away from gorges.
+Items/DLC_5/Picture_Poster_Stuntman_Name	Stunt Trouble Poster
+Items/DLC_5/Picture_Poster_ToySoldier_Description	Get treatment, that's an order.
+Items/DLC_5/Picture_Poster_ToySoldier_Name	Private Parts Poster
+Items/DLC_5/PoolToy_Description	Oh, buoyancy.
+Items/DLC_5/PoolToy_Name	Pool Toy
+Items/DLC_5/Speakers_Description	"Can you turn it down?"\n"What?"
+Items/DLC_5/Speakers_Name	Speaker Stack
+Items/DLC_5/Stuntman_Barrel_Description	A standardised unit of enjoyment.
+Items/DLC_5/Stuntman_Barrel_Name	Barrel of Fun
+Items/DLC_5/Stuntman_Cutout_Description	Supportive, for now.
+Items/DLC_5/Stuntman_Cutout_Name	Fake Fan
+Items/DLC_5/Stuntman_Cutout_V2_Description	Goes with the crowd.
+Items/DLC_5/Stuntman_Cutout_V2_Name	False Fan
+Items/DLC_5/Stuntman_Flags_Description	Go team.
+Items/DLC_5/Stuntman_Flags_Name	Bunting
+Items/DLC_5/ToySoldier_Blocks_Description	"I forget the rest..."
+Items/DLC_5/ToySoldier_Blocks_Name	ABC Blocks
+Items/DLC_5/ToySoldier_BookCase_Description	Stories for good little soldiers.
+Items/DLC_5/ToySoldier_BookCase_Name	Book Case Jr.
+Items/DLC_5/ToySoldier_Chest_Description	The motherload.
+Items/DLC_5/ToySoldier_Chest_Name	Toy Chest
+Items/DLC_5/VendingMachine_Caviar_Description	Stocked with the finest fish eggs that money could find.
+Items/DLC_5/VendingMachine_Caviar_Name	Fancy Food Machine
 Items/DNA_Machine_Description	For the analysis and manipulation of genetic material.
 Items/DNA_Machine_Name	Healixir
 Items/DNA_Machine_Upgrade_0_Description	Even Healixir-ier.
@@ -3761,119 +4019,64 @@ Items/ExaminationTable_Name	Examination Table
 Items/ExerciseFrame_Description	A play area for grown-ups.
 Items/ExerciseFrame_Name	Exercise Frame
 Items/Exhibition_Pack/Abstract _Blob_Description	But you didn't do it, did you?\nA sculpture by Rolanda Cheesewater.
-Items/Exhibition_Pack/Abstract _Blob_Description	But you didn't do it, did you?\nA sculpture by Rolanda Cheesewater.
-Items/Exhibition_Pack/Abstract _Blob_Name	Cheesewater Statue
 Items/Exhibition_Pack/Abstract _Blob_Name	Cheesewater Statue
 Items/Exhibition_Pack/Abstract _Ring_Description	The shape that she decided it should be.\nA sculpture by Zara Fitzpocket.
-Items/Exhibition_Pack/Abstract _Ring_Description	The shape that she decided it should be.\nA sculpture by Zara Fitzpocket.
-Items/Exhibition_Pack/Abstract _Ring_Name	Fitzpocket Statue
 Items/Exhibition_Pack/Abstract _Ring_Name	Fitzpocket Statue
 Items/Exhibition_Pack/Abstract _Three_Description	Something that exists.\nA sculpture by Cecil Gasplank.
-Items/Exhibition_Pack/Abstract _Three_Description	Something that exists.\nA sculpture by Cecil Gasplank.
-Items/Exhibition_Pack/Abstract _Three_Name	Gasplank Statue
 Items/Exhibition_Pack/Abstract _Three_Name	Gasplank Statue
 Items/Exhibition_Pack/Accordion_Description	"Robots love the accordion."\n- Anonymous
-Items/Exhibition_Pack/Accordion_Description	"Robots love the accordion."\n- Anonymous
-Items/Exhibition_Pack/Accordion_Name	Accordionatron
 Items/Exhibition_Pack/Accordion_Name	Accordionatron
 Items/Exhibition_Pack/Armless_Statue_Description	Really no threat at all.
-Items/Exhibition_Pack/Armless_Statue_Description	Really no threat at all.
-Items/Exhibition_Pack/Armless_Statue_Name	Armless Statue
 Items/Exhibition_Pack/Armless_Statue_Name	Armless Statue
 Items/Exhibition_Pack/Blob_Fish_Description	"Blib-Blob".
-Items/Exhibition_Pack/Blob_Fish_Description	"Blib-Blob".
-Items/Exhibition_Pack/Blob_Fish_Name	Blob Fish
 Items/Exhibition_Pack/Blob_Fish_Name	Blob Fish
 Items/Exhibition_Pack/Bust_Description	Did they run out of clay?
-Items/Exhibition_Pack/Bust_Description	Did they run out of clay?
-Items/Exhibition_Pack/Bust_Name	Bust
 Items/Exhibition_Pack/Bust_Name	Bust
 Items/Exhibition_Pack/Cowboy_Description	You can have this space cowboy.
 Items/Exhibition_Pack/Cowboy_Name	Space Cowboy
 Items/Exhibition_Pack/Cube_Shifting_Description	Makes you think of a cube, despite not being one.
-Items/Exhibition_Pack/Cube_Shifting_Description	Makes you think of a cube, despite not being one.
-Items/Exhibition_Pack/Cube_Shifting_Name	Puzzling Cubes
 Items/Exhibition_Pack/Cube_Shifting_Name	Puzzling Cubes
 Items/Exhibition_Pack/Cube_WithinCube_Description	Excessively cuboidal.
 Items/Exhibition_Pack/Cube_WithinCube_Name	Hypercube
-Items/Exhibition_Pack/Cube_WithinCube_Name	Hypercube
-Items/Exhibition_Pack/Dinosaur_Description	Allegedly quite old.
 Items/Exhibition_Pack/Dinosaur_Description	Allegedly quite old.
 Items/Exhibition_Pack/Dinosaur_Horny_Description	Silent but dead.
-Items/Exhibition_Pack/Dinosaur_Horny_Description	Silent but dead.
-Items/Exhibition_Pack/Dinosaur_Horny_Name	Ex-Lizard
 Items/Exhibition_Pack/Dinosaur_Horny_Name	Ex-Lizard
 Items/Exhibition_Pack/Dinosaur_Name	Bone Monster
-Items/Exhibition_Pack/Dinosaur_Name	Bone Monster
-Items/Exhibition_Pack/Fossil_Description	I found this fossil! It's mine!
 Items/Exhibition_Pack/Fossil_Description	I found this fossil! It's mine!
 Items/Exhibition_Pack/Fossil_Name	Fossil
-Items/Exhibition_Pack/Fossil_Name	Fossil
-Items/Exhibition_Pack/Ghost_Mirror_Description	A possessed possession.
 Items/Exhibition_Pack/Ghost_Mirror_Description	A possessed possession.
 Items/Exhibition_Pack/Ghost_Mirror_Name	Ghost Mirror
-Items/Exhibition_Pack/Ghost_Mirror_Name	Ghost Mirror
-Items/Exhibition_Pack/Kinetic_Black&White_Description	Stuck in a vicious cycle.
 Items/Exhibition_Pack/Kinetic_Black&White_Description	Stuck in a vicious cycle.
 Items/Exhibition_Pack/Kinetic_Black&White_Name	Black & White
-Items/Exhibition_Pack/Kinetic_Black&White_Name	Black & White
-Items/Exhibition_Pack/Kinetic_Bronze_Description	Not a hat, just interesting.
 Items/Exhibition_Pack/Kinetic_Bronze_Description	Not a hat, just interesting.
 Items/Exhibition_Pack/Kinetic_Bronze_Name	Fascinator
 Items/Exhibition_Pack/Lionhead_Statue_Description	King of the synthetic pride.
-Items/Exhibition_Pack/Lionhead_Statue_Description	King of the synthetic pride.
-Items/Exhibition_Pack/Lionhead_Statue_Name	Lion's Head
 Items/Exhibition_Pack/Lionhead_Statue_Name	Lion's Head
 Items/Exhibition_Pack/Lost_Keys_Description	Not finished, only lost.
-Items/Exhibition_Pack/Lost_Keys_Description	Not finished, only lost.
-Items/Exhibition_Pack/Lost_Keys_Name	Some Keys
 Items/Exhibition_Pack/Lost_Keys_Name	Some Keys
 Items/Exhibition_Pack/Melted_Clock_Description	Time fries.
 Items/Exhibition_Pack/Melted_Clock_Name	Floppy Clock
-Items/Exhibition_Pack/Melted_Clock_Name	Floppy Clock
-Items/Exhibition_Pack/Mount_Facemore_Description	Four-headed stone demon.
 Items/Exhibition_Pack/Mount_Facemore_Description	Four-headed stone demon.
 Items/Exhibition_Pack/Mount_Facemore_Name	Mount Facemore
-Items/Exhibition_Pack/Mount_Facemore_Name	Mount Facemore
-Items/Exhibition_Pack/Penny_Farthing_Description	Later renamed the dual-wheel push-cycle.
 Items/Exhibition_Pack/Penny_Farthing_Description	Later renamed the dual-wheel push-cycle.
 Items/Exhibition_Pack/Penny_Farthing_Name	Velocipede
-Items/Exhibition_Pack/Penny_Farthing_Name	Velocipede
-Items/Exhibition_Pack/Pig_Rocket_Description	Neither a bird, nor a plane.
 Items/Exhibition_Pack/Pig_Rocket_Description	Neither a bird, nor a plane.
 Items/Exhibition_Pack/Pig_Rocket_Name	Rocket Pig
-Items/Exhibition_Pack/Pig_Rocket_Name	Rocket Pig
-Items/Exhibition_Pack/Pin_Board_Description	Impress yourself.
 Items/Exhibition_Pack/Pin_Board_Description	Impress yourself.
 Items/Exhibition_Pack/Pin_Board_Name	Pin Art
-Items/Exhibition_Pack/Pin_Board_Name	Pin Art
-Items/Exhibition_Pack/Pine_Cone_Description	Good for nothing.
 Items/Exhibition_Pack/Pine_Cone_Description	Good for nothing.
 Items/Exhibition_Pack/Pine_Cone_Name	Pine Cone
-Items/Exhibition_Pack/Pine_Cone_Name	Pine Cone
-Items/Exhibition_Pack/Portrait_Description	Of great artistic pedigree.
 Items/Exhibition_Pack/Portrait_Description	Of great artistic pedigree.
 Items/Exhibition_Pack/Portrait_Name	Dog Portrait
-Items/Exhibition_Pack/Portrait_Name	Dog Portrait
-Items/Exhibition_Pack/Silver_Fox_Description	Aging nicely.
 Items/Exhibition_Pack/Silver_Fox_Description	Aging nicely.
 Items/Exhibition_Pack/Silver_Fox_Name	Silver Fox
-Items/Exhibition_Pack/Silver_Fox_Name	Silver Fox
-Items/Exhibition_Pack/Snail_Description	All the rage.
 Items/Exhibition_Pack/Snail_Description	All the rage.
 Items/Exhibition_Pack/Snail_Name	Maestropod
-Items/Exhibition_Pack/Snail_Name	Maestropod
-Items/Exhibition_Pack/Solar_System_Description	Live from space.
 Items/Exhibition_Pack/Solar_System_Description	Live from space.
 Items/Exhibition_Pack/Solar_System_Name	Orrery
-Items/Exhibition_Pack/Solar_System_Name	Orrery
-Items/Exhibition_Pack/Sphinx_Description	Symbolic of the bond between person and cat.
 Items/Exhibition_Pack/Sphinx_Description	Symbolic of the bond between person and cat.
 Items/Exhibition_Pack/Sphinx_Name	Cat Person
-Items/Exhibition_Pack/Sphinx_Name	Cat Person
 Items/Exhibition_Pack/Swinging_Balls_Description	Watch how they swing.
-Items/Exhibition_Pack/Swinging_Balls_Description	Watch how they swing.
-Items/Exhibition_Pack/Swinging_Balls_Name	Swinging Balls
 Items/Exhibition_Pack/Swinging_Balls_Name	Swinging Balls
 Items/FancyDress_Pack/Bunting_Description	Walls can wear costumes too.
 Items/FancyDress_Pack/Bunting_Name	Wall Dressing
@@ -3989,8 +4192,6 @@ Items/HD_Fountain_Large_Name	Large Fountain
 Items/HandSanitiserDispenser_Description	Sterile but sticky.
 Items/HandSanitiserDispenser_Name	Hand Sanitiser
 Items/HandSanitiser_Jazza_Description	
-Items/HandSanitiser_Jazza_Description	
-Items/HandSanitiser_Jazza_Name	Nice Smelling Hand Sanitiser
 Items/HandSanitiser_Jazza_Name	Nice Smelling Hand Sanitiser
 Items/Hologram_Description	More impressive than useful.
 Items/Hologram_Name	Hologram
@@ -4159,8 +4360,6 @@ Items/Picture_Expensive_Doggo_Name	Dog Art
 Items/Picture_Expensive_Mountains_Description	A painting depicting the County’s namesake mountains.
 Items/Picture_Expensive_Mountains_Name	Mountains Painting
 Items/Picture_Jazza_Album_Description	
-Items/Picture_Jazza_Album_Description	
-Items/Picture_Jazza_Album_Name	Vinyl Jazza
 Items/Picture_Jazza_Album_Name	Vinyl Jazza
 Items/Picture_Light_Box_Description	A Hall of Fame for our favourite scans ever.
 Items/Picture_Light_Box_Name	X-ray Board
@@ -4697,6 +4896,64 @@ Levels/DLC_4/R9_Mayor_Letter_Signature	Vote,\nTabitha Windsock
 Levels/DLC_4/R9_Mayor_Letter_Signature_Final	Here forever,\nTabitha Windsock
 Levels/DLC_4/R9_Mayor_Letter_Start	It’s that time again. Our County is approaching another mayoral election, and I’ve decided that beginning our journey towards a greener tomorrow is long overdue. Our voter research suggests that it’s the issue on everyone's mind, and I am willing to fall on the sword of extensive positive press by founding the Department of Green Things.\n\nWhen people remember Tabitha Windsock, I want them to remember my green initiative and how I got re-elected that time. Please, support the initiative by taking care of our green-minded, recently-pro-windsock, community. I need them in this time of need, uncertainty and poor voter polling, because, frankly, the dead can’t vote.
 Levels/DLC_4/Vote_Windsock	Vote\nWindsock
+Levels/DLC_5/DLC_Description	Head to the Arts District to help artist Zara Fitzpocket design a cure for the ailing culture of Two Point County.
+Levels/DLC_5/DLC_Name	Culture Shock
+Levels/DLC_5/Map_IntroText_R10_FestivalHospital	<style="AdvisorHighlight">Mudbury Festival</style> now available!
+Levels/DLC_5/Map_IntroText_R10_GalaHospital	<style="AdvisorHighlight">Fitzpocket Academy</style> now available!
+Levels/DLC_5/Map_IntroText_R10_TelevisionHospital	<style="AdvisorHighlight">Plywood Studios</style> now available!
+Levels/DLC_5/R10_FestivalHospital_Description	Provide hospitality, and healthcare, for the County's faltering music festival.
+Levels/DLC_5/R10_FestivalHospital_Letter_Star_1	Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nAh, so you work in the music industry now? Of course, a little success on the old boob tube and you believe yourself infallible. Typical. What can we expect from you next… A range of kitchenware? An experimental jazz album? Don’t let me know.\n\nContinue to “get jiggly with it” for more rewards, or return to reality and get back to work.
+Levels/DLC_5/R10_FestivalHospital_Letter_Star_2	Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nWe seem to agree, that anyone who submits themselves to wading around in the mud for music, fast food and an alleged ‘good time’ is, indeed, in need of medical attention. If you ask me, live music lost its appeal the day they invented a contraption capable of recording it, and not a day later.\n\nContinue to “get jiggly with it” for more rewards, or return to reality and get back to work.
+Levels/DLC_5/R10_FestivalHospital_Letter_Star_3	Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nI wouldn’t usually condone one of our County’s administrators ‘doing a runner’ and starting a career in the music industry. But as our department has been dealing with a scandal, of sorts, involving some sensitive patient records and a runaway toboggan… I commend your timing. Good job, sport.
+Levels/DLC_5/R10_FestivalHospital_Name	Mudbury Festival
+Levels/DLC_5/R10_FestivalHospital_Welcome_Text	Welcome to Mudbury. The old festival hasn’t been a success for… some time, but, yet again, this year could well be the year. You’ll be running hospitality at the festival, that means food & drink, comfort & entertainment and, yes, medical support. There are rumours that Jasmine Odyssey might make an appearance, but they're also saying that it'll rain Cheesy Gubbins, so don't get your hopes up.\n\nDiseases run rampant at festivals, with all the mud and general squalor, so we’ll need be prepared to treat waves of sickly music lovers as acts finish at various stages around the festival. The better the job we do, the bigger the festival will get. Meaning if things go well, we'll be allowed to turn more of the beautiful countryside into a hospital. We’ve got a chance to make this a landmark event in the musical, and medical, history of Two Point County.
+Levels/DLC_5/R10_FestivalHospital_Welcome_Title	Mudbury Festival
+Levels/DLC_5/R10_GalaHospital_Description	Celebrate the health of the Arts by hosting a party for the rich and famous at an illustrious mansion.
+Levels/DLC_5/R10_GalaHospital_Letter_Star_1	Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nI’m sensing that this whole endeavour has been an attempt to ingratiate yourself with the County’s social elites. Well, there are easier ways to get an invite to these parties, you know? As an old family friend of the Fitzpockets I could have assisted you. Not that I would have…\n\nContinue to scoff on hors d'oeuvres for more rewards, or return to reality and get back to work.
+Levels/DLC_5/R10_GalaHospital_Letter_Star_2	Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nCurrently, I am unconvinced by your exhibition, that has filled the hallowed grounds of Fitzpocket Academy with an assortment of medical do-daddery. You see, sometimes in the arts, as in healthcare, it’s important to ask the hard-hitting questions. So I ask: "Is it total rubbish?”\n\nContinue to scoff on hors d'oeuvres for more rewards, or return to reality and get back to work.
+Levels/DLC_5/R10_GalaHospital_Letter_Star_3	Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nI didn’t think it was possible to make something beautiful out of a hospital. So often our hospitals are prosaic cathedrals to human flesh, with its smells and poorly plumbed circuitry. And I was right, it wasn’t possible. But you’ve come close, and that’s almost impressive. Almost.
+Levels/DLC_5/R10_GalaHospital_Name	Fitzpocket Academy
+Levels/DLC_5/R10_GalaHospital_Welcome_Text	Welcome to Fitzpocket Academy, located in the exclusive Poached Egg quarter of Two Point's Arts District. The family home of the Fitzpockets, a beautiful example of Pre-Giblet architecture, has served many purposes over the years, from a school of the Arts, to secret service headquarters and, even, a marmalade factory. It only makes sense that it would eventually be used as a hospital, and that time is this time.\n\nZara’s "team" use their patented VIBE technology to gauge the success of all of her exhibitions and parties, and this is no exception. Our funding will depend on how well VIBE says we're doing. We'll have a positive VIBE score if our guests are having a good time, the place is looking nice and clean, and very few people are dying. I suppose that good parties and good hospitals are actually quite similar… This is an exclusive event, so be sure to toss out any party crashing paparazzi, you may see them taking photos, eating out of the bins or being generally despicable. Now, do try and enjoy yourself, it’s supposed to be a party after all, when you’re rich everything needs to be fun, even hospitals.
+Levels/DLC_5/R10_GalaHospital_Welcome_Title	Fitzpocket Academy
+Levels/DLC_5/R10_TelevisionHospital_Description	Cure patients for the camera on the set of Two Point' s newest medical drama.
+Levels/DLC_5/R10_TelevisionHospital_Letter_Star_1	Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nSo you’ve decided to chance your arm in show business? It’s a well-trod path for those of us who find success in the healthcare trade, but I warn you, it can only end in tears. Anyway, I remain confident that television is nothing more than a passing, albeit long-lived, fad.\n\nContinue to fester in the realm of fiction, or return to reality and get back to work.
+Levels/DLC_5/R10_TelevisionHospital_Letter_Star_2	Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nOh goodness, I knew this would all go to your head, and that’s why, as your friend, I had hoped things would go much worse for you. You’ll soon be screeching on the paradoxically termed “reality” television, and throwing cranberry juice in the eyes of your collaborators. Shame.\n\nContinue to fester in the realm of fiction, or return to reality and get back to work.
+Levels/DLC_5/R10_TelevisionHospital_Letter_Star_3	Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\n“Always leave them wanting more”. Is that an adage you’re familiar with? Alas, you’ve exhausted the entire library of tropes and now there’s nowhere left to go with your show. You’ve milked the cash cow dry and it’s not mooing anymore. But what do I know, I’m just the Health Minister...
+Levels/DLC_5/R10_TelevisionHospital_Name	Plywood Studios
+Levels/DLC_5/R10_TelevisionHospital_PostTutorial_Text	Now that the show is fully underway, we'll start to receive requests from the show's producers about what they think should happen next. If they see their ideas make it into the show we'll receive some additional funding.\n\nPeople online can be mean about television, or about anything really... When someone says something negative about the show it'll affect our reputation. Luckily we can combat their cruel, cruel words by investing in some Marketing.
+Levels/DLC_5/R10_TelevisionHospital_PostTutorial_Title	Requests & Reviews
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V1_Advisor	TV Show Review: <style="AdvisorHighlight">2/5</style> “Exquisitely poor. I can’t look away.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V2_Advisor	TV Show Review: <style="AdvisorHighlight">2/5</style> “Proper garbage. Nice costumes though.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V3_Advisor	TV Show Review: <style="AdvisorHighlight">2/5</style> “I missed some episodes and now I’m totally lost...”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V4_Advisor	TV Show Review: <style="AdvisorHighlight">2/5</style> “Why did they call the character Roderick Cushion?”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V5_Advisor	TV Show Review: <style="AdvisorHighlight">2/5</style> “Love the show - but Bungle Pictures keeps crashing :( ”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V1_Advisor	TV Show Review: <style="AdvisorHighlight">3/5</style> “It’s nice to have on in the background”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V2_Advisor	TV Show Review: <style="AdvisorHighlight">3/5</style> “So bad that I think I actually quite like it…”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V3_Advisor	TV Show Review: <style="AdvisorHighlight">3/5</style> “The theme tune is pretty fiery tbh”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V4_Advisor	TV Show Review: <style="AdvisorHighlight">3/5</style> “I work in a hospital and the show is so right haha”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V5_Advisor	TV Show Review: <style="AdvisorHighlight">3/5</style> “So sad when that thing happened omg”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V1_Advisor	TV Show Review: <style="AdvisorHighlight">1/5</style> “This is the same as that other show, but in a hospital. Unoriginal.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V2_Advisor	TV Show Review: <style="AdvisorHighlight">1/5</style> “Just retire Roderick”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V3_Advisor	TV Show Review: <style="AdvisorHighlight">1/5</style> “I can’t turn it off. Where’s the remote?”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V4_Advisor	TV Show Review: <style="AdvisorHighlight">1/5</style> “The show that’s taken the quality of TV… Back Wards!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V5_Advisor	TV Show Review: <style="AdvisorHighlight">1/5</style> “Jab Master? As if hospitals still use those. Lol. So unrealistic.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V1_Advisor	TV Show Review: <style="AdvisorHighlight">4/5</style> “This show is too clever for most people. Very subtle.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V2_Advisor	TV Show Review: <style="AdvisorHighlight">4/5</style> “I’ll watch anything with Roderick”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V3_Advisor	TV Show Review: <style="AdvisorHighlight">4/5</style> “PERILOUS SPANDEX”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V4_Advisor	TV Show Review: <style="AdvisorHighlight">4/5</style> “It's that guy!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V5_Advisor	TV Show Review: <style="AdvisorHighlight">4/5</style> “This is my show. Go, show, go!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Attractiveness_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> “The hospital looks beautiful. Wish I was sick again…”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Death_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> “Woah, so many people died. What great drama.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Fire_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> “Another employee fired - boom! Get outta Roderick's hospital!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Hire_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> "New characters keep the show fresh - I can barely keep track!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Upgrades_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> “Loving all the healthcare tech on Back Wards. Take that germs and stuff!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Levels/DLC_5/R10_TelevisionHospital_Welcome_Text	Welcome to Plywood Studios, where the producers of a new medical drama have asked you to run their show. They want a real administrator to add “validity, dynamism and an amusing, gimmicky quality”. On the show, titled “Back Wards”, Roderick Cushion will be playing a senior doctor who's inexplicably forgotten all his training. They’ve decided to call the character Dr Roderick Cushion, because, well, I’d actually rather not get into that again. It’s just simpler for Mr Cushion, okay? Let’s leave it at that.\r\n\r\nTo produce a compelling, County-gripping hit show, you’ll need to work on developing your main character, Dr Roderick Cushion. People don’t like characters who tread water, it reminds them of their desperate, repetitive existences. Roderick won’t fraternise with the rest of the cast on his breaks - not on his salary! - so he's got his very own trailer. If you can’t find him, he’ll probably be in there. Oh, and to inject some urgency into proceedings, the actors will be curing, trying to at least, real patients.\r\nWhat could go wrong?\r
+Levels/DLC_5/R10_TelevisionHospital_Welcome_Title	Plywood Studios
+Levels/DLC_5/R10_Zara_Letter_OneStarEach	They say Art is never really finished. They say a picture is worth a thousand words. They say Art is long and life is short. But what do they mean? Well, a lot of things I suppose, but I’m not one for sayings, I’m one for doings and it’s time for something new. Our project is over, but does that mean it never really happened? No, of course it happened. Don’t you remember? If you don't, it was a great success. I couldn't have done it without you, we've changed the County forever, and so on... \n\nMust go. My muse is calling me. I hear them in the wind, whispering: “Do something with macaroni”.
+Levels/DLC_5/R10_Zara_Letter_Opening	My name is Zara Fitzpocket (yes, those Fitzpockets) and I am writing to ask for your help. But where to begin?… As you may know, I am an artist, specialising in mixed media collage, papier-mâché and oily paints. My friend, the Arts are sick and the people are too - coincidence? I’m afraid not… \n\nFor far too long, we have overlooked a sickness in our minds, our homes and our loft-studio work spaces. What may have begun as a collective dry spell has become an all too literal illness. No single remedy, be it dramatic, melodic or medical will be enough. No, we must all work together on my biggest project yet.\n\nWith my connections and your uncanny ability to heal things, we must cure the ailing culture of Two Point County. First things firstly, I believe that we’ll be needing a shot in the arm, and who better to administer the injection than a certified healthcare wiz such as yourself? If you’re interested - and I hope you are - your first task will take you to Plywood Studios and the silver screen! Remember, the pen is mightier than the scalpel.
+Levels/DLC_5/R10_Zara_Letter_Second	Congrats on your show, I don’t really watch television, but there was lots about it in the papers. Not that I read the papers… All the same, I’m told you’ve done a wonderful job. Roderick has left me a dozen messages talking about himself, on and on and on… He’s not been this arrogant in years, and it warms my heart to see him back at his terrible, self-centred best.\n\nYou mustn't bask in the bathing tub of glory for too long, another corner of the Arts needs your medical attention. Next up is Mudbury Festival, which has been a disaster for years quite frankly. If loyalty to the cause won't sway you, I’d imagine - if you’re anything like the rest of us - that you’ll have developed a taste for all the praise and acclaim by now.\nIt’s rather nice, isn’t it?
+Levels/DLC_5/R10_Zara_Letter_Signature	Zara
+Levels/DLC_5/R10_Zara_Letter_Third	Our little project has been a conceptual triumph so far, don’t you think? Things are already so much better than they were, and that’s why I thought our final act should be a party to celebrate the newfound health of the Arts. I will be hosting, naturally, and opening my latest exhibit.\n\nOur guests will arrive at Fitzpocket Academy to be treated - quite literally - to an experience for the body and the soul. It will be a party-hospital, an arty hospital. I really have outdone myself this time. I don’t want to get ahead of myself but this art exhibit may well fix all of our problems. If all goes well, the County will look to us, the rich, the famous, the covered in velvet, as beacons of hope and relative health.
 Levels/Dev_ALL_EverythingVille	Everything Ville
 Levels/Map_IntroText_R1_IntroHospital2	<style="AdvisorHighlight">Lower Bullocks</style> now available!
 Levels/Map_IntroText_R1_IntroHospital3	<style="AdvisorHighlight">Flottering</style> now available!
@@ -5048,6 +5305,12 @@ Marketing/DLC_4/Illness_Tech_Desc	A highly finessed, two-pronged approach. Step 
 Marketing/DLC_4/Illness_Tech_Name	Glitchy Patch Campaign
 Marketing/DLC_4/Room_PlantWard_Desc	Rent some of those flailing, inflatable men to promote our Herb Garden treatments at local garden centres.
 Marketing/DLC_4/Room_PlantWard_Name	Herb Garden Campaign
+Marketing/DLC_5/Illness_Mud_Desc	Awareness posters attached to kites and flags have been found to get the attention of the County's mud-laden sickos. We’ll also make some announcements over PA systems, the radio, and burned onto CDs. They just love to listen to things… 
+Marketing/DLC_5/Illness_Mud_Name	Soiled Self Campaign
+Marketing/DLC_5/Illness_Stuntman_Desc	Target the daredevil community by commissioning tiny ads to go on the inside of crash helmets and great big ones to go on the ground, which they’ll see when they’re jumping out of, or over, a plane.
+Marketing/DLC_5/Illness_Stuntman_Name	Stunt Trouble Campaign
+Marketing/DLC_5/Illness_ToySoldier_Desc	Pay to add some illness awareness information to the little paper pamphlet that comes with toys, because people read those really thoroughly. We’ll also commission some billboards with pictures of explosions and words like “ka-flan” to attract those mostly likely to be combating militant maladies.
+Marketing/DLC_5/Illness_ToySoldier_Name	Private Parts Campaign
 Marketing/General_L_Desc	Give our reputation a massive boost with a huge TV campaign, featuring superstar actor Roderick Cushion.
 Marketing/General_L_Name	Large Campaign
 Marketing/General_M_Desc	Boost our reputation by commissioning a series of pro-hospital posters around the County.
@@ -6084,6 +6347,8 @@ Menu/StafPayReview/YearlyWages_CS	Yearly Wages
 Menu/Staff Menu/Ability	Ability
 Menu/Staff Menu/JobToggle/AllowedQualification_CS	{[JOB]}: Allowed\nQualified in {[QUALIFICATION]}
 Menu/Staff Menu/JobToggle/Allowed_CS	{[JOB]}: Allowed
+Menu/Staff Menu/JobToggle/LockedAllowed_CS	{[JOB]}: Allowed\nRoderick will work anywhere he can.
+Menu/Staff Menu/JobToggle/LockedQualification_CS	{[JOB]}: Allowed\nQualified in {[QUALIFICATION]}\nRoderick will work anywhere he can.
 Menu/Staff Menu/JobToggle/NotAllowedQualification_CS	{[JOB]}: Not Allowed\nQualified in {[QUALIFICATION]}
 Menu/Staff Menu/JobToggle/NotAllowed_CS	{[JOB]}: Not Allowed
 Menu/Staff Menu/JobToggle/Unqualified_CS	{[JOB]}: N/A\nUnqualified in {[QUALIFICATION]}
@@ -6601,6 +6866,9 @@ Names/DLC_3/Visitor_VIP_Journalist_Last	Fishwrapper
 Names/DLC_4/Visitor_VIP_EcoRating_ First	Flanolin
 Names/DLC_4/Visitor_VIP_EcoRating_JobTitle	Department of Green Things
 Names/DLC_4/Visitor_VIP_EcoRating_Last	Onionsack
+Names/DLC_5/Visitor_VIP_Zara_ First	Zara
+Names/DLC_5/Visitor_VIP_Zara_JobTitle	Artist
+Names/DLC_5/Visitor_VIP_Zara_Last	Fitzpocket
 Names/Female_000	Millie-Boo
 Names/Female_001	Jezebel
 Names/Female_002	Brangelina
@@ -8107,6 +8375,33 @@ Research/DLC_4/TechMachineLevel2_Name	Advanced Upgrade: Tech Support
 Research/DLC_4/TechRoom_CompleteMessage	We've done it! Our treatment for Glitchy Patch should lure patients in with its sleek, monochromatic design.
 Research/DLC_4/TechRoom_Description	Investigate how to treat those tech-sick patients with Glitchy Patch. 
 Research/DLC_4/TechRoom_Name	Tech Support
+Research/DLC_5/MudMachineLevel1_CompleteMessage	Our research was a success! We've produced a more effective foaming agent that will, if anything, make patients too clean and healthy.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Research/DLC_5/MudMachineLevel1_Description	Research an improved recipe for the machine's medical washing up liquid. One that improves our treatment and is gentler on our hands.
+Research/DLC_5/MudMachineLevel1_Name	Upgrade: Wash Pit
+Research/DLC_5/MudMachineLevel2_CompleteMessage	Great news. Our scientists have developed the most advanced sponge the County has even seen. To the untrained eye it may still look like a regular sponge, but they say that it's four, or possible five, percent better than that.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Research/DLC_5/MudMachineLevel2_Description	Trial some new sponges and produce some very useful information.
+Research/DLC_5/MudMachineLevel2_Name	Advanced Upgrade: Wash Pit
+Research/DLC_5/MudRoom_CompleteMessage	We've developed a treatment for Soiled Self! We should avoid washing dishes, or clothes, in the new equipment, even though it does look like it would do a cracking job.
+Research/DLC_5/MudRoom_Description	Investigate how to treat muddy patients that have Soiled Self.
+Research/DLC_5/MudRoom_Name	Wash Pit
+Research/DLC_5/StuntmanMachineLevel1_CompleteMessage	They've done it! The researchers have pushed the boundaries of medical science once again by designing a component that very slightly improves our treatment process. Thrilling.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Research/DLC_5/StuntmanMachineLevel1_Description	Attempt some electrifying research to improve our treatment of cape-clad patients.
+Research/DLC_5/StuntmanMachineLevel1_Name	Upgrade: Danger Zone
+Research/DLC_5/StuntmanMachineLevel2_CompleteMessage	With its latest modification, the Crash Course has become a heart-pounding feat of rigorous medical science. The results have really fired up the research department. \n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Research/DLC_5/StuntmanMachineLevel2_Description	Elevate our treatment of Stunt Trouble by designing a staggering new upgrade.
+Research/DLC_5/StuntmanMachineLevel2_Name	Advanced Upgrade: Danger Zone
+Research/DLC_5/StuntmanRoom_CompleteMessage	Our researchers have stuck the landing and finished devising a treatment for Stunt Trouble.
+Research/DLC_5/StuntmanRoom_Description	Develop a cure for sufferers of Stunt Trouble.
+Research/DLC_5/StuntmanRoom_Name	Danger Zone
+Research/DLC_5/ToySoldierMachineLevel1_CompleteMessage	Great stuff. We’ve developed an improvement for the machine's magnification component. Melting down patients should now be much more fun and efficient as well as slightly less painful.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Research/DLC_5/ToySoldierMachineLevel1_Description	Develop our Private Parts treatment into a finely oiled machine.
+Research/DLC_5/ToySoldierMachineLevel1_Name	Upgrade: War Room
+Research/DLC_5/ToySoldierMachineLevel2_CompleteMessage	This latest upgrade recalibrates the tipping action of the big vat thing. You'd think that it wouldn't do much, but you'd be wrong. The results have been fantastic. Science, am I right?\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Research/DLC_5/ToySoldierMachineLevel2_Description	Investigate perfecting our treatment of Private Parts.
+Research/DLC_5/ToySoldierMachineLevel2_Name	Advanced Upgrade: War Room
+Research/DLC_5/ToySoldierRoom_CompleteMessage	Attention! Our new treatment is ready to be deployed. We can now win the war against Private Parts.
+Research/DLC_5/ToySoldierRoom_Description	Design a treatment for patients suffering with Private Parts.
+Research/DLC_5/ToySoldierRoom_Name	War Room
 Research/DNAMachineLevel1_CompleteMessage	Success! We have developed a more effective machine for DNA Labs.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
 Research/DNAMachineLevel1_Description	We think we could go back and take some of the corners that we cut the first time.
 Research/DNAMachineLevel1_Name	Upgrade: DNA Lab
@@ -8375,6 +8670,15 @@ Room/DLC_4/Scarecrow_Name	Farmacology
 Room/DLC_4/Tech_Description	Cures patients with Glitchy Patch.\nPrepare to Install.
 Room/DLC_4/Tech_Description_Long	Tech Support is used to cure patients with Glitchy Patch.\r\nDeal with a Glitchy Patch sooner rather than later, to avoid further irritation, or shutting down all of the County's technology simultaneously.\r\nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
 Room/DLC_4/Tech_Name	Tech Support
+Room/DLC_5/Mud_Description	Cures patients with Soiled Self.\nRemoves stains and mud-borne maladies.
+Room/DLC_5/Mud_Description_Long	The Wash Pit is used to cure patients with Soiled Self.\nAdministers a highly complex mix of washing up liquid and hydrophobic steroids via a remote-action medical-grade sponge. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
+Room/DLC_5/Mud_Name	Wash Pit
+Room/DLC_5/Stuntman_Description	Cures patients with Stunt Trouble.\nRecalibrate patients with a thirst for danger.
+Room/DLC_5/Stuntman_Description_Long	The Danger Zone is used to cure patients with Stunt Trouble.\nTaking inspiration from high budget film sets, as well as those little rides you see outside supermarkets, the Crash Course precisely balances excitement and boredom to recalibrate a patient's pleasure centre. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
+Room/DLC_5/Stuntman_Name	Danger Zone
+Room/DLC_5/ToySoldier_Description	Cures patients with Private Parts.\nRecover squidgy humans from their hard, green exteriors.
+Room/DLC_5/ToySoldier_Description_Long	The War Room is used to cure patients with Private Parts.\nPatients are melted down into a soldierly soup and then filtered, to remove all warmongering and toy-like, impurities. Once fully sieved, patients can be remoulded into their organic, less stompy, selves. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
+Room/DLC_5/ToySoldier_Name	War Room
 Room/DNAAnalysis_Description	Cures a range of Genetic illnesses.\nHigh-Tech Diagnosis.\nAnalyse and Manipulate DNA.
 Room/DNAAnalysis_Description_Long	The DNA Lab is used to cure a range of peculiar genetic conditions. It is also a powerful tool for diagnosis. This room requires a Doctor trained in Genetics.\nTo improve results, research and apply upgrades to the machine. Also use a doctor trained with extra diagnosis and treatment skills.
 Room/DNAAnalysis_Name	DNA Lab
@@ -9120,6 +9424,7 @@ Tooltip/DLC_1/VIP_Visit_Bigfoot	Bartholomew F. Yeti, author and advocate for the
 Tooltip/DLC_2/VIP_Visit_RichGuy	Wiggy Silverbottom is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Tooltip/DLC_3/VIP_Visit_Alien_reporter	Charlatene Fishwrapper, journalist for the Two Point Squabbler, is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Tooltip/DLC_4/VIP_Visit_Eco	Flanolin Onionsack, from the Department of Green Things, is visiting the hospital. Click here to follow along on their visit, once they've arrived.
+Tooltip/DLC_5/VIP_Visit_Zara	Artist Zara Fitzpocket is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Tooltip/FinanceTab_CashFlow_Expenses_CS	Staff Wages: {[WAGES]}\nOther: {[OTHER]}
 Tooltip/FinanceTab_CashFlow_Revenue_CS	Treatment: {[TREATMENT]}\nDiagnosis: {[DIAGNOSIS]}\nOther: {[OTHER]}
 Tooltip/FinanceTab_ProfitFactor_CS	Profit Factor:\n{[VALUE1]} (12 months Profit/Loss / 4) \nx {[VALUE2]} (Number of Profitable Months in last 12)

@@ -1,5 +1,12 @@
 Advisor/Social_LeaderboardBoast_TopFriend	{0} is our friend's name, unfortunately we cannot know the gender. {1} is the name of the leaderboard ("Cures Per Year" for example. {2} and {3} are scores.
 Challenges/DLC_4/VIP_Celebrity_Actor_R9_V1_Intro_Message	Please make the "Film star, and [ridiculous statement], Roderick Cushion" phrasing consistent with previous releases.
+Challenges/DLC_5/Patients_Mud_Intro_Message	This is a nod to the meaning of the expression "to soil oneself." It can be rewritten to work with the illness name pun in your language.
+Challenges/DLC_5/Patients_ToySoldier_Intro_Message_V2	This is a nod to plastic soldiers being a nostalgic toy.
+Challenges/DLC_5/VIP_Celebrity_Actor_R10_V1_Intro_Message	Please make the "Film star, and [ridiculous statement], Roderick Cushion" phrasing consistent with previous releases.
+Challenges/DLC_5/VIP_Celebrity_Actor_R10_V2_Intro_Message	Please make the "Film star, and [ridiculous statement], Roderick Cushion" phrasing consistent with previous releases.
+Challenges/DLC_5/VIP_Celebrity_Actor_R10_V3_Intro_Message	Please make the "Film star, and [ridiculous statement], Roderick Cushion" phrasing consistent with previous releases.\n\nThe Mudbury Hawk Sanctuary is reminiscent of the Pebberley Frog Sanctuary, so a similar naming scheme would be appropriate.
+Challenges/DLC_5/VIP_Celebrity_PartyGuest_R10_Intro_Message	This string needs to be gender-neutral, as we don't know the gender of the guest and they'll be visible when they come to the hospital.
+Challenges/DLC_5/VIP_Zara_V1_Intro_Message	In real life, "to watch paint dry" is "used to refer to an activity that you consider extremely boring." 
 Collaborative/Global_FruitLoot_Name	Name is funny because "uit" and "oot" are pronounced the same way.
 DJ/SongNames/Halloween/AstroFang	This is a Halloween version of song "Astro Jam." Please do not translate literally; instead, use the normal version of the song name and change it a bit to include something scary.
 DJ/SongNames/Halloween/AuroraTheHorror	This is a Halloween version of song "Aurora the Explorer." Please do not translate literally; instead, use the normal version of the song name and change it a bit to include something scary.
@@ -10,7 +17,10 @@ DJ/SongNames/Halloween/SpookyHutParty	This is a Halloween version of song "Tiki 
 DJ/SongNames/Halloween/TheBogeyMan	This is a Halloween version of song "The Gamble Man." Please do not translate literally; instead, use the normal version of the song name and change it a bit to include something scary.
 DJ/SongNames/Halloween/WetPumpkin	This is a Halloween version of song "Wet Laundry." Please do not translate literally; instead, use the normal version of the song name and change it a bit to include something scary.
 DJ/SongNames/Halloween/WitchWard	This is a Halloween version of song "Night Ward." Please do not translate literally; instead, use the normal version of the song name and change it a bit to include something scary.
+Frontend/FancyDress_Free_Name	We need a slightly different main menu string for how we’re going to be releasing the pack and we’d like to draw attention to releasing the Zombie Outfit around the time of Halloween.
+Frontend/FancyDress_Pack_Description	You can list any three you like. I'd suggest the three that sound funnier or more interesting in your language.
 Frontend/SummerFree_Items_2020_Description	It's "meat-tastic" because it's all BBQ-themed (burgers and hotdogs).
+HospitalPlot/DLC/Studio_A	These are the "plots" in the Plywood Studios level. They look like movie/TV studio sets.
 Illness/8Bit_Name	Pun: 8 bits + bitten. Patient appears pixelated.
 Illness/AnimalMagnetism_Name	Patients have small animals stuck to their body. The name comes from a set phrase: https://www.britannica.com/science/animal-magnetism
 Illness/BardFlu_Name	Pun: Sounds like "Bird Flu". "The Bard" is Shakespeare's nickname. The patient looks like Shakespeare
@@ -119,6 +129,45 @@ Illness/DLC_4/Stumblebum_Name	This comes from a set expression: https://dictiona
 Illness/DLC_4/TenderBox_Name	Pun on "tinderbox" (a useful thing to have when you're out in the wild), now being "tender."
 Illness/DLC_4/VegNose_Name	This is a visual illness, with the patient having a turnip for a nose. Check reference file for visual.
 Illness/DLC_4/WeepingIris_Name	Unsure what the pun is--iris is a flower, and part of the eye, so it's weeping? Anythig that's a reference to crying or sadness should be fine, especially if also related to nature.
+Illness/DLC_5/ActionHero_Name	Protagonist+Agony. Patients look like a Rambo-like character (see visuals for reference).
+Illness/DLC_5/ArtSick_Name	Pun on "heartsick," which means "to feel extreme unhappiness."
+Illness/DLC_5/Blooper_Name	This is a reference to blooper scenes: \nhttps://en.wikipedia.org/wiki/Blooper
+Illness/DLC_5/BlueBlood_Name	The expression "to have blue blodd" is used when someone is "born to a family that belongs to the highest social class."
+Illness/DLC_5/BrokenLeg_Name	This is a reference to stage actors in real life traditionally telling each other "Break a leg!" before the play or before going on stage, instead of saying just "Good luck."
+Illness/DLC_5/Canapains_Name	Canapé + Pains.\nCanapés are common platter snacks at socialite events, and are supposed to be refined.
+Illness/DLC_5/Concertoes_Name	Concerto + Toes
+Illness/DLC_5/CorruptFootage_Name	"Corrupt footage" (i.e. recording file that's become corrupted) contains the word "foot."
+Illness/DLC_5/CrossFrayed_Name	Cross fade + Frayed
+Illness/DLC_5/DirectorsGut_Name	Pun on "director's cut."
+Illness/DLC_5/DramaticPaws_Name	Sounds like "dramatic pause" (https://tvtropes.org/pmwiki/pmwiki.php/Main/DramaticPause).
+Illness/DLC_5/Dressage_Name	From the sport with horses. Keeping horses is considered a posh and high-society activity, which matches the theme of the third level of DLC 5.
+Illness/DLC_5/Extrasensory_Name	Actors with no or very few spoken lines, typically playing unnamed background characters, are called "extras."
+Illness/DLC_5/FlashBack_Name	Reference to the concept of a "flashback," related to the back of the human body.
+Illness/DLC_5/FourthwallProblem_Name	This is a reference to the concept of fourth wall in fiction: \n\nhttps://en.wikipedia.org/wiki/Fourth_wall
+Illness/DLC_5/Foxtrodden_Name	This is a reference to the foxtrot dance, and foxes treading on the patient.
+Illness/DLC_5/GuestCist_Name	Sounds similar to "guest list," tho with a cyst twist.
+Illness/DLC_5/HeadBanger_Name	A "banging headache" is a very strong headache. Also, head-banging is this:   https://en.wikipedia.org/wiki/Headbanging
+Illness/DLC_5/Hotdog_Name	Misdemeanor+Wiener. Patient wears a hot dog costume. This is reminiscent of the stereotypical part-time jobs aspiring actors take before they're rich and famous.
+Illness/DLC_5/Limelit_Name	A limelight is the same thing as a spotlight. Also, "to be in the limelight" means "to be a position of public attention or notice."
+Illness/DLC_5/Listless_Name	"Listless" in real life means "having or showing little or no interest in anything." Description for the illness plays with this meaning and with "lists."
+Illness/DLC_5/Metrognomic_Name	Metronome + Gnome
+Illness/DLC_5/MintyCondition_Description	Typically, comic book issues preserved "in mint condition" can theoretically be sold for higher prices to collectors.\n\nPlease note a "comic book" is not really a book, it's the most widespread format of comic magazine in the U.S. from publishers like Marvel or DC: \nhttps://en.wikipedia.org/wiki/Comic_book
+Illness/DLC_5/MintyCondition_Name	Minty + Mint condition.
+Illness/DLC_5/MoCap_Name	Motion sickness is a real condition in real life, feeling dizzy when travelling on a car, boat, etc. The patient wears a motion capture suit (see visuals for reference).
+Illness/DLC_5/Monopoly_Description	In Monopoly, player tokens have different forms, including a race car, a top hat and a thimble.\nThe "Go directly to Hospital. Don't..." joke comes from Monopoly as well: \nhttps://monopoly.fandom.com/wiki/Go_to_Jail_(card)\n\nIf Monopoly is not well-known in your country, you may need to rewrite the description so it makes more sense. Probably changing these references to stereotypical quirky rich man behavior should work.
+Illness/DLC_5/Monopoly_Name	This is a reference to the popular board game Monopoly. Patients look very similar to the board game's rich man mascot.
+Illness/DLC_5/Mud_Name	This is a visual illness, please check visual reference. The name comes from the common expression "to soil oneself."  \n\nhttps://en.wiktionary.org/wiki/soil_oneself
+Illness/DLC_5/PaperBag_Name	Bag + Incognito\nThis is a visual illness.
+Illness/DLC_5/Scream_Name	DLC 5 of Two Point hospital is also called "Culture Shock". These are not to be confused!!! Translations for both don't need to be identical in the localized game.\n\nIn real life, culture shock is "a feeling of confusion and distress experienced by a person who is exposed to a foreign culture."
+Illness/DLC_5/ShiftingPerspective_Name	To shift one's perspective is the same as to look at a topic or issue from a different angle. Perspective is also a reference to art and how to portray landscapes.
+Illness/DLC_5/Sinewment_Name	Sinew + Denouement
+Illness/DLC_5/SnotTwist_Name	Snot + Plot twist
+Illness/DLC_5/SquareEyes_Name	In English, someone is said to be square-eyed if they watch too much TV. \nThis is a visual illness, please check visuals for reference.
+Illness/DLC_5/StageHand_Name	In English, a stagehand is "a person who moves scenery or props before or during the performance of a play."
+Illness/DLC_5/Stuntman_Name	From "stunt double."
+Illness/DLC_5/ToySoldier_Name	"Private parts" is a euphemism for "genitals." A "private," on the other hand, is a soldier of the lowest rank.
+Illness/DLC_5/WardrobeMalfunction_Name	In real life, a wardrobe malfunction is "an instance of a person accidentally exposing an intimate part of their body as a result of an article of clothing slipping out of position."
+Illness/DLC_5/WritersBlock_Name	In real life, a writer's block is "a psychological inhibition preventing a writer from proceeding with a piece."
 Illness/Electrified_Name	From set phrase, "shock" also meaning "electricity discharge":\n\nhttps://www.merriam-webster.com/dictionary/shock%20horror
 Illness/Emperor sSyndrome_Name	Reference to classic faity tale: \n\nhttps://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes
 Illness/FloatyHead_Name	Reference to "bloaty head," from the 90's game Theme Hospital. This reference can be ignored and the name can be adapted freely for translation.
@@ -156,25 +205,37 @@ Items/DLC_4/FlowerBed_V2_Name	It's the equivalent of a good bed in the Herb Gard
 Items/DLC_4/FlowerBed_V3_Description	"Feeling ropey" means to feel bad, and also it's a pun on how the vines look like ropes.
 Items/DLC_4/FlowerBed_V3_Name	It's the equivalent of a great bed in the Herb Garden room.
 Items/DLC_4/WallPlant_Description	This has a double meaning. The plant is hanging from the wall, but also "to hand out" means to spend time with someone, or just spend time somewhere.
-Items/Exhibition_Pack/Melted_Clock_Description	Pun on the set phrase "time flies."
+Items/DLC_5/BenchTwoSeater_Posh_Name	It's called "French Bench" because it's alliterative and sounds posh. Anything that sounds posh would work in the translations.\nIn initial designs, it seems like it's a chaise longue; for gameplay reasons, it would be preferable to keep the word "bench" in the translations if possible so the user is not confused with its purpose.
+Items/DLC_5/Clapperboard_Description	This is what a film director shouts to their crew to stop filming.
+Items/DLC_5/GrandfatherClock_Description	A grandfather clock is a type of clock. This description needs to be rewritten to match the name of this type of clock in your language.
+Items/DLC_5/Machine_Stuntman_Description	"Wee" is what a child would say in e.g. a roller coaster.
+Items/DLC_5/Machine_Stuntman_Name	Generally, a crash course is "a brief, intensive course of instruction, as to prepare one quickly for a test." A course is also where e.g. a race takes place, and you know what "to crash" means. So the name for this machine is a triple pun.
+Items/DLC_5/Picture_Poster_Roderick_Description	"Brisk and Livid" has been translated previously. Let me know if, now that we have more background info on Roderick Cushion, you'd like to change the previous translation in legacy strings.
+Items/DLC_5/Picture_Poster_Roderick_V3_Description	"Rotting Hill" has been translated previously. Let me know if, now that we have more background info on Roderick Cushion, you'd like to change the previous translation in legacy strings.
+Items/DLC_5/PoolToy_Description	This is a pun on the different meanings of the word buoyancy.
 Items/Exhibition_Pack/Melted_Clock_Description	Pun on the set phrase "time flies."
 Items/Exhibition_Pack/Mount_Facemore_Name	Reference to Mount Rushmore. Doesn't need to be maintained.
-Items/Exhibition_Pack/Mount_Facemore_Name	Reference to Mount Rushmore. Doesn't need to be maintained.
-Items/Exhibition_Pack/Silver_Fox_Description	This is a reference to the set phase "silver fox." https://www.lexico.com/en/definition/silver_fox
 Items/Exhibition_Pack/Silver_Fox_Description	This is a reference to the set phase "silver fox." https://www.lexico.com/en/definition/silver_fox
 Items/Exhibition_Pack/Snail_Name	Maestropod is a combination of "gastropod" and "maestro", referencing the artistic theme and the depiction of a snail being masterfully done and distinguished.
-Items/Exhibition_Pack/Snail_Name	Maestropod is a combination of "gastropod" and "maestro", referencing the artistic theme and the depiction of a snail being masterfully done and distinguished.
+Items/FancyDress_Pack/Tombola_Description	Please do not translate literally. The text is written to rhyme, you can change any elements of the sentence to achieve a similar effect in your language, or change to something funny or a cultural reference.
 Items/FruitLoot_AppleChair_Description	This is a reference to the idiom "apple of your eye": https://en.wikipedia.org/wiki/Apple_of_my_eye#:~:text=The%20phrase%20apple%20of%20my,the%20pupil%20of%20the%20eye.
 Items/FruitLoot_BananaPhone_Description	A phone-shaped banana, a joke about superheroes like e.g. Batman who has a range of bat-themed items.
 Items/Machine_Mummy_Name	Pun: it's an Egyptian crypt, but it also sounds like decrypting a code.
 Items/Promo/Am_ArcadeMachine_Name	This is from Endless Legend. Please keep the word "Endless" in English.
 Items/Promo/Am_HoratioStatue_Name	This is a guest starring appearence from Endless Space 2. Please ask your PM for ES2 in-game terminology for this character.
 Items/Promo/Am_Rug_Description	This is another special item from Endless Space 2. "Dust" is the in-game currecy in ES2--please ask your PM for ES2 terminology.
+Items/SEGA60th/DreamCatcher_Name	This is a real-world old arcade machine made by SEGA decades ago. Please research to check for any potential localized name in your country.
+Items/SEGA60th/OutRun_Name	This is a real-world old arcade machine made by SEGA decades ago. Please research to check for any potential localized name in your country.
+Items/SEGA60th/Periscope_Description	This contains a direct quote from the original game, so ideally these would match the original loc, or can be kept in English if preferred if the game was never localized into your language.
+Items/SEGA60th/Periscope_Name	This is a real-world old arcade machine made by SEGA decades ago. Please research to check for any potential localized name in your country.
+Items/SEGA60th/SpaceHarrier_Description	This contains a direct quote from the original game, so ideally these would match the original loc, or can be kept in English if preferred if the game was never localized into your language.
 Items/Snacks_Cakes_Description	"Muffin" is a pun on "nothing."
 Items/Snacks_PickleJars_Description	Descriptions for this items are playing with alliteration. Translating them directly will likely result in plain, unfunny translations. It should be adapted or rewritten so it's funny in your language.
 Items/Snacks_Platter_Description	Descriptions for this items are playing with alliteration. Translating them directly will likely result in plain, unfunny translations. It should be adapted or rewritten so it's funny in your language.
 Items/SummerFree_BeanBag_Hamburger_Description	"Buns" can mean both "bum" and the type of bread used for burger sandwiches.
 Items/SummerFree_Rug_Burger_Name	No screenshot available. It's literally just a hamburger-shaped rug.
 Items/SummerFree_Rug_Hotdog_Name	No screenshot available. It's literally just a hotdog-shaped rug.
+Levels/DLC_5/R10_Zara_Letter_Opening	Zara's addressing the player. Please keep it gender-neutral.\n\n"The pen is mightier than the scalpel" comes from the phrase "The pen is mightier than the sword":\n\nhttps://dictionary.cambridge.org/us/dictionary/english/pen-is-mightier-than-the-sword
 Levels/Remix/R1_IntroHospital3_Welcome_Title	Not-tering is a play on the fact that the levels in remix are a simulation and supposedly not real. So even though it looks like the level Flottering, it's not. Thus Not-tering!
 Menu/Messages/CantLoadSave_CS	Specifically career save
+Menu/StaffCustomisation/FanyDress_Pack_Outfit_90s	"Spicy" is a reference to the Spice Girls. If you can't work this out in your language (watch out for PEGI 3 rating), just any reference to the UK or the Union Jack will be fine.

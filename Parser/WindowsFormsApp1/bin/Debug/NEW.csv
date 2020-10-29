@@ -1,48 +1,376 @@
-﻿"ID"	"9"
-"STRINGS.#0.Frontend/FancyDress_Pack_Description"	"평범한 옷을 벗고 ... 다른 옷으로 바꾸세요! 펭귄 슈트, 다 이잉 트렌드, 로마 스캔들과 같은 의상과 아이템으로 병원을 꾸며보세요!"
-"STRINGS.#0.Frontend/FancyDress_Pack_Name"	"멋진 드레스 팩"
-"STRINGS.#0.Frontend/SEGA60th_Description"	"OutRun 및 Periscope와 같은 고전 아케이드 게임으로 SEGA의 60 주년을 기념하세요."
-"STRINGS.#0.Frontend/SEGA60th_Name"	"SEGA 60 주년"
-"STRINGS.#0.Items/FancyDress_Pack/Bunting_Description"	"벽에도 의상을 입을 수 있습니다."
-"STRINGS.#0.Items/FancyDress_Pack/Bunting_Name"	"벽 드레싱"
-"STRINGS.#0.Items/FancyDress_Pack/CakeSale_Description"	"초콜릿과 공동."
-"STRINGS.#0.Items/FancyDress_Pack/CakeSale_Name"	"케이크 판매"
-"STRINGS.#0.Items/FancyDress_Pack/Chest_Description"	"탈의실 같지만 더 작습니다."
-"STRINGS.#0.Items/FancyDress_Pack/Chest_Name"	"의상 상자"
-"STRINGS.#0.Items/FancyDress_Pack/CoinDrop_Description"	"자유를 향해 달리기."
-"STRINGS.#0.Items/FancyDress_Pack/CoinDrop_Name"	"코인 드롭"
-"STRINGS.#0.Items/FancyDress_Pack/HatStand_Description"	"모든 계절을 위한 뚜껑."
-"STRINGS.#0.Items/FancyDress_Pack/HatStand_Name"	"모자 걸이"
-"STRINGS.#0.Items/FancyDress_Pack/Tombola_Description"	"핸들을 돌립니다. 촛불을 받으십시오."
-"STRINGS.#0.Items/FancyDress_Pack/Tombola_Name"	"Tombola"
-"STRINGS.#0.Items/Filters/FancyDress"	"멋진 옷"
-"STRINGS.#0.Items/SEGA60th/DreamCatcher_Description"	"진짜 돈 버는 크레인 게임! \ nSEGA 1989"
-"STRINGS.#0.Items/SEGA60th/DreamCatcher_Name"	"드림 캐처 아케이드"
-"STRINGS.#0.Items/SEGA60th/OutRun_Description"	"시작 버튼을 누르세요! \ n 코인을 넣으세요! \ nSEGA 1986"
-"STRINGS.#0.Items/SEGA60th/OutRun_Name"	"OutRun 아케이드"
-"STRINGS.#0.Items/SEGA60th/Periscope_Description"	"재미-서스펜스-흥분 \ nSEGA 1966"
-"STRINGS.#0.Items/SEGA60th/Periscope_Name"	"잠망경 아케이드"
-"STRINGS.#0.Items/SEGA60th/SpaceHarrier_Description"	"Fantasy Zone에 오신 것을 환영합니다. \ n 준비하세요! \ nSEGA 1985"
-"STRINGS.#0.Items/SEGA60th/SpaceHarrier_Name"	"스페이스 해리어 매머드"
-"STRINGS.#0.Menu/Preferences/Language/fr"	"프랑스어 (Français)"
-"STRINGS.#0.Menu/Preferences/Language/pt-BR"	"브라질 포르투갈어 (Português do Brasil)"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Bunny"	"토끼 귀"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_DayOfTheDead"	"페스티벌 페이스"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Disguise"	"신비의 가면"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Drinks"	"Bev 뇌"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Horse"	"말 머리"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Venetian"	"가장 무도회 가면극"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Viking"	"호색한 헬멧"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Wizard"	"마법사 찹"
-"STRINGS.#0.Menu/StaffCustomisation/FancyDress_Pack_Head_Wolf"	"울프웨어"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_60s"	"그루비 가브"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_70s"	"디스코 숄"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_80s"	"레저 플레어"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_90s"	"매운 작업복"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_Egyptian"	"피라미드 꿈"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_Fish"	"뭔가 비린내"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_Ninja"	"닌자 벨트"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_Penguin"	"펭귄 슈트"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_Pirate"	"괴혈병 개"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_Roman"	"로마 스캔들"
-"STRINGS.#0.Menu/StaffCustomisation/FanyDress_Pack_Outfit_Zombie"	"죽어가는 트렌드"
+﻿"ID"	9
+"STRINGS.#0.Advisor/Aliens_TooManyPaparazzi"	현재 병원에는 평범한 손님으로 위장한 파파라치가 많이 있습니다. 당신은 그들을 찾아서 즉시 집으로 보내야합니다!
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Advisor_Intro"	쇼의 제작자는 아이디어를 가지고있었습니다.
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Advisor_Outro_Failure_V1"	우리는 생산자의 요청을 이행하지 못했습니다.
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Advisor_Outro_Success_V1"	우리는 그들의 요청을 이행하기 위해 생산자들로부터 <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>를 받았습니다.
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Intro"	쇼의 제작자는 아이디어를 가지고 있습니다. 그렇게되면 추가 자금을 받게됩니다.
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Intro_Title"	프로듀서 아이디어
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Name"	프로듀서 아이디어
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Outro_Failure_V1"	생산자 요청 실패
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Outro_Success_V1"	완성 된 생산자 요청
+"STRINGS.#0.Challenges/DLC_5/Objective_R10_TelevisionHospital_Target_Outro_Title"	프로듀서 아이디어
+"STRINGS.#0.Challenges/DLC_5/Objective_Television_Tutorial_Description"	당신의 의학 걸작을 시작하십시오. 모든 이야기는 어딘가에서 시작됩니다.
+"STRINGS.#0.Challenges/DLC_5/Objective_Television_Tutorial_Name"	파일럿 에피소드
+"STRINGS.#0.Challenges/DLC_5/Patients_Mud_Arrival_Advisor"	더러워진 자아 환자들이 지금 도착합니다…
+"STRINGS.#0.Challenges/DLC_5/Patients_Mud_Intro_Message"	페스티벌에서 휴대용 화장실이 쓰러져 대기중인 사람들에게 진흙을 뿌린 후 더러워진 자아가 발생했습니다. 음, 진흙 같았어요. \n이 그룹을 치료하면 보상을받을 수 있습니다. 여기로 보내야합니까?
+"STRINGS.#0.Challenges/DLC_5/Patients_Mud_Intro_Message_V2"	페스티벌에서 한 무리의 참석자들이 다리의 피로를 느끼고 바닥에 앉으 려다 진흙 속으로 거의 사라진 후 페스티벌에서 Soiled Self가 발생했습니다. \n이 그룹을 치료하면 보상을받을 수 있습니다. ?
+"STRINGS.#0.Challenges/DLC_5/Patients_Mud_Intro_Message_V3"	일부 조커가 ""진흙 싸움 ""을 시작하는 것이 재미있을 것이라고 생각한 후이 지역에서 더러워진 자아가 발생했습니다. \n이 그룹을 치료하면 보상을받을 수 있습니다. 여기로 보내야합니까?
+"STRINGS.#0.Challenges/DLC_5/Patients_Mud_Intro_Title"	오염 된 자체 비상
+"STRINGS.#0.Challenges/DLC_5/Patients_Mud_Name"	더러워진자가 환자
+"STRINGS.#0.Challenges/DLC_5/Patients_Stuntman_Arrival_Advisor"	스턴트 트러블 환자들이 지금 도착합니다…
+"STRINGS.#0.Challenges/DLC_5/Patients_Stuntman_Intro_Message"	스턴트 트러블이 발생했습니다. 자신의 스턴트를하는 배우들에 대한 실행으로 인해 복식이 병에 걸리고 일이 없어졌습니다. \n이 그룹을 치료하면 보상을받을 수 있습니다. 여기로 보내야합니까?
+"STRINGS.#0.Challenges/DLC_5/Patients_Stuntman_Intro_Message_V2"	Jimbo 's Scooters, Capes & Jumpsuits의 깜짝 세일이 지역 사회의 건강에 부정적인 영향을 미쳐 지역에서 Stunt Trouble이 발생했습니다. \n이 그룹을 치료하면 보상을받을 수 있습니다. 여기로 보냈나요?
+"STRINGS.#0.Challenges/DLC_5/Patients_Stuntman_Intro_Message_V3"	Roderick Cushion의 피를 흘리는 고전 ""Brisk and Livid ""를 최근 상영 한 후이 지역에서 Stunt Trouble이 발생했습니다. \n이 그룹을 치료하면 보상을받을 수 있습니다. 여기로 보내야합니까?
+"STRINGS.#0.Challenges/DLC_5/Patients_Stuntman_Intro_Title"	스턴트 문제 긴급
+"STRINGS.#0.Challenges/DLC_5/Patients_Stuntman_Name"	스턴트 문제 환자
+"STRINGS.#0.Challenges/DLC_5/Patients_ToySoldier_Arrival_Advisor"	개인 부품 환자가 지금 도착합니다…
+"STRINGS.#0.Challenges/DLC_5/Patients_ToySoldier_Intro_Message"	불량 메이크업 아티스트가 산업용 강도 의상 퍼티를 사용하고 애니메이션 장난감으로 엑스트라 그룹을 만든 후 해당 지역에서 Private Parts가 발생했습니다. \n이 그룹을 치료하면 보상을받을 수 있습니다. ?
+"STRINGS.#0.Challenges/DLC_5/Patients_ToySoldier_Intro_Message_V2"	벙글 사진에서 가족 영화의 클러스터가 개봉 된 후 Private Parts가 발생하여 지역 주민들의 내면의 아이들이 병에 걸렸을 정도까지 데려 왔습니다. \n이 그룹을 치료하면 보상을받을 것입니다. , 여기로 보내야합니까?
+"STRINGS.#0.Challenges/DLC_5/Patients_ToySoldier_Intro_Message_V3"	지역 장난감 공장에서 결함이있는 재고를 태우고 그로 인해 발생하는 연기로 인해 비가 특히 산성화되고 괴로워 진 후 해당 지역에서 Private Parts가 발생했습니다. \n이 그룹을 처리하면 보상을받을 수 있습니다. 여기?
+"STRINGS.#0.Challenges/DLC_5/Patients_ToySoldier_Intro_Title"	민간 부품 비상
+"STRINGS.#0.Challenges/DLC_5/Patients_ToySoldier_Name"	개인 부품 환자
+"STRINGS.#0.Challenges/DLC_5/VIP_Celebrity_Actor_R10_V1_Intro_Message"	영화 배우이자 TV에서 가장 좋아하는 의사 인 Roderick Cushion이 ""Back Wards ""에피소드를 촬영하고 있습니다. 그의 요원은 그가 들판을 뛰어 다니며 다리를 펴도록 할 것인지 물었습니다.\n그가 병원에 ​​감명을 받았다면 우리 평판에 좋을 수도 있고 기부를 할 수도 있습니다. 어떻게 생각해?
+"STRINGS.#0.Challenges/DLC_5/VIP_Celebrity_Actor_R10_V2_Intro_Message"	영화 배우이자 가끔 칼로리 카운터 인 Roderick Cushion이 VIP 섹션을 찾으려고하는 지역에 있습니다. 그의 요원은 그를 병원 주변에 보여줌으로써주의를 분산시킬 것인지 물었습니다.\n그가 병원에 ​​감명을 받았다면 우리의 평판에 좋을 수도 있고 기부를 할 수도 있습니다. 어떻게 생각해?
+"STRINGS.#0.Challenges/DLC_5/VIP_Celebrity_Actor_R10_V3_Intro_Message"	영화 배우이자 초보 조류 관찰자 인 Roderick Cushion은 머드 버리 호크 보호 구역에 청동 채 핀치를 기부 한 후이 지역에 있습니다. 그의 에이전트는 그의 막대한 부를 계속해서 증가하고 있음에도 불구하고 무료로 페스티벌에 참가할 수 있는지 물었습니다.\n그가 병원에 ​​감명을 받았다면 우리의 평판에 좋을 수도 있고 기부를 할 수도 있습니다. 어떻게 생각해?
+"STRINGS.#0.Challenges/DLC_5/VIP_Celebrity_PartyGuest_R10_Intro_Message"	자라는 유명한 친구 중 한 명을 병원에 초대했습니다. 누군지는 모르겠지만 그들이 가고 있습니다.\n병원에 감명을 받으면 우리 평판에 좋을 수도 있고 기부를 할 수도 있습니다. 어떻게 생각해?
+"STRINGS.#0.Challenges/DLC_5/VIP_Celebrity_PopStar_R10_V1_Intro_Message"	Popstar Jasmine Odyssey는 아트 디스트릭트의 많은 부분을 매입하는 지역에 있습니다. 그녀의 요원은 그녀가 Plywood에있는 동안 그녀가 Plywood를 둘러 보게 해줄 수 있는지 물었습니다.\n그녀가 병원에 ​​감명을 받았다면 우리 평판에 좋을 수도 있고 기부도 할 수도 있습니다. 어떻게 생각해?
+"STRINGS.#0.Challenges/DLC_5/VIP_Celebrity_PopStar_R10_V2_Intro_Message"	Popstar Jasmine Odyssey가 그녀의 최신 싱글 ""Lights, Cameras, Fractions ""의 뮤직 비디오를 녹화하는 지역에 있으며, 그녀의 에이전트는 그녀에게 들러 휴식을 취하고 화장실을 사용할 수 있는지 물었습니다.\n그녀가 병원에 ​​깊은 인상을받은 경우 우리 평판에 좋을 수도 있고 기부를 할 수도 있습니다. 어떻게 생각해?
+"STRINGS.#0.Challenges/DLC_5/VIP_Celebrity_PopStar_R10_V3_Intro_Message"	Popstar Jasmine Odyssey는 이름없는 위치에있는 이름없는 친구를 방문하는 지역에 있습니다. 그녀의 에이전트는 그녀가 방문하러 올 수 있는지 물었고 우리가 연락을받지 않는 한 그녀와 이야기하지 말라고 상기 시켰습니다.\n그녀가 병원에 ​​감명을 받으면 우리의 평판에 좋을 수도 있고 기부를 할 수도 있습니다. 어떻게 생각해?
+"STRINGS.#0.Challenges/DLC_5/VIP_Inspector_R10_V1_Intro_Message"	카운티 최고의 보건 및 안전 검사관 인 Henry Jobsworth는 곧 검사를 위해 우리를 방문 할 것이라고 알려 왔습니다. 잡스 워스 씨는 한 번 텔레비전을 봤는데 소란이 무엇인지 몰랐지만 다시 시도 할 의향이 있다고 덧붙였습니다.\n그는 곧 도착할 것입니다. 좋은 보고서가 우리의 명성에 도움이 될 것입니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Inspector_R10_V2_Intro_Message"	카운티 최고의 보건 및 안전 검사관 인 Henry Jobsworth는 곧 검사를 위해 우리를 방문 할 것이라고 알려 왔습니다. 잡스 워스 씨는 그가 트롬본을 연주하고 있고, 물론 우리가 검사를 통과한다면 축제에서 연주 할 수 있다고 지적합니다.\n그는 곧 도착할 것입니다. 좋은 보고서는 우리의 명성에 도움이 될 것입니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Inspector_R10_V3_Intro_Message"	카운티 최고의 보건 및 안전 검사관 인 Henry Jobsworth는 곧 검사를 위해 우리를 방문 할 것이라고 알려 왔습니다. 잡스 워스 씨는 만성적 인 멀미와 부력에 대한 일반적인 불신으로 인해 저택에서 요트를 검사 할 수 없을 것이라고 덧붙였습니다.\n그는 곧 도착할 것입니다. 좋은 보고서가 우리의 명성에 도움이 될 것입니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_PartyGuest_Arrival_Advisor"	VIP 게스트가 아카데미에 도착합니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_PartyGuest_Intro_Title"	자라의 손님
+"STRINGS.#0.Challenges/DLC_5/VIP_PartyGuest_Reward_Message_1"	Zara는 그녀의 손님이 최근 방문에서 끔찍한 시간을 보냈다고 말합니다. 분명히 병원에있는 것 같았습니다. 가혹하지만 공정합니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_PartyGuest_Reward_Message_2"	Zara는 그녀의 손님이 병원에서 조금 실망했다고 말합니다. 연어 퍼프를 서빙해야할까요?
+"STRINGS.#0.Challenges/DLC_5/VIP_PartyGuest_Reward_Message_3"	Zara는 그녀의 손님이 병원에 오는 것을 거의 기억하지 못하는 것처럼 말하지 않았다고 말합니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_PartyGuest_Reward_Message_4"	Zara는 그녀의 손님이 병원 방문을 정말 즐겼다 고 말합니다. Zara는 그녀가 꽤 많은 크레딧을 받았다는 사실을 보상하기 위해 우리에게 보상을 보냈습니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_PartyGuest_Reward_Message_5"	Zara는 손님이 방문하는 동안 멋진 시간을 보냈다고 말합니다. 사실, 그들은 다시 오라고 요청했지만 Zara는 우리가 ""만실 "이라고 말했다. 그녀는 그렇게하는 것을 정말 좋아하는 것 같아서 우리에게 보상을 보냈습니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_Arrival_Advisor"	아티스트 Zara Fitzpocket이 병원에 도착합니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_R10_V1_Intro_Message"	Zara Fitzpocket은 Roderick에게 무대 뒤를 방문 할 것이라고 약속했습니다. 그녀는 지금 병원으로가는 중입니다.\n그녀가 병원에서 영감을 받았다면 우리의 명성에 도움이되며 기부를 할 수도 있습니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_R10_V2_Intro_Message"	Zara Fitzpocket은 축제에 들러서 빠른 사진을 찍고 상황이 어떻게 돌아가는지 확인할 것입니다.\n병원에서 영감을 받으면 우리의 명성에 도움이되며 기부도 할 수 있습니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_R10_V3_Intro_Message"	Zara Fitzpocket이 새 양말을 사러 집으로 돌아 왔습니다. 그녀는 집에있는 동안 병원에 모습을 보일 것이라고 말합니다.\n병원에서 영감을 받으면 우리의 명성에 도움이되며 기부도 할 수 있습니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_Reward_Message_1"	Zara Fitzpocket은 최근 병원을 방문한 후 ""생각과 감정 ""을 보냈습니다. 그녀는 다음과 같이 씁니다. ""여보, 당신 병원에서 무슨 일이 일어나고 있는지 잘 모르겠지만 지금은 우리의 이니셔티브에 부응하지 않는 것 같습니다. 제가 스스로에게 묻습니다. 제가 병원이되기를 바라는 것이 무엇입니까? 그게 내가 원하는 예술인가? 현재 대답은 '아니오'입니다. 계속해서 기억하세요. 실패는 미래에 덜 끔찍해질 기회 일뿐입니다! ""
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_Reward_Message_2"	Zara Fitzpocket은 최근 병원을 방문한 후 ""생각과 감정 ""을 보냈습니다. 그녀는 ""당신의 병원은 나에게 첫 번째 팬케이크를 상기시킨다. 약간 타고, 약간 고르지 않고, 약간 끔찍합니다. 약속을 이행하려면 비판을 받아 들여야합니다. 내일은 새로운 날이기 때문에 나쁜 팬케이크를 먹어야합니다. 타자로 돌아가서 다시 뒤집을 준비를하십시오. 오늘은 씁쓸하지만 미래는 맛있어 보인다. "
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_Reward_Message_3"	Zara Fitzpocket은 최근 병원을 방문한 후 ""생각과 감정 ""을 보냈습니다. 그녀는 다음과 같이 씁니다. ""내가 실망했다고 말할 수도없고, 그렇게 흥분된다고 말할 수도 없습니다. 나는 당신이 얻는 것을 볼 수 있지만 그것은 단지 약간의 파생물입니다. 그것은 ... 병원입니다. 대담 해! 당신은 우리에게 더 많은 것을 제공 할 수 있습니다. ""
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_Reward_Message_4"	Zara Fitzpocket은 최근 병원을 방문한 후 ""생각과 감정 ""을 보냈습니다. 그녀는 ""정확히 내가 찾고자했던 것입니다. 내 방문의 맛은 오래되고 사랑스러운 친구처럼 달콤하게 남아 있습니다. 잘 했어! 당신이 다음에 우리를 어떻게 대하는지보고 싶어요. ""
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_Reward_Message_5"	Zara Fitzpocket은 최근 병원을 방문한 후 ""생각과 감정 ""을 보냈습니다. 그녀는 ""당신의 최근 병원은 승리입니다. 절묘하게 예상치 못한, 매우 미묘합니다. 모든 위대한 예술과 마찬가지로, 당신의 병원은 분명히 카운티와 제 삶을 영원히 바꿔 놓았습니다. 어떤 경험. 무슨 병원. 감사합니다.""
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_Title"	아트 리뷰
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_V1_Intro_Message"	Zara Fitzpocket은 페인트가 마르는 것을 보는 것에 지 쳤기 때문에 방문하러 병원으로가는 중입니다.\n병원에서 영감을받은 경우 우리의 명성에 도움이되며 기부도 할 수 있습니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_V2_Intro_Message"	자라 피츠 포켓이 연어 시식을하러가는 중이지만 방문을 원합니다.\n병원에서 영감을 받았다면 우리의 명성에 도움이되며 기부도 할 수 있습니다.
+"STRINGS.#0.Challenges/DLC_5/VIP_Zara_V3_Intro_Message"	Zara Fitzpocket은 중반의 그림을 그리며 풍경을 바꾸기 위해 병원을 방문하고 싶어합니다.\n병원에서 영감을받은 경우 우리의 명성에 도움이되며 기부를 할 수도 있습니다.
+"STRINGS.#0.Challenges/PaparazziaRevealedInspectorStamp"	프레스
+"STRINGS.#0.Challenges/Patients_Pharmacy_V2_Intro_Message"	Bungle의 ""Smart-Plasters ""에 대한 소프트웨어 업데이트로 인해 여러 건의 혈액 중독 사례가 발생한 후 약국 관련 질병이 발생했습니다. 한 그룹이 치료를 찾고 있습니다. \n이 그룹의 환자를 치료하면 보상을받을 수 있습니다. 여기로 보내야합니까?
+"STRINGS.#0.Challenges/SubGoals/FireStaff_Goal_CS"	직원 {[COUNT]} 명 해고 [i2p_One] 직원 해고
+"STRINGS.#0.Challenges/SubGoals/FireStaff_Goal_Tooltip_CS"	직원을 해고하려면 직원을 선택한 다음 ""발사 ""버튼을 선택합니다. 해고 된 직원은 다시 고용 할 수 없습니다.
+"STRINGS.#0.Challenges/SubGoals/ImpressVIPs_Goal_CS"	{[COUNT]} VIP에게 감동 [i2p_One] VIP 감동
+"STRINGS.#0.Challenges/SubGoals/ImpressVIPs_Goal_Tooltip_CS"	많은 엔터테인먼트와 고급스럽게 장식 된 객실을 갖춘 매력적이고 깨끗하며 잘 관리 된 병원을 통해 방문하는 VIP에게 깊은 인상을 남깁니다.
+"STRINGS.#0.Challenges/SubGoals/MachinesCatchFire_Goal_CS"	{[COUNT]} 대의 기계가 불을 붙잡도록 허용 [i2p_One] 기계가 불을 붙잡도록 허용
+"STRINGS.#0.Challenges/SubGoals/MachinesCatchFire_Goal_Tooltip_CS"	기계는 유지 보수 직원이 방치하면 불이 붙습니다.
+"STRINGS.#0.Challenges/SubGoals/MachinesExplode_Goal_CS"	{[COUNT]} 대의 기계가 폭발을 포착하도록 허용 [i2p_One] 기계의 폭발을 허용
+"STRINGS.#0.Challenges/SubGoals/MachinesExplode_Goal_Tooltip_CS"	기계는 유지 보수 직원이 방치하면 불이 붙습니다. 불이 꺼지지 않으면 결국 기계가 폭발합니다.
+"STRINGS.#0.Challenges/SubGoals/PatientDeaths_TV_CS"	환자 {[DEATHS]} 명 처치 [i2p_One] 환자 처치
+"STRINGS.#0.Challenges/SubGoals/RevealPaparazzi_Goal_CS"	파파라치 {[COUNT_ALIENS]} 개 노출 [i2p_One] 파파라치 {[COUNT_ALIENS]} 개 노출
+"STRINGS.#0.Challenges/SubGoals/RevealPaparazzi_Progress_CS"	{[COUNT_ALIENS]} 개 중 {[COUNT_REVEALED]} 개를 찾았습니다.
+"STRINGS.#0.Challenges/SubGoals/RevealPaparazzi_Tooltip"	파파라치를 찾으면 우리의 사생활을 침해하고 시간을 낭비 할 것입니다. 당신은 그들이 쓰레기통을 들여다 보거나 사진을 찍거나 비밀을 적어 놓는 것을 볼 수 있습니다. 그들과 플래시 카메라를 발견하면 집으로 보내십시오.
+"STRINGS.#0.Challenges/SubGoals/Roderick_CurePatientsInRoom_Goal_CS"	Roderick Cushion이 {[ROOM]}에서 {[COUNT]} 명의 환자를 치료하도록하십시오 [i2p_One] Roderick Cushion이 {[ROOM]}에서 환자를 치료하도록하십시오
+"STRINGS.#0.Challenges/SubGoals/Roderick_CurePatientsWithIllness_Goal_CS"	Roderick Cushion 치료 {[ILLNESS]} 환자 {[COUNT]} 명 치료 받기 [i2p_One] Roderick Cushion 치료 {[ILLNESS]} 환자 치료 받기
+"STRINGS.#0.Challenges/SubGoals/Roderick_CurePatients_Goal_CS"	Roderick Cushion 치료 {[COUNT]} 명 환자 [i2p_One] Roderick Cushion 치료 환자
+"STRINGS.#0.Challenges/SubGoals/Roderick_Cure_Tooltip_CS"	Roderick Cushion은 특정 공간에서 작업 할 수있는 자격이 필요할 수 있습니다. 그는 작업 할당 화면에서 변경 한 내용을 듣지 않지만 원하는 곳에 그를 데리러 배치 할 수 있습니다.
+"STRINGS.#0.Challenges/SubGoals/Roderick_DiagnosePatients_Goal_CS"	Roderick Cushion이 {[COUNT]} 명의 환자를 진단하도록하십시오 [i2p_One] Roderick Cushion이 환자를 진단하도록하십시오
+"STRINGS.#0.Challenges/SubGoals/StaffTrain_Roderick_Goal_CS"	기차 로데릭 쿠션
+"STRINGS.#0.Challenges/SubGoals/VIBE_ToolTip_CS"	Zara로부터받는 월간 자금은 지난 3 개월 평가 기간 동안 Vibe System의 평가에 따라 현재 운영 비용의 {[LOWER]}에서 {[UPPER]} 사이로 달라질 수 있습니다.
+"STRINGS.#0.Challenges/SubGoals/Wellness_PatientHealth_Name_CS"	환자 건강
+"STRINGS.#0.Challenges/SubGoals/Wellness_PatientHealth_ToolTip_CS"	환자를 신속하게 치료하거나 집으로 보냅니다.
+"STRINGS.#0.Challenges/SubGoals/Wellness_RoomPrestige_ToolTip_CS"	모든 방을 최고 수준으로 장식하십시오.
+"STRINGS.#0.Challenges/Subgoals/VIBE_Funding"	VIBE 펀딩
+"STRINGS.#0.Challenges/Subgoals/VIBE_Title"	VIBE 시스템
+"STRINGS.#0.Challenges/VIBE_AdvisorMessage_CS"	자금 지원 업데이트 : Zara는 이제 <style = ""AdvisorHighlight ""의 평가에 따라 향후 3 개월 동안 총 운영 비용의 <style = ""AdvisorHighlight ""> {[PERCENT]} </ style>를 부담하게됩니다. > VIBE 시스템 </ style>.
+"STRINGS.#0.DJ/SongArtists/CreditSequins"	신용 장식 조각
+"STRINGS.#0.DJ/SongArtists/FourManTent"	4 인용 텐트
+"STRINGS.#0.DJ/SongArtists/TheSoupSwoons"	수프 Swoons
+"STRINGS.#0.DJ/SongNames/FebricantFestival"	Febricant 축제
+"STRINGS.#0.DJ/SongNames/SitcomStrum"	시트콤 스트 럼
+"STRINGS.#0.DJ/SongNames/TheGalereGala"	갈레 갈라
+"STRINGS.#0.Frontend/FancyDress_Free_Description"	여기를 클릭하여 멋진 드레스 팩을보고 무료 ""죽어가는 트렌드 ""직원 맞춤 옵션을 신청하십시오.
+"STRINGS.#0.Frontend/FancyDress_Free_Name"	멋진 드레스 공짜
+"STRINGS.#0.HospitalPlot/DLC/Studio_A"	단계 A
+"STRINGS.#0.HospitalPlot/DLC/Studio_B"	B 단계
+"STRINGS.#0.HospitalPlot/DLC/Studio_C"	단계 C
+"STRINGS.#0.HospitalPlot/DLC/Studio_D"	단계 D
+"STRINGS.#0.HospitalPlot/DLC/Studio_E"	단계 E
+"STRINGS.#0.HospitalPlot/DLC/Studio_F"	단계 F
+"STRINGS.#0.HospitalPlot/DLC/Studio_G"	단계 G
+"STRINGS.#0.HospitalPlot/DLC/Studio_H"	단계 H
+"STRINGS.#0.HospitalPlot/DLC/Studio_I"	1 단계
+"STRINGS.#0.HospitalPlot/DLC/Studio_J"	J 단계
+"STRINGS.#0.HospitalPlot/DLC/Studio_K"	스테이지 K
+"STRINGS.#0.HospitalPlot/DLC/Studio_L"	단계 L
+"STRINGS.#0.Illness/DLC_5/ActionHero_Description"	고통받는 사람들은 자신의 중요성과 능력에 대해 부풀려지고 완전히 불합리한 인식을 가지고 있습니다. 그들은 병리학 적으로 불쾌한 상태에서 신경 학적으로 정상적인 상태로 되돌리려면 경미하고 정신적 인 비난을 받아야합니다. 2 대 1 영화 티켓으로 인해 상대적으로 작은 칭찬이 머리에 전달됩니다.
+"STRINGS.#0.Illness/DLC_5/ActionHero_Name"	Protagony
+"STRINGS.#0.Illness/DLC_5/ArtSick_Description"	경미한 권태부터 강렬하고 실존 적 절망에 이르기까지 심각도에 따라 다양합니다. 페인트 연기, 희석되지 않은 수채화 및 선 밖의 채색으로 인해 발생합니다.
+"STRINGS.#0.Illness/DLC_5/ArtSick_Name"	예술 병
+"STRINGS.#0.Illness/DLC_5/Blooper_Description"	신체의 내부 코드는 근본적이고 종종 우스꽝스러운 오류를 채택했습니다. 비전문적 인 염기 서열은 DNA 본체에서 제거하여 신체의 보너스 DNA로 옮겨야합니다. 고통받는 사람들은 통제 할 수 없게 웃거나 ""라인 ""을 요구할 수 있습니다.
+"STRINGS.#0.Illness/DLC_5/Blooper_Name"	큰 실수
+"STRINGS.#0.Illness/DLC_5/BlueBlood_Description"	환자의 필수 체액은 거의 잘난 척하고 푸른 그늘을 띠고 있습니다. 종종 몇 세대 동안 방치 된 돈에서 잡힌 환자는 피 감사를 받아야하며 번거로운 재산을 즉시 빼앗아 야합니다.
+"STRINGS.#0.Illness/DLC_5/BlueBlood_Name"	귀족의 혈통
+"STRINGS.#0.Illness/DLC_5/BrokenLeg_Description"	극장의 베테랑과 의료 전문가들은 공연자 ""행운 ""을 기원하는 위험을 이해합니다. 사실, Two Point County에서 매년 발생하는 부러진 다리의 1.5 % 이상은 훨씬 더 안전한 ""다리 부러짐 ""이라고 말하는 것을 잊은 선량한 사람의 직접적인 아이러니 한 결과입니다. 당신의 의도는 중요하지 않습니다. 다른 사람에게 행운을 기원하기 전에 생각하십시오.
+"STRINGS.#0.Illness/DLC_5/BrokenLeg_Name"	부러진 다리
+"STRINGS.#0.Illness/DLC_5/Canapains_Description"	고통받는 사람들은 장의 불편 함을 조금씩 경험합니다. 불쾌한 핑거 푸드와 잘 씻지 않은은 제품으로 인해 발생합니다. 전채 요리 (주문)는 내부를 뒤져서 이국적인 계란, 값 비싼 조미료 또는 훈제 등 모든 불편 함을 유발하는 것을 제거하는 것입니다.
+"STRINGS.#0.Illness/DLC_5/Canapains_Name"	카나 파인
+"STRINGS.#0.Illness/DLC_5/Concertoes_Description"	영화는 피아노가 사람의 머리에만 떨어지지 만 때로는 사람의 발에 닿기도한다고 믿게했습니다. 그것은 또한 정말 이상적이지 않습니다. 발가락이 심하게 골절되어 걸을 때 클래식 음악처럼 희미하게 들리는 소음이 발생합니다.
+"STRINGS.#0.Illness/DLC_5/Concertoes_Name"	콘체르토
+"STRINGS.#0.Illness/DLC_5/CorruptFootage_Description"	환자는 발 뼈에 편집이 필요한 구멍을 개발했습니다. 조심스럽게 복원 한 다음 보호용 아날로그 필름으로 포장해야합니다. 세트장에서 걸려 넘어지고, 릴을 발꿈치에 떨어 뜨리고, 누군가가 프랜차이즈 커피 잔을 촬영에 남겨두기 때문에 발생합니다.
+"STRINGS.#0.Illness/DLC_5/CorruptFootage_Name"	손상된 영상
+"STRINGS.#0.Illness/DLC_5/CrossFrayed_Description"	영화 산업의 전통적인 전환 기법 인 '크로스 페이딩'에 대한 알레르기 반응의 한 형태입니다. 인간의 눈으로는 눈에 띄지 않지만, 십자형 개인의 세포는 현미경으로 검사 할 때 ""퇴색 "하는 것처럼 보입니다. 이 기술의 편재성으로 인해 환자가 자신의 편협함을 유전 암호에서 제거하는 것이 가장 안전합니다.
+"STRINGS.#0.Illness/DLC_5/CrossFrayed_Name"	십자형
+"STRINGS.#0.Illness/DLC_5/DirectorsGut_Description"	과도한 의사 결정과 곰팡이가 많은 베이글로 인한 만성 복통.
+"STRINGS.#0.Illness/DLC_5/DirectorsGut_Name"	감독의 거트
+"STRINGS.#0.Illness/DLC_5/DramaticPaws_Description"	고통받는 사람의 손은 드라마에 대한 취향을 발전 시켰습니다! 손은 자신의 삶을 보여 주며 순전히 ""서사 ""를 위해 일을하며 종종 개인의 단점과 위험을 감수합니다. 소위 ""Dramatic Paws ""는 싸움을 시작하거나 음료수를 던지거나 넘어져서는 안되는 물건을 넘어 뜨리는 것으로 알려져 있습니다.
+"STRINGS.#0.Illness/DLC_5/DramaticPaws_Name"	극적인 발
+"STRINGS.#0.Illness/DLC_5/Dressage_Description"	말, 마구간 및 민소매 누비 재킷에서 감염된 바이러스 상태입니다. 내부 장기가 질서 있고 우아한 방식으로 몸 주위를 산책하기 시작하기 때문에 대부분의 경우 증상이 나타나지 않지만 일부 의사는 주변 시력이 떨어지고 때때로 윙윙 거리는 것으로 입증되었습니다.
+"STRINGS.#0.Illness/DLC_5/Dressage_Name"	마장 마술
+"STRINGS.#0.Illness/DLC_5/Extrasensory_Description"	""피곤한 노인 "", ""발레리나 # 4 ""와 같이 대사와 캐릭터 이름을 말하지 않고 배우가 계약하는 조건. 카페를 배경으로 말하는 척하는 삶? 장면은 환자의 사회적 행동에 지쳐 있습니다. 그들은 이제 몸짓과 중얼 거리며 간격을두고 웃습니다.“Hurgh nu fa, ba-da-la-da-DA! ㅋ. 오." 그것은 보여줄 것입니다 : 배경 생활은 배경 예술을 모방합니다 ...
+"STRINGS.#0.Illness/DLC_5/Extrasensory_Name"	초감각
+"STRINGS.#0.Illness/DLC_5/FlashBack_Description"	강렬한 d? j?로 인한 갑작스런 요통의 파열 vu 관련 환각. 환자는 자신을 (요통에서) 구하기 위해 미래에서 돌아 왔다고 믿을 수 있습니다. 그들은 자신을 다치게하거나 어떻게 든 미래를 변화시키기 전에 다른 방법으로 확신 할 필요가 있습니다.
+"STRINGS.#0.Illness/DLC_5/FlashBack_Name"	플래시백
+"STRINGS.#0.Illness/DLC_5/FourthwallProblem_Description"	유명한 정신과 의사 Ebenezer Fourthwall이 처음으로 인정한 상태입니다. 환자는 판타지에서 현실을, 오른쪽에서 왼쪽의 무대를 말할 수 없습니다. 숨겨진 카메라, ""장난 ""으로 인해 현실이 완전히 산산조각났습니다. 극단적 인 사례는 환자가 일종의 사치스러운 시뮬레이션에 있다고 믿게 만드는 것으로 알려져 있습니다.
+"STRINGS.#0.Illness/DLC_5/FourthwallProblem_Name"	Fourthwall 문제
+"STRINGS.#0.Illness/DLC_5/Foxtrodden_Description"	안팎의 극히 작은 멍이 몸에 빛을 발했지만 안타깝게도 파열에 가까워졌습니다. 환자는 신체의 구조적 완전성을 복구하고 ""팝 "이 발생하지 않도록 수술을 받아야합니다. 댄스 플로어에서의 긴 밤, 불법 스파 트리트먼트 및 폭스 스탬피드로 인해 발생했습니다.
+"STRINGS.#0.Illness/DLC_5/Foxtrodden_Name"	폭스 트롯 덴
+"STRINGS.#0.Illness/DLC_5/GuestCist_Description"	주최자, 프로듀서 및 케이 터러 모두에게 흔한 질병입니다. 이벤트를 계획하는 것은 스트레스가 많은 직업입니다. 파티를 던지는 초기에는 울퉁불퉁 한 불룩한 부분에 초대받지 않은 영혼이 담겨 있었다고합니다. 전통적으로 파티가 끝날 때 주최자는 터질 때까지 막대기로 두들겨서 부재자의 영혼을 해방했습니다. 이것은 나중에 위험하고 꽤 심한 것으로 간주되었습니다.
+"STRINGS.#0.Illness/DLC_5/GuestCist_Name"	게스트 Cist
+"STRINGS.#0.Illness/DLC_5/HeadBanger_Description"	환자의 머리를 굳게하는 극심한 형태의 두통으로 미묘하고 종종 눈에 띄지 않는 금속성 품질을 제공합니다. 그들은 잠시 동안 머리를 가만히 유지하고 느긋한 분위기를 주입해야합니다. 파워 코드, 락 및 / 또는 롤에 의해 발생하며 충분한 물을 마시지 않습니다.
+"STRINGS.#0.Illness/DLC_5/HeadBanger_Name"	두드리는 두통
+"STRINGS.#0.Illness/DLC_5/Hotdog_Description"	괴로워하는 사람이 핫도그처럼 옷을 입게 만드는 망상적인 상태로, 자신의 경력에 ​​가장 좋다고 생각하기 때문에 (장기적으로). 그들은 겨자 위약 코스를 제공 받아야하며 극소수의 유명 배우들이 소시지처럼 옷을 입어야한다는 것을 확신해야합니다. 오디션이 부족하고 핫도그 스탠드의 남자가 말한 것을 신뢰했기 때문입니다.
+"STRINGS.#0.Illness/DLC_5/Hotdog_Name"	Misdewiener
+"STRINGS.#0.Illness/DLC_5/Limelit_Description"	환자의 내부가 황록색 빛으로 비춰지는 것처럼 보입니다. 외과 의사는 그 안에 들어가서 문제를 해결해야합니다. 갑작스런 언론의 관심과 무대 조명 삼키기 때문입니다.
+"STRINGS.#0.Illness/DLC_5/Limelit_Name"	라임 릿
+"STRINGS.#0.Illness/DLC_5/Listless_Description"	자신의 중요성에 대한 불건전 한 우려로 인해 발생하는 일종의 배제 외상입니다. 본질적으로, 그들은 ""매우 ""중요한 것은 말할 것도없고 중요하지 않은 것으로 간주되어 매우 슬프다. 환자는 목록이 종이 조각 일 뿐이며, 그 중요성은 주관적이며 자존감을 되찾기위한 다른 가증스러운 거짓말임을 확신해야합니다.
+"STRINGS.#0.Illness/DLC_5/Listless_Name"	노곤한
+"STRINGS.#0.Illness/DLC_5/Metrognomic_Description"	고통받는 사람들은 작은 마 법적 존재 또는 ""귀 그놈 ""이 연주한다고 믿는 반복적이고 규칙적인 비트를 듣습니다. 노움과는 무관 한 청력 치료 과정을 거친 후 환자는 마법을 믿거 나 노움 친구를위한 일종의 탐구를 시도하고 완료 할 수도 있습니다. 의료 종사자들은 슬프게도 그들을 탐닉하는 것이 최선이라는 것을 알게되었습니다.
+"STRINGS.#0.Illness/DLC_5/Metrognomic_Name"	계측
+"STRINGS.#0.Illness/DLC_5/MintyCondition_Description"	이름에도 불구하고 은은한 페퍼민트 향을 낼 수있는 환자는 완벽 함과는 거리가 먼 상태입니다. 원인이되는 이상한 박테리아는 값 비싼 허브 티와 정말 오래된 만화책을 통해 가장 일반적으로 감염됩니다.
+"STRINGS.#0.Illness/DLC_5/MintyCondition_Name"	민트 상태
+"STRINGS.#0.Illness/DLC_5/MoCap_Description"	특수 효과에 대한 과다 노출로 인해 환자의 몸은 절차 적으로 생성 된 세계와 우리 세계 사이의 상태에 빠집니다. 그것들은 치료되어야하고 모든 탁구 공이 사라지기 전에 영원히 제거되어야합니다.
+"STRINGS.#0.Illness/DLC_5/MoCap_Name"	멀미
+"STRINGS.#0.Illness/DLC_5/Monopoly_Description"	고통받는 사람들은 자신이 인식 한 부에 대해 위험하게 염려합니다. 그들은 절대적으로 짐을 실은 것처럼 보이기 위해 경주 용 자동차, 모자, 골무에 할 수있는 모든 페니를 쓸 것입니다. 파산을 피하려면 거짓말은 나쁜 사람을위한 것이고 진정한 부는 내면에서 나온다는 것을 납득시킬 수있는 무언가를 주입해야합니다. 환자는 병원에 가야합니다. 병원으로 직접 가십시오. 하지마 ... 글쎄요.
+"STRINGS.#0.Illness/DLC_5/Monopoly_Name"	전매품
+"STRINGS.#0.Illness/DLC_5/MudPerson_Name"	Mudperson
+"STRINGS.#0.Illness/DLC_5/Mud_Description"	환자는 실수로 먼지를 섭취 한 후 '진흙 중독'을 겪습니다. 물론, 그들은 잠시 동안 재미있게 춤을 추고 지구와 하나가 된 느낌을 가질 수 있지만 잠시 후 완전히 더러워 질 것입니다. 그들은 내부와 외부의 깊은 청소가 필요합니다.
+"STRINGS.#0.Illness/DLC_5/Mud_Name"	더러워진 자아
+"STRINGS.#0.Illness/DLC_5/PaperBag_Description"	고통받는 사람들은 스파이나 국제 언론이 자신을 감시하고 있다고 믿습니다. 의심과 싸우고 신원을 보호하기 위해 그들은 파생적이고 비효율적 인 위장 형태를 채택했습니다. 그들은 빛을 발하기 전에 치료가 필요하며 아무도 자신을 신경 쓰지 않는다는 확신을 가져야합니다. 게다가 농담이 아닙니다 ...
+"STRINGS.#0.Illness/DLC_5/PaperBag_Name"	Inbagneato
+"STRINGS.#0.Illness/DLC_5/Scream_Description"	고통받는 사람들은 극심한 충격의 외부 징후를 보입니다. 항상. 일반적으로 귀신이 묻은 페인트로 계약을 맺었지만, ""단지 인쇄물 ""이라는 작품의 가격을 확인한 후 아트 갤러리에서도 자연스럽게 나타날 수 있습니다.
+"STRINGS.#0.Illness/DLC_5/Scream_Name"	문화 충격
+"STRINGS.#0.Illness/DLC_5/ShiftingPerspective_Description"	깊이 지각을 목표로하는 조건. 환자는 평평한 표면을 처리하거나 물체가 실제로 작은 지 또는 실제로 멀리 있는지 식별하는 데 어려움을 겪을 것입니다. 섬의 시각적 트릭과 일요일에 대한 나쁜 반응으로 인해 발생합니다.
+"STRINGS.#0.Illness/DLC_5/ShiftingPerspective_Name"	관점의 변화
+"STRINGS.#0.Illness/DLC_5/Sinewment_Description"	해피 엔딩, 스토리 마무리 및 크레딧 시퀀스에 대한 과도한 탐닉으로 인한 신체 섬유의 통증과 긴장.
+"STRINGS.#0.Illness/DLC_5/Sinewment_Name"	힘줄
+"STRINGS.#0.Illness/DLC_5/SnotTwist_Description"	환자의기도에 영향을 미치는 점액의 복잡한 비틀림입니다. 내러티브의 갑작스런 변화와 그 모든 것이 꿈이라는 사실을 알게되면서 발생합니다.
+"STRINGS.#0.Illness/DLC_5/SnotTwist_Name"	코딱지 트위스트
+"STRINGS.#0.Illness/DLC_5/SquareEyes_Description"	환자의 눈이 정사각형이되었고 농담이 아닙니다. 그들은 약간의 픽셀 방지 약물이 필요하고 화면에서 조금 더 멀리 앉도록 지시받습니다.
+"STRINGS.#0.Illness/DLC_5/SquareEyes_Name"	스퀘어 아이즈
+"STRINGS.#0.Illness/DLC_5/StageHand_Description"	영화, 연극 및 TV 산업의 승무원이 계약 한 다양한 육체적 질병을 지칭하는 총칭. 일반적인 원인은 다음과 같습니다 : 드라이 아이스, 식인종 배우, 무책임하게 날카로운 ""가짜 ""무기의 잘못된 끝을 집어 들기.
+"STRINGS.#0.Illness/DLC_5/StageHand_Name"	무대 손
+"STRINGS.#0.Illness/DLC_5/Stuntman_Description"	고통받는 사람들은 지루한 것, 흥미 진진한 것, 위험한 것 등을 말할 수있는 능력을 잃어 버리고 가장 평범한 작업에서도 큰 즐거움을 얻을 것입니다. 훌륭하지만 치명적인 작업을 수행하기 전에 다시 보정해야합니다. 모든 것이 흥미로울 수있는 것은 아니며 건강하지도 않고 현실 적이지도 않습니다. 난간을 미끄러 져 내려 가고, 정확한 변화가 있고 영화 세트에서 굴러 다니기 때문입니다.
+"STRINGS.#0.Illness/DLC_5/Stuntman_Name"	스턴트 문제
+"STRINGS.#0.Illness/DLC_5/ToySoldier_Description"	신체는 적대적인 부분 중합체 기생충에 의해 침범되었습니다. 고통받는 사람들은 단색의 녹색 외관과 극도로 제한된 유연성을 보여줍니다. 그들은 얼어 붙을 때까지 병사를 할 것입니다-포즈에서-그러나 규칙적인 강성을 되찾고 싶다면 녹아서 긴장하고 재설정해야합니다.
+"STRINGS.#0.Illness/DLC_5/ToySoldier_Name"	개인적인 부분
+"STRINGS.#0.Illness/DLC_5/WardrobeMalfunction_Description"	옷장이나 비슷하게 무거운 의상 및 / 또는 소품이 들어있는 용기에 들어가거나 눌려서 발생하는 다양한 뼈 관련 질환입니다. 종종 부적절한 순간에 집중력이 감소한 결과입니다. 일반적인 촉매제는 백일몽, 샌드위치 산만 함 및 비즈니스가 표시되는지 확인하는 것입니다.
+"STRINGS.#0.Illness/DLC_5/WardrobeMalfunction_Name"	옷장 오작동
+"STRINGS.#0.Illness/DLC_5/WritersBlock_Description"	머리카락에 붓이있는 것은 지극히 정상적인 일이지만 머리에 연필이있는 것은 아닙니다. 반갑지 않은 고정 된 부분은 ... 단어가 무엇인지 ... 문장을 담당하는 뇌 부분을 막고 있습니다. 어쨌든, 그들이 좋은 글을 쓰고 싶다면 제거해야 할 것입니다.
+"STRINGS.#0.Illness/DLC_5/WritersBlock_Name"	작가 블록
+"STRINGS.#0.Items/DLC_5/ArtTank_Description"	예술은 당신을 소비 할 수 있습니다.
+"STRINGS.#0.Items/DLC_5/ArtTank_Name"	상어 예술
+"STRINGS.#0.Items/DLC_5/BenchTwoSeater_Posh_Description"	예쁘게 앉아.
+"STRINGS.#0.Items/DLC_5/BenchTwoSeater_Posh_Name"	프랑스 벤치
+"STRINGS.#0.Items/DLC_5/Bin_Shark_Description"	도와주고 싶어요.
+"STRINGS.#0.Items/DLC_5/Bin_Shark_Name"	상어 빈
+"STRINGS.#0.Items/DLC_5/BoomBox_Description"	얼굴로베이스를 느껴보세요.
+"STRINGS.#0.Items/DLC_5/BoomBox_Name"	붐 박스
+"STRINGS.#0.Items/DLC_5/Chair_Throne_Description"	지나침.
+"STRINGS.#0.Items/DLC_5/Chair_Throne_Name"	왕좌
+"STRINGS.#0.Items/DLC_5/Clapperboard_Description"	""절단.""
+"STRINGS.#0.Items/DLC_5/Clapperboard_Name"	Clapperboard
+"STRINGS.#0.Items/DLC_5/CocktailGlass_Description"	꽤 한입.
+"STRINGS.#0.Items/DLC_5/CocktailGlass_Name"	거대한 유리
+"STRINGS.#0.Items/DLC_5/Diamond_Description"	최대 값을 위해 압축되었습니다.
+"STRINGS.#0.Items/DLC_5/Diamond_Name"	보석
+"STRINGS.#0.Items/DLC_5/FilmAward_Description"	높은 평가를 받고 최근에 잘못 배치되었습니다.
+"STRINGS.#0.Items/DLC_5/FilmAward_Name"	황금 조각상
+"STRINGS.#0.Items/DLC_5/Function_VendingMachine_Caviar"	배고픔을 줄입니다.\n갈증을 증가시킵니다.\n행복을 크게 증가시킵니다.
+"STRINGS.#0.Items/DLC_5/GrandfatherClock_Description"	그 자녀에게는 자녀가 있습니다.
+"STRINGS.#0.Items/DLC_5/GrandfatherClock_Name"	할아버지 시계
+"STRINGS.#0.Items/DLC_5/IceSculpture_Description"	정말 멋진.
+"STRINGS.#0.Items/DLC_5/IceSculpture_Name"	냉동 예술
+"STRINGS.#0.Items/DLC_5/Machine_Mud_Description"	헹구고 반복하지 마십시오.
+"STRINGS.#0.Items/DLC_5/Machine_Mud_Name"	문지름 -0- 더블 통
+"STRINGS.#0.Items/DLC_5/Machine_Mud_Upgrade_0_Description"	거품 밀도 및 스폰지 작용이 향상되었습니다.
+"STRINGS.#0.Items/DLC_5/Machine_Mud_Upgrade_0_Name"	Rub-0- 더브 욕조 II
+"STRINGS.#0.Items/DLC_5/Machine_Mud_Upgrade_1_Description"	고급 거품 밀도 및 스폰지 작용.
+"STRINGS.#0.Items/DLC_5/Machine_Mud_Upgrade_1_Name"	Rub-0- 더블 욕조 III
+"STRINGS.#0.Items/DLC_5/Machine_Stuntman_Description"	""Wee! ""-유도
+"STRINGS.#0.Items/DLC_5/Machine_Stuntman_Name"	단기 특강
+"STRINGS.#0.Items/DLC_5/Machine_Stuntman_Upgrade_0_Description"	고된 소음과 소음이 개선되었습니다.
+"STRINGS.#0.Items/DLC_5/Machine_Stuntman_Upgrade_0_Name"	단기 집중 코스 II
+"STRINGS.#0.Items/DLC_5/Machine_Stuntman_Upgrade_1_Description"	고급 고된 및 부랑자 소음.
+"STRINGS.#0.Items/DLC_5/Machine_Stuntman_Upgrade_1_Name"	단기 집중 코스 III
+"STRINGS.#0.Items/DLC_5/Machine_ToySoldier_Description"	플라스틱 환자를 재활용하십시오.
+"STRINGS.#0.Items/DLC_5/Machine_ToySoldier_Name"	Meltn '곰팡이
+"STRINGS.#0.Items/DLC_5/Machine_ToySoldier_Upgrade_0_Description"	군사적 재미와 열 배율이 향상되었습니다.
+"STRINGS.#0.Items/DLC_5/Machine_ToySoldier_Upgrade_0_Name"	멜튼 몰드 II
+"STRINGS.#0.Items/DLC_5/Machine_ToySoldier_Upgrade_1_Description"	고급 군사적 재미와 열 배율.
+"STRINGS.#0.Items/DLC_5/Machine_ToySoldier_Upgrade_1_Name"	멜튼 몰드 III
+"STRINGS.#0.Items/DLC_5/Mud_CautionSign_Description"	이 글을 읽고 있다면 너무 늦을 수 있습니다.
+"STRINGS.#0.Items/DLC_5/Mud_CautionSign_Name"	미끄러운 표시
+"STRINGS.#0.Items/DLC_5/Mud_Mop&Bucket_Description"	클래식 코미디 듀오.
+"STRINGS.#0.Items/DLC_5/Mud_Mop&Bucket_Name"	걸레 및 양동이
+"STRINGS.#0.Items/DLC_5/Mud_SoapBottle_Description"	더 많은 거품을 보려면 뒷면을 참조하십시오.
+"STRINGS.#0.Items/DLC_5/Mud_SoapBottle_Name"	비누 병
+"STRINGS.#0.Items/DLC_5/Mud_SoapBottle_V2_Description"	다른 비누 병이 아닙니다.
+"STRINGS.#0.Items/DLC_5/Mud_SoapBottle_V2_Name"	Lather Flagon
+"STRINGS.#0.Items/DLC_5/NeonSign_One_Description"	모든 방을 밝힙니다.
+"STRINGS.#0.Items/DLC_5/NeonSign_One_Name"	네온 원
+"STRINGS.#0.Items/DLC_5/NeonSign_Two_Description"	긍정적으로 빛납니다.
+"STRINGS.#0.Items/DLC_5/NeonSign_Two_Name"	네온 투
+"STRINGS.#0.Items/DLC_5/Origami_Description"	""거위.""
+"STRINGS.#0.Items/DLC_5/Origami_Name"	종이 접기
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Mud_Description"	열악한 위생은 건강에 영향을 미칠 수 있습니다.
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Mud_Name"	더러워진 셀프 포스터
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Roderick_Description"	Roderick Cushion 영화에서 ""Brisk and Livid "".
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Roderick_Name"	액션 포스터
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Roderick_V2_Description"	Roderick Cushion 영화에서 ""함께 일하는 사람들 "".
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Roderick_V2_Name"	Rom-Com 포스터
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Roderick_V3_Description"	Roderick Cushion 영화에서 ""Rotting Hill "".
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Roderick_V3_Name"	좀비 포스터
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Stuntman_Description"	협곡에서 멀리 떨어져 있습니다.
+"STRINGS.#0.Items/DLC_5/Picture_Poster_Stuntman_Name"	스턴트 문제 포스터
+"STRINGS.#0.Items/DLC_5/Picture_Poster_ToySoldier_Description"	치료를 받으십시오. 명령입니다.
+"STRINGS.#0.Items/DLC_5/Picture_Poster_ToySoldier_Name"	개인 부품 포스터
+"STRINGS.#0.Items/DLC_5/PoolToy_Description"	오, 부력.
+"STRINGS.#0.Items/DLC_5/PoolToy_Name"	수영장 장난감
+"STRINGS.#0.Items/DLC_5/Speakers_Description"	""낮출 수있어? ""\n ""뭐? ""
+"STRINGS.#0.Items/DLC_5/Speakers_Name"	스피커 스택
+"STRINGS.#0.Items/DLC_5/Stuntman_Barrel_Description"	표준화 된 즐거움의 단위.
+"STRINGS.#0.Items/DLC_5/Stuntman_Barrel_Name"	재미의 배럴
+"STRINGS.#0.Items/DLC_5/Stuntman_Cutout_Description"	지금은지지합니다.
+"STRINGS.#0.Items/DLC_5/Stuntman_Cutout_Name"	가짜 팬
+"STRINGS.#0.Items/DLC_5/Stuntman_Cutout_V2_Description"	군중과 함께 간다.
+"STRINGS.#0.Items/DLC_5/Stuntman_Cutout_V2_Name"	거짓 팬
+"STRINGS.#0.Items/DLC_5/Stuntman_Flags_Description"	팀 이동.
+"STRINGS.#0.Items/DLC_5/Stuntman_Flags_Name"	멧새 무리
+"STRINGS.#0.Items/DLC_5/ToySoldier_Blocks_Description"	""나머지 잊어 버렸습니다 ... ""
+"STRINGS.#0.Items/DLC_5/ToySoldier_Blocks_Name"	ABC 블록
+"STRINGS.#0.Items/DLC_5/ToySoldier_BookCase_Description"	착한 병사들을위한 이야기.
+"STRINGS.#0.Items/DLC_5/ToySoldier_BookCase_Name"	책 케이스 Jr.
+"STRINGS.#0.Items/DLC_5/ToySoldier_Chest_Description"	마더로드.
+"STRINGS.#0.Items/DLC_5/ToySoldier_Chest_Name"	장난감 상자
+"STRINGS.#0.Items/DLC_5/VendingMachine_Caviar_Description"	돈을 벌 수있는 최고의 생선 알이 들어 있습니다.
+"STRINGS.#0.Items/DLC_5/VendingMachine_Caviar_Name"	멋진 식품 기계
+"STRINGS.#0.Levels/DLC_5/DLC_Description"	아티스트 Zara Fitzpocket이 Two Point County의 병든 문화에 대한 치료법을 설계 할 수 있도록 아트 디스트릭트로 이동하세요.
+"STRINGS.#0.Levels/DLC_5/DLC_Name"	문화 충격
+"STRINGS.#0.Levels/DLC_5/Map_IntroText_R10_FestivalHospital"	<style = ""AdvisorHighlight ""> Mudbury Festival </ style>이 출시되었습니다!
+"STRINGS.#0.Levels/DLC_5/Map_IntroText_R10_GalaHospital"	<style = ""AdvisorHighlight ""> Fitzpocket Academy </ style>를 사용할 수 있습니다!
+"STRINGS.#0.Levels/DLC_5/Map_IntroText_R10_TelevisionHospital"	<style = ""AdvisorHighlight ""> Plywood Studios </ style>가 출시되었습니다!
+"STRINGS.#0.Levels/DLC_5/R10_FestivalHospital_Description"	카운티의 흔들리는 음악 축제에 환대와 건강 관리를 제공하십시오.
+"STRINGS.#0.Levels/DLC_5/R10_FestivalHospital_Letter_Star_1"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 1 개 등급을 받았습니다.\n\n 아, 이제 음악 산업에서 일하십니까? 물론, 오래된 가슴 튜브에서 약간의 성공을 거두면 자신이 오류가 없다고 믿습니다. 전형적인. 다음에 무엇을 기대할 수 있습니까? 다양한 주방 용품? 실험적인 재즈 앨범? 알려주지 마세요.\n\n 더 많은 보상을 받으려면 계속해서 "지글 지글"하거나 현실로 돌아가 직장으로 돌아 가세요.
+"STRINGS.#0.Levels/DLC_5/R10_FestivalHospital_Letter_Star_2"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 2 개 등급을 받았습니다.\n\n 음악, 패스트 푸드 및 '좋은 시간'을 위해 진흙탕을 돌아 다니는 사람은 누구나 , 치료가 필요합니다. 저에게 물어 보면 라이브 음악은 녹음 할 수있는 장치를 발명 한 날 그 매력을 잃어 버렸습니다. 하루 후가 아닙니다.\n\n 계속해서 "지글 지글"하여 더 많은 보상을 받거나 현실로 돌아가서 작업.
+"STRINGS.#0.Levels/DLC_5/R10_FestivalHospital_Letter_Star_3"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 3 개 등급을 받았습니다.\n\n 보통 우리 카운티의 관리자 중 한 명이 '달리기'하고 음악 업계에서 경력을 시작하는 것을 용납하지 않습니다. 하지만 저희 부서는 민감한 환자 기록과 급격한 터보건과 관련된 스캔들을 처리해 왔기 때문에… 타이밍을 칭찬합니다. 잘 했어, 스포츠.
+"STRINGS.#0.Levels/DLC_5/R10_FestivalHospital_Name"	머드 버리 페스티벌
+"STRINGS.#0.Levels/DLC_5/R10_FestivalHospital_Welcome_Text"	머드 버리에 오신 것을 환영합니다. 오래된 축제는 한동안 성공하지 못했습니다. 그러나 올해도 올해가 될 수 있습니다. 당신은 축제에서 환대를하게 될 것입니다. 즉, 음식과 음료, 편안함과 오락, 그리고 의료 지원을 의미합니다. Jasmine Odyssey가 등장 할 수 있다는 소문이 있지만 Cheesy Gubbins에 비가 올 것이라는 소문도 있습니다. 기대를 높이 지 마세요.\n\n 질병은 축제에서 만연하며 모든 진흙과 일반 스 컬러가 있습니다. , 그래서 우리는 페스티벌의 여러 단계에서 연기가 끝나는 병약 한 음악 애호가들을 대할 준비가 필요합니다. 우리가 더 잘할수록 축제는 더 커질 것입니다. 일이 잘되면 우리는 아름다운 시골을 병원으로 더 많이 바꿀 수 있습니다. 뮤지컬, 의료 분야에서이 행사를 획기적인 행사로 만들 수있는 기회가 있습니다.
+"STRINGS.#0.Levels/DLC_5/R10_FestivalHospital_Welcome_Title"	머드 버리 페스티벌
+"STRINGS.#0.Levels/DLC_5/R10_GalaHospital_Description"	저명한 저택에서 부자와 유명인을위한 파티를 주최하여 예술의 건강을 축하하세요.
+"STRINGS.#0.Levels/DLC_5/R10_GalaHospital_Letter_Star_1"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 1 개 등급을 받았습니다.\n\n이 모든 노력이 카운티의 사회 엘리트들과 함께 자신을 축하하려는 시도였습니다. 이 파티에 초대하는 더 쉬운 방법이 있습니다. Fitzpockets의 오랜 가족 친구로서 당신을 도울 수있었습니다. 내가 그랬다면 ...\n\n 계속해서 전채 요리를 비웃고 더 많은 보상을 받거나 현실로 돌아가서 다시 일하십시오.
+"STRINGS.#0.Levels/DLC_5/R10_GalaHospital_Letter_Star_2"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 2 개 등급을 받았습니다.\n\n 현재 귀하의 전시회가 Fitzpocket Academy의 성스러운 부지를 다양한 의료 활동으로 가득 채웠습니다. 때로는 의료 분야와 마찬가지로 예술 분야에서 어려운 질문을하는 것이 중요합니다. 그래서 저는 묻습니다. ""이게 쓰레기 야? "\n\n계속해서 전채 요리를 비웃고 더 많은 보상을 받거나 현실로 돌아가서 다시 일하세요.
+"STRINGS.#0.Levels/DLC_5/R10_GalaHospital_Letter_Star_3"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 3 개 등급을 받았습니다.\n\n 병원에서 아름다운 것을 만들 수 있다고 생각하지 않았습니다. 종종 우리 병원은 냄새가 나고 회로가 제대로 연결되지 않은 인간의 육체에 대한 평범한 성당입니다. 그리고 나는 옳았다. 그것은 불가능했다. 그러나 당신은 가까이 왔고 그것은 거의 인상적입니다. 거의.
+"STRINGS.#0.Levels/DLC_5/R10_GalaHospital_Name"	피츠 포켓 아카데미
+"STRINGS.#0.Levels/DLC_5/R10_GalaHospital_Welcome_Text"	Two Point 's Arts District의 독점 Poached Egg 분기에 위치한 Fitzpocket Academy에 오신 것을 환영합니다. Pre-Giblet 건축의 아름다운 예인 Fitzpockets의 가족 주택은 예술 학교에서 비밀 서비스 본부, 심지어 마멀레이드 공장까지 수년에 걸쳐 많은 목적을 수행했습니다. 결국 병원으로 사용되는 것은 당연한 일이며 그때가 바로 그때입니다.\n\nZara의 ""팀 ""은 특허받은 VIBE 기술을 사용하여 그녀의 모든 전시회와 파티의 성공 여부를 측정합니다. 예외 없음. 우리의 자금은 VIBE가 우리가 얼마나 잘하고 있는지에 달려 있습니다. 손님이 좋은 시간을 보내고, 장소가 멋지고 깨끗해 보이고, 죽어가는 사람이 거의 없다면 긍정적 인 VIBE 점수를 받게됩니다. 좋은 파티와 좋은 병원은 실제로 꽤 비슷하다고 생각합니다. 이것은 독점적 인 이벤트이므로 파파라치를 충돌하는 파티를 버리십시오. 사진을 찍거나 쓰레기통에서 식사를하거나 일반적으로 비열한 모습을 볼 수 있습니다. 자, 시도하고 즐기십시오. 결국 파티가되어야합니다. 부자가되면 모든 것이 재미 있어야합니다. 병원까지 도요.
+"STRINGS.#0.Levels/DLC_5/R10_GalaHospital_Welcome_Title"	피츠 포켓 아카데미
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_Description"	투 포인트의 최신 메디컬 드라마 세트장에서 카메라로 환자를 치료하세요.
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_Letter_Star_1"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 1 개 등급을 받았습니다.\n\n 그렇다면 귀하의 팔이 쇼 비즈니스에 참여하기로 결정 하셨나요? 건강 관리 업계에서 성공을 거둔 우리에게는 잘 밟힌 길이지만 경고합니다. 눈물로만 끝날 수 있습니다. 어쨌든, 나는 텔레비전이 오래 살았지만 유행에 지나지 않는다고 확신합니다.\n\n 소설의 영역에서 계속 훼손하거나 현실로 돌아가서 다시 일하십시오.
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_Letter_Star_2"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 2 개 등급을 받았습니다.\n\n 오,이 모든 것이 귀하의 머릿속으로 갈 것이라는 것을 알고 있었기 때문에 귀하의 친구로서 상황이 훨씬 더 나빠지기를 바랐습니다. . 머지 않아 역설적으로 불리는 "현실"텔레비전에 비명을 지르고, 협력자들의 눈에 크랜베리 ​​주스를 던질 것입니다. 부끄러움.\n\n 소설의 영역에서 계속 곯아 떨어지거나 현실로 돌아가서 다시 일하세요.
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_Letter_Star_3"	축하합니다. 귀하의 병원은 Two Point Health Ministry로부터 별 3 개 등급을 받았습니다.\n\n "항상 더 많은 것을 원하게하세요." 익숙한 속담인가요? 아아, 당신은 트로피의 전체 라이브러리를 다 써 버렸고 이제 당신의 쇼와 함께 갈 곳이 없습니다. 당신은 캐쉬 카우를 말려서 더 이상 울리지 않습니다. 하지만 내가 아는 건 그냥 보건부 장관 일뿐 ...
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_Name"	합판 스튜디오
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_PostTutorial_Text"	이제 쇼가 완전히 진행되었으므로 쇼 제작자로부터 다음에 일어날 일에 대한 요청을 받기 시작할 것입니다. 그들의 아이디어가 쇼에 등장하는 것을 본다면 우리는 추가 자금을 받게 될 것입니다.\n\n 온라인 사람들은 텔레비전이나 어떤 것에 대해 비열 할 수 있습니다. 누군가가 쇼에 대해 부정적인 말을하면 우리의 평판에 영향을 미칠 것입니다. . 운 좋게도 우리는 마케팅에 투자함으로써 그들의 잔인하고 잔인한 말과 싸울 수 있습니다.
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_PostTutorial_Title"	요청 및 리뷰
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V1_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 2/5 </ style>“매우 가난합니다. 눈을 뗄 수가 없어요.”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V2_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 2/5 </ style>“적절한 쓰레기. 그래도 멋진 의상.”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V3_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 2/5 </ style> "일부 에피소드를 놓쳤는 데 이제 완전히 길을 잃었습니다 ..."\n <style = ""AdvisorHighlight ""> {[REWARDS ]} </ 스타일>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V4_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 2/5 </ style> "왜 캐릭터를 Roderick Cushion이라고 부르나요?"\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style >
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Negative_V5_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 2/5 </ style>“쇼를 좋아하지만 Bungle Pictures는 계속 충돌합니다. (”\n <style = ""AdvisorHighlight ""> {[REWARDS]} < / 스타일>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V1_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 3/5 </ style> "백그라운드에있는 것이 좋습니다."\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V2_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 3/5 </ style> "너무 나빠서 정말 좋아하는 것 같아요…"\n <style = ""AdvisorHighlight ""> {[REWARDS]} < / 스타일>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V3_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 3/5 </ style> "테마 곡이 꽤 뜨겁습니다."\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V4_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 3/5 </ style> "병원에서 일하는데 쇼가 정말 옳습니다. 하하"\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ 스타일>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Positive_V5_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 3/5 </ style>“그 일이 일어 났을 때 너무 슬펐습니다.”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V1_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 1/5 </ style>“다른 프로그램과 동일하지만 병원에 있습니다. 원본이 아닙니다.”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V2_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 1/5 </ style> "Just retire Roderick"\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V3_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 1/5 </ style>“이 기능을 끌 수 없습니다. 리모컨은 어딨어?”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V4_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 1/5 </ style> "TV의 품질을 담은 프로그램… 백 와드!"\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ 스타일>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyNegative_V5_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 1/5 </ style>“Jab Master? 마치 병원에서 여전히 그것을 사용하는 것처럼. Lol. 너무 비현실적입니다.”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V1_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 4/5 </ style>“이 프로그램은 대부분의 사람들에게 너무 영리합니다. 매우 미묘합니다.”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V2_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 4/5 </ style> "Roderick과 함께 무엇이든 볼게요"\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V3_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 4/5 </ style> "PERILOUS SPANDEX"\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V4_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 4/5 </ style> "저 사람입니다!"\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_ReallyPositive_V5_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 4/5 </ style>“이것은 내 쇼입니다. 가서 보여라!”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Attractiveness_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 5/5 </ style>“병원이 아름다워 보입니다. 또 아팠 으면 좋겠다…”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Death_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 5/5 </ style>“와, 정말 많은 사람들이 죽었습니다. 정말 대단한 드라마입니다.”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Fire_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 5/5 </ style>“다른 직원이 해고되었습니다. 로데릭 병원에서 나가세요!”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Hire_Advisor"	TV 프로그램 리뷰 : <style = ""AdvisorHighlight ""> 5/5 </ style> ""새로운 캐릭터가 프로그램을 신선하게 유지합니다. 간신히 추적 할 수 있습니다! "\n <style =" "AdvisorHighlight" "> {[REWARDS ]} </ 스타일>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Upgrades_Advisor"	TV 쇼 리뷰 : <style = ""AdvisorHighlight ""> 5/5 </ style>“백 와드의 모든 의료 기술을 사랑합니다. 그 세균과 물건을 가져 가세요!”\n <style = ""AdvisorHighlight ""> {[REWARDS]} </ style>
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_Welcome_Text"	새로운 의료 드라마의 프로듀서가 쇼 운영을 요청한 Plywood Studios에 오신 것을 환영합니다. 그들은 실제 관리자가 "유효성, 역 동성 및 재미 있고 변덕스러운 품질"을 추가하기를 원합니다. "Back Wards"라는 제목의 쇼에서 Roderick Cushion은 설명 할 수없이 모든 훈련을 잊은 선임 의사 역할을 맡게됩니다. 그들은 Dr Roderick Cushion이라는 캐릭터를 부르기로 결정했습니다. 음, 사실 다시는 그 이야기에 들어 가지 않을 것이기 때문입니다. Mr Cushion은 더 간단합니다. 그만 두도록하겠습니다. \ r\n\ r\n강력하고 매력적인 카운티의 히트 쇼를 제작하려면 주인공 인 Dr Roderick Cushion을 개발해야합니다. 사람들은 물을 밟는 캐릭터를 좋아하지 않으며 필사적이고 반복적 인 존재를 상기시킵니다. Roderick은 휴식 시간에 나머지 캐스트와 사교 관계를 맺지 않을 것입니다. - 그래서 그는' 자신 만의 예고편이 있습니다. 그를 찾을 수 없다면 아마 거기있을 겁니다. 아, 그리고 절차에 긴급함을 주입하기 위해 배우들은 적어도 실제 환자를 치료하면서 치료할 것입니다. \ r\n무엇이 잘못 될 수 있습니까?
+"STRINGS.#0.Levels/DLC_5/R10_TelevisionHospital_Welcome_Title"	합판 스튜디오
+"STRINGS.#0.Levels/DLC_5/R10_Zara_Letter_OneStarEach"	그들은 예술이 실제로 끝나지 않는다고 말합니다. 그들은 사진이 천 단어의 가치가 있다고 말합니다. 그들은 예술은 길고 인생은 짧다고 말합니다. 그러나 그들은 무엇을 의미합니까? 글쎄요, 많은 것들이 있다고 생각합니다.하지만 저는 말을하는 사람이 아닙니다. 나는 일을하는 사람이고 새로운 것을 할 때입니다. 우리의 프로젝트는 끝났지 만 그것이 실제로 일어난 적이 없다는 것을 의미합니까? 아니, 물론 일어났다. 기억 안나요? 그렇지 않다면 대성공이었습니다. 당신 없이는 할 수 없었습니다. 우리는 카운티를 영원히 바 꾸었습니다. 등등 ...\n\n 가셔야합니다. 내 뮤즈가 나를 부르고있다. 나는 바람을 타고“마카로니로 뭔가 해봐”라고 속삭이는 소리를 듣습니다.
+"STRINGS.#0.Levels/DLC_5/R10_Zara_Letter_Opening"	제 이름은 Zara Fitzpocket (예, 저 Fitzpockets)이며 여러분의 도움을 요청하기 위해 편지를 쓰고 있습니다. 하지만 어디서부터 시작해야할까요?… 아시다시피 저는 혼합 미디어 콜라주를 전문으로하는 아티스트입니다. papier-m? ch? 그리고 유성 페인트. 내 친구, 예술은 아프고 사람들도 너무-우연? 안타깝게도 ...\n\n 너무 오랫동안 우리는 마음, 집, 로프트 스튜디오 작업 공간에서 질병을 간과했습니다. 집단 건조 주문으로 시작되었을 수있는 것은 너무 문자적인 질병이되었습니다. 극적인, 멜로디 또는 의학적 치료법으로는 충분하지 않습니다. 아니요, 우리는 아직 가장 큰 프로젝트를 함께 진행해야합니다.\n\n 내 인맥과 당신의 기이 한 치유 능력으로 투 포인트 카운티의 병든 문화를 치료해야합니다. 먼저, 저는 우리가 팔에 주사가 필요할 것이라고 믿습니다. 그리고 자신과 같은 공인 된 의료 전문가보다 누가 주사를 더 잘 관리합니까? 당신이 관심이 있다면-그리고 당신이 관심이 있기를 바랍니다-당신의 첫 번째 작업은 당신을 Plywood Studios와 실버 스크린으로 데려 갈 것입니다! 펜은 메스보다 강하다는 것을 기억하십시오.
+"STRINGS.#0.Levels/DLC_5/R10_Zara_Letter_Second"	당신의 쇼를 축하합니다. 저는 텔레비전을 실제로 보지는 않지만 신문에 많은 내용이 있습니다. 내가 논문을 읽은 것이 아니라… 모두 똑같이, 당신이 훌륭한 일을 해냈다 고 들었습니다. Roderick은 계속해서 자신에 대해 이야기하는 12 개의 메시지를 남겼습니다. 그는 몇 년 동안 이렇게 오만하지 않았고, 그가 자신의 끔찍하고 자기 중심적인 최고로 돌아 오는 것을 보면 마음이 따뜻해졌습니다.\n\n 그렇게하면 안됩니다. 영광의 욕조에 너무 오래 몸을 담그면 예술의 또 다른 구석에 당신의 치료가 필요합니다. 다음은 머드 버리 페스티벌로, 솔직히 수년간 재앙이었습니다. 대의에 대한 충성심이 당신을 흔들리지 않는다면, 당신이 우리와 비슷하다면 지금 쯤이면 모든 칭찬과 찬사에 대한 취향을 갖게 될 것이라고 상상할 것입니다.\n아주 멋지군요. 그렇지?
+"STRINGS.#0.Levels/DLC_5/R10_Zara_Letter_Signature"	자라
+"STRINGS.#0.Levels/DLC_5/R10_Zara_Letter_Third"	우리의 작은 프로젝트는 지금까지 개념적인 승리였습니다. 그렇지 않나요? 상황은 이미 예전보다 훨씬 나아졌고, 그래서 우리의 마지막 행동은 예술의 새로운 건강을 축하하는 파티가되어야한다고 생각했습니다. 저는 자연스럽게 최신 전시회를 개최하고 개봉 할 것입니다.\n\n 저희 손님들은 Fitzpocket Academy에 도착하여 문자 그대로 몸과 영혼을위한 경험을 할 것입니다. 그것은 당 병원, 예술 병원이 될 것입니다. 이번에는 정말 나 자신을 능가했습니다. 나는 나 자신보다 앞서 나가고 싶지 않지만이 예술 전시회는 우리의 모든 문제를 잘 해결할 수 있습니다. 모든 것이 순조롭게 진행되면 카운티는 부자, 유명인, 벨벳으로 덮인 우리를 희망과 상대적 건강의 등대로 삼을 것입니다.
+"STRINGS.#0.Marketing/DLC_5/Illness_Mud_Desc"	연과 깃발에 부착 된 인식 포스터는 카운티의 진흙 투성이 병자들의주의를 끌기 위해 발견되었습니다. 우리는 또한 PA 시스템, 라디오 및 CD에 구워진 몇 가지 발표를 할 것입니다. 그들은 단지 듣는 것을 좋아합니다…
+"STRINGS.#0.Marketing/DLC_5/Illness_Mud_Name"	더러워진 셀프 캠페인
+"STRINGS.#0.Marketing/DLC_5/Illness_Stuntman_Desc"	크래시 헬멧 내부에 작은 광고를 게재하고 비행기에서 뛰어 내리거나 넘어갈 때 볼 수있는 큰 대형 광고를 지상에 올리도록 의뢰하여 무모한 커뮤니티를 타겟팅하세요.
+"STRINGS.#0.Marketing/DLC_5/Illness_Stuntman_Name"	스턴트 트러블 캠페인
+"STRINGS.#0.Marketing/DLC_5/Illness_ToySoldier_Desc"	사람들은 장난감과 함께 제공되는 작은 종이 팜플렛에 질병 인식 정보를 추가하는 데 비용을 지불하십시오. 또한 우리는 폭발 사진과 "ka-flan"과 같은 단어가있는 일부 광고판을 의뢰하여 대부분 무장 병에 맞서 싸울 가능성이 높은 사람들을 끌어들일 것입니다.
+"STRINGS.#0.Marketing/DLC_5/Illness_ToySoldier_Name"	개인 부품 캠페인
+"STRINGS.#0.Menu/Staff Menu/JobToggle/LockedAllowed_CS"	{[JOB]} : 허용됨 \nRoderick은 가능한 모든 곳에서 일할 것입니다.
+"STRINGS.#0.Menu/Staff Menu/JobToggle/LockedQualification_CS"	{[JOB]} : 허용됨\n{[QUALIFICATION]} 자격 취득 \nRoderick은 가능한 모든 곳에서 일할 것입니다.
+"STRINGS.#0.Names/DLC_5/Visitor_VIP_Zara_ First"	자라
+"STRINGS.#0.Names/DLC_5/Visitor_VIP_Zara_JobTitle"	예술가
+"STRINGS.#0.Names/DLC_5/Visitor_VIP_Zara_Last"	Fitzpocket
+"STRINGS.#0.Research/DLC_5/MudMachineLevel1_CompleteMessage"	우리 연구는 성공적이었습니다! 우리는 환자를 너무 깨끗하고 건강하게 만드는보다 효과적인 발포제를 생산했습니다.\n\n 이제 정비사 자격을 갖춘 관리인이 각 기계에 적용 할 수있는 새로운 업그레이드를 잠금 해제했습니다.
+"STRINGS.#0.Research/DLC_5/MudMachineLevel1_Description"	기계의 의료용 세제에 대한 개선 된 제조법을 연구하십시오. 우리의 치료를 향상시키고 우리의 손에 더 부드럽습니다.
+"STRINGS.#0.Research/DLC_5/MudMachineLevel1_Name"	업그레이드 : 워시 핏
+"STRINGS.#0.Research/DLC_5/MudMachineLevel2_CompleteMessage"	좋은 소식. 우리 과학자들은 카운티에서 본 것 중 가장 진보 된 스폰지를 개발했습니다. 훈련받지 않은 사람의 눈에는 여전히 일반 스펀지처럼 보일지 모르지만 그들은 그보다 4 % 또는 5 % 더 나을 것이라고 말합니다.\n\n 현재 각 기계에 적용 할 수있는 새로운 업그레이드를 잠금 해제했습니다. 기계공 자격을 갖춘 관리인.
+"STRINGS.#0.Research/DLC_5/MudMachineLevel2_Description"	새로운 스폰지를 시험 해보고 매우 유용한 정보를 생성하십시오.
+"STRINGS.#0.Research/DLC_5/MudMachineLevel2_Name"	고급 업그레이드 : 워시 핏
+"STRINGS.#0.Research/DLC_5/MudRoom_CompleteMessage"	우리는 더러워진 자아를위한 치료법을 개발했습니다! 새 장비로 설거지 나 옷을 씻는 것은 피해야합니다. 비록 그것이 깨지는 일을 할 것 같더라도 말입니다.
+"STRINGS.#0.Research/DLC_5/MudRoom_Description"	더러워진 자아가있는 진흙 투성이 환자를 치료하는 방법을 조사하십시오.
+"STRINGS.#0.Research/DLC_5/MudRoom_Name"	워시 피트
+"STRINGS.#0.Research/DLC_5/StuntmanMachineLevel1_CompleteMessage"	그들은 해냈습니다! 연구자들은 우리의 치료 과정을 아주 약간 개선하는 구성 요소를 설계함으로써 다시 한번 의학의 경계를 넓혔습니다. 스릴.\n\n 메커니컬 자격을 갖춘 관리인이 이제 각 기계에 적용 할 수있는 새로운 업그레이드를 잠금 해제했습니다.
+"STRINGS.#0.Research/DLC_5/StuntmanMachineLevel1_Description"	망토를 입은 환자의 치료를 개선하기 위해 흥미로운 연구를 시도하십시오.
+"STRINGS.#0.Research/DLC_5/StuntmanMachineLevel1_Name"	업그레이드 : 위험 지역
+"STRINGS.#0.Research/DLC_5/StuntmanMachineLevel2_CompleteMessage"	최신 수정으로 Crash Course는 엄격한 의학의 두근 두근 위업이되었습니다. 그 결과는 연구 부서에 정말 불이 붙었습니다.\n\n 메 커닉 자격을 갖춘 관리인이 이제 각 시스템에 적용 할 수있는 새로운 업그레이드를 잠금 해제했습니다.
+"STRINGS.#0.Research/DLC_5/StuntmanMachineLevel2_Description"	놀라운 새 업그레이드를 설계하여 Stunt Trouble의 처리 능력을 향상 시키십시오.
+"STRINGS.#0.Research/DLC_5/StuntmanMachineLevel2_Name"	고급 업그레이드 : 위험 구역
+"STRINGS.#0.Research/DLC_5/StuntmanRoom_CompleteMessage"	우리 연구원들은 착륙을 막고 Stunt Trouble에 대한 치료법을 고안했습니다.
+"STRINGS.#0.Research/DLC_5/StuntmanRoom_Description"	스턴트 트러블 환자를위한 치료법을 개발하십시오.
+"STRINGS.#0.Research/DLC_5/StuntmanRoom_Name"	위험 구역
+"STRINGS.#0.Research/DLC_5/ToySoldierMachineLevel1_CompleteMessage"	훌륭한 물건. 우리는 기계의 확대 구성 요소에 대한 개선을 개발했습니다. 환자를 녹이는 것은 이제 훨씬 더 재미 있고 효율적일뿐만 아니라 약간 덜 고통 스러워야합니다.\n\n 이제 정비사 자격을 갖춘 관리인이 각 기계에 적용 할 수있는 새로운 업그레이드를 잠금 해제했습니다.
+"STRINGS.#0.Research/DLC_5/ToySoldierMachineLevel1_Description"	개인 부품 처리를 미세 기름칠 기계로 개발하십시오.
+"STRINGS.#0.Research/DLC_5/ToySoldierMachineLevel1_Name"	업그레이드 : 전쟁 방
+"STRINGS.#0.Research/DLC_5/ToySoldierMachineLevel2_CompleteMessage"	이 최신 업그레이드는 큰 통의 팁 동작을 재 보정합니다. 그다지 효과가 없을 것이라고 생각하지만 틀렸을 것입니다. 결과는 환상적이었습니다. 과학, 내가 맞습니까?\n\n 당신은 이제 기계에 대한 자격을 갖춘 관리인이 각 기계에 적용 할 수있는 새로운 업그레이드를 잠금 해제했습니다.
+"STRINGS.#0.Research/DLC_5/ToySoldierMachineLevel2_Description"	개인 부품 처리를 완벽하게 조사하십시오.
+"STRINGS.#0.Research/DLC_5/ToySoldierMachineLevel2_Name"	고급 업그레이드 : 전쟁 방
+"STRINGS.#0.Research/DLC_5/ToySoldierRoom_CompleteMessage"	주의! 우리의 새로운 치료법이 배포 될 준비가되었습니다. 이제 우리는 Private Parts와의 전쟁에서 이길 수 있습니다.
+"STRINGS.#0.Research/DLC_5/ToySoldierRoom_Description"	Private Parts로 고통받는 환자를위한 치료를 설계하십시오.
+"STRINGS.#0.Research/DLC_5/ToySoldierRoom_Name"	전쟁 방
+"STRINGS.#0.Room/DLC_5/Mud_Description"	Soiled Self로 환자를 치료합니다.\n얼룩과 진흙으로 인한 질병을 제거합니다.
+"STRINGS.#0.Room/DLC_5/Mud_Description_Long"	Wash Pit은 Soiled Self 환자를 치료하는 데 사용됩니다.\n원격 조치 의료용 스폰지를 통해 세척액과 소수성 스테로이드의 매우 복잡한 혼합물을 관리합니다.\n치료 속도를 높이려면 기계를 업그레이드해야합니다. 또한 추가 치료 기술을 훈련받은 간호사를 배정하십시오.
+"STRINGS.#0.Room/DLC_5/Mud_Name"	워시 피트
+"STRINGS.#0.Room/DLC_5/Stuntman_Description"	Stunt Trouble로 환자를 치료합니다.\n위험에 대한 갈증이있는 환자를 다시 보정합니다.
+"STRINGS.#0.Room/DLC_5/Stuntman_Description_Long"	위험 구역은 스턴트 트러블 환자를 치료하는 데 사용됩니다.\n고 예산 영화 세트와 슈퍼마켓 밖에서 볼 수있는 작은 놀이기구에서 영감을 얻은 Crash Course는 흥분과 지루함의 균형을 정확하게 조정하여 환자의 즐거움 센터를 재조정합니다.\n치료 속도를 높이려면 기계를 업그레이드해야합니다. 또한 추가 치료 기술을 훈련받은 의사를 배정하십시오.
+"STRINGS.#0.Room/DLC_5/Stuntman_Name"	위험 구역
+"STRINGS.#0.Room/DLC_5/ToySoldier_Description"	Private Parts로 환자를 치료합니다.\n단단하고 녹색 외형에서 오징어를 부리는 인간을 되 찾으십시오.
+"STRINGS.#0.Room/DLC_5/ToySoldier_Description_Long"	전쟁 실은 전용 부품으로 환자를 치료하는 데 사용됩니다.\n환자를 병의 수프에 녹인 다음 여과하여 온난화 및 장난감과 같은 불순물을 모두 제거합니다. 완전히 체질되면 환자는 유기적이고 덜 칙칙한 자신으로 다시 성형 될 수 있습니다.\n치료 속도를 높이려면 기계를 업그레이드해야합니다. 또한 추가 치료 기술을 훈련받은 의사를 배정하십시오.
+"STRINGS.#0.Room/DLC_5/ToySoldier_Name"	전쟁 방
+"STRINGS.#0.Tooltip/DLC_5/VIP_Visit_Zara"	아티스트 Zara Fitzpocket이 병원을 방문하고 있습니다. 그들이 도착한 후 방문을 따르려면 여기를 클릭하십시오.
