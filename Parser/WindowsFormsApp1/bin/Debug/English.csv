@@ -1991,6 +1991,9 @@ Collaborative/Global_ArtStatues_Name	Meditations on Mortality
 Collaborative/Global_FruitLoot_Complete	The Superbug Initiative is happy to announce that the Fruit Loot Global Project has been completed.\n\nOur hospitals should look a lot more summery now, with all that fruit everywhere. Will that make them better hospitals? That's not for me to say. Do they look good, though? Yes, yes they do.\n\nWell done, everyone. Enjoy the fruit of your labour.
 Collaborative/Global_FruitLoot_Description	Help the Superbug Initiative introduce some fruity flavour to the County's hospitals.
 Collaborative/Global_FruitLoot_Name	Fruit Loot
+Collaborative/Global_Ice&Fire_Complete	The Superbug Initiative is happy to announce that the A Project of Ice & Fire Global Project has been completed.\n\nWith the invention of these two glorious fountains, minor thermal discomfort should finally become a thing of the past.\n\nWell done, everyone.
+Collaborative/Global_Ice&Fire_Description	Help remedy thermal discomfort by developing the hottest and coldest things in Two Point County.
+Collaborative/Global_Ice&Fire_Name	A Project of Ice & Fire
 Collaborative/Global_Jasmine_Complete	The Superbug Initiative is happy to announce that the Nice Smelling Research Global Project has been completed.\n\nJasmine Odyssey is thrilled with the outcome of our research. No longer will Pointians have to choose between being either sterile OR nice smelling.\n\nWell done, everyone.
 Collaborative/Global_Jasmine_Description	Gather data to help design Jasmine Odyssey's "Nice Smelling Sanitiser" and receive access to the final result, as well as rewards from the Popstar.
 Collaborative/Global_Jasmine_Name	Nice Smelling Research
@@ -2011,6 +2014,7 @@ Collaborative/Letter/Intro_Letter	Your organisation shows great promise, and, as
 Collaborative/MetamapLetter_Animals	On my most recent trip to a hospital, I found myself thinking: "this place needs more animals". But which animals would be appropriate for a medical facility as well as good company for our patients and staff? Yaks? Emus? Platypuses? I quickly realised that I wasn't fit to make that decision alone.\n\nI'd like to investigate which creatures would be most suitable for this task. Above all else, they should improve the overall "Alive : Dead" ratio in any given hospital.\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
 Collaborative/MetamapLetter_ArtStatues	Two Point County's least unknown artist, Zara Fitzpocket, is looking to break out of a creative rut by "collaborating with the Superbug Network". We were confused at first too, don't worry, but it seems like she just wants us to complete some medical tasks to inform and inspire a series of work she's calling "Meditations on Mortality".\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
 Collaborative/MetamapLetter_FruitLoot	Is it just me, or do our hospitals just not look summery enough this time of year?\n\nAfter a lot of scientific data analysis, I randomly decided that they'd look better if they were a bit "fruitier". I'm not sure what that means, practically, but that's why we have you lot. Get to it.\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
+Collaborative/MetamapLetter_Ice&Fire	\nAre you ever just sitting there, at work or at home, and you realise that you're incredibly cold? What's the deal with that? Personally, I want it to stop. Radiators, try as they may, just aren't up to the task and that's why we need something new, something... warmer. Sometimes I get hot too, and that's - if anything - just as bad.\n\nI'm proposing that we develop a solution for annoying, unideal temperatures by doing a shed load of research. Have at it.
 Collaborative/MetamapLetter_Jasmine	Jasmine Odyssey wants to combine two of her favourite things: nice smells and clean hands, with, what she's calling her "Nice Smelling Sanitiser". She's asked the Superbug Initiative to gather a huge amount of data so that her aromatic technicians can design the finest, most fragrant steriliser Two Point County has ever seen.\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
 Collaborative/MetamapLetter_MedSet	The Superbug Initiative is excited to announce, and open, its first Global Project.\n\nBungle have created a new thingamajig: the Quadra-Hyper Neuro-Perma Batho-Omni Gyro-Nut, or Gyro-Nut for short. We've been waiting for the right moment to unite everyone in the Superbug Network on a single project, and, with the recent development of this cutting-edge machine component, now is the perfect time!\n\nOur scientists believe that there are countless possible applications for the Gyro-Nut, and they're calling for the entire Superbug Network to explore different avenues of research to help design some new medical technology.
 Collaborative/MetamapLetter_Signature	Thank you,\nSophie Nova\nCEO, Bungle Technologies
@@ -4169,6 +4173,8 @@ Items/Function_NS_Sanitiser	Increases Hygiene\nSmells Nice
 Items/Function_Research	Assists in Research
 Items/Function_RoomPrestige	Increases Room Prestige
 Items/Function_Seating	Increases Comfort
+Items/Function_Superbug_Ice&Fire_Cold_Thing	Drastically Reduces Temperature
+Items/Function_Superbug_Ice&Fire_Hot_Thing	Drastically Increases Temperature
 Items/Function_Temperature_Cool	Decreases Temperature
 Items/Function_Temperature_Heat	Increases Temperature
 Items/Function_Toilet	Reduces Toilet Need
@@ -4199,6 +4205,10 @@ Items/Hospital_MainEntrance_Description	Hospital Main Entrance
 Items/Hospital_MainEntrance_Name	Hospital Main Entrance
 Items/Hospital_SideEntrance_Description	Hospital Side Entrance
 Items/Hospital_SideEntrance_Name	Hospital Side Entrance
+Items/Ice&Fire_Cold_Description	Fully frozen.
+Items/Ice&Fire_Cold_Name	Ice Fountain
+Items/Ice&Fire_Hot_Description	An absolute scorcher.
+Items/Ice&Fire_Hot_Name	Fire Fountain
 Items/Injection_Machine_Description	Inject things, mostly medicine, into patients for treatment.
 Items/Injection_Machine_Name	Jab Master
 Items/Injection_Machine_Upgrade_0_Description	Improved injection success.
@@ -6223,8 +6233,10 @@ Menu/Sandbox/Illnesses_Bigfoot_Tooltip	Illnesses found in the Pointy Mountains (
 Menu/Sandbox/Illnesses_CS	Illnesses
 Menu/Sandbox/Illnesses_CloseEncounters	Close Encounters
 Menu/Sandbox/Illnesses_CloseEncounters_Tooltip	Illnesses found in the South of Two Point County (and Close Encounters DLC).
+Menu/Sandbox/Illnesses_Culture_Tooltip	
 Menu/Sandbox/Illnesses_Easy	Easy
 Menu/Sandbox/Illnesses_Easy_Tooltip	Illnesses that are easier to diagnose, with a higher chance of treatment success.
+Menu/Sandbox/Illnesses_Green_Tooltip	
 Menu/Sandbox/Illnesses_Hard	Hard
 Menu/Sandbox/Illnesses_Hard_Tooltip	Illnesses that are harder to diagnose, with a lower chance of treatment success.
 Menu/Sandbox/Illnesses_Jungle	Pebberley Island
