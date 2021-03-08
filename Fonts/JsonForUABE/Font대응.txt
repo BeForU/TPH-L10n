@@ -3,7 +3,7 @@
 "Roboto-Bold"
 	"NotoSansCJKkr-Bold (TTF) (TTF)"
 "RobotoSlab-Thin"
-	"SeoulHangangL (TTF)"
+	"성동명조 SeoulHangangL (TTF)"
 "RobotoSlab-Regular",
 	"SeoulHangangB (TTF)"
 "RobotoSlab-Light"
@@ -19,4 +19,6 @@
 "BlackOpsOne-Regular"
 	"NIXGONFONTS B 2.0 (TTF)"
 "Baloo-Regular"
-	"BMJUA_ttf (TTF)"
+	"TmoneyRoundWindExtraBold (TTF)"
+"PressStart2P-Regular"
+	"neodgm"

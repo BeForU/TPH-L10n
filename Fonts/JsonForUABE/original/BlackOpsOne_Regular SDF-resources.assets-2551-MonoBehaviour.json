@@ -1,0 +1,666 @@
+{
+    "0 MonoBehaviour Base": 
+    {
+        "0 PPtr<GameObject> m_GameObject": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 0
+        },
+        "1 UInt8 m_Enabled": 1,
+        "0 PPtr<MonoScript> m_Script": 
+        {
+            "0 int m_FileID": 1,
+            "0 SInt64 m_PathID": 1918
+        },
+        "1 string m_Name": "BlackOpsOne-Regular SDF",
+        "0 int hashCode": -2035891415,
+        "0 PPtr<$Material> material": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 55
+        },
+        "0 int materialHashCode": -1821910142,
+        "1 string m_Version": "1.1.0",
+        "1 string m_SourceFontFileGUID": "516a46f4317bfe14a94277a3776483ac",
+        "0 PPtr<$Font> m_SourceFontFile": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 0
+        },
+        "0 int m_AtlasPopulationMode": 0,
+        "0 FaceInfo m_FaceInfo": 
+        {
+            "1 string m_FamilyName": "Black Ops One",
+            "1 string m_StyleName": "",
+            "0 int m_PointSize": 61,
+            "0 float m_Scale": 1,
+            "0 float m_LineHeight": 76.25,
+            "0 float m_AscentLine": 55.75,
+            "0 float m_CapLine": 0,
+            "0 float m_MeanLine": 0,
+            "0 float m_Baseline": 0,
+            "0 float m_DescentLine": -20.5,
+            "0 float m_SuperscriptOffset": 55.75,
+            "0 float m_SuperscriptSize": 0.5,
+            "0 float m_SubscriptOffset": -8.84619141,
+            "0 float m_SubscriptSize": 0.5,
+            "0 float m_UnderlineOffset": -8.84619141,
+            "0 float m_UnderlineThickness": 5.74853516,
+            "0 float m_StrikethroughOffset": 12.818182,
+            "0 float m_StrikethroughThickness": 5.74853516,
+            "0 float m_TabWidth": 152.5
+        },
+        "0 Glyph m_GlyphTable": 
+        {
+            "0 Array Array": [
+                {"0 Glyph data": 
+                {
+                    "0 unsigned int m_Index": 1,
+                    "0 GlyphMetrics m_Metrics": 
+                    {
+                        "0 float m_Width": 44.1875,
+                        "0 float m_Height": 39.5,
+                        "0 float m_HorizontalBearingX": 0.25,
+                        "0 float m_HorizontalBearingY": 39.5,
+                        "0 float m_HorizontalAdvance": 44.6875
+                    },
+                    "0 GlyphRect m_GlyphRect": 
+                    {
+                        "0 int m_X": 6,
+                        "0 int m_Y": 6,
+                        "0 int m_Width": 44,
+                        "0 int m_Height": 40
+                    },
+                    "0 float m_Scale": 1,
+                    "0 int m_AtlasIndex": 0
+                }},
+                {"0 Glyph data": 
+                {
+                    "0 unsigned int m_Index": 2,
+                    "0 GlyphMetrics m_Metrics": 
+                    {
+                        "0 float m_Width": 35.8125,
+                        "0 float m_Height": 39.5,
+                        "0 float m_HorizontalBearingX": 3.4375,
+                        "0 float m_HorizontalBearingY": 39.5,
+                        "0 float m_HorizontalAdvance": 42.125
+                    },
+                    "0 GlyphRect m_GlyphRect": 
+                    {
+                        "0 int m_X": 62,
+                        "0 int m_Y": 6,
+                        "0 int m_Width": 36,
+                        "0 int m_Height": 40
+                    },
+                    "0 float m_Scale": 1,
+                    "0 int m_AtlasIndex": 0
+                }},
+                {"0 Glyph data": 
+                {
+                    "0 unsigned int m_Index": 3,
+                    "0 GlyphMetrics m_Metrics": 
+                    {
+                        "0 float m_Width": 21.125,
+                        "0 float m_Height": 39.5,
+                        "0 float m_HorizontalBearingX": 2.875,
+                        "0 float m_HorizontalBearingY": 39.5,
+                        "0 float m_HorizontalAdvance": 26.875
+                    },
+                    "0 GlyphRect m_GlyphRect": 
+                    {
+                        "0 int m_X": 100,
+                        "0 int m_Y": 57,
+                        "0 int m_Width": 21,
+                        "0 int m_Height": 40
+                    },
+                    "0 float m_Scale": 1,
+                    "0 int m_AtlasIndex": 0
+                }},
+                {"0 Glyph data": 
+                {
+                    "0 unsigned int m_Index": 4,
+                    "0 GlyphMetrics m_Metrics": 
+                    {
+                        "0 float m_Width": 33.6875,
+                        "0 float m_Height": 39.5,
+                        "0 float m_HorizontalBearingX": 3.4375,
+                        "0 float m_HorizontalBearingY": 39.5,
+                        "0 float m_HorizontalAdvance": 37.75
+                    },
+                    "0 GlyphRect m_GlyphRect": 
+                    {
+                        "0 int m_X": 55,
+                        "0 int m_Y": 57,
+                        "0 int m_Width": 34,
+                        "0 int m_Height": 40
+                    },
+                    "0 float m_Scale": 1,
+                    "0 int m_AtlasIndex": 0
+                }},
+                {"0 Glyph data": 
+                {
+                    "0 unsigned int m_Index": 5,
+                    "0 GlyphMetrics m_Metrics": 
+                    {
+                        "0 float m_Width": 37.9375,
+                        "0 float m_Height": 39.5,
+                        "0 float m_HorizontalBearingX": 3.4375,
+                        "0 float m_HorizontalBearingY": 39.5,
+                        "0 float m_HorizontalAdvance": 44.9375
+                    },
+                    "0 GlyphRect m_GlyphRect": 
+                    {
+                        "0 int m_X": 6,
+                        "0 int m_Y": 57,
+                        "0 int m_Width": 38,
+                        "0 int m_Height": 40
+                    },
+                    "0 float m_Scale": 1,
+                    "0 int m_AtlasIndex": 0
+                }},
+                {"0 Glyph data": 
+                {
+                    "0 unsigned int m_Index": 0,
+                    "0 GlyphMetrics m_Metrics": 
+                    {
+                        "0 float m_Width": 0,
+                        "0 float m_Height": 0,
+                        "0 float m_HorizontalBearingX": 0,
+                        "0 float m_HorizontalBearingY": 0,
+                        "0 float m_HorizontalAdvance": 11.1499996
+                    },
+                    "0 GlyphRect m_GlyphRect": 
+                    {
+                        "0 int m_X": 0,
+                        "0 int m_Y": 0,
+                        "0 int m_Width": 0,
+                        "0 int m_Height": 0
+                    },
+                    "0 float m_Scale": 1,
+                    "0 int m_AtlasIndex": 0
+                }}
+            ]
+        },
+        "0 TMP_Character m_CharacterTable": 
+        {
+            "0 Array Array": [
+                {"0 TMP_Character data": 
+                {
+                    "0 int m_ElementType": 1,
+                    "0 unsigned int m_Unicode": 65,
+                    "0 unsigned int m_GlyphIndex": 1,
+                    "0 float m_Scale": 1
+                }},
+                {"0 TMP_Character data": 
+                {
+                    "0 int m_ElementType": 1,
+                    "0 unsigned int m_Unicode": 69,
+                    "0 unsigned int m_GlyphIndex": 2,
+                    "0 float m_Scale": 1
+                }},
+                {"0 TMP_Character data": 
+                {
+                    "0 int m_ElementType": 1,
+                    "0 unsigned int m_Unicode": 73,
+                    "0 unsigned int m_GlyphIndex": 3,
+                    "0 float m_Scale": 1
+                }},
+                {"0 TMP_Character data": 
+                {
+                    "0 int m_ElementType": 1,
+                    "0 unsigned int m_Unicode": 76,
+                    "0 unsigned int m_GlyphIndex": 4,
+                    "0 float m_Scale": 1
+                }},
+                {"0 TMP_Character data": 
+                {
+                    "0 int m_ElementType": 1,
+                    "0 unsigned int m_Unicode": 78,
+                    "0 unsigned int m_GlyphIndex": 5,
+                    "0 float m_Scale": 1
+                }},
+                {"0 TMP_Character data": 
+                {
+                    "0 int m_ElementType": 1,
+                    "0 unsigned int m_Unicode": 32,
+                    "0 unsigned int m_GlyphIndex": 0,
+                    "0 float m_Scale": 1
+                }}
+            ]
+        },
+        "0 vector m_AtlasTextures": 
+        {
+            "0 Array Array": [
+                {"0 PPtr<$Texture2D> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": 164
+                }}
+            ]
+        },
+        "0 int m_AtlasTextureIndex": 0,
+        "0 GlyphRect m_UsedGlyphRects": 
+        {
+            "0 Array Array": []
+        },
+        "0 GlyphRect m_FreeGlyphRects": 
+        {
+            "0 Array Array": []
+        },
+        "0 FaceInfo_Legacy m_fontInfo": 
+        {
+            "1 string Name": "Black Ops One",
+            "0 float PointSize": 61,
+            "0 float Scale": 1,
+            "0 int CharacterCount": 5,
+            "0 float LineHeight": 76.25,
+            "0 float Baseline": 0,
+            "0 float Ascender": 55.75,
+            "0 float CapHeight": 0,
+            "0 float Descender": -20.5,
+            "0 float CenterLine": 0,
+            "0 float SuperscriptOffset": 55.75,
+            "0 float SubscriptOffset": -8.84619141,
+            "0 float SubSize": 0.5,
+            "0 float Underline": -8.84619141,
+            "0 float UnderlineThickness": 5.74853516,
+            "0 float strikethrough": 12.818182,
+            "0 float strikethroughThickness": 5.74853516,
+            "0 float TabWidth": 152.5,
+            "0 float Padding": 5,
+            "0 float AtlasWidth": 128,
+            "0 float AtlasHeight": 128
+        },
+        "0 PPtr<$Texture2D> atlas": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 164
+        },
+        "0 int m_AtlasWidth": 128,
+        "0 int m_AtlasHeight": 128,
+        "0 int m_AtlasPadding": 5,
+        "0 int m_AtlasRenderMode": 16422,
+        "0 TMP_Glyph m_glyphInfoList": 
+        {
+            "0 Array Array": [
+                {"0 TMP_Glyph data": 
+                {
+                    "0 int id": 65,
+                    "0 float x": 6,
+                    "0 float y": 82,
+                    "0 float width": 44.1875,
+                    "0 float height": 39.5,
+                    "0 float xOffset": 0.25,
+                    "0 float yOffset": 39.5,
+                    "0 float xAdvance": 44.6875,
+                    "0 float scale": 1
+                }},
+                {"0 TMP_Glyph data": 
+                {
+                    "0 int id": 69,
+                    "0 float x": 62,
+                    "0 float y": 82,
+                    "0 float width": 35.8125,
+                    "0 float height": 39.5,
+                    "0 float xOffset": 3.4375,
+                    "0 float yOffset": 39.5,
+                    "0 float xAdvance": 42.125,
+                    "0 float scale": 1
+                }},
+                {"0 TMP_Glyph data": 
+                {
+                    "0 int id": 73,
+                    "0 float x": 100,
+                    "0 float y": 31,
+                    "0 float width": 21.125,
+                    "0 float height": 39.5,
+                    "0 float xOffset": 2.875,
+                    "0 float yOffset": 39.5,
+                    "0 float xAdvance": 26.875,
+                    "0 float scale": 1
+                }},
+                {"0 TMP_Glyph data": 
+                {
+                    "0 int id": 76,
+                    "0 float x": 55,
+                    "0 float y": 31,
+                    "0 float width": 33.6875,
+                    "0 float height": 39.5,
+                    "0 float xOffset": 3.4375,
+                    "0 float yOffset": 39.5,
+                    "0 float xAdvance": 37.75,
+                    "0 float scale": 1
+                }},
+                {"0 TMP_Glyph data": 
+                {
+                    "0 int id": 78,
+                    "0 float x": 6,
+                    "0 float y": 31,
+                    "0 float width": 37.9375,
+                    "0 float height": 39.5,
+                    "0 float xOffset": 3.4375,
+                    "0 float yOffset": 39.5,
+                    "0 float xAdvance": 44.9375,
+                    "0 float scale": 1
+                }}
+            ]
+        },
+        "0 KerningTable m_KerningTable": 
+        {
+            "0 KerningPair kerningPairs": 
+            {
+                "0 Array Array": []
+            }
+        },
+        "0 TMP_FontFeatureTable m_FontFeatureTable": 
+        {
+            "0 TMP_GlyphPairAdjustmentRecord m_GlyphPairAdjustmentRecords": 
+            {
+                "0 Array Array": []
+            }
+        },
+        "0 vector fallbackFontAssets": 
+        {
+            "0 Array Array": []
+        },
+        "0 vector m_FallbackFontAssetTable": 
+        {
+            "0 Array Array": []
+        },
+        "0 FontAssetCreationSettings m_CreationSettings": 
+        {
+            "1 string sourceFontFileName": "",
+            "1 string sourceFontFileGUID": "516a46f4317bfe14a94277a3776483ac",
+            "0 int pointSizeSamplingMode": 0,
+            "0 int pointSize": 61,
+            "0 int padding": 5,
+            "0 int packingMode": 4,
+            "0 int atlasWidth": 128,
+            "0 int atlasHeight": 128,
+            "0 int characterSetSelectionMode": 7,
+            "1 string characterSequence": "ALIEN",
+            "1 string referencedFontAssetGUID": "213ca954b504be040a0f95c96ed51109",
+            "1 string referencedTextAssetGUID": "",
+            "0 int fontStyle": 0,
+            "0 float fontStyleModifier": 2,
+            "0 int renderMode": 6,
+            "1 UInt8 includeFontFeatures": 0
+        },
+        "0 TMP_FontWeightPair m_FontWeightTable": 
+        {
+            "0 Array Array": [
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }}
+            ]
+        },
+        "0 TMP_FontWeightPair fontWeights": 
+        {
+            "0 Array Array": [
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }},
+                {"0 TMP_FontWeightPair data": 
+                {
+                    "0 PPtr<$TMP_FontAsset> regularTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    },
+                    "0 PPtr<$TMP_FontAsset> italicTypeface": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": 0
+                    }
+                }}
+            ]
+        },
+        "0 float normalStyle": 0,
+        "0 float normalSpacingOffset": 0,
+        "0 float boldStyle": 0.75,
+        "0 float boldSpacing": 7,
+        "1 UInt8 italicStyle": 35,
+        "1 UInt8 tabSize": 10
+    }
+}

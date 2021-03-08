@@ -1,5 +1,6 @@
 Fonts & Materials/ARIAL SDF
 There are currently a lot of aliens in your hospital disguised as ordinary humans. You need to find them and send them home immediately!	
+There are currently a lot of paparazzi in your hospital disguised as ordinary guests. You need to find them and send them home immediately!	
 Career Goal Achieved: <style="AdvisorHighlight">{[OBJECTIVE]}</style>\nTo collect your reward, go to the career goals list on the map.
 The Two Point Health Ministry has awarded you: <style="AdvisorHighlight">{[REWARD]}</style>
 Challenge Completed: <style="AdvisorHighlight">{[NAME]}</style>\nReward: <style="AdvisorHighlight">{[REWARDS]}</style>
@@ -8,6 +9,10 @@ Wave <style="AdvisorHighlight">{[WAVE]}</style> is starting now!
 We cured {[CURED]} of {[PROCESSED]} patients during the last wave. Unfortunately, our cure rate of {[CURERATE]} needed to be {[TARGET]} and we'll need to repeat that wave.
 We've now processed all {[PROCESSED]} patients, the wave is over, but we weren't able to complete all the Wave Objectives. Unfortunately, we'll need to repeat that wave.
 Check the Leaderboards tab, in the Overview screen, to see how you're doing compared to your friends and rival hospitals.
+We need a <style="AdvisorHighlight">Speed Dating</style> room so we can send lost in time patients back home.
+When new time portals are activated, time sick patients will arrive more frequently from all active Time Portals.
+Speed Dating: Yesterizers need time to recalibrate when changing to a different time period. Organise patients by era to avoid unnecessary recalibration time.
+There's a queue for Speed Dating. You should consider training your Assistants, grouping patients in the queue by era, or building more Speed Dating rooms.
 There are some <style="AdvisorHighlight">new opportunities</style> for our organisation in the <style="AdvisorHighlight">North</style> and <style="AdvisorHighlight">South</style> of the County. Take a look.
 There are some <style="AdvisorHighlight">new opportunities</style> for our organisation all over the County. Take a look around.
 The hospital isn't covering its costs. We should consider lowering our outgoings... or making more money.
@@ -483,6 +488,112 @@ Henry Jobsworth, the County’s foremost health and safety inspector, has inform
 CEO of Holistix, Augustus Lavender will be coming to the hospital, soon.\n\nHe wants to see how we're getting on and chat to some likeminded herb-chewers.
 CEO of Holistix, Augustus Lavender will be coming to the hospital, soon.\n\nHe needs to lie low for a while because a group of employees, who weren't thrilled with receiving a "homeopathic bonus", have set up camp outside of his house, complete with pitchforks and burning effigy.
 CEO of Holistix, Augustus Lavender will be coming to the hospital, soon.\n\nHe's in the area to check on the mushroom harvest for the company's new "Fungal Foot Cream".
+The show's producers have had an idea…
+We failed to fulfil the producers' request.
+We've been given <style="AdvisorHighlight">{[REWARDS]}</style> by the producers, for fulfilling their request.
+The show's producers have had an idea. We'll receive some additional funding if we make it happen.
+Producer Idea
+Producer Idea
+Failed Producer Request
+Completed Producer Request
+Producer Idea
+Kick off your medical masterpiece. Every story starts somewhere.
+Pilot Episode
+Soiled Self patients are arriving now…
+There's been an outbreak of Soiled Self at the festival after a portable toilet was knocked over and sprayed those waiting in line with mud. Well, it looked like mud.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Soiled Self at the festival after a group of attendees experienced leg tiredness and almost disappeared into the mud after trying to sit on the floor.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Soiled Self in the area after some joker thought it would be funny to start a "mud fight".\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Soiled Self Emergency
+Soiled Self Patients
+Stunt Trouble patients are arriving now…
+There's been an outbreak of Stunt Trouble after a run on actors doing their own stunts has left their doubles sickeningly out of work.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Stunt Trouble in the area after a flash sale at Jimbo's Scooters, Capes & Jumpsuits got out of hand and negatively impacted the health of the community.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Stunt Trouble in the area after a recent screening of Roderick Cushion's blood-thumping classic "Brisk and Livid".\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Stunt Trouble Emergency
+Stunt Trouble Patients
+Private Parts patients are arriving now…
+There's been an outbreak of Private Parts in the area after a rogue make-up artist used industrial strength costume putty and turned a group of extras in animated toys.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Private Parts after a cluster of classic of family films were released on Bungle pictures, bringing out the local population's inner children to such an extent that they've fallen ill.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Private Parts in the area after a local toy factory burned their faulty stock and the resulting fumes caused the rain to become especially acidic and wistful.\nWe’ll be rewarded if we treat this group, should we have them sent here?
+Private Parts Emergency
+Private Parts Patients
+Film star, and TV's favourite doctor, Roderick Cushion is in the area filming an episode of "Back Wards". His agents have asked if we'll let him run around in the fields to stretch his legs.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Film star, and occasional calorie counter, Roderick Cushion is in the area trying to find the VIP section. His agents have asked if we'll distract him by showing him around the hospital.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Film star, and novice bird-watcher, Roderick Cushion is in the area after donating a bronze chaffinch to the Mudbury Hawk Sanctuary. His agents have asked if we can get him into the festival for free, despite his vast, ever-growing wealth.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Zara has invited one of her famous friends to the hospital. We're not sure who it is, but they're on their way.\nIf they're impressed with the hospital it could be good for our reputation, and they might even make a donation. What do you think?
+Popstar Jasmine Odyssey is in the area buying up large parts of the Arts District. Her agents have asked if we'd let her look around Plywood while she's at it.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Popstar Jasmine Odyssey is in the area recording a music video for her latest single "Lights, Cameras, Fractions" and her agents have asked if she can stop by to take a break and use the toilet.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Popstar Jasmine Odyssey is in the area visiting an unnamed friend in an unnamed location. Her agents have asked if she can come for a visit and remind us not to speak to her unless we're spoken to.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Henry Jobsworth, the County’s foremost health and safety inspector, has informed us that he’ll be visiting us for an inspection soon. Mr Jobsworth adds that he watched television once and didn't see what the fuss was about, but he's willing to try again.\nHe’ll be arriving soon, a good report would help our reputation.
+Henry Jobsworth, the County’s foremost health and safety inspector, has informed us that he’ll be visiting us for an inspection soon. Mr Jobsworth notes that he plays the trombone and is available to play at the festival, provided, of course, that we pass the inspection.\nHe’ll be arriving soon, a good report would help our reputation.
+Henry Jobsworth, the County’s foremost health and safety inspector, has informed us that he’ll be visiting us for an inspection soon. Mr Jobsworth adds that he won't be able to inspect the yachts at the mansion due to chronic sea-sickness and a general mistrust of anything buoyant.\nHe’ll be arriving soon, a good report would help our reputation.
+A VIP guest is arriving at the Academy.
+Zara's Guest
+Zara says that her guest had a terrible time on their recent visit. Apparently it felt like being at a hospital. Harsh, but fair.
+Zara says that her guest was a little disappointed by the hospital. Maybe we should try serving some salmon puffs?
+Zara says that her guest hasn't mentioned their trip to the hospital, almost as if they don't remember coming… 
+Zara says that her guest really enjoyed visiting the hospital. Zara has sent us a reward to compensate for the fact that she apparently took quite a lot of the credit.
+Zara says her guest had a wonderful time during their visit. In fact, they even asked to come again, but Zara told them that we were "fully booked". She seemed to really enjoy doing that, so she's sent us a reward.
+Artist Zara Fitzpocket is arriving at the hospital.
+Zara Fitzpocket has promised Roderick that she'll pay him a visit back stage. She's on her way to the hospital now.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Zara Fitzpocket is going to be stopping by the festival to take a quick photo and see how things are going.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Zara Fitzpocket is coming home for a fresh pair of socks. She says that she’ll make an appearance at the hospital while she's home.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Darling, I'm not sure what's going on at your hospital, but it doesn't seem to be living up to our initiative at the moment… I ask myself, is that what I want a hospital to be? Is that what I want Art to be? The answer, currently, is a resounding: no. Keep going and remember, failure is merely the opportunity to be less terrible in the future!"
+Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Your hospital reminds me of the first pancake. It's a little burnt, a tad uneven, the merest bit dreadful. You must embrace criticism to fulfil your promise. You must eat the bad pancake, for tomorrow is a new day. Return to your batter and prepare to flip again. Today is bitter, but the future looks delicious."
+Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "I can't say that I'm disappointed, nor can I can say that I'm all that excited. I can see what you're getting at, but it's just a little derivative, you know? It's... a hospital. Be bold! You have so much more to offer us."
+Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Exactly what I had hoped to find. The taste of my visit lingers sweetly in the mouth like an old, fond friend. Well done! I can't wait to see what you treat us to next."
+Zara Fitzpocket has sent us some "thoughts and feelings" following her recent visit to the hospital. She writes: "Your latest hospital is a triumph, my dear! Exquisitely unexpected, delectably subtle. Like all great Art, your hospital has surely changed the County, as well as my life, forever. What an experience. What a hospital. Thank you."
+Art Review
+Zara Fitzpocket is tired of watching paint dry, so she's on her way to the hospital for a visit.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Zara Fitzpocket is on her way to a salmon tasting but wants to pop in for a visit.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Zara Fitzpocket is in a mid-painting rut and wants to visit the hospital for a change of scenery.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Anomaly Warning: There are reports of a Time Storm in this era.
+Time Storm
+Warning, a time storm has been detected in this era! The Time Portals are about to get busy.
+Unearth Time Portals by expanding the hospital and buying more plots.
+Find Time Portals
+Building your own time portals will give you more control over the rate of patient admissions.
+Research Time Portals
+Reptile Dysfunction patients are arriving...
+There's been an outbreak of Reptile Dysfunction in the area after a local aristocrat brought home some strange, narrow fruits from the New World for a dinner party. This group is seeking treatment to stop themselves burning anything more than their tongues.\nWe'll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Reptile Dysfunction in the area after a circus fire-eater sneezed on the entire front row of their audience. They're all convinced that it's contagious. Their families are sending them for treatment before they set the whole town ablaze.\nWe'll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Reptile Dysfunction in the area after a group of confused aristocrats mistook their own breath for smoke during a cold snap. Their families are tired of having their valuables piled up and sat on, and are sending them for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Reptile Dysfunction Emergency
+Reptile Dysfunction Patients
+Artificial Intelligence patients are arriving...
+There's been an outbreak of Artificial Intelligence in the area after a toy shop clearance sale caused an alarming run on chemistry sets. There's only so many times a kitchen can explode before a family sends someone for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Artificial Intelligence in the area after the systemic problem of generational wealth placed a number of unqualified fools in positions of power and responsibility. A lot of people are sick of this by now and sending them for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Artificial Intelligence in the area after a quantum computer error caused every answer on a multiple-choice social media trivia quiz to be, simultaneously, correct. The families can't stand their unrelenting smugness and are sending them for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Artificial Intelligence Emergency
+Artificial Intelligence Patients
+Woolly Man-Mouth patients are arriving...
+There's been an outbreak of Woolly Man-Mouth in the area after a filing error caused the operating instructions of a new loom to be engraved backwards. I'm impressed they could read, or write, instructions at all... and where'd they find the loom?\nWe'll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Woolly Man-Mouth in the area after a heated disagreement about tusk care turned burly and those involved resorted to hair-pulling. They've patched things up now, but the hair has just kept on coming.\nWe'll be rewarded if we treat this group, should we have them sent here?
+There's been an outbreak of Woolly Man-Mouth in the area after the (perfectly reasonable) demands of the Prehistoric Hairdressers' Union were not met, triggering a strike. In the meantime, some particularly overdue appointments are being referred to us for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Woolly Man-Mouth Emergency
+Woolly Man-Mouth Patients
+Spacetime Dilation
+Film star, and soulful beard-haver, Roderick Cushion has been cast in an outrageous period drama. He didn't ask which period, exactly, but he would like the visit our hospital anyway so that he can "go method".\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Film star, and popular caricature subject, Roderick Cushion is growing tired of life in the spotlight and would like to visit our hospital where, he hopes, nobody will recognise him.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Film star, and autograph speed record holder, Roderick Cushion is filming for the celebrity genealogy series "Do You Know Who I Am?", and believes visiting your hospital will save him a lot of needless bother in public libraries.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Popstar Jasmine Odyssey is promoting her rhetorical anthem "Why Won't You Ask Me Why?". Her agents have requested we invite her to make an appearance in our famous time travelling hospital. As for why exactly, we didn't ask.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Popstar Jasmine Odyssey is soon to be self-directing the video for her upcoming single "Love You Like A Metaphor", and is scouting locations across time and space to help convey whatever that means. Her agents have asked whether we can accommodate a visit.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Popstar Jasmine Odyssey is working on her autobiography, "Jasmine Odyssey: The Odyssey of Jasmine by Jasmine Odyssey". Her agents have asked that she visit our anachronistic hospital so she has a good story to include.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Henry Jobsworth, the County's foremost health and safety inspector, has informed us that he'll be visiting us for an inspection soon. Mr Jobsworth also notes that all the time travel is really affecting his penmanship.\nHe'll be arriving soon, a good report would help our reputation.
+Henry Jobsworth, the County's foremost health and safety inspector, has informed us that he'll be visiting us for an inspection soon. Mr Jobsworth adds that he's looking forward to seeing the town of Clockwise before it fell to the mole-people.\nHe'll be arriving soon, a good report would help our reputation.
+Henry Jobsworth, the County's foremost health and safety inspector, has informed us that he'll be visiting us for an inspection soon. Mr Jobsworth goes on to say that he is quite the outdoorsman and looks forward to showing the locals his favourite whittling techniques.\nHe'll be arriving soon, a good report would help our reputation.
+Captain Yesterday is arriving, has arrived and will arrive at the hospital.
+Yesterday Visit
+Captain Yesterday
+Inventor, entrepreneur, and time travel agent Captain Yesterday is filming a new Yesterizer commercial and is interested in visiting the hospital to gather some footage.\nIf he likes what he sees, we'll appear on the shopping channel and he'll send us some additional funding. What do you think?
+Inventor, entrepreneur, and time travel agent Captain Yesterday is taking a break from testing out the butterfly effect so he can visit the hospital and see how things are going.\nIf he likes what he sees, we'll appear on the shopping channel and he'll send us some additional funding. What do you think?
+Inventor, entrepreneur, and time travel agent Captain Yesterday has just returned from his next but one visit to our hospital, and would like to visit our hospital as it is... now. Simple, right?\nIf he likes what he sees, we'll appear on the shopping channel and he'll send us some additional funding. What do you think?
+We've just found a time capsule from Captain Yesterday. It contains nothing but a single sticky note with a shakily written "WHY?" smudged with teardrops. We'll need to make some improvements before his investors will pay up.
+We've just found a time capsule from Captain Yesterday. He says that he's glad you will eventually clear up the dreadful mess he witnessed during his recent visit. You had better get to clearing things up if you want to fulfil the future and receive an investment.
+We've just found a time capsule from Captain Yesterday. It contains an audio recording of his latest presentation to the investors that ends with a polite golf clap. Job (moderately) well done.
+We've just found a time capsule from Captain Yesterday. It contains a folder that's full of business plans and family recipes. There're photos of the hospital and some baffling diagrams which include words like "DYNAMIC", "SYNERGY" and "LASAGNE". The Captain must be pleased because we've been sent some additional funding.
+We've just found a time capsule from Captain Yesterday. It contains a video recording of a dozen investors joining him in a conga line in front of a pile of money. They must be thrilled because they've sent a fraction of it to the hospital.
+Yesterday Visit
 Earthquake Warning: There are reports of seismic activity in the area.
 
 Disaster Warning: There are reports of electrical storms in the area.
@@ -982,6 +1093,7 @@ Ward & Peace
 Stars Achieved
 Total Kudosh Earned
 Total Silver Earned
+PRESS
 <color=#22ff22>Cured: {0}</color> <color=#ff2222>Failed: {1}</color>
 8-bitten patients are arriving…
 A group of 8-bitten patients need curing!
@@ -1138,7 +1250,7 @@ A group of Pharmacy patients have been stranded after a Bungle Medi-Tech Hospita
 A group of Pharmacy patients have broken out of an Orb Wellness Centre, and are now looking for further treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 A group of Pharmacy patients were kicked out of a Jumbo Hospital for making "slanderous" comments about Mr McNally, and are now looking for further treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 There's been an outbreak of Pharmacy-related illnesses after a recent craze that involved eating highlighter pens took the County by storm. There's a group looking for treatment, now.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
-There's been an outbreak of Pharmacy-related illnesses after a software update for Bungle's "Smart-Plasters" led to multiples cases of blood poisoning. A group are looking for treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
+There's been an outbreak of Pharmacy-related illnesses after a software update for Bungle's "Smart-Plasters" led to multiple cases of blood poisoning. A group are looking for treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 Patients for Herb Garden are arriving…
 There's a group of patients looking for treatment in the Herb Garden after some cavalier allotmenteers played around with radioactivity and developed illnesses instead of superpowers.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 There's a group of patients looking for treatment in the Herb Garden after Jasmine Odyssey's performance at a local botanical garden was so potent that it triggered a mass blooming that made the air mildly toxic.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
@@ -1206,8 +1318,6 @@ A group of Ward patients were kicked out of a Jumbo Hospital for questioning tre
 There's been an outbreak of Ward-related illnesses after a range of ultra-organic bedding from Holistix caused widespread irritation and inflammation. There's a group looking for treatment.\nWe'll be rewarded if we treat this group of patients, should we have them sent here?
 There's been an outbreak of Ward-related illnesses after the Two Point Squabbler released a feature on "Advanced Sleeping Positions" with incorrect diagrams, that led to a range of internal and external conditions. There's a group looking for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
 Receive a star for completing challenges in this simulated hospital scenario.
-Receive a star for completing challenges in this simulated hospital scenario.
-Star Challenge
 Star Challenge
 Use targeted marketing to draw specific types of patients to the hospital.
 Lure & Cure
@@ -1355,6 +1465,18 @@ Well done, we successfully completed the request from {[STAFF]}!
 "If there's one thing I learned from my training masterclass, it's that we should train people. Wisdom like that is precious."
 "Some of the more junior staff are a bit, well, rubbish. Maybe we should run a few more training courses?"
 "Upgrading our machines could really help us cure more patients, and diagnose people faster. As a mechanics enthusiast, I highly recommend it!"
+Cure Rate of {[SCORE]} for Lost in Time Patients 
+Lost in Time Patients Cured: {[CURED]} / {[TOTAL]} ({[SCORE]})
+Lost in time patients can be diagnosed and cured just like anyone else. Judge your capacity and decide whether you can treat them before sending them to Speed Dating.
+Send Back & Cure {[COUNT]} Lost in Time Patients
+Sent {[COUNT_TIME_TRAVELLED]} of {[COUNT]}
+Lost in time patients can be diagnosed and cured just like anyone else. Judge your capacity and decide whether you can treat them before sending them to Speed Dating.
+Cure {[COUNT]} Lost in Time Patients 
+Lost in Time Patients Cured: {[CURED]} / {[COUNT]}
+Lost in time patients can be diagnosed and cured just like anyone else. Judge your capacity and decide whether you can treat them before sending them to Speed Dating.
+Send Back {[COUNT]} Lost in Time Patients
+Sent {[COUNT_TIME_TRAVELLED]} of {[COUNT]}
+Lost in time patients will look out of place, instead of sending them home, you can send them to Speed Dating and return them to the era they belong.
 Reach {[COUNT]} budget score
 Place {[COUNT]} {[ITEM0]} & {[ITEM1]}
 Place {[COUNT]} {[ITEM0]}, {[ITEM1]}, {[ITEM2]} & {[ITEM3]}
@@ -1417,6 +1539,8 @@ Infected: {[COUNT]}\nVaccines: {[VACCINES]}\nEscaped: {[ESCAPED]}
 {[COUNT]} Remaining
 Feed {[COUNT]} People
 Cater for patients by collecting rainwater and growing fruit and vegetables. It'll take some time, and can't be rushed, but it's better for you than all that delicious, processed rubbish.
+Fire {[COUNT]} Members of Staff[i2p_One]Fire a Member of Staff
+To fire a member of staff, select them and then select the "Fire" button. Fired staff cannot be re-hired.
 Complete A General Marketing Campaign
 Purchase green energy machines to increase your power supply. Different types of machine will provide your hospital with different amounts of energy.
 Hire {[COUNT]} Assistants[i2p_One]Hire an Assistant
@@ -1439,9 +1563,15 @@ Hygiene Rating of {[RATING]}
 Hygiene Rating {[RATING]}
 Improve hygiene levels by placing hand sanitiser dispensers, sinks and hand dryers, as well as getting your janitors to clean up any waste around the hospital.
 Complete an Illness Marketing Campaign
+Impress {[COUNT]} VIPs[i2p_One]Impress a VIP
+Impress visiting VIPs by having an attractive, clean and well-maintained hospital with lots of entertainment and prestigiously decorated rooms.
 Launch {[COUNT]} Marketing Campaigns[i2p_One]Launch a Marketing Campaign
 Learn any Qualification
 Learn {[QUALIFICATION]}
+Allow {[COUNT]} Machines to Catch Fire[i2p_One]Allow a Machine to Catch Fire
+Machines will catch fire if they're neglected by maintenance staff.
+Allow {[COUNT]} Machines to Catch Explode[i2p_One]Allow a Machine to Explode
+Machines will catch fire if they're neglected by maintenance staff. If a fire isn't extinguished, the machine will eventually explode.
 Complete a Marketing Campaign
 Complete a {[CAMPAIGN]} campaign
 Conduct {[MONTHS]} Months of Marketing
@@ -1462,7 +1592,14 @@ Own {[COUNT]} Buildings[i2p_One]Own {[COUNT]} Building
 Own {[COUNT]} Plots[i2p_One]Own {[COUNT]} Plot
 Click on a plot to view its objective. Select "Start Challenge" to activate that objective, then achieve the criteria in order to unlock that plot. Up to three plot objectives can be active at the same time.
 Buy another plot of land or building nearby to expand your hospital.
+Remaining Patients: {[COUNT]}
+Entertain {[COUNT]} Patients
+Provide patients with entertainment to alleviate their boredom.
 Sacrifice {[DEATHS]} Patients
+Kill Off {[DEATHS]} Patients[i2p_One]Kill Off a Patient
+Cure {[COUNT]} Patients from Time Portals
+Time Portal Patients Cured: {[CURED]} / {[COUNT]}
+The more time portals you control, the more frequently these patients will arrive.
 Patient Flow
 Allocate power to the Patient Flow transport system to increase the number of patients arriving at the hospital.
 Open Rooms
@@ -1486,6 +1623,14 @@ Complete research in a Research Room. Select the research pod, then choose a pro
 Expose {[COUNT_ALIENS]} Alien Infiltrators
 Found {[COUNT_REVEALED]} of {[COUNT_ALIENS]}
 Look out for Alien Infiltrators, they'll make a mess and waste our time. Send them home if you spot them. Their cloaking devices faulter occasionally, but they can also be seen looking in bins, taking notes or acting in an un-human-like fashion. 
+Expose {[COUNT_ALIENS]} Paparazzi[i2p_One]Expose {[COUNT_ALIENS]} Paparazzo
+Found {[COUNT_REVEALED]} of {[COUNT_ALIENS]}
+Look out for Paparazzi, they'll invade our privacy and waste our time. You may notice them looking in bins, taking pictures or writing down secrets. Send them home if you spot them and their flashing cameras.
+Have Roderick Cushion Cure {[COUNT]} Patients in {[ROOM]}[i2p_One]Have Roderick Cushion Cure a Patient in {[ROOM]}
+Have Roderick Cushion Cure {[COUNT]} Patients with {[ILLNESS]}[i2p_One]Have Roderick Cushion Cure a Patient with {[ILLNESS]}
+Have Roderick Cushion Cure {[COUNT]} Patients[i2p_One]Have Roderick Cushion Cure a Patient
+Roderick Cushion may need to be qualified to work in certain rooms. He won't listen to any changes you make in the Job Assignment screen, but you can pick him up and place him wherever you like.
+Have Roderick Cushion Diagnose {[COUNT]} Patients[i2p_One]Have Roderick Cushion Diagnose a Patient
 Build {[COUNT]} rooms
 {[COUNT]} remaining
 Get a Level {[LEVEL]} Room
@@ -1515,28 +1660,38 @@ Train {[COUNT]} Janitors[i2p_One]Train a Janitor
 Train {[COUNT]} Nurses in {[QUALIFICATION]}[i2p_One]Train a Nurse in {[QUALIFICATION]}
 Train {[COUNT]} Nurses[i2p_One]Train a Nurse
 Train {[COUNT]} Staff in {[QUALIFICATION]}[i2p_One]Train a Staff member in {[QUALIFICATION]}
+Train Roderick Cushion
 Staff with a free training slot can be sent on a training course in a Training Room. Promote staff to allow them to do more training.
 Thermal Comfort of {[TARGET]}
 Thermal Comfort {[SCORE]}
 Keep the temperature comfortable for staff and patients by placing radiators or air-conditioning units.
 Keep people warm by placing radiators around the hospital.
 Keep people cool by placing air-conditioning units around the hospital.
+Time Portal Arrival Rate
+{[SCORE]}%
+The more time portals you control, the more frequently these patients will arrive.
 Get {[COUNT]} stars[i2p_One]Get a star
 {[COUNT]} remaining
 Upgrade {[COUNT]} Machines[i2p_One]Upgrade a Machine
 Select a machine and choose the upgrade option if you have one available. You'll need a Janitor with a Mechanics Qualification to apply the upgrade. Unlock more upgrades through research and challenges.
+The monthly funding that you receive from Zara can vary between {[LOWER]} and {[UPPER]} of your current running costs, depending on our rating from the Vibe System during the previous 3 month evaluation period.
 Vaccinate {[COUNT]} Infected People
 When there is a contagious disease in the hospital, vaccinate people who exhibit the symptoms.
 Decorate the hospital and minimise loose rubbish and waste.
 Use upgraded machinery and qualified staff.
 Supply hand sanitiser and keep toilets well-equipped.
 Keep visitors entertained and well-fed.
+Patient Health
+Cure patients quickly (or send them home).
 Use marketing and positive word-of-mouth.
+Decorate every room to the highest standard.
 Pay well and provide a nice working environment.
 The monthly funding that you receive from Holistix can vary between {[LOWER]} and {[UPPER]} of your current running costs, depending on your score on the Wellness Index during the previous 3 month evaluation period.
 Click on an overgrown plot to view its objective. Select "Start Challenge" to activate that objective, then achieve the criteria in order to unlock that plot. Up to three plot objectives can be active at the same time.
 A wave is completed, and we'll advance to the next wave, if we're able to achieve the target cure rate for that wave. If the target cure rate isn't met, we'll have to repeat the last wave.
 Each wave begins with a number of patients arriving. We'll need to successfully complete all Wave Objectives, before all of the patients have been processed, in order to progress to the next wave.
+VIBE Funding
+VIBE System
 Wellness Funding
 Wellness Index
 Disaster Warning: There are reports of a solar event affecting the area.
@@ -1544,6 +1699,7 @@ Solar Event
 Warning, a solar event has been detected! This could damage our machinery.
 {0} / {1} days[i2p_One]{0} / {1} day
 Travelling ...
+Funding Update: Zara will now cover <style="AdvisorHighlight">{[PERCENT]}</style> of our total running costs for the next 3 months, based on our rating from the <style="AdvisorHighlight">VIBE System</style>.
 Health Inspector Henry Jobsworth is arriving at the hospital.
 We are delighted to announce that the Board of Health and Safety will be sending one of our inspectors to your hospital shortly for an inspection. Mr Henry Jobsworth will arrive and be carrying out inspections of your diagnosis equipment. We hope everything is in ship-shape!
 Notice of Inspection
@@ -1800,6 +1956,7 @@ Temperature
 {[PERCENT]} Marketing Skill
 {[PERCENT]} Speed
 {[PERCENT]} Research Skill
+Faster Yesterizer Configuration
 {[PERCENT]} Learning Speed
 {[PERCENT]} Teaching Speed
 {[PERCENT]} Treatment Skill in {[ROOM]}
@@ -1823,6 +1980,7 @@ I was meant to look into this ages ago, but Monobeasts make my skin crawl!
 I tried experimenting with ghosts before. I should have realised that a haunted alarm clock was going to be a terrifying way to wake up… There has to be a better idea! Cue, you guys.
 You'll need a partner to research loooooooooove
 No, but seriously you'll need more than one person for this one.
+Messages
 Complete this objective to contribute to the Collaborative Project.
 Collab Objective Description Test
 Collab Objective Name Test
@@ -1907,6 +2065,9 @@ Meditations on Mortality
 The Superbug Initiative is happy to announce that the Fruit Loot Global Project has been completed.\n\nOur hospitals should look a lot more summery now, with all that fruit everywhere. Will that make them better hospitals? That's not for me to say. Do they look good, though? Yes, yes they do.\n\nWell done, everyone. Enjoy the fruit of your labour.
 Help the Superbug Initiative introduce some fruity flavour to the County's hospitals.
 Fruit Loot
+The Superbug Initiative is happy to announce that the A Project of Ice & Fire Global Project has been completed.\n\nWith the invention of these two glorious fountains, minor thermal discomfort should finally become a thing of the past.\n\nWell done, everyone.
+Help remedy thermal discomfort by developing the hottest and coldest things in Two Point County.
+A Project of Ice & Fire
 The Superbug Initiative is happy to announce that the Nice Smelling Research Global Project has been completed.\n\nJasmine Odyssey is thrilled with the outcome of our research. No longer will Pointians have to choose between being either sterile OR nice smelling.\n\nWell done, everyone.
 Gather data to help design Jasmine Odyssey's "Nice Smelling Sanitiser" and receive access to the final result, as well as rewards from the Popstar.
 Nice Smelling Research
@@ -1927,6 +2088,7 @@ Your organisation shows great promise, and, as a result, has been chosen to take
 On my most recent trip to a hospital, I found myself thinking: "this place needs more animals". But which animals would be appropriate for a medical facility as well as good company for our patients and staff? Yaks? Emus? Platypuses? I quickly realised that I wasn't fit to make that decision alone.\n\nI'd like to investigate which creatures would be most suitable for this task. Above all else, they should improve the overall "Alive : Dead" ratio in any given hospital.\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
 Two Point County's least unknown artist, Zara Fitzpocket, is looking to break out of a creative rut by "collaborating with the Superbug Network". We were confused at first too, don't worry, but it seems like she just wants us to complete some medical tasks to inform and inspire a series of work she's calling "Meditations on Mortality".\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
 Is it just me, or do our hospitals just not look summery enough this time of year?\n\nAfter a lot of scientific data analysis, I randomly decided that they'd look better if they were a bit "fruitier". I'm not sure what that means, practically, but that's why we have you lot. Get to it.\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
+\nAre you ever just sitting there, at work or at home, and you realise that you're incredibly cold? What's the deal with that? Personally, I want it to stop. Radiators, try as they may, just aren't up to the task and that's why we need something new, something... warmer. Sometimes I get hot too, and that's - if anything - just as bad.\n\nI'm proposing that we develop a solution for annoying, unideal temperatures by doing a shed load of research. Have at it.
 Jasmine Odyssey wants to combine two of her favourite things: nice smells and clean hands, with, what she's calling her "Nice Smelling Sanitiser". She's asked the Superbug Initiative to gather a huge amount of data so that her aromatic technicians can design the finest, most fragrant steriliser Two Point County has ever seen.\n\nThe Superbug Initiative has launched a Global Project. Check the Superbug Network to contribute to the project and collect rewards.
 The Superbug Initiative is excited to announce, and open, its first Global Project.\n\nBungle have created a new thingamajig: the Quadra-Hyper Neuro-Perma Batho-Omni Gyro-Nut, or Gyro-Nut for short. We've been waiting for the right moment to unite everyone in the Superbug Network on a single project, and, with the recent development of this cutting-edge machine component, now is the perfect time!\n\nOur scientists believe that there are countless possible applications for the Gyro-Nut, and they're calling for the entire Superbug Network to explore different avenues of research to help design some new medical technology.
 Thank you,\nSophie Nova\nCEO, Bungle Technologies
@@ -2161,7 +2323,6 @@ Resource Manager
 Retail Licensing Manager
 SEGA HARDlight
 SVP, Business Planning
-SVP, Business Planning
 SVP, Commercial Publishing
 Searchlight
 Brand and Community Team
@@ -2193,7 +2354,6 @@ Testology QA Academy
 Thanks for playing!
 Training and Recruitment Supervisor
 VP, Digital Business
-VP, Digital Business
 VP, HR
 VP of Production and Development Services
 Video Suite Assistant
@@ -2212,10 +2372,12 @@ Blueberry Longhorn
 Book Smell
 Boys On Krill
 Chicken Butter
+Credit Sequins
 Cuticle Karate
 Easily Easely
 Egg and Terracotta Soldiers
 Flemington La
+Four Man Tent
 Gibbon Moon
 Having It Large
 J-U-L-I-A
@@ -2229,13 +2391,17 @@ Piña Collider
 Postal Ceviche
 Project Vineyard
 Puffin Pot
+Right Foot Left
 Speaking Faces
 Starfish & Luna Tuna
 Steam Trout
+The Has
+The Soup Swoons
 The Stud Muffins
 Two with Mustard
 Uncle Monk Funkle
 Victoria Sponge-Muffin
+Wend-E
 What? Where?
 Astro Jam
 Aurora the Explorer
@@ -2244,9 +2410,12 @@ Big Foot's Commute
 Coastal Canopy
 Come on Over
 Django in the Jungle
+Febricant Festival
 Fireside Fling
 Fish Whispers
+Fossil Fuel
 Frosty Bells
+Go Future Self
 Gomer
 Astro Fang
 Aurora The Horror
@@ -2268,10 +2437,13 @@ Recover & Regain
 Remedy Hill
 Route 69
 Samba de Medicana
+Sitcom Strum
 Stethoscopes and Kaleidoscopes
 Sundries
+The Galère Gala
 The Gamble Man
 The Last Dose
+The Pillage People
 The Urban Electric
 The Waiting Room
 Tiki Hut Party
@@ -2283,6 +2455,8 @@ Continue
 Albert Crank's Tips
 Give your next hospital the icy charm of an art gallery with items like the Armless Statue, Rocket Pig and Floppy Clock!
 Exhibition Item Pack
+Click here to view the Fancy Dress Pack and claim your free "Dying Trend" staff customisation option.
+Fancy Dress Freebie
 Take off those regular clothes and replace them with… something else! Dress up your hospital with outfits, and items, like the Penguin Suit, Dying Trend and Roman Scandal!
 Fancy Dress Pack
 As always, the latest featured item is our favourite yet. Design your own items and share them on Workshop, and maybe, one day, you'll be featured too.
@@ -2293,6 +2467,8 @@ Superbug Items: Season One
 Sign up for Hospital Pass to receive the latest news about Two Point Hospital, the Golden Toilet Suite and all the items from the first three Global Superbug Projects.
 We're proud to be a part of the Yogscast Jingle Jam 2019. Click here to see more, support a great cause - with 100% of proceeds going to charity - and get a load of games and other fun stuff, including our "Jingle Jimjams" Staff Customisation option.
 Jingle Jam
+See in the Year of the Ox with an item to celebrate the Lunar New Year. 
+Year of the Ox
 See in the Year of the Rat with our items for the Lunar New Year. They're releasing over a week, so check back to see what's new in the "Special" item filter.
 Year of the Rat
 You can now personalise your music preferences, turn on and off different tracks, and even upload and share your own music, all in the Audio section of the Settings menu.
@@ -2300,8 +2476,6 @@ Radio Customisation
 Start New Game
 Quit
 "Play" challenging hypothetical scenarios in the prototype of Bungle's hospital simulation software. Rendered Environments of Medical Intrigue (X) will be used to train administrators, but first they need someone (that's you) to test it out.
-"Play" challenging hypothetical scenarios in the prototype of Bungle's hospital simulation software. Rendered Environments of Medical Intrigue (X) will be used to train administrators, but first they need someone (that's you) to test it out.
-R.E.M.I. X
 R.E.M.I. X
 New to R.E.M.I. X
 \nR.E.M.I. X now includes alternate versions of Mitton University, Tumble and Flemington for administrators who have achieved a 1 Star rating in those hospitals.
@@ -2318,8 +2492,6 @@ BBQ Season
 Superbug Beta
 The Superbug Initiative has begun on Open Beta. Collaborate with your friends, and the entire medical community to discover rewards and give Two Point County's tech an update.
 Collaborate with your friends, and the entire medical community, on cutting-edge research to discover unique in-game rewards. Head to the Superbug Network to get started.
-Collaborate with your friends, and the entire medical community, on cutting-edge research to discover unique in-game rewards. Head to the Superbug Network to get started.
-The Superbug Initiative
 The Superbug Initiative
 There is currently an active Global Superbug Project. Head to the Superbug Network to contribute and collect your rewards!
 Superbug: Global Project Alert!
@@ -2428,6 +2600,8 @@ Loan Taken Out
 {[PATIENT]} died
 {[PATIENT]} rage quit
 {[PATIENT]} sent home
+{[PATIENT]} sent through time
+ Untreated {[PATIENT]} sent through time
 Bought {[NAME]}
 {[NAME]} rage quit after waiting for further diagnosis
 {[NAME]} rage quit. Top complaint(s): {[COMPLAINTS]}
@@ -2483,6 +2657,18 @@ Plot 7
  or 
 Requires 
 Plot 0
+Stage A
+Stage B
+Stage C
+Stage D
+Stage E
+Stage F
+Stage G
+Stage H
+Stage I
+Stage J
+Stage K
+Stage L
 Plot 1
 Plot 1
 Plot 2
@@ -2975,6 +3161,158 @@ An infection that transmogrifies the nose, turning the sufferer into a big ol' t
 Root Snoot
 Sustained sobbing has left the sufferer with a leaky aperture, or two. They require cheering up, and a chemical treatment that tightens the body's plumbing.
 Weeping Iris
+Sufferers have an inflated, totally unreasonable perception of their own importance and ability. They must undergo a course of mild, psychiatric beration to be reverted from pathologically obnoxious to neurotically normal. Caused by two-for-one film tickets and letting relatively small compliments go to your head. 
+Protagony
+A condition that ranges in severity from mild ennui to intense, existential hopelessness. Caused by paint fumes, undiluted watercolours and colouring outside the lines.
+Art Sick
+The body's internal code has adopted a fundamental, often comical, error. The unprofessional sequence must be removed from main body of the DNA and transferred into the body's bonus DNA. Sufferers may laugh uncontrollably or ask for their "line". 
+Blooper
+The sufferer's vital fluids have taken on a garish, almost smug, shade of blue. Caught from money that has been left sitting out, often for generations, the sufferer must have their blood audited and the troublesome wealth taken away from them, at once.
+Blue Blood
+Veterans of the theatre, as well as medical professionals, understand the risks of wishing performers "good luck". In fact, over 1.5% of the broken legs in Two Point County - every year - are a direct, ironic result of a well-wisher forgetting to say the much safer "break a leg". Your intentions don't matter. Think before you wish luck on others.
+Broken Leg
+Sufferers experience little morsels of intestinal discomfort. Caused by dodgy finger food and poorly washed silverware. The Hors d'oeuvre (order) of business is to rummage around inside them to remove whatever exotic egg, expensive seasoning or smoked-something that's causing all their discomfort. 
+Canapains
+Films have led us to believe that pianos only fall on people's heads, but sometimes they land on people's feet, too, and that is also really unideal. Due to severe fracturing of the toes, the sufferer produces a noise when they walk that sounds faintly like classical music.
+Concertoes
+The sufferer has developed holes in the bones of their feet that will require editing. Must be restored carefully and then wrapped in a protective, analogue film. Caused by tripping on set, dropping reels on your heels and someone leaving a franchised coffee cup in the shot... 
+Corrupt Footage
+A form of allergic reaction to 'cross-fading', a traditional transition technique in the film industry. Although it goes unnoticed by the human eye, the cells of a Cross-Frayed individual will appear to be "fading out" when examined under a microscope. Due to the ubiquity of the technique, it is safest for the sufferer to have their intolerance removed from their genetic code.
+Cross-Frayed
+Chronic stomach ache caused by excessive decision making and mouldy bagels.
+Director's Gut
+The sufferer's hands have developed a taste for... drama! The hands exhibit a life of their own, doing things purely for the sake of "narrative", often to the disadvantage and danger of the individual. So-called "Dramatic Paws" have been known to start fights, throw drinks, or - even - knock over things that ought not be knocked over.
+Dramatic Paws
+A viral condition contracted from horses, stables and sleeveless, quilted jackets. Most cases remain symptomless, as the internal organs begin to promenade around the body in an orderly, elegant fashion, however some physicians have attested to diminishing peripheral vision and occasional whinnying.
+Dressage
+A condition contracted by actors without speaking lines and character names such as "tired old man" and "ballerina #4". A life of pretending to talk in the background of café scenes has worn away at the sufferer’s social behaviour. They now gesture and mumble, laughing at intervals: “Hurgh nu fa, ba-da-la-da-DA! Haha. Oh.” It goes to show: background life imitates background art... 
+Extrasensory
+Bursts of sudden back pain caused by intense déjà vu related hallucinations. The patient may believe that they're back from the future to save themselves (from back pain). They need to be convinced otherwise before they hurt themselves or somehow manage to change the future.
+Flash Back
+A condition first recognised by the celebrated, now infamous, psychiatrist Ebenezer Fourthwall. The sufferer can't tell reality from fantasy, or stage left from stage right. Caused by hidden cameras, "pranks" and having one's reality totally shattered. Extreme cases have been known to lead sufferers to believe that they're in some kind of extravagant simulation.
+Fourthwall Problem
+Infinitesimally small bruising, inside and out, has given the body a radiant glow but left it unfortunately close to bursting. The sufferer must undergo surgery to repair the body's structural integrity and avoid going "pop". Caused by long nights on the dance floor, illegal spa treatments and fox stampedes.
+Foxtrodden
+A common malady in organisers, producers and caterers alike. Planning an event is a stressful occupation. In the early days of party-throwing, it was said that the lumpy bulge contained the spirits of the uninvited. Traditionally, at the end of the party, the organiser was beaten with sticks until it burst, thus freeing the souls of the absentee. This was later deemed dangerous and pretty gross.
+Guest Cist
+An extreme form of headache that hardens the sufferer's head, giving it a subtle, often imperceptible, metallic quality. They need to keep their head still for a while and be given an injection of laid-back vibes. Caused by power chords, rocks and/or rolls and not drinking enough water.
+Banging Headache
+A delusional condition that causes the sufferer to dress like a hot dog, as they believe that it's what's best for their career (in the long run). They need to be given a course of mustard placebo and assured that very few famous actors ever had to dress like a sausage. Caused by a lack of auditions and trusting what the guy at the hot dog stand had to say.
+Misdewiener
+The sufferer's insides appear to be illuminated by a yellow-green light. A surgeon must go inside them and correct the problem before it burns them out. Caused by sudden media attention and swallowing stage lights.
+Limelit
+A form of exclusion trauma caused by an unhealthy concern for one's own perceived importance. Essentially, they're really very sad that they're not considered important, let alone "very" important. The sufferer must be convinced that lists are just bits of paper, that importance is subjective and other heinous lies to regain their self-esteem.
+Listless
+Sufferers hear a recurring and regular beat that they believe is being played by a tiny magical being or "ear gnome". After undergoing a course of treatment for their hearing - that has nothing to do with gnomes - the patient may well believe in magic, or even try and complete some kind of quest for their gnome-y friend. Healthcare practitioners have found that it's best to indulge them, sadly.
+Metrognomic
+Despite its name, the sufferer - who may emit a faint, peppermint aroma - is in a state that is far from perfect. The strange bacteria responsible is most commonly contracted through expensive herbal teas and really old comic books. 
+Minty Condition
+Caused by overexposure to special effects, the sufferer's body is caught in a state between the procedurally generated world and our own. They must be cured, and have every ping-pong ball removed, before they disappear, forever.
+Motion Sickness
+Sufferers are dangerously concerned with their perceived wealth. They will spend every penny they can on race cars, top hats and thimbles in an attempt to seem absolutely loaded. To avoid bankruptcy, they need to be injected with something sappy that'll convince them that lying is for bad guys and true wealth comes from within. Sufferers must go to hospital. Go directly to hospital. Don't… well, you know.
+Monopolies
+Mudperson
+Sufferers have 'mud poisoning' after accidentally ingesting dirt. Sure, they may have fun for a while, dancing and feeling at one with the earth, but after a while they'll become entirely soily. They need a deep clean, inside and out.
+Soiled Self
+Sufferers believe that they're being watched by spies or the international press. To combat their suspicions, and protect their identity, they have adopted a derivative and ineffective form of disguise. They'll need treatment before they get any shyer, and must be reassured that no-one cares who they are. Besides, they're not kidding anyone…
+Inbagneato
+Sufferers display the outward signs of extreme shock. All the time. Commonly contracted from haunted paint, but may also manifest spontaneously in art galleries, after looking at the price of that piece they liked that was "only a print".
+Culture Shock
+A condition that targets depth perception. The sufferer will struggle to process flat surfaces or identify whether an object is, in fact, small or just really far away. Caused by bad reactions to visual tricks and Sundays on the island.
+Shifting Perspective
+Pain and tension in the body's fibres, caused by happy endings, finishing stories and over-indulging on credit sequences.
+Sinewment
+A complex twisting of the mucus that affects the sufferer's airways. Caused by sudden changes in narrative and finding out that it's all been a dream.
+Snot Twist
+The sufferer's eyes have become square - no kidding - and backlit. They need some anti-pixel medication and to be told to sit a little further away from their screens. 
+Square Eyes
+A collective term, coined for the wide variety of manual maladies contracted by the crew members of film, theatre and television industries. Common causes include: dry ice, cannibal actors and picking up the wrong end of irresponsibly sharp "fake" weaponry.
+Stage Hand
+Sufferers have lost the ability to tell what's boring, what's exciting and what's dangerous and will take great pleasure from even the most mundane task. They need to be recalibrated before they do something brilliant but fatal. Not everything can be exciting, it's not healthy and it's not realistic. Caused by sliding down banisters, having exact change and rolling around on film sets.
+Stunt Trouble
+The body has been invaded by a hostile, part-polymer, parasite. Sufferers exhibit a monochromatic green exterior and extremely limited flexibility. They'll soldier on until they freeze - in pose - but they need to be melted down, strained and reset, if they ever want to regain regular rigidity.
+Private Parts
+A range of bone-related conditions caused by walking into, or being crushed by, a wardrobe or similarly weighty container of costumes and/or props. Often the result of waning focus at an inopportune moment. Common catalysts include day-dreaming, sandwich distraction and checking to see if your business is showing.
+Wardrobe Malfunction
+It's perfectly normal to have a paintbrush in your hair, but not a pencil in your head. The unwelcome piece of stationary is blocking the part of the brain responsible for… what's the word… sentences. Anyway, that'll need to be removed if they want to write good.
+Writer's Block
+An irrational fear of the passage of time, made all the more severe by the existence of time travel.
+Age Fright
+This case of lost identity can be easily reversed by a De-Lux O-Luxe machine. On with their heads.
+Beheadedness
+Sufferers have augmented their bodies with robot parts, without consulting the robot parts, causing hilarity - as well as profound health concerns - to ensue.
+Bionic Plague
+Colloquially known as squire's elbow, carrying all that heavy knight gear is very hard on the forearms.
+Bloat of Arms
+Discolouration of tooth enamel acquired through overuse of wireless dental floss.
+Blue Teeth
+The result of an ill-advised attempts to clean out one's ear canal with rudimentary tools. Patients report a "surprising lack of resistance".
+Bone Head
+Doctors must take care to safely remove hardware so as to prevent memory corruption.
+Byteheadedness
+A hyper-advanced strain of Lightheadeness. Doctors must take care to safely remove hardware so as to prevent memory corruption.
+A form of thorn-related ailment, often the result of misguided attempts to be cool and/or seductive.
+Chewed a Rose
+A fracture in the jaw which causes an involuntary 'tic-ing' sound roughly once per second.
+Clockjaw
+Patients claim they "got stuck" while working on their fishing boats, but are generally not forthcoming with further details. With bed rest and the right bait they should slip right out, but nothing can be done about the fishy smell in the meantime.
+Cod Piece
+A potential after-effect of being bitten by a gigantic prehistoric lizard. Patients report mild swelling and irritation, as well as wounded pride after being told that they don't taste all that nice, apparently.
+Dino Sores
+Secondary symptoms include hoarding gold, intermittent flying and a newfound romantic interest in donkeys.
+Reptile Dysfunction
+Sufferers are anxious about the speed at which human evolution is moving for the kids these days. In my day we had scales and a big floppy tail, what was so wrong about that?
+Fomo Sapiens
+The sufferer is petrified of doing anything, anything at all. Brought on after realising that actions have ghastly, and all too likely, consequences.
+Forefraught
+Patients exhibit a tendency to look very closely at fractal patterns and see the golden ratio wherever they look. Caused by a patient's DNA becoming that bit too helical.
+Fossil Eyes
+The sufferer has dislodged themselves from their origin and their fate. Causes include 'trying out' a new personality, fun with flux-capacitors and standing in the way of sliding doors. This is great for plot, but less good for their ability to exist cohesively.
+Fractured Timeline
+Cubism has mutated over the centuries, with this new strain able to transmit itself through digital images. I can't say that I care for it… 
+Futurism
+A condition characterised by brittleness of the head, caused by extended exposure to UV radiation, though the problem is magnified by a lack of cloud cover and convex glass surfaces on sunny days.
+Glass Dome
+A form of computer virus, characterised by bouts rapid typing. Common causes include faulty promo codes, forgetting your password and excessive use of the phrase "I'm in".
+Hacking Cough
+Sufferers explode into bouts of uncontrollable giggling at jokes they heard hours, days, or even years earlier. You really had to be there.
+Historical Laughter
+A deceptive condition that eludes early diagnosis. Unfortunately, the glands look completely normal when viewed from just the right angle.
+Hologlands
+An interesting example of viral evolution. In pre-industrial societies, Lightheadedness typically manifested itself in this less advanced, but more period-appropriate, manner. Caused by fireside sleepiness and playing with sticks.
+Hotheadedness
+Clowning has a rich and storied tradition that must be eliminated at the source. Caused by overly demanding monarchs, ingesting fire and the invention of juggling.
+Jester Infection
+These parasites follow a strict code of chivalric honour. Treatment involves challenging them to duel with balms and lotions via the throwing of microscopic gauntlets.
+Mites of the Realm
+Wearing an ill-fitting guard's uniform a lot can cause chafing, cramps, and wedgies.
+Livery Disease
+Patients don't know whether they are coming or going, and neither would you after all that time travel. They'll never be the same again (unless they undergo a basic course of treatment).
+Loopy
+Sufferers are totally convinced of their own scientific aptitude in spite of a wealth of material evidence (and injuries) to the contrary. A heavy dose of perspective, plus a hair cut, should do the trick.
+Artificial Intelligence
+A spinal injury, treated surgically by replacing the offending, misplaced, piece of bone. Can cause discomfort, heavy slouching and getting lost in the woods.
+Missing Link
+Both caused by, and the cause of, a viral infection commonly known as Parapox. Staff treating the infection are asked not to think about it too hard.
+Parapox
+The brain sends and receives messages through the nervous system using paper notes rolled up into capsules. Best treated by surgically installing an intranet network and setting up the brain's email.
+Pneumatic Tubes
+The onset of Predestinitis is as predictable as it is inevitable. Often caused, with great irony, by efforts to prevent it.
+Predestinitis
+A severe strain of Mock Star, sufferers maintain their delusion in spite of several millennia of requisite musical tradition which hasn't occurred yet.
+Rock Star
+Early indicators of this mineral-y malady include swelling, and redness, in the lips and tongue, as well as sticky fingers.
+Rolling Stones
+Sufferers are struck with an insatiable desire for political power, tempered by a greatly increased need for the lavatory.
+Slackbladder
+Disruptions to synaptic connections caused by anomalous quantum energy wavelength fluctuations cause sufferers to spout meaningless technobabble. Highly contagious.
+Talknology
+A build-up of a black gloopy substance in the underarm region usually caused by patients ignoring "no swimming" signs. It wasn't a suggestion, you know… 
+Tarred Pits
+It's just a lump on your left that seeps to the right. You've got the Time Warts again.
+Time Warts
+Excessive facial hair growth can, if left untreated, lead to severe sensory impairments and tragic mistakes while hunting.
+Woolly Man-Mouth
 An unpleasant rash triggered when the sufferer is forced to make a decision too quickly.
 Decision Rash
 Skin has the appearance of denim. Causes a great deal of irritation, mainly due to the time it takes to dry after a shower. Believed to be caused by Bungle's genetically-engineered jeans, which have since been recalled.
@@ -3244,8 +3582,6 @@ We've been sent a Jasmine Odyssey bedspread to say thank you for our work on the
 Guaranteed to promote nice smelling dreams.
 Jasmine Bed
 
-
-Jasmine Bed
 Jasmine Bed
 Bed
 A table on which patients can place their tat.
@@ -3710,6 +4046,147 @@ Just hanging out.
 Wall Plant
 Nice at first.
 Wind Chimes
+Art (that) can consume you.
+Shark Art
+Sitting pretty.
+French Bench
+Hungry to help.
+Shark Bin
+Feel the bass with your face.
+Boom Box
+Overkill.
+Throne
+"Cut."
+Clapperboard
+Quite the mouthful.
+Giant Glass
+Compressed for maximum value.
+Jewel
+Highly esteemed and recently misplaced.
+Golden Statuette
+Reduces Hunger\nIncreases Thirst\nDrastically Increases Happiness
+Its children have children.
+Grandfather Clock
+Pretty cool.
+Frozen Art
+Rinse, don't repeat.
+Rub-0-Dub Tub
+Improved lather density and sponge action.
+Rub-0-Dub Tub II
+Advanced lather density and sponge action.
+Rub-0-Dub Tub III
+"Wee!"-inducing
+Crash Course
+Improved drudgery and vroom noises.
+Crash Course II
+Advanced drudgery and vroom noises.
+Crash Course III
+Recycle plastic patients.
+Meltn' Mould
+Improved military fun and thermal magnification.
+Meltn' Mould II
+Advanced military fun and thermal magnification.
+Meltn' Mould III
+If you're reading this, it may be too late.
+Slippery Sign
+The classic comedy duo.
+Mop & Bucket
+See back for more in-foam-ation.
+Soap Bottle
+Not another soap bottle.
+Lather Flagon
+Lights up any room.
+Neon One
+Positively glowing.
+Neon Two
+"A goose."
+Origami
+Poor hygiene may affect your health.
+Soiled Self Poster
+From the Roderick Cushion film: "Brisk and Livid".
+Action Poster
+From the Roderick Cushion film: "People That Work Together".
+Rom-Com Poster
+From the Roderick Cushion film: "Rotting Hill".
+Zombie Poster
+Stay away from gorges.
+Stunt Trouble Poster
+Get treatment, that's an order.
+Private Parts Poster
+Oh, buoyancy.
+Pool Toy
+"Can you turn it down?"\n"What?"
+Speaker Stack
+A standardised unit of enjoyment.
+Barrel of Fun
+Supportive, for now.
+Fake Fan
+Goes with the crowd.
+False Fan
+Go team.
+Bunting
+"I forget the rest..."
+ABC Blocks
+Stories for good little soldiers.
+Book Case Jr.
+The motherload.
+Toy Chest
+Stocked with the finest fish eggs that money could find.
+Fancy Food Machine
+The key to winning is to think three moves behind.
+4D Chess
+Releases lost in time patients into the hospital.
+Time Portal
+A feast for the eyes (only).
+Wax Banquet Table
+Be chilled to the bone.
+Bone Bench
+Now your rubbish is some other galaxy's problem.
+Wormhole Bin
+You can't beat the classics.
+Rock Armchair
+More efficient than drinking coffee, with fewer side effects.
+Energy Beam
+Spawns Patients\nIncreases Spacetime Dilation
+Reduces Litter\nGazes Also Into You
+Gives Energy Buzz
+Identifies Eras Of Origin\nSends Patients Through Time
+Reduces Hunger or Thirst\nIncreases Unpredictability\nProduces a random product
+As seen on TV.
+Yesterizer
+Delivers time sick patients.
+Time Portal
+A reminder of simpler times.
+Old Time Machine
+Surprisingly spacious.
+Old Telephone Box
+A genuine original.
+Cave Painting
+Seek treatment if your head smarts.
+Artificial Intelligence Hologram
+Optometry that predates the written word.
+Cave Eye Chart
+Don't let your symptoms\ndrag on.
+Reptile Dysfunction Painting
+Hairy today? Goner tomorrow.
+Woolly Man-Mouth Slab
+A two-level effect with a little path running down the middle.
+Shrubbery
+All the nutrients a growing organic molecule needs.
+Primordial Soup
+Round Thing
+Will never catch on.
+Round Thing
+The latest thing, the greatest thing.
+Sliced Bread
+Where rock meets bottom.
+Rock Sofa
+Helps make sense of this mess.
+Nonlinear Wall Clock
+A useful 4-dimensional navigation aid.
+Map of Time
+Can, and does, recreate absolutely any food at the touch of a button.
+Replication Station
 For the analysis and manipulation of genetic material.
 Healixir
 Even Healixir-ier.
@@ -3761,119 +4238,64 @@ Examination Table
 A play area for grown-ups.
 Exercise Frame
 But you didn't do it, did you?\nA sculpture by Rolanda Cheesewater.
-But you didn't do it, did you?\nA sculpture by Rolanda Cheesewater.
-Cheesewater Statue
 Cheesewater Statue
 The shape that she decided it should be.\nA sculpture by Zara Fitzpocket.
-The shape that she decided it should be.\nA sculpture by Zara Fitzpocket.
-Fitzpocket Statue
 Fitzpocket Statue
 Something that exists.\nA sculpture by Cecil Gasplank.
-Something that exists.\nA sculpture by Cecil Gasplank.
-Gasplank Statue
 Gasplank Statue
 "Robots love the accordion."\n- Anonymous
-"Robots love the accordion."\n- Anonymous
-Accordionatron
 Accordionatron
 Really no threat at all.
-Really no threat at all.
-Armless Statue
 Armless Statue
 "Blib-Blob".
-"Blib-Blob".
-Blob Fish
 Blob Fish
 Did they run out of clay?
-Did they run out of clay?
-Bust
 Bust
 You can have this space cowboy.
 Space Cowboy
 Makes you think of a cube, despite not being one.
-Makes you think of a cube, despite not being one.
-Puzzling Cubes
 Puzzling Cubes
 Excessively cuboidal.
 Hypercube
-Hypercube
-Allegedly quite old.
 Allegedly quite old.
 Silent but dead.
-Silent but dead.
-Ex-Lizard
 Ex-Lizard
 Bone Monster
-Bone Monster
-I found this fossil! It's mine!
 I found this fossil! It's mine!
 Fossil
-Fossil
-A possessed possession.
 A possessed possession.
 Ghost Mirror
-Ghost Mirror
-Stuck in a vicious cycle.
 Stuck in a vicious cycle.
 Black & White
-Black & White
-Not a hat, just interesting.
 Not a hat, just interesting.
 Fascinator
 King of the synthetic pride.
-King of the synthetic pride.
-Lion's Head
 Lion's Head
 Not finished, only lost.
-Not finished, only lost.
-Some Keys
 Some Keys
 Time fries.
 Floppy Clock
-Floppy Clock
-Four-headed stone demon.
 Four-headed stone demon.
 Mount Facemore
-Mount Facemore
-Later renamed the dual-wheel push-cycle.
 Later renamed the dual-wheel push-cycle.
 Velocipede
-Velocipede
-Neither a bird, nor a plane.
 Neither a bird, nor a plane.
 Rocket Pig
-Rocket Pig
-Impress yourself.
 Impress yourself.
 Pin Art
-Pin Art
-Good for nothing.
 Good for nothing.
 Pine Cone
-Pine Cone
-Of great artistic pedigree.
 Of great artistic pedigree.
 Dog Portrait
-Dog Portrait
-Aging nicely.
 Aging nicely.
 Silver Fox
-Silver Fox
-All the rage.
 All the rage.
 Maestropod
-Maestropod
-Live from space.
 Live from space.
 Orrery
-Orrery
-Symbolic of the bond between person and cat.
 Symbolic of the bond between person and cat.
 Cat Person
-Cat Person
 Watch how they swing.
-Watch how they swing.
-Swinging Balls
 Swinging Balls
 Walls can wear costumes too.
 Wall Dressing
@@ -3966,6 +4388,8 @@ Increases Hygiene\nSmells Nice
 Assists in Research
 Increases Room Prestige
 Increases Comfort
+Drastically Reduces Temperature
+Drastically Increases Temperature
 Decreases Temperature
 Increases Temperature
 Reduces Toilet Need
@@ -3989,8 +4413,6 @@ Large Fountain
 Sterile but sticky.
 Hand Sanitiser
 
-
-Nice Smelling Hand Sanitiser
 Nice Smelling Hand Sanitiser
 More impressive than useful.
 Hologram
@@ -3998,6 +4420,10 @@ Hospital Main Entrance
 Hospital Main Entrance
 Hospital Side Entrance
 Hospital Side Entrance
+Fully frozen.
+Ice Fountain
+An absolute scorcher.
+Fire Fountain
 Inject things, mostly medicine, into patients for treatment.
 Jab Master
 Improved injection success.
@@ -4012,6 +4438,8 @@ Leaflet Stand
 Litter
 A tribute to romance, infatuation and general courtship.
 Love Statue
+Happy niú year.
+The Ox
 A change for the better/worse.
 Dragon Corner
 Only the beginning.
@@ -4159,8 +4587,6 @@ Dog Art
 A painting depicting the County’s namesake mountains.
 Mountains Painting
 
-
-Vinyl Jazza
 Vinyl Jazza
 A Hall of Fame for our favourite scans ever.
 X-ray Board
@@ -4521,6 +4947,7 @@ X-ray Machine III
 Used to operate the x-ray machine.
 X-ray Terminal
 Golden vase full of flowers
+You can send lost in time patients to the <style="AdvisorHighlight">Speed Dating</style> room at any time if you're too busy to cure them first.
 Unlocked after 1 Star on Flemington
 Take a request from the Bigfoot Foundation and visit the Pointy Mountains.
 Bigfoot
@@ -4638,7 +5065,7 @@ Camouflage Falls
 Alrighty, I reveal, I am alien too and have been hoaxing you. We liked you all and your strange lands, your harmonising popular music and your cheesy gubbins. But when we bobbed up there were bunches of not so funny health problems. We revolved to convolute a plan to stop diseases whilst keeping our arrival hushy-hushy.\n\nAfter doing cross-examining of your culture, we found you couldn't help the chance to de-sock suspicious wing of government. Anyways, can you imagine if people found us out? That would be super crazy. Would not handle well. No, not at all. No siree. Ah look at me, I’m doing some of your earth blathering ha-ha. Wonderfilled.\n\nThank you for your helpings of our planets and yours. Please stay muffled, although I don’t reckon you’d be too believed! Bye-bye.
 Compliments to the chief. Your proficiencies have granted you lots of clearance and an assignment in the towny development of Camouflage Falls. But I have succulent data. This town is not what it seems. No, not a town at all they say. I am really surprised by this surprising news - are you not? They say it is a face for secret government base.\n\nCitizens with space illnesses are being abducted from their kitchen islands, their hammocks and their park walks and taken to Camouflage Falls for their own good. If you’re able to turn around the fight against the space ick, we might receive fully buttered coverage and get to the bottom of this things.
 Greetings puny administrator. It is I, investigative journaliser Charlatene Fishwrapper of the Two Point Squabbler. I am conducting secret reporting espionage and have achieved clearance for you to help. The government are hide-and-sneaking a space crash and keeping super quiet, even though there is lots of health problems to the area and its townpeoples.\n\nYou must cure them, and prevent end of times, to receive clearer, more see-through-able clearance for me to write all about government secrecies and find the ongoings going on.
-Initiate favour sequence and get a chair to sit with... There is aliens involved in the operations! I have not seized the bottom of the news barrel yet, but learn that aliens arrived on the crashings near Goldpan. If you cooperate one time more, we should see all their doings. You are now a total clearance person and will be taken to deep down headquarters. \r\n\r\nThey say you will need to develop a hiding contraption for the funny looking alien people that don’t look normal like us humans do. They sure do look surprisingly. I for some have not looked at anything like it in my previous looking experiences. Remain carebound and stingy with your trustings.
+Initiate favour sequence and get a chair to sit with... There is aliens involved in the operations! I have not seized the bottom of the news barrel yet, but learn that aliens arrived on the crashings near Goldpan. If you cooperate one time more, we should see all their doings. You are now a total clearance person and will be taken to deep down headquarters. \n\nThey say you will need to develop a hiding contraption for the funny looking alien people that don’t look normal like us humans do. They sure do look surprisingly. I for some have not looked at anything like it in my previous looking experiences. Remain carebound and stingy with your trustings.
 Transmission over,\nCharlatene Fishwrapper
 The Handles of Love
 There are reports of strange events in this town near the alleged crash site.
@@ -4697,6 +5124,115 @@ Vote,\nTabitha Windsock
 Here forever,\nTabitha Windsock
 It’s that time again. Our County is approaching another mayoral election, and I’ve decided that beginning our journey towards a greener tomorrow is long overdue. Our voter research suggests that it’s the issue on everyone's mind, and I am willing to fall on the sword of extensive positive press by founding the Department of Green Things.\n\nWhen people remember Tabitha Windsock, I want them to remember my green initiative and how I got re-elected that time. Please, support the initiative by taking care of our green-minded, recently-pro-windsock, community. I need them in this time of need, uncertainty and poor voter polling, because, frankly, the dead can’t vote.
 Vote\nWindsock
+Head to the Arts District to help artist Zara Fitzpocket design a cure for the ailing culture of Two Point County.
+Culture Shock
+<style="AdvisorHighlight">Mudbury Festival</style> now available!
+<style="AdvisorHighlight">Fitzpocket Academy</style> now available!
+<style="AdvisorHighlight">Plywood Studios</style> now available!
+Provide hospitality, and healthcare, for the County's faltering music festival.
+Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nAh, so you work in the music industry now? Of course, a little success on the old boob tube and you believe yourself infallible. Typical. What can we expect from you next… A range of kitchenware? An experimental jazz album? Don’t let me know.\n\nContinue to “get jiggly with it” for more rewards, or return to reality and get back to work.
+Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nWe seem to agree, that anyone who submits themselves to wading around in the mud for music, fast food and an alleged ‘good time’ is, indeed, in need of medical attention. If you ask me, live music lost its appeal the day they invented a contraption capable of recording it, and not a day later.\n\nContinue to “get jiggly with it” for more rewards, or return to reality and get back to work.
+Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nI wouldn’t usually condone one of our County’s administrators ‘doing a runner’ and starting a career in the music industry. But as our department has been dealing with a scandal, of sorts, involving some sensitive patient records and a runaway toboggan… I commend your timing. Good job, sport.
+Mudbury Festival
+Welcome to Mudbury. The old festival hasn’t been a success for… some time, but, yet again, this year could well be the year. You’ll be running hospitality at the festival, that means food & drink, comfort & entertainment and, yes, medical support. There are rumours that Jasmine Odyssey might make an appearance, but they're also saying that it'll rain Cheesy Gubbins, so don't get your hopes up.\n\nDiseases run rampant at festivals, with all the mud and general squalor, so we’ll need be prepared to treat waves of sickly music lovers as acts finish at various stages around the festival. The better the job we do, the bigger the festival will get. Meaning if things go well, we'll be allowed to turn more of the beautiful countryside into a hospital. We’ve got a chance to make this a landmark event in the musical, and medical, history of Two Point County.
+Mudbury Festival
+Celebrate the health of the Arts by hosting a party for the rich and famous at an illustrious mansion.
+Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nI’m sensing that this whole endeavour has been an attempt to ingratiate yourself with the County’s social elites. Well, there are easier ways to get an invite to these parties, you know? As an old family friend of the Fitzpockets I could have assisted you. Not that I would have…\n\nContinue to scoff on hors d'oeuvres for more rewards, or return to reality and get back to work.
+Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nCurrently, I am unconvinced by your exhibition, that has filled the hallowed grounds of Fitzpocket Academy with an assortment of medical do-daddery. You see, sometimes in the arts, as in healthcare, it’s important to ask the hard-hitting questions. So I ask: "Is it total rubbish?”\n\nContinue to scoff on hors d'oeuvres for more rewards, or return to reality and get back to work.
+Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nI didn’t think it was possible to make something beautiful out of a hospital. So often our hospitals are prosaic cathedrals to human flesh, with its smells and poorly plumbed circuitry. And I was right, it wasn’t possible. But you’ve come close, and that’s almost impressive. Almost.
+Fitzpocket Academy
+Welcome to Fitzpocket Academy, located in the exclusive Poached Egg quarter of Two Point's Arts District. The family home of the Fitzpockets, a beautiful example of Pre-Giblet architecture, has served many purposes over the years, from a school of the Arts, to secret service headquarters and, even, a marmalade factory. It only makes sense that it would eventually be used as a hospital, and that time is this time.\n\nZara’s "team" use their patented VIBE technology to gauge the success of all of her exhibitions and parties, and this is no exception. Our funding will depend on how well VIBE says we're doing. We'll have a positive VIBE score if our guests are having a good time, the place is looking nice and clean, and very few people are dying. I suppose that good parties and good hospitals are actually quite similar… This is an exclusive event, so be sure to toss out any party crashing paparazzi, you may see them taking photos, eating out of the bins or being generally despicable. Now, do try and enjoy yourself, it’s supposed to be a party after all, when you’re rich everything needs to be fun, even hospitals.
+Fitzpocket Academy
+Cure patients for the camera on the set of Two Point' s newest medical drama.
+Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nSo you’ve decided to chance your arm in show business? It’s a well-trod path for those of us who find success in the healthcare trade, but I warn you, it can only end in tears. Anyway, I remain confident that television is nothing more than a passing, albeit long-lived, fad.\n\nContinue to fester in the realm of fiction, or return to reality and get back to work.
+Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nOh goodness, I knew this would all go to your head, and that’s why, as your friend, I had hoped things would go much worse for you. You’ll soon be screeching on the paradoxically termed “reality” television, and throwing cranberry juice in the eyes of your collaborators. Shame.\n\nContinue to fester in the realm of fiction, or return to reality and get back to work.
+Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\n“Always leave them wanting more”. Is that an adage you’re familiar with? Alas, you’ve exhausted the entire library of tropes and now there’s nowhere left to go with your show. You’ve milked the cash cow dry and it’s not mooing anymore. But what do I know, I’m just the Health Minister...
+Plywood Studios
+Now that the show is fully underway, we'll start to receive requests from the show's producers about what they think should happen next. If they see their ideas make it into the show we'll receive some additional funding.\n\nPeople online can be mean about television, or about anything really... When someone says something negative about the show it'll affect our reputation. Luckily we can combat their cruel, cruel words by investing in some Marketing.
+Requests & Reviews
+TV Show Review: <style="AdvisorHighlight">2/5</style> “Exquisitely poor. I can’t look away.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">2/5</style> “Proper garbage. Nice costumes though.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">2/5</style> “I missed some episodes and now I’m totally lost...”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">2/5</style> “Why did they call the character Roderick Cushion?”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">2/5</style> “Love the show - but Bungle Pictures keeps crashing :( ”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">3/5</style> “It’s nice to have on in the background”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">3/5</style> “So bad that I think I actually quite like it…”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">3/5</style> “The theme tune is pretty fiery tbh”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">3/5</style> “I work in a hospital and the show is so right haha”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">3/5</style> “So sad when that thing happened omg”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">1/5</style> “This is the same as that other show, but in a hospital. Unoriginal.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">1/5</style> “Just retire Roderick”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">1/5</style> “I can’t turn it off. Where’s the remote?”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">1/5</style> “The show that’s taken the quality of TV… Back Wards!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">1/5</style> “Jab Master? As if hospitals still use those. Lol. So unrealistic.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">4/5</style> “This show is too clever for most people. Very subtle.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">4/5</style> “I’ll watch anything with Roderick”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">4/5</style> “PERILOUS SPANDEX”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">4/5</style> “It's that guy!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">4/5</style> “This is my show. Go, show, go!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">5/5</style> “The hospital looks beautiful. Wish I was sick again…”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">5/5</style> “Woah, so many people died. What great drama.”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">5/5</style> “Another employee fired - boom! Get outta Roderick's hospital!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">5/5</style> "New characters keep the show fresh - I can barely keep track!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+TV Show Review: <style="AdvisorHighlight">5/5</style> “Loving all the healthcare tech on Back Wards. Take that germs and stuff!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
+Welcome to Plywood Studios, where the producers of a new medical drama have asked you to run their show. They want a real administrator to add “validity, dynamism and an amusing, gimmicky quality”. On the show, titled “Back Wards”, Roderick Cushion will be playing a senior doctor who's inexplicably forgotten all his training. They’ve decided to call the character Dr Roderick Cushion, because, well, I’d actually rather not get into that again. It’s just simpler for Mr Cushion, okay? Let’s leave it at that.\n\nTo produce a compelling, County-gripping hit show, you’ll need to work on developing your main character, Dr Roderick Cushion. People don’t like characters who tread water, it reminds them of their desperate, repetitive existences. Roderick won’t fraternise with the rest of the cast on his breaks - not on his salary! - so he's got his very own trailer. If you can’t find him, he’ll probably be in there. Oh, and to inject some urgency into proceedings, the actors will be curing, trying to at least, real patients.\nWhat could go wrong?\n
+Plywood Studios
+They say Art is never really finished. They say a picture is worth a thousand words. They say Art is long and life is short. But what do they mean? Well, a lot of things I suppose, but I’m not one for sayings, I’m one for doings and it’s time for something new. Our project is over, but does that mean it never really happened? No, of course it happened. Don’t you remember? If you don't, it was a great success. I couldn't have done it without you, we've changed the County forever, and so on... \n\nMust go. My muse is calling me. I hear them in the wind, whispering: “Do something with macaroni”.
+My name is Zara Fitzpocket (yes, those Fitzpockets) and I am writing to ask for your help. But where to begin?… As you may know, I am an artist, specialising in mixed media collage, papier-mâché and oily paints. My friend, the Arts are sick and the people are too - coincidence? I’m afraid not… \n\nFor far too long, we have overlooked a sickness in our minds, our homes and our loft-studio work spaces. What may have begun as a collective dry spell has become an all too literal illness. No single remedy, be it dramatic, melodic or medical will be enough. No, we must all work together on my biggest project yet.\n\nWith my connections and your uncanny ability to heal things, we must cure the ailing culture of Two Point County. First things firstly, I believe that we’ll be needing a shot in the arm, and who better to administer the injection than a certified healthcare wiz such as yourself? If you’re interested - and I hope you are - your first task will take you to Plywood Studios and the silver screen! Remember, the pen is mightier than the scalpel.
+Congrats on your show, I don’t really watch television, but there was lots about it in the papers. Not that I read the papers… All the same, I’m told you’ve done a wonderful job. Roderick has left me a dozen messages talking about himself, on and on and on… He’s not been this arrogant in years, and it warms my heart to see him back at his terrible, self-centred best.\n\nYou mustn't bask in the bathing tub of glory for too long, another corner of the Arts needs your medical attention. Next up is Mudbury Festival, which has been a disaster for years quite frankly. If loyalty to the cause won't sway you, I’d imagine - if you’re anything like the rest of us - that you’ll have developed a taste for all the praise and acclaim by now.\nIt’s rather nice, isn’t it?
+Zara
+Our little project has been a conceptual triumph so far, don’t you think? Things are already so much better than they were, and that’s why I thought our final act should be a party to celebrate the newfound health of the Arts. I will be hosting, naturally, and opening my latest exhibit.\n\nOur guests will arrive at Fitzpocket Academy to be treated - quite literally - to an experience for the body and the soul. It will be a party-hospital, an arty hospital. I really have outdone myself this time. I don’t want to get ahead of myself but this art exhibit may well fix all of our problems. If all goes well, the County will look to us, the rich, the famous, the covered in velvet, as beacons of hope and relative health.
+Unlocked after 1 Star on Mitton University
+Save patients stranded in time in a medical adventure spanning all of Two Point County's history.
+A Stitch in Time
+Your skills are required throughout time, as infamous inventor Captain Yesterday works out the kinks and unexpected consequences of his tremendous time travelling technology.
+<style="AdvisorHighlight">Clockwise-above-Thyme</style> is now available!
+<style="AdvisorHighlight">Clockwise-upon-Thyme</style> is now available!
+<style="AdvisorHighlight">Clockwise-before-Thyme</style> is now available!
+Every quarter we will have a target for our cure rate of lost patients we have sent back in time. We'll be rewarded with some additional funding if we can meet it.
+Yesterday's Target
+We didn't meet our target for curing lost in time patients before sending them back in time.
+We have been given <style="AdvisorHighlight">{[REWARDS]}</style> for curing lost in time patients before sending them back.
+Unlocked after 1 Star on Clockwise-before-Thyme\nRecommended after 1 Star on Sweaty Palms
+A futuristic city built high above the uninhabitable earth below.
+A patient from a different era has arrived at the hospital. You can diagnose and treat them as normal, or send them straight to Speed Dating depending on your current capacity.
+Congratulations! You've returned your first lost in time patient to the correct era.
+Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nI must say that I don't appreciate the volume of work you have placed on my desk with all of your time travel nonsense. I am having to write nine of these blasted letters this afternoon, all addressed to you.\n\nContinue avoiding spoilers for more rewards, or return to the thankless mundanity of today and get back to work.
+Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nI say that your rating "has been awarded", but it hasn't. Not yet. Your hospital hasn't even been built. Consider this accolade provisional and tentative.\n\nContinue avoiding spoilers for more rewards, or return to the thankless mundanity of today and get back to work.
+Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nWouldn't there need to be some sort of exit in the present, not to mention the past, for that time machine to work? And when will you finally get to the bottom of what caused all of those time portals to appear? It's troubling that after all this "time" you still haven't solved this mystery. Perhaps you've always known, perhaps you'll never know. How curious, how provocative, how tedious.
+Clockwise-above-Thyme
+Welcome to Clockwise-above-Thyme, futuristic safe-haven for the people of tomorrow, dangling precariously over the uninhabitable earth below... and home to a snazzy new hospital, nice. Turns out you've been inadvertently ripping apart the fabric of time with all your technology. Maybe time travel is actually a pretty sensitive business.\n\nThe future has been flooded with people from all over Two Point's past, but Captain Yesterday is confident we can right the ship if we send them - most of them - home in one piece. He's handing over the keys to the Yesterizer (patent pending... still). You'll find them in Speed Dating in the Rooms List. He's very generously taken 5% off the retail price. What a guy.
+The Future
+A medieval town plagued by ruptures in space and time.
+Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nThat ridiculous blow-hard Admiral Yesteryear just burst into my office spouting some nonsense about you, time travel, and something about a "pasteuriser". It's not that I don't understand, so much as I don't care.\n\nContinue meddling with the fabric of time for more rewards, or return to the present day and get back to work.
+Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nIt's funny to think that, from my perspective, all of the people you're treating are already long gone. Dust in the footnotes of time. It makes all of your hard work there seem rather futile. Is "there" the right word?... All of your work "then" is futile. Better.\n\nContinue meddling with the fabric of time for more rewards, or return to the present day and get back to work.
+Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nMy secretary just looked it up, and you will be pleased to learn that you haven't caused any dangerous and confusing changes to the history of medicine. It seems that town, and everything in it, mysteriously disappeared some 500 years ago. No buildings, no witnesses, no cardiology department. Probably for the best.
+Clockwise-upon-Thyme
+Expanding the hospital may uncover new Time Portals. The more Time Portals you discover, the more patients we'll have arriving at the hospital.
+Welcome to Clockwise and the days of yore. This quaint little town has become a popular spot since the advent of domestic time travel. Who would have thought that there would be serious medical implications involved? Not me! But what're you going to do? Oh right... hospitals.\n\nRifts in time, we're calling them Time Portals, have started appearing all over town 'recently'. As you expand your hospital and find more Time Portals you'll notice that they get busier and busier as we further dilate local spacetime. Science, eh?
+The Past
+Unlocked after 1 Star on Clockwise-upon-Thyme\nRecommended after 1 Star on Melt Downs
+This prehistoric settlement predates most things, including the river Thyme.
+Every few months Captain Yesterday will give us a new target to improve the hospital's hygiene rating. We'll be rewarded with money if we can meet it.
+Yesterday's Target
+We didn't meet Captain Yesterday's hygiene target this time.
+We have been given <style="AdvisorHighlight">{[REWARDS]}</style> for our hygiene rating.
+Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nIf "time heals all wounds", I honestly don't know why you're bothering, it all seems a bit redundant. Nonetheless, I hope that this obligatory letter of congratulations finds you before somebody there eats it, or, indeed, you.\n\nContinue to wow the locals with your miraculous technology for more rewards, or return to the modern age and get back to work.
+Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nHow exactly are people paying you for your services... Sand? Bones? Toenail clippings? Better yet, please don't tell me. I'd prefer to keep my lunch on the inside.\n\nContinue to wow the locals with your miraculous technology for more rewards, or return to the modern age and get back to work.
+Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nWhen people say "since records began" in regards to the health sector, they are talking about you. This correspondence constitutes the beginning of all records, meaning that your prehistoric hospital shall forever represent the absolute bare minimum baseline of expectations. Impressive.
+Clockwise-before-Thyme
+You can now build your own Time Portals, which ought to give you a little more control over them. They even have a cushioned landing area: much more civilised experience than those rocky rifts in the ground. Find your newly developed Time Portals in the Items List.
+Using Time Portal
+Welcome to Clockwise-before-Thyme and the dawn of civilisation in Two Point County. Captain Yesterday has been getting complaints about missing customers. They enter their Yesterizer and... gone, no trace. We've come back to the earliest time that the Yesterizer can muster to see if there's anything to be done about it.\n\nWe've been given some of Captain Yesterday's blueprints - mostly drawn on napkins - so we can design our own Time Portals in the Research room. Once we've developed our Time Portals we can use them to manage patient flow, save patients from the time void and better understand the universe. All in a day's work, I suppose.
+The Distant Past
+I don't know about you, but personally I think it's pretty funny that the Yesterizer created rifts in time, fired people thousands of years into the future, subsequently tried to send them back home, but instead left them drifting in a timeless void... Who ever said entrepreneurship was easy? Sure, the Yesterizer's got some kinks, but we worked it out!\n\nThe authorities don't seem quite so tickled, though, they're telling me I gotta take it off the market for "the sake of spacetime and existence as we know it", yada yada yada. But hey, a captain's gotta know when to jump ship, right? And as the captain of today fades into our yesterdays, so too must the captain of tomorrow rise from the ashes of alleged "gross corporate negligence".
+Paradoxically yours,\nCaptain Yesterday
+\n\nSuperb, the time void is back to being the empty, endless abyss that we all know and love. But, I'm gonna level with you: going back to caveman times hasn’t totally fixed things. We gotta go back even further. Not in time, obviously - we've covered that - but in the whole time travel process. A load of your recent patients had been sent to you from a Yesterizer in... the future. So if we don't head to the future and send those people back, they'll never have arrived back in the past and- let's just say things are going to get real messy.\n\nI'm gonna give you priority access to the Yesterizer, so you can send people home. If you could cure them while you're at it, I'll make it worth your while. This is a hospitality industry after all, and I'd rather the Yesterizer's first customers didn't come out the other side all sick and miserable, but don't sweat it. The priority is saving spacetime and we've got a loop to finish!
+Eventually yours,\nCaptain Yesterday
+Hey, how you doin'? What if I told you that you could travel through space and time for a highly competitive price? Now you're saying "what's the catch?", am I right, or am I right? Well, that's the best part, my friend: no catch, no consequences, no questions asked.\n\nI'm Captain Yesterday, inventor, entrepreneur, and all-around family man... presenting to you, the Yesterizer (patent pending), your one-stop-shop for all things today, tomorrow and yesterday. I'm offering you a one-time only, once-in-a-lifetime, not-even-for-my-mother 100% discount on a journey through time. You see, ever since I started rolling these things out we'd have a few... complications, shall we say. We're talking sick people flying out of holes in the ground. Far from ideal, I'm sure you'd agree. If you take care of them, and I keep selling time machines, bingo-bango we're back in business.\n\nAnd hey, if all goes to plan I'll even sell you your own Yesterizer. Pretty neat, huh?
+Previously yours,\nCaptain Yesterday
+I think we make real good partners, you and me. I can see it now, "Yesterday and Co". That could be you, the "Co". That first visit went fantastic. Time travel is all anybody can talk about! Business is going swell and all is well. Now for the bad news...\n\nIt seems like we've got a few people, shall we say, 'unaccounted for'. It's no big deal, it's just they don't seem to, you know, exist anymore. They're lost in the time void, and let me tell you: it is busy in there! What we need is more of those Time Portals, that'd give'm somewhere to go. We need to head back as early as we can and sweep up all of our valued customers. I don't need to tell you, word of mouth is very important for a young business like ours and nobody's recommending nothing in the time void.
+Initially yours,\nCaptain Yesterday
 Everything Ville
 <style="AdvisorHighlight">Lower Bullocks</style> now available!
 <style="AdvisorHighlight">Flottering</style> now available!
@@ -5048,6 +5584,12 @@ A highly finessed, two-pronged approach. Step 1: have cryptic messaging woven in
 Glitchy Patch Campaign
 Rent some of those flailing, inflatable men to promote our Herb Garden treatments at local garden centres.
 Herb Garden Campaign
+Awareness posters attached to kites and flags have been found to get the attention of the County's mud-laden sickos. We’ll also make some announcements over PA systems, the radio, and burned onto CDs. They just love to listen to things… 
+Soiled Self Campaign
+Target the daredevil community by commissioning tiny ads to go on the inside of crash helmets and great big ones to go on the ground, which they’ll see when they’re jumping out of, or over, a plane.
+Stunt Trouble Campaign
+Pay to add some illness awareness information to the little paper pamphlet that comes with toys, because people read those really thoroughly. We’ll also commission some billboards with pictures of explosions and words like “ka-flan” to attract those mostly likely to be combating militant maladies.
+Private Parts Campaign
 Give our reputation a massive boost with a huge TV campaign, featuring superstar actor Roderick Cushion.
 Large Campaign
 Boost our reputation by commissioning a series of pro-hospital posters around the County.
@@ -5153,7 +5695,7 @@ Challenges: {0}
 This rival's challenge data is classified!
 We are currently gathering information on this rival's challenge
 Kicked
-We have no information on this rival and there is no connection to the online services.\r
+We have no information on this rival and there is no connection to the online services.\n
 Objectives
 This rival has not yet attempted this challenge!
 Select your rivals
@@ -5443,7 +5985,7 @@ Length: {0} days[i2p_One]Length: {0} day
 Reward: {0}
 Challengers
 Select a friend to challenge
-You can challenge friends if you connect to online services.\r
+You can challenge friends if you connect to online services.\n
 Audio
 Career
 Controls
@@ -5962,6 +6504,7 @@ Close Encounters
 Illnesses found in the South of Two Point County (and Close Encounters DLC).
 Easy
 Illnesses that are easier to diagnose, with a higher chance of treatment success.
+
 Hard
 Illnesses that are harder to diagnose, with a lower chance of treatment success.
 Pebberley Island
@@ -6084,6 +6627,8 @@ Yearly Wages
 Ability
 {[JOB]}: Allowed\nQualified in {[QUALIFICATION]}
 {[JOB]}: Allowed
+{[JOB]}: Allowed\nRoderick will work anywhere he can.
+{[JOB]}: Allowed\nQualified in {[QUALIFICATION]}\nRoderick will work anywhere he can.
 {[JOB]}: Not Allowed\nQualified in {[QUALIFICATION]}
 {[JOB]}: Not Allowed
 {[JOB]}: N/A\nUnqualified in {[QUALIFICATION]}
@@ -6532,7 +7077,7 @@ Y
 Z
 Kudosh
 © Two Point Studios 2019. Published by SEGA Publishing Europe Limited. Two Point, Two Point Hospital, the Two Point Hospital logo and Two Point Studios are either registered trademarks or trademarks of Two Point Studios Limited. SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.
-© Two Point Studios 2019. Published by SEGA Publishing Europe Limited. Two Point, Two Point Hospital, the Two Point Hospital logo and Two Point Studios are either registered trademarks or trademarks of Two Point Studios Limited. SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.
+© Two Point Studios 2020. All Rights Reserved. Developed by Two Point Studios. Console version co-developed by Red Kite Games Limited. Published by SEGA Publishing Europe Limited. Two Point, Two Point Hospital, the Two Point Hospital logo and Two Point Studios are either registered trade marks or trade marks of Two Point Studios Limited. SEGA and the SEGA logo are either registered trade marks or trade marks of SEGA Corporation or its affiliates. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.  Portions of this program © 2020  Microsoft Azure Playfab.
 Locked
 Kill Streak {[COUNT]}
 Apr
@@ -6601,6 +7146,25 @@ Fishwrapper
 Flanolin
 Department of Green Things
 Onionsack
+Zara
+Artist
+Fitzpocket
+Uk
+Ak
+Ik
+Ek
+Ok
+Went back in time to train herself (pro bono).
+Relativity
+Jones
+Ug
+Ag
+Ig
+Eg
+Og
+Captain
+Time Traveller
+Yesterday
 Millie-Boo
 Jezebel
 Brangelina
@@ -6824,6 +7388,8 @@ Styles
 One of the nicest people in the county. Convicted murderer.
 Clive
 Dude
+Relativity
+Jones
 Somehow always ends up being right, much to everyone's annoyance.
 Gregory
 Mouse
@@ -7683,7 +8249,7 @@ Review the salaries of your staff, and see how satisfied they are with their pay
 Staff Pay Review
 Use the staff list to quickly find people based on their job, ability and qualifications. See what each person is currently doing, and keep an eye on their happiness and energy.\n\nClick on someone in the list to jump to that person in the hospital. Use the job filters to view each staff type separately. Click on the arrows by each column heading to sort the list based on that column.\n\nUse the Pay Review button to review salaries and pay satisfaction for each staff member. Use the Job Assignment button to control which jobs each person is allowed to do.
 Staff List
-Compete with other healthcare organisations in a range of timed challenges. Earn extra rewards, and bragging rights, by triumphing over your rivals. Take on rival organisations from Two Point County, or challenge hospitals owned by your online friends.\r\n\nEach challenge takes place over a number of months. You can compete at the same time as your rivals, or at separate times, and your results are recorded by the Two Point Competition Committee. You'll receive updates throughout the challenge on how each participant was doing at that stage of the competition.
+Compete with other healthcare organisations in a range of timed challenges. Earn extra rewards, and bragging rights, by triumphing over your rivals. Take on rival organisations from Two Point County, or challenge hospitals owned by your Steam friends.\n\nEach challenge takes place over a number of months. You can compete at the same time as your rivals, or at separate times, and your results are recorded by the Two Point Competition Committee. You'll receive updates throughout the challenge on how each participant was doing at that stage of the competition.
 Organisation Challenges
 Some parts of the county are quite cold, or too hot. We'll need to keep people comfortable by ensuring they're warm enough, but also not too warm. If people are too cold or too hot they can become unhappy and may eventually leave.\n\nIn cold locations, place radiators around the hospital. In hot locations we'll need air-conditioning. Use the temperature visualisation mode to identify cold and hot areas of the hospital.\n\nMake all of the hospital a comfortable temperature to maximise our Thermal Comfort rating.
 Temperature
@@ -7741,7 +8307,7 @@ Online Challenges
 <size=350%>3</size>rd
 3rd
 Send a screenshot to rivals\n<size=80%>Remaining shots: {0}</size>
-No online service found…\r
+No online service found…\n
 No network connection...
 OFFLINE
 ONLINE
@@ -7788,6 +8354,16 @@ Elite reception and retail skills
 Customer Service IV
 World-class reception and retail skills
 Customer Service V
+Allows an Assistant to work in Speed Dating
+Yesterization
+Enhanced yesterization skills
+Yesterization II
+Advanced yesterization skills
+Yesterization III
+Elite yesterization skills
+Yesterization IV
+World-class yesterization skills
+Yesterization V
 Increased diagnosis skills
 Diagnostics
 Enhanced diagnosis skills
@@ -8107,6 +8683,39 @@ Advanced Upgrade: Tech Support
 We've done it! Our treatment for Glitchy Patch should lure patients in with its sleek, monochromatic design.
 Investigate how to treat those tech-sick patients with Glitchy Patch. 
 Tech Support
+Our research was a success! We've produced a more effective foaming agent that will, if anything, make patients too clean and healthy.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Research an improved recipe for the machine's medical washing up liquid. One that improves our treatment and is gentler on our hands.
+Upgrade: Wash Pit
+Great news. Our scientists have developed the most advanced sponge the County has even seen. To the untrained eye it may still look like a regular sponge, but they say that it's four, or possible five, percent better than that.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Trial some new sponges and produce some very useful information.
+Advanced Upgrade: Wash Pit
+We've developed a treatment for Soiled Self! We should avoid washing dishes, or clothes, in the new equipment, even though it does look like it would do a cracking job.
+Investigate how to treat muddy patients that have Soiled Self.
+Wash Pit
+They've done it! The researchers have pushed the boundaries of medical science once again by designing a component that very slightly improves our treatment process. Thrilling.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Attempt some electrifying research to improve our treatment of cape-clad patients.
+Upgrade: Danger Zone
+With its latest modification, the Crash Course has become a heart-pounding feat of rigorous medical science. The results have really fired up the research department. \n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Elevate our treatment of Stunt Trouble by designing a staggering new upgrade.
+Advanced Upgrade: Danger Zone
+Our researchers have stuck the landing and finished devising a treatment for Stunt Trouble.
+Develop a cure for sufferers of Stunt Trouble.
+Danger Zone
+Great stuff. We’ve developed an improvement for the machine's magnification component. Melting down patients should now be much more fun and efficient as well as slightly less painful.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Develop our Private Parts treatment into a finely oiled machine.
+Upgrade: War Room
+This latest upgrade recalibrates the tipping action of the big vat thing. You'd think that it wouldn't do much, but you'd be wrong. The results have been fantastic. Science, am I right?\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
+Investigate perfecting our treatment of Private Parts.
+Advanced Upgrade: War Room
+Attention! Our new treatment is ready to be deployed. We can now win the war against Private Parts.
+Design a treatment for patients suffering with Private Parts.
+War Room
+We've developed our version of the Time Portal. This should simplify things, or, at least, make them drastically more complicated… 
+Create an arrival point for patients that are lost in time.
+Time Portal
+Our researchers say they have forgotten what they were trying to learn, but are 99.9% sure they succeeded in learning it.
+Some "experts" have suggested that it's a good idea to understand the repercussions of time travel before engaging in it. Keep them happy by researching things like what happens if you go back in time to tell yourself the results of this research.
+Time Travel
 Success! We have developed a more effective machine for DNA Labs.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
 We think we could go back and take some of the corners that we cut the first time.
 Upgrade: DNA Lab
@@ -8364,17 +8973,29 @@ Cures patients with Frogborne.\nTurns the frogs that we know into the frog-like 
 The Toad Hall is used to cure patients with Frogborne.\nDesigned like a nursery to promote the healthy development of our alien frog-like guests. Never mind that most of them are hundreds of years old.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
 Toad Hall
 Cures patients with Woodworms.\nYou'll have a whale of a time.
-Woodwork is used to cure patients with Woodworms.\r\nAs the saying goes: don't be a muppet, get cured by a puppet.\r\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
+Woodwork is used to cure patients with Woodworms.\nAs the saying goes: don't be a muppet, get cured by a puppet.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
 Woodwork
 Cures a range of illnesses.\nDig the power of the healing flower.
 Herb Gardens are used to treat a range of herbaceous illnesses.\nA nurse is required to admit each patient, look after them, and discharge them when they're ready to leave.\nAdd multiple 'medical plants' to a Herb Garden to deal with more than one patient at a time.\nYou can also adjust the room settings to request that more nurses work here - this is useful if you have lots of patients.\nTo improve cure rates, you'll need to research upgrades. Also assign a nurse trained with extra treatment skills.
 Herb Garden
 Cures patients with Distrawed.\nYields results, and straw, lots of straw.
-Farmacology is used to cure Distrawed patients.\r\nOnce removed from the patient, the strawy excess is recycled and used in one of the many ways that people use straw. I can't think of any right now, but they definitely exist.\r\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
+Farmacology is used to cure Distrawed patients.\nOnce removed from the patient, the strawy excess is recycled and used in one of the many ways that people use straw. I can't think of any right now, but they definitely exist.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
 Farmacology
 Cures patients with Glitchy Patch.\nPrepare to Install.
-Tech Support is used to cure patients with Glitchy Patch.\r\nDeal with a Glitchy Patch sooner rather than later, to avoid further irritation, or shutting down all of the County's technology simultaneously.\r\nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
+Tech Support is used to cure patients with Glitchy Patch.\nDeal with a Glitchy Patch sooner rather than later, to avoid further irritation, or shutting down all of the County's technology simultaneously.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
 Tech Support
+Cures patients with Soiled Self.\nRemoves stains and mud-borne maladies.
+The Wash Pit is used to cure patients with Soiled Self.\nAdministers a highly complex mix of washing up liquid and hydrophobic steroids via a remote-action medical-grade sponge. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
+Wash Pit
+Cures patients with Stunt Trouble.\nRecalibrate patients with a thirst for danger.
+The Danger Zone is used to cure patients with Stunt Trouble.\nTaking inspiration from high budget film sets, as well as those little rides you see outside supermarkets, the Crash Course precisely balances excitement and boredom to recalibrate a patient's pleasure centre. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
+Danger Zone
+Cures patients with Private Parts.\nRecover squidgy humans from their hard, green exteriors.
+The War Room is used to cure patients with Private Parts.\nPatients are melted down into a soldierly soup and then filtered, to remove all warmongering and toy-like, impurities. Once fully sieved, patients can be remoulded into their organic, less stompy, selves. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
+War Room
+Safely ruptures the structure of space and time.\nReturns patients to the correct time period.
+Speed Dating is used to return lost in time patients back home.\nPatients are accurately dated by the Yesterizer, which then configures itself to match. All a patient has to do is walk through the swirly gate and they'll reappear in their home era, ready to recount their adventures to whatever witch trial awaits them.\n
+Speed Dating
 Cures a range of Genetic illnesses.\nHigh-Tech Diagnosis.\nAnalyse and Manipulate DNA.
 The DNA Lab is used to cure a range of peculiar genetic conditions. It is also a powerful tool for diagnosis. This room requires a Doctor trained in Genetics.\nTo improve results, research and apply upgrades to the machine. Also use a doctor trained with extra diagnosis and treatment skills.
 DNA Lab
@@ -8383,6 +9004,9 @@ Patients suffering from Shock Horror are sent here to be discharged, after which
 Shock Clinic
 All
 Diagnosis
+Medieval
+Prehistoric
+Modern
 Facilities
 Treatment
 High-Tech Diagnosis.\nExtracts fluids for analysis, and sometimes for fun.
@@ -8764,6 +9388,14 @@ Who needs sleep anyway?
 Caffeine Buzz
 Caffeine Buzz
 Caffeine Buzz
+Doesn't even belong here.
+Doesn't even belong here.
+Lost in Time
+Lost in Time
+Arrived through a time portal.
+Arrived through a time portal.
+Time Sick
+Time Sick
 Saw something revolting
 Saw something revolting
 Disgusted
@@ -9120,6 +9752,10 @@ Bartholomew F. Yeti, author and advocate for the Bigfoot Foundation, is visiting
 Wiggy Silverbottom is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Charlatene Fishwrapper, journalist for the Two Point Squabbler, is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Flanolin Onionsack, from the Department of Green Things, is visiting the hospital. Click here to follow along on their visit, once they've arrived.
+Artist Zara Fitzpocket is visiting the hospital. Click here to follow along on their visit, once they've arrived.
+Send to Speed Dating
+Send back patients from this era?
+Captain Yesterday is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Staff Wages: {[WAGES]}\nOther: {[OTHER]}
 Treatment: {[TREATMENT]}\nDiagnosis: {[DIAGNOSIS]}\nOther: {[OTHER]}
 Profit Factor:\n{[VALUE1]} (12 months Profit/Loss / 4) \nx {[VALUE2]} (Number of Profitable Months in last 12)
@@ -9217,7 +9853,7 @@ Maintenance {[LEVEL]}
 No Janitors with {[QUALIFICATION]} qualification
 Pick Up
 Cost: {[COST]}
-Limit Reached!\r
+Limit Reached!\n
 Sell for {[COST]}
 Shelve Project
 Edit User Generated Item

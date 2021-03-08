@@ -1,6 +1,0 @@
-sharedassetskr0.assets.resS - 티머니
-sharedassetskr1.assets.resS - 나눔 아빠의 연애편지
-sharedassetskr2.assets.resS - 나눔 아빠의 연애편지 Bold
-sharedassetskr3.assets.resS - 성동명조
-sharedassetskr4.assets.resS - 닉시곤
-sharedassetskr5.assets.resS - 네오둥근모

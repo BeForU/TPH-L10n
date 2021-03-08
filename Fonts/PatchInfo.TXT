@@ -1,0 +1,9 @@
+Two Point Hospital 한글패치
+이키나! IKIK Lee
+ver. 210309
+1.25.68172+2021-02-25.1211 대응
+www.BeForU.net
+
+D:\TPH-L10n\Fonts
+D:\SteamLibrary\steamapps\common\TPH
+D:\Korean Project

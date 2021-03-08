@@ -31,7 +31,7 @@ namespace TPHParser
 
             for (int i = 0; i < textData.Length; i++)
             {
-                if (textData[i].StartsWith("   ["))
+                if (textData[i].StartsWith("    ["))
                 {
                     column = int.Parse(textData[i].Split('[', ']')[1]);
                 }
@@ -56,7 +56,7 @@ namespace TPHParser
                     }
                 }
 
-                else if (textData[i].StartsWith("      [0]"))
+                else if (textData[i].StartsWith("        [0]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {
@@ -69,7 +69,7 @@ namespace TPHParser
                     }
                 }
 
-                else if (textData[i].StartsWith("      [2]"))
+                else if (textData[i].StartsWith("        [10]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {
@@ -100,6 +100,14 @@ namespace TPHParser
             }
 
             System.IO.File.WriteAllLines("English.txt", output);
+
+            for (int i = 0; i < dataGridView1.Rows.Count; i++)
+            {
+                line = Convert.ToInt32(dataGridView1.Rows[i].Cells[0].Value);
+                output[line] = (string)dataGridView1.Rows[i].Cells[4].Value;
+            }
+
+            System.IO.File.WriteAllLines("Korean.txt", output);
         }
 
         private void importBtn_Click(object sender, EventArgs e)
@@ -147,7 +155,7 @@ namespace TPHParser
                     output[line] += ("\t");
                     output[line] += (string)dataGridView1.Rows[i].Cells[3].Value; // english
                     output[line] += ("\t");
-                    output[line] += (string)dataGridView1.Rows[i].Cells[5].Value; // korean
+                    output[line] += (string)dataGridView1.Rows[i].Cells[4].Value; // korean
                     output[line] += ("\t");
                     output[line] += (string)dataGridView1.Rows[i].Cells[2].Value; // comment
                 }
@@ -172,7 +180,7 @@ namespace TPHParser
        
             for (int i = 0; i < textData.Length; i++)
             {
-                if (textData[i].StartsWith("   ["))
+                if (textData[i].StartsWith("    ["))
                 {
                     column = int.Parse(textData[i].Split('[', ']')[1]);
                 }
@@ -197,7 +205,7 @@ namespace TPHParser
                     }
                 }
 
-                else if (textData[i].StartsWith("      [1]"))
+                else if (textData[i].StartsWith("        [1]"))
                 {
                     if (textData[i + 1].Contains("1 string data"))
                     {

@@ -9,6 +9,10 @@ Advisor/Challenge_HordeWave	Wave <style="AdvisorHighlight">{[WAVE]}</style> is s
 Advisor/Challenge_HordeWave_Failed	We cured {[CURED]} of {[PROCESSED]} patients during the last wave. Unfortunately, our cure rate of {[CURERATE]} needed to be {[TARGET]} and we'll need to repeat that wave.
 Advisor/Challenge_WaveObjectivesHordeWave_Failed	We've now processed all {[PROCESSED]} patients, the wave is over, but we weren't able to complete all the Wave Objectives. Unfortunately, we'll need to repeat that wave.
 Advisor/CheckLeaderboards_CS	Check the Leaderboards tab, in the Overview screen, to see how you're doing compared to your friends and rival hospitals.
+Advisor/DLC_6/General_NeedTimeTunnel	We need a <style="AdvisorHighlight">Speed Dating</style> room so we can send lost in time patients back home.
+Advisor/DLC_6/General_TimeSickArrivals	When new time portals are activated, time sick patients will arrive more frequently from all active Time Portals.
+Advisor/DLC_6/General_TimeTunnelCalibration	Speed Dating: Yesterizers need time to recalibrate when changing to a different time period. Organise patients by era to avoid unnecessary recalibration time.
+Advisor/DLC_6/General_TimeTunnelQueue	There's a queue for Speed Dating. You should consider training your Assistants, grouping patients in the queue by era, or building more Speed Dating rooms.
 Advisor/DLC_Opportunities	There are some <style="AdvisorHighlight">new opportunities</style> for our organisation in the <style="AdvisorHighlight">North</style> and <style="AdvisorHighlight">South</style> of the County. Take a look.
 Advisor/DLC_Opportunities_AllOver	There are some <style="AdvisorHighlight">new opportunities</style> for our organisation all over the County. Take a look around.
 Advisor/Finance_CashFlowWarning	The hospital isn't covering its costs. We should consider lowering our outgoings... or making more money.
@@ -543,6 +547,53 @@ Challenges/DLC_5/VIP_Zara_Title	Art Review
 Challenges/DLC_5/VIP_Zara_V1_Intro_Message	Zara Fitzpocket is tired of watching paint dry, so she's on her way to the hospital for a visit.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
 Challenges/DLC_5/VIP_Zara_V2_Intro_Message	Zara Fitzpocket is on her way to a salmon tasting but wants to pop in for a visit.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
 Challenges/DLC_5/VIP_Zara_V3_Intro_Message	Zara Fitzpocket is in a mid-painting rut and wants to visit the hospital for a change of scenery.\nIf she’s inspired by the hospital it'll help our reputation, and she might even make a donation.
+Challenges/DLC_6/Earthquake_TimeStorm_AdvisorMessage	Anomaly Warning: There are reports of a Time Storm in this era.
+Challenges/DLC_6/Earthquake_TimeStorm_Name	Time Storm
+Challenges/DLC_6/Earthquake_TimeStorm_NotificationMessage	Warning, a time storm has been detected in this era! The Time Portals are about to get busy.
+Challenges/DLC_6/Objective_R11_Medieval_Expand_Description	Unearth Time Portals by expanding the hospital and buying more plots.
+Challenges/DLC_6/Objective_R11_Medieval_Expand_Name	Find Time Portals
+Challenges/DLC_6/Objective_R11_Prehistory_ResearchPortals_Description	Building your own time portals will give you more control over the rate of patient admissions.
+Challenges/DLC_6/Objective_R11_Prehistory_ResearchPortals_Name	Research Time Portals
+Challenges/DLC_6/Patients_Dragon_Arrival_Advisor	Reptile Dysfunction patients are arriving...
+Challenges/DLC_6/Patients_Dragon_Intro_Message	There's been an outbreak of Reptile Dysfunction in the area after a local aristocrat brought home some strange, narrow fruits from the New World for a dinner party. This group is seeking treatment to stop themselves burning anything more than their tongues.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_Dragon_Intro_Message_V2	There's been an outbreak of Reptile Dysfunction in the area after a circus fire-eater sneezed on the entire front row of their audience. They're all convinced that it's contagious. Their families are sending them for treatment before they set the whole town ablaze.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_Dragon_Intro_Message_V3	There's been an outbreak of Reptile Dysfunction in the area after a group of confused aristocrats mistook their own breath for smoke during a cold snap. Their families are tired of having their valuables piled up and sat on, and are sending them for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_Dragon_Intro_Title	Reptile Dysfunction Emergency
+Challenges/DLC_6/Patients_Dragon_Name	Reptile Dysfunction Patients
+Challenges/DLC_6/Patients_MadScientist_Arrival_Advisor	Artificial Intelligence patients are arriving...
+Challenges/DLC_6/Patients_MadScientist_Intro_Message	There's been an outbreak of Artificial Intelligence in the area after a toy shop clearance sale caused an alarming run on chemistry sets. There's only so many times a kitchen can explode before a family sends someone for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_MadScientist_Intro_Message_V2	There's been an outbreak of Artificial Intelligence in the area after the systemic problem of generational wealth placed a number of unqualified fools in positions of power and responsibility. A lot of people are sick of this by now and sending them for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_MadScientist_Intro_Message_V3	There's been an outbreak of Artificial Intelligence in the area after a quantum computer error caused every answer on a multiple-choice social media trivia quiz to be, simultaneously, correct. The families can't stand their unrelenting smugness and are sending them for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_MadScientist_Intro_Title	Artificial Intelligence Emergency
+Challenges/DLC_6/Patients_MadScientist_Name	Artificial Intelligence Patients
+Challenges/DLC_6/Patients_WoolyManMouth_Arrival_Advisor	Woolly Man-Mouth patients are arriving...
+Challenges/DLC_6/Patients_WoolyManMouth_Intro_Message	There's been an outbreak of Woolly Man-Mouth in the area after a filing error caused the operating instructions of a new loom to be engraved backwards. I'm impressed they could read, or write, instructions at all... and where'd they find the loom?\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_WoolyManMouth_Intro_Message_V2	There's been an outbreak of Woolly Man-Mouth in the area after a heated disagreement about tusk care turned burly and those involved resorted to hair-pulling. They've patched things up now, but the hair has just kept on coming.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_WoolyManMouth_Intro_Message_V3	There's been an outbreak of Woolly Man-Mouth in the area after the (perfectly reasonable) demands of the Prehistoric Hairdressers' Union were not met, triggering a strike. In the meantime, some particularly overdue appointments are being referred to us for treatment.\nWe'll be rewarded if we treat this group, should we have them sent here?
+Challenges/DLC_6/Patients_WoolyManMouth_Intro_Title	Woolly Man-Mouth Emergency
+Challenges/DLC_6/Patients_WoolyManMouth_Name	Woolly Man-Mouth Patients
+Challenges/DLC_6/TimePortalPower_Title	Spacetime Dilation
+Challenges/DLC_6/VIP_Celebrity_Actor_R11_V1_Intro_Message	Film star, and soulful beard-haver, Roderick Cushion has been cast in an outrageous period drama. He didn't ask which period, exactly, but he would like the visit our hospital anyway so that he can "go method".\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Challenges/DLC_6/VIP_Celebrity_Actor_R11_V2_Intro_Message	Film star, and popular caricature subject, Roderick Cushion is growing tired of life in the spotlight and would like to visit our hospital where, he hopes, nobody will recognise him.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Challenges/DLC_6/VIP_Celebrity_Actor_R11_V3_Intro_Message	Film star, and autograph speed record holder, Roderick Cushion is filming for the celebrity genealogy series "Do You Know Who I Am?", and believes visiting your hospital will save him a lot of needless bother in public libraries.\nIf he's impressed with the hospital it could be good for our reputation, and he might even make a donation. What do you think?
+Challenges/DLC_6/VIP_Celebrity_PopStar_R11_V1_Intro_Message	Popstar Jasmine Odyssey is promoting her rhetorical anthem "Why Won't You Ask Me Why?". Her agents have requested we invite her to make an appearance in our famous time travelling hospital. As for why exactly, we didn't ask.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Challenges/DLC_6/VIP_Celebrity_PopStar_R11_V2_Intro_Message	Popstar Jasmine Odyssey is soon to be self-directing the video for her upcoming single "Love You Like A Metaphor", and is scouting locations across time and space to help convey whatever that means. Her agents have asked whether we can accommodate a visit.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Challenges/DLC_6/VIP_Celebrity_PopStar_R11_V3_Intro_Message	Popstar Jasmine Odyssey is working on her autobiography, "Jasmine Odyssey: The Odyssey of Jasmine by Jasmine Odyssey". Her agents have asked that she visit our anachronistic hospital so she has a good story to include.\nIf she's impressed with the hospital it could be good for our reputation, and she might even make a donation. What do you think?
+Challenges/DLC_6/VIP_Inspector_R11_Future_Intro_Message	Henry Jobsworth, the County's foremost health and safety inspector, has informed us that he'll be visiting us for an inspection soon. Mr Jobsworth also notes that all the time travel is really affecting his penmanship.\nHe'll be arriving soon, a good report would help our reputation.
+Challenges/DLC_6/VIP_Inspector_R11_Medieval_Intro_Message	Henry Jobsworth, the County's foremost health and safety inspector, has informed us that he'll be visiting us for an inspection soon. Mr Jobsworth adds that he's looking forward to seeing the town of Clockwise before it fell to the mole-people.\nHe'll be arriving soon, a good report would help our reputation.
+Challenges/DLC_6/VIP_Inspector_R11_Prehistory_Intro_Message	Henry Jobsworth, the County's foremost health and safety inspector, has informed us that he'll be visiting us for an inspection soon. Mr Jobsworth goes on to say that he is quite the outdoorsman and looks forward to showing the locals his favourite whittling techniques.\nHe'll be arriving soon, a good report would help our reputation.
+Challenges/DLC_6/VIP_Yesterday_Arrival_Advisor	Captain Yesterday is arriving, has arrived and will arrive at the hospital.
+Challenges/DLC_6/VIP_Yesterday_Intro_Title	Yesterday Visit
+Challenges/DLC_6/VIP_Yesterday_Name	Captain Yesterday
+Challenges/DLC_6/VIP_Yesterday_R11_V1_Intro_Message	Inventor, entrepreneur, and time travel agent Captain Yesterday is filming a new Yesterizer commercial and is interested in visiting the hospital to gather some footage.\nIf he likes what he sees, we'll appear on the shopping channel and he'll send us some additional funding. What do you think?
+Challenges/DLC_6/VIP_Yesterday_R11_V2_Intro_Message	Inventor, entrepreneur, and time travel agent Captain Yesterday is taking a break from testing out the butterfly effect so he can visit the hospital and see how things are going.\nIf he likes what he sees, we'll appear on the shopping channel and he'll send us some additional funding. What do you think?
+Challenges/DLC_6/VIP_Yesterday_R11_V3_Intro_Message	Inventor, entrepreneur, and time travel agent Captain Yesterday has just returned from his next but one visit to our hospital, and would like to visit our hospital as it is... now. Simple, right?\nIf he likes what he sees, we'll appear on the shopping channel and he'll send us some additional funding. What do you think?
+Challenges/DLC_6/VIP_Yesterday_Reward_Message_1	We've just found a time capsule from Captain Yesterday. It contains nothing but a single sticky note with a shakily written "WHY?" smudged with teardrops. We'll need to make some improvements before his investors will pay up.
+Challenges/DLC_6/VIP_Yesterday_Reward_Message_2	We've just found a time capsule from Captain Yesterday. He says that he's glad you will eventually clear up the dreadful mess he witnessed during his recent visit. You had better get to clearing things up if you want to fulfil the future and receive an investment.
+Challenges/DLC_6/VIP_Yesterday_Reward_Message_3	We've just found a time capsule from Captain Yesterday. It contains an audio recording of his latest presentation to the investors that ends with a polite golf clap. Job (moderately) well done.
+Challenges/DLC_6/VIP_Yesterday_Reward_Message_4	We've just found a time capsule from Captain Yesterday. It contains a folder that's full of business plans and family recipes. There're photos of the hospital and some baffling diagrams which include words like "DYNAMIC", "SYNERGY" and "LASAGNE". The Captain must be pleased because we've been sent some additional funding.
+Challenges/DLC_6/VIP_Yesterday_Reward_Message_5	We've just found a time capsule from Captain Yesterday. It contains a video recording of a dozen investors joining him in a conga line in front of a pile of money. They must be thrilled because they've sent a fraction of it to the hospital.
+Challenges/DLC_6/VIP_Yesterday_Title	Yesterday Visit
 Challenges/Earthquake_AdvisorMessage	Earthquake Warning: There are reports of seismic activity in the area.
 Challenges/Earthquake_Description	
 Challenges/Earthquake_ElectricalStorm_AdvisorMessage	Disaster Warning: There are reports of electrical storms in the area.
@@ -1414,6 +1465,18 @@ Challenges/Staff_StaffMorale_Intro	"I've been experiencing a lot of rage recentl
 Challenges/Staff_Training_Intro	"If there's one thing I learned from my training masterclass, it's that we should train people. Wisdom like that is precious."
 Challenges/Staff_Training_Intro_V2	"Some of the more junior staff are a bit, well, rubbish. Maybe we should run a few more training courses?"
 Challenges/Staff_Upgrade_Intro	"Upgrading our machines could really help us cure more patients, and diagnose people faster. As a mechanics enthusiast, I highly recommend it!"
+Challenges/SubGoals/AnachronisticCureRate_Goal_CS	Cure Rate of {[SCORE]} for Lost in Time Patients 
+Challenges/SubGoals/AnachronisticCureRate_Progress_CS	Lost in Time Patients Cured: {[CURED]} / {[TOTAL]} ({[SCORE]})
+Challenges/SubGoals/AnachronisticCureRate_Tooltip	Lost in time patients can be diagnosed and cured just like anyone else. Judge your capacity and decide whether you can treat them before sending them to Speed Dating.
+Challenges/SubGoals/AnachronisticCuredSentHome_Goal_CS	Send Back & Cure {[COUNT]} Lost in Time Patients
+Challenges/SubGoals/AnachronisticCuredSentHome_Progress_CS	Sent {[COUNT_TIME_TRAVELLED]} of {[COUNT]}
+Challenges/SubGoals/AnachronisticCuredSentHome_Tooltip	Lost in time patients can be diagnosed and cured just like anyone else. Judge your capacity and decide whether you can treat them before sending them to Speed Dating.
+Challenges/SubGoals/AnachronisticCured_Goal_CS	Cure {[COUNT]} Lost in Time Patients 
+Challenges/SubGoals/AnachronisticCured_Progress_CS	Lost in Time Patients Cured: {[CURED]} / {[COUNT]}
+Challenges/SubGoals/AnachronisticCured_Tooltip	Lost in time patients can be diagnosed and cured just like anyone else. Judge your capacity and decide whether you can treat them before sending them to Speed Dating.
+Challenges/SubGoals/AnachronisticSentHome_Goal_CS	Send Back {[COUNT]} Lost in Time Patients
+Challenges/SubGoals/AnachronisticSentHome_Progress_CS	Sent {[COUNT_TIME_TRAVELLED]} of {[COUNT]}
+Challenges/SubGoals/AnachronisticSentHome_Tooltip	Lost in time patients will look out of place, instead of sending them home, you can send them to Speed Dating and return them to the era they belong.
 Challenges/SubGoals/BudgetScore_Goal_CS	Reach {[COUNT]} budget score
 Challenges/SubGoals/BuildItemDuo_Progress	Place {[COUNT]} {[ITEM0]} & {[ITEM1]}
 Challenges/SubGoals/BuildItemList_Progress	Place {[COUNT]} {[ITEM0]}, {[ITEM1]}, {[ITEM2]} & {[ITEM3]}
@@ -1529,8 +1592,14 @@ Challenges/SubGoals/OwnPlots_Goal_CS	Own {[COUNT]} Buildings[i2p_One]Own {[COUNT
 Challenges/SubGoals/OwnPlots_Goal_CS_Jungle	Own {[COUNT]} Plots[i2p_One]Own {[COUNT]} Plot
 Challenges/SubGoals/OwnPlots_PlotChallenges_Tooltip	Click on a plot to view its objective. Select "Start Challenge" to activate that objective, then achieve the criteria in order to unlock that plot. Up to three plot objectives can be active at the same time.
 Challenges/SubGoals/OwnPlots_Tooltip	Buy another plot of land or building nearby to expand your hospital.
+Challenges/SubGoals/PatientBoredom_Progress	Remaining Patients: {[COUNT]}
+Challenges/SubGoals/PatientBoredom_Title	Entertain {[COUNT]} Patients
+Challenges/SubGoals/PatientBoredom_Tooltip	Provide patients with entertainment to alleviate their boredom.
 Challenges/SubGoals/PatientDeaths_CS	Sacrifice {[DEATHS]} Patients
 Challenges/SubGoals/PatientDeaths_TV_CS	Kill Off {[DEATHS]} Patients[i2p_One]Kill Off a Patient
+Challenges/SubGoals/PortalCured_Goal_CS	Cure {[COUNT]} Patients from Time Portals
+Challenges/SubGoals/PortalCured_Progress_CS	Time Portal Patients Cured: {[CURED]} / {[COUNT]}
+Challenges/SubGoals/PortalCured_Tooltip	The more time portals you control, the more frequently these patients will arrive.
 Challenges/SubGoals/Power_Patients_Title	Patient Flow
 Challenges/SubGoals/Power_Patients_Tooltip_CS	Allocate power to the Patient Flow transport system to increase the number of patients arriving at the hospital.
 Challenges/SubGoals/Power_Rooms_Title	Open Rooms
@@ -1598,6 +1667,9 @@ Challenges/SubGoals/ThermalComfort_Progress_CS	Thermal Comfort {[SCORE]}
 Challenges/SubGoals/ThermalComfort_Tooltip	Keep the temperature comfortable for staff and patients by placing radiators or air-conditioning units.
 Challenges/SubGoals/ThermalComfort_Tooltip_Cold	Keep people warm by placing radiators around the hospital.
 Challenges/SubGoals/ThermalComfort_Tooltip_Hot	Keep people cool by placing air-conditioning units around the hospital.
+Challenges/SubGoals/TimePortalPower_Goal_CS	Time Portal Arrival Rate
+Challenges/SubGoals/TimePortalPower_Progress_CS	{[SCORE]}%
+Challenges/SubGoals/TimePortalPower_Tooltip	The more time portals you control, the more frequently these patients will arrive.
 Challenges/SubGoals/TotalStars_Goal_CS	Get {[COUNT]} stars[i2p_One]Get a star
 Challenges/SubGoals/TotalStars_Progress_CS	{[COUNT]} remaining
 Challenges/SubGoals/UpgradeItem_Goal_CS	Upgrade {[COUNT]} Machines[i2p_One]Upgrade a Machine
@@ -1884,6 +1956,7 @@ Character/Modifiers/Maintenance_Description_CS	{[PERCENT]} Maintenance Skill
 Character/Modifiers/Marketing_Description_CS	{[PERCENT]} Marketing Skill
 Character/Modifiers/MovementSpeed_Description_CS	{[PERCENT]} Speed
 Character/Modifiers/Research_Description_CS	{[PERCENT]} Research Skill
+Character/Modifiers/TimeTunnelDuration_Description_CS	Faster Yesterizer Configuration
 Character/Modifiers/TrainingLearning_Description_CS	{[PERCENT]} Learning Speed
 Character/Modifiers/TrainingTeaching_Description_CS	{[PERCENT]} Teaching Speed
 Character/Modifiers/TreatmentRoom_Description_CS	{[PERCENT]} Treatment Skill in {[ROOM]}
@@ -1907,6 +1980,7 @@ Collaborative/Chat_Sophie_ProjectOne	I was meant to look into this ages ago, but
 Collaborative/Chat_Sophie_ProjectThree	I tried experimenting with ghosts before. I should have realised that a haunted alarm clock was going to be a terrifying way to wake up… There has to be a better idea! Cue, you guys.
 Collaborative/Chat_Sophie_ProjectTwo_1	You'll need a partner to research loooooooooove
 Collaborative/Chat_Sophie_ProjectTwo_2	No, but seriously you'll need more than one person for this one.
+Collaborative/Chat_Title	Messages
 Collaborative/Collaborative_Objective_Desc	Complete this objective to contribute to the Collaborative Project.
 Collaborative/Collaborative_Objective_Desc_Test	Collab Objective Description Test
 Collaborative/Collaborative_Objective_Name_Test	Collab Objective Name Test
@@ -2317,14 +2391,17 @@ DJ/SongArtists/PiñaCollider	Piña Collider
 DJ/SongArtists/PostalCeviche	Postal Ceviche
 DJ/SongArtists/ProjectVineyard	Project Vineyard
 DJ/SongArtists/PuffinPot	Puffin Pot
+DJ/SongArtists/RightFootLeft	Right Foot Left
 DJ/SongArtists/SpeakingFaces	Speaking Faces
 DJ/SongArtists/Starfish&LunaTuna	Starfish & Luna Tuna
 DJ/SongArtists/SteamTrout	Steam Trout
+DJ/SongArtists/TheHas	The Has
 DJ/SongArtists/TheSoupSwoons	The Soup Swoons
 DJ/SongArtists/TheStudMuffins	The Stud Muffins
 DJ/SongArtists/TwoWithMustard	Two with Mustard
 DJ/SongArtists/UncleMonk	Uncle Monk Funkle
 DJ/SongArtists/VictoriaSpongeMuffin	Victoria Sponge-Muffin
+DJ/SongArtists/Wend-E	Wend-E
 DJ/SongArtists/WhatWhere	What? Where?
 DJ/SongNames/AstroJam	Astro Jam
 DJ/SongNames/AuroraTheExplorer	Aurora the Explorer
@@ -2336,7 +2413,9 @@ DJ/SongNames/DjangoInTheJungle	Django in the Jungle
 DJ/SongNames/FebricantFestival	Febricant Festival
 DJ/SongNames/FiresideFling	Fireside Fling
 DJ/SongNames/FishWhispers	Fish Whispers
+DJ/SongNames/FossilFuel	Fossil Fuel
 DJ/SongNames/Frosty Bells	Frosty Bells
+DJ/SongNames/GoFutureSelf	Go Future Self
 DJ/SongNames/Gomer	Gomer
 DJ/SongNames/Halloween/AstroFang	Astro Fang
 DJ/SongNames/Halloween/AuroraTheHorror	Aurora The Horror
@@ -2364,6 +2443,7 @@ DJ/SongNames/Sundries	Sundries
 DJ/SongNames/TheGalereGala	The Galère Gala
 DJ/SongNames/TheGambleMan	The Gamble Man
 DJ/SongNames/TheLastDose	The Last Dose
+DJ/SongNames/ThePillagePeople	The Pillage People
 DJ/SongNames/TheUrbanElectric	The Urban Electric
 DJ/SongNames/TheWaitingRoom	The Waiting Room
 DJ/SongNames/TikiHutParty	Tiki Hut Party
@@ -2387,6 +2467,8 @@ Frontend/HospitalPass_Items_Season_1_Name	Superbug Items: Season One
 Frontend/HospitalPass_Items_Season_1_SignUp	Sign up for Hospital Pass to receive the latest news about Two Point Hospital, the Golden Toilet Suite and all the items from the first three Global Superbug Projects.
 Frontend/JingleJame_Description	We're proud to be a part of the Yogscast Jingle Jam 2019. Click here to see more, support a great cause - with 100% of proceeds going to charity - and get a load of games and other fun stuff, including our "Jingle Jimjams" Staff Customisation option.
 Frontend/JingleJame_Name	Jingle Jam
+Frontend/Lunar2021_Items_Description	See in the Year of the Ox with an item to celebrate the Lunar New Year. 
+Frontend/Lunar2021_Items_Name	Year of the Ox
 Frontend/Lunar_Items_Description	See in the Year of the Rat with our items for the Lunar New Year. They're releasing over a week, so check back to see what's new in the "Special" item filter.
 Frontend/Lunar_Items_Name	Year of the Rat
 Frontend/Music_Description	You can now personalise your music preferences, turn on and off different tracks, and even upload and share your own music, all in the Audio section of the Settings menu.
@@ -2518,6 +2600,8 @@ HospitalEvent/PatientArrival_CS	{[NAME]} arrived
 HospitalEvent/PatientDeath_CS	{[PATIENT]} died
 HospitalEvent/PatientRageQuit_CS	{[PATIENT]} rage quit
 HospitalEvent/PatientSentHome_CS	{[PATIENT]} sent home
+HospitalEvent/PatientSentThroughTimeTreated_CS	{[PATIENT]} sent through time
+HospitalEvent/PatientSentThroughTimeUntreated_CS	 Untreated {[PATIENT]} sent through time
 HospitalEvent/PlotBought_CS	Bought {[NAME]}
 HospitalEvent/RageQuit_FurtherDiagnosis	{[NAME]} rage quit after waiting for further diagnosis
 HospitalEvent/RageQuit_Happiness	{[NAME]} rage quit. Top complaint(s): {[COMPLAINTS]}
@@ -3152,6 +3236,83 @@ Illness/DLC_5/WardrobeMalfunction_Description	A range of bone-related conditions
 Illness/DLC_5/WardrobeMalfunction_Name	Wardrobe Malfunction
 Illness/DLC_5/WritersBlock_Description	It's perfectly normal to have a paintbrush in your hair, but not a pencil in your head. The unwelcome piece of stationary is blocking the part of the brain responsible for… what's the word… sentences. Anyway, that'll need to be removed if they want to write good.
 Illness/DLC_5/WritersBlock_Name	Writer's Block
+Illness/DLC_6/AgeFright_Description	An irrational fear of the passage of time, made all the more severe by the existence of time travel.
+Illness/DLC_6/AgeFright_Name	Age Fright
+Illness/DLC_6/Beheaded_Description	This case of lost identity can be easily reversed by a De-Lux O-Luxe machine. On with their heads.
+Illness/DLC_6/Beheaded_Name	Beheadedness
+Illness/DLC_6/BionicPlague_Description	Sufferers have augmented their bodies with robot parts, without consulting the robot parts, causing hilarity - as well as profound health concerns - to ensue.
+Illness/DLC_6/BionicPlague_Name	Bionic Plague
+Illness/DLC_6/BloatOfArms_Description	Colloquially known as squire's elbow, carrying all that heavy knight gear is very hard on the forearms.
+Illness/DLC_6/BloatOfArms_Name	Bloat of Arms
+Illness/DLC_6/BlueTeeth_Description	Discolouration of tooth enamel acquired through overuse of wireless dental floss.
+Illness/DLC_6/BlueTeeth_Name	Blue Teeth
+Illness/DLC_6/BoneHead_Description	The result of an ill-advised attempts to clean out one's ear canal with rudimentary tools. Patients report a "surprising lack of resistance".
+Illness/DLC_6/BoneHead_Name	Bone Head
+Illness/DLC_6/Byteheaded_Description	Doctors must take care to safely remove hardware so as to prevent memory corruption.
+Illness/DLC_6/Byteheaded_Name	Byteheadedness
+Illness/DLC_6/Byteheadedness_Description	A hyper-advanced strain of Lightheadeness. Doctors must take care to safely remove hardware so as to prevent memory corruption.
+Illness/DLC_6/ChewedRose_Description	A form of thorn-related ailment, often the result of misguided attempts to be cool and/or seductive.
+Illness/DLC_6/ChewedRose_Name	Chewed a Rose
+Illness/DLC_6/Clockjaw_Description	A fracture in the jaw which causes an involuntary 'tic-ing' sound roughly once per second.
+Illness/DLC_6/Clockjaw_Name	Clockjaw
+Illness/DLC_6/Codpiece_Description	Patients claim they "got stuck" while working on their fishing boats, but are generally not forthcoming with further details. With bed rest and the right bait they should slip right out, but nothing can be done about the fishy smell in the meantime.
+Illness/DLC_6/Codpiece_Name	Cod Piece
+Illness/DLC_6/DinoSores_Description	A potential after-effect of being bitten by a gigantic prehistoric lizard. Patients report mild swelling and irritation, as well as wounded pride after being told that they don't taste all that nice, apparently.
+Illness/DLC_6/DinoSores_Name	Dino Sores
+Illness/DLC_6/Dragon_Description	Secondary symptoms include hoarding gold, intermittent flying and a newfound romantic interest in donkeys.
+Illness/DLC_6/Dragon_Name	Reptile Dysfunction
+Illness/DLC_6/FomoSapiens_Description	Sufferers are anxious about the speed at which human evolution is moving for the kids these days. In my day we had scales and a big floppy tail, what was so wrong about that?
+Illness/DLC_6/FomoSapiens_Name	Fomo Sapiens
+Illness/DLC_6/Forefraught_Description	The sufferer is petrified of doing anything, anything at all. Brought on after realising that actions have ghastly, and all too likely, consequences.
+Illness/DLC_6/Forefraught_Name	Forefraught
+Illness/DLC_6/FossilEyes_Description	Patients exhibit a tendency to look very closely at fractal patterns and see the golden ratio wherever they look. Caused by a patient's DNA becoming that bit too helical.
+Illness/DLC_6/FossilEyes_Name	Fossil Eyes
+Illness/DLC_6/FracturedTimeline_Description	The sufferer has dislodged themselves from their origin and their fate. Causes include 'trying out' a new personality, fun with flux-capacitors and standing in the way of sliding doors. This is great for plot, but less good for their ability to exist cohesively.
+Illness/DLC_6/FracturedTimeline_Name	Fractured Timeline
+Illness/DLC_6/Futurism_Description	Cubism has mutated over the centuries, with this new strain able to transmit itself through digital images. I can't say that I care for it… 
+Illness/DLC_6/Futurism_Name	Futurism
+Illness/DLC_6/GlassDome_Description	A condition characterised by brittleness of the head, caused by extended exposure to UV radiation, though the problem is magnified by a lack of cloud cover and convex glass surfaces on sunny days.
+Illness/DLC_6/GlassDome_Name	Glass Dome
+Illness/DLC_6/HackingCough_Description	A form of computer virus, characterised by bouts rapid typing. Common causes include faulty promo codes, forgetting your password and excessive use of the phrase "I'm in".
+Illness/DLC_6/HackingCough_Name	Hacking Cough
+Illness/DLC_6/HistoricalLaughter_Description	Sufferers explode into bouts of uncontrollable giggling at jokes they heard hours, days, or even years earlier. You really had to be there.
+Illness/DLC_6/HistoricalLaughter_Name	Historical Laughter
+Illness/DLC_6/Hologlands_Description	A deceptive condition that eludes early diagnosis. Unfortunately, the glands look completely normal when viewed from just the right angle.
+Illness/DLC_6/Hologlands_Name	Hologlands
+Illness/DLC_6/Hotheaded_Description	An interesting example of viral evolution. In pre-industrial societies, Lightheadedness typically manifested itself in this less advanced, but more period-appropriate, manner. Caused by fireside sleepiness and playing with sticks.
+Illness/DLC_6/Hotheaded_Name	Hotheadedness
+Illness/DLC_6/Jester_Description	Clowning has a rich and storied tradition that must be eliminated at the source. Caused by overly demanding monarchs, ingesting fire and the invention of juggling.
+Illness/DLC_6/Jester_Name	Jester Infection
+Illness/DLC_6/KnightMites_Description	These parasites follow a strict code of chivalric honour. Treatment involves challenging them to duel with balms and lotions via the throwing of microscopic gauntlets.
+Illness/DLC_6/KnightMites_Name	Mites of the Realm
+Illness/DLC_6/LiveryDisease_Description	Wearing an ill-fitting guard's uniform a lot can cause chafing, cramps, and wedgies.
+Illness/DLC_6/LiveryDisease_Name	Livery Disease
+Illness/DLC_6/Loopy_Description	Patients don't know whether they are coming or going, and neither would you after all that time travel. They'll never be the same again (unless they undergo a basic course of treatment).
+Illness/DLC_6/Loopy_Name	Loopy
+Illness/DLC_6/MadScientist_Description	Sufferers are totally convinced of their own scientific aptitude in spite of a wealth of material evidence (and injuries) to the contrary. A heavy dose of perspective, plus a hair cut, should do the trick.
+Illness/DLC_6/MadScientist_Name	Artificial Intelligence
+Illness/DLC_6/MissingLink_Description	A spinal injury, treated surgically by replacing the offending, misplaced, piece of bone. Can cause discomfort, heavy slouching and getting lost in the woods.
+Illness/DLC_6/MissingLink_Name	Missing Link
+Illness/DLC_6/Parapox_Description	Both caused by, and the cause of, a viral infection commonly known as Parapox. Staff treating the infection are asked not to think about it too hard.
+Illness/DLC_6/Parapox_Name	Parapox
+Illness/DLC_6/PneumaticTubes_Description	The brain sends and receives messages through the nervous system using paper notes rolled up into capsules. Best treated by surgically installing an intranet network and setting up the brain's email.
+Illness/DLC_6/PneumaticTubes_Name	Pneumatic Tubes
+Illness/DLC_6/Predestinitis_Description	The onset of Predestinitis is as predictable as it is inevitable. Often caused, with great irony, by efforts to prevent it.
+Illness/DLC_6/Predestinitis_Name	Predestinitis
+Illness/DLC_6/RockStar_Description	A severe strain of Mock Star, sufferers maintain their delusion in spite of several millennia of requisite musical tradition which hasn't occurred yet.
+Illness/DLC_6/RockStar_Name	Rock Star
+Illness/DLC_6/RollingStones_Description	Early indicators of this mineral-y malady include swelling, and redness, in the lips and tongue, as well as sticky fingers.
+Illness/DLC_6/RollingStones_Name	Rolling Stones
+Illness/DLC_6/Slackbladder_Description	Sufferers are struck with an insatiable desire for political power, tempered by a greatly increased need for the lavatory.
+Illness/DLC_6/Slackbladder_Name	Slackbladder
+Illness/DLC_6/Talknology_Description	Disruptions to synaptic connections caused by anomalous quantum energy wavelength fluctuations cause sufferers to spout meaningless technobabble. Highly contagious.
+Illness/DLC_6/Talknology_Name	Talknology
+Illness/DLC_6/TarredPits_Description	A build-up of a black gloopy substance in the underarm region usually caused by patients ignoring "no swimming" signs. It wasn't a suggestion, you know… 
+Illness/DLC_6/TarredPits_Name	Tarred Pits
+Illness/DLC_6/TimeWarts_Description	It's just a lump on your left that seeps to the right. You've got the Time Warts again.
+Illness/DLC_6/TimeWarts_Name	Time Warts
+Illness/DLC_6/WoolyManMouth_Description	Excessive facial hair growth can, if left untreated, lead to severe sensory impairments and tragic mistakes while hunting.
+Illness/DLC_6/WoolyManMouth_Name	Woolly Man-Mouth
 Illness/DecisionRash_Description	An unpleasant rash triggered when the sufferer is forced to make a decision too quickly.
 Illness/DecisionRash_Name	Decision Rash
 Illness/DenimGenes_Description	Skin has the appearance of denim. Causes a great deal of irritation, mainly due to the time it takes to dry after a shower. Believed to be caused by Bungle's genetically-engineered jeans, which have since been recalled.
@@ -3972,6 +4133,60 @@ Items/DLC_5/ToySoldier_Chest_Description	The motherload.
 Items/DLC_5/ToySoldier_Chest_Name	Toy Chest
 Items/DLC_5/VendingMachine_Caviar_Description	Stocked with the finest fish eggs that money could find.
 Items/DLC_5/VendingMachine_Caviar_Name	Fancy Food Machine
+Items/DLC_6/4DChess_Description	The key to winning is to think three moves behind.
+Items/DLC_6/4DChess_Name	4D Chess
+Items/DLC_6/ArtificialTimePortal_Description	Releases lost in time patients into the hospital.
+Items/DLC_6/ArtificialTimePortal_Name	Time Portal
+Items/DLC_6/BanquetTable_Description	A feast for the eyes (only).
+Items/DLC_6/BanquetTable_Name	Wax Banquet Table
+Items/DLC_6/BenchTwoSeater_Rock_Description	Be chilled to the bone.
+Items/DLC_6/BenchTwoSeater_Rock_Name	Bone Bench
+Items/DLC_6/Bin_Wormhole_Description	Now your rubbish is some other galaxy's problem.
+Items/DLC_6/Bin_Wormhole_Name	Wormhole Bin
+Items/DLC_6/Chair_Rock_Description	You can't beat the classics.
+Items/DLC_6/Chair_Rock_Name	Rock Armchair
+Items/DLC_6/EnergyBeam_Description	More efficient than drinking coffee, with fewer side effects.
+Items/DLC_6/EnergyBeam_Name	Energy Beam
+Items/DLC_6/Function_ArtificialTimePortal	Spawns Patients\nIncreases Spacetime Dilation
+Items/DLC_6/Function_Bin_Wormhole	Reduces Litter\nGazes Also Into You
+Items/DLC_6/Function_EnergyBeam	Gives Energy Buzz
+Items/DLC_6/Function_Machine_TimeTunnel	Identifies Eras Of Origin\nSends Patients Through Time
+Items/DLC_6/Function_VendingMachine_Replicator	Reduces Hunger or Thirst\nIncreases Unpredictability\nProduces a random product
+Items/DLC_6/Machine_TimeTunnel_Description	As seen on TV.
+Items/DLC_6/Machine_TimeTunnel_Name	Yesterizer
+Items/DLC_6/NaturalTimePortal_Description	Delivers time sick patients.
+Items/DLC_6/NaturalTimePortal_Name	Time Portal
+Items/DLC_6/OldTimeMachine_Description	A reminder of simpler times.
+Items/DLC_6/OldTimeMachine_Name	Old Time Machine
+Items/DLC_6/PhoneBox_Blue_Description	Surprisingly spacious.
+Items/DLC_6/PhoneBox_Blue_Name	Old Telephone Box
+Items/DLC_6/Picture_Expensive_CavePainting_Description	A genuine original.
+Items/DLC_6/Picture_Expensive_CavePainting_Name	Cave Painting
+Items/DLC_6/Picture_Poster_ArtificialIntelligence_Description	Seek treatment if your head smarts.
+Items/DLC_6/Picture_Poster_ArtificialIntelligence_Name	Artificial Intelligence Hologram
+Items/DLC_6/Picture_Poster_CaveEyeChart_Description	Optometry that predates the written word.
+Items/DLC_6/Picture_Poster_CaveEyeChart_Name	Cave Eye Chart
+Items/DLC_6/Picture_Poster_Dragon_Description	Don't let your symptoms\ndrag on.
+Items/DLC_6/Picture_Poster_Dragon_Name	Reptile Dysfunction Painting
+Items/DLC_6/Picture_Poster_WoolyManMouth_Description	Hairy today? Goner tomorrow.
+Items/DLC_6/Picture_Poster_WoolyManMouth_Name	Woolly Man-Mouth Slab
+Items/DLC_6/Plant_Shrubbery_Description	A two-level effect with a little path running down the middle.
+Items/DLC_6/Plant_Shrubbery_Name	Shrubbery
+Items/DLC_6/PrimordialSoup_Description	All the nutrients a growing organic molecule needs.
+Items/DLC_6/PrimordialSoup_Name	Primordial Soup
+Items/DLC_6/RoundThing_Barrel_Name	Round Thing
+Items/DLC_6/RoundThing_Description	Will never catch on.
+Items/DLC_6/RoundThing_Name	Round Thing
+Items/DLC_6/SlicedBread_Description	The latest thing, the greatest thing.
+Items/DLC_6/SlicedBread_Name	Sliced Bread
+Items/DLC_6/Sofa_Rock_Description	Where rock meets bottom.
+Items/DLC_6/Sofa_Rock_Name	Rock Sofa
+Items/DLC_6/TimeTunnel_Clock_Description	Helps make sense of this mess.
+Items/DLC_6/TimeTunnel_Clock_Name	Nonlinear Wall Clock
+Items/DLC_6/TimeTunnel_Map_Description	A useful 4-dimensional navigation aid.
+Items/DLC_6/TimeTunnel_Map_Name	Map of Time
+Items/DLC_6/VendingMachine_Replicator_Description	Can, and does, recreate absolutely any food at the touch of a button.
+Items/DLC_6/VendingMachine_Replicator_Name	Replication Station
 Items/DNA_Machine_Description	For the analysis and manipulation of genetic material.
 Items/DNA_Machine_Name	Healixir
 Items/DNA_Machine_Upgrade_0_Description	Even Healixir-ier.
@@ -4223,6 +4438,8 @@ Items/LeafletStand_Name	Leaflet Stand
 Items/Litter_1_Name	Litter
 Items/LoveStatue_Description	A tribute to romance, infatuation and general courtship.
 Items/LoveStatue_Name	Love Statue
+Items/Lunar2021_Ox_Description	Happy niú year.
+Items/Lunar2021_Ox_Name	The Ox
 Items/Lunar_Dragon_Corner_Description	A change for the better/worse.
 Items/Lunar_Dragon_Corner_Name	Dragon Corner
 Items/Lunar_Dragon_Head_Description	Only the beginning.
@@ -4730,6 +4947,7 @@ Items/XRay_Machine_Upgrade_1_Name	X-ray Machine III
 Items/XRay_Terminal_Description	Used to operate the x-ray machine.
 Items/XRay_Terminal_Name	X-ray Terminal
 Items/_1_Description	Golden vase full of flowers
+Levels/DLC6/R11_Future_TimeTunnel_Advisor	You can send lost in time patients to the <style="AdvisorHighlight">Speed Dating</style> room at any time if you're too busy to cure them first.
 Levels/DLC_1/DLC_AvailableAt	Unlocked after 1 Star on Flemington
 Levels/DLC_1/DLC_Description	Take a request from the Bigfoot Foundation and visit the Pointy Mountains.
 Levels/DLC_1/DLC_Name	Bigfoot
@@ -4847,7 +5065,7 @@ Levels/DLC_3/R8_AirBaseHospital_Welcome_Title	Camouflage Falls
 Levels/DLC_3/R8_Alien_Letter_OneStarEach	Alrighty, I reveal, I am alien too and have been hoaxing you. We liked you all and your strange lands, your harmonising popular music and your cheesy gubbins. But when we bobbed up there were bunches of not so funny health problems. We revolved to convolute a plan to stop diseases whilst keeping our arrival hushy-hushy.\n\nAfter doing cross-examining of your culture, we found you couldn't help the chance to de-sock suspicious wing of government. Anyways, can you imagine if people found us out? That would be super crazy. Would not handle well. No, not at all. No siree. Ah look at me, I’m doing some of your earth blathering ha-ha. Wonderfilled.\n\nThank you for your helpings of our planets and yours. Please stay muffled, although I don’t reckon you’d be too believed! Bye-bye.
 Levels/DLC_3/R8_Alien_Letter_Pre_AirBase	Compliments to the chief. Your proficiencies have granted you lots of clearance and an assignment in the towny development of Camouflage Falls. But I have succulent data. This town is not what it seems. No, not a town at all they say. I am really surprised by this surprising news - are you not? They say it is a face for secret government base.\n\nCitizens with space illnesses are being abducted from their kitchen islands, their hammocks and their park walks and taken to Camouflage Falls for their own good. If you’re able to turn around the fight against the space ick, we might receive fully buttered coverage and get to the bottom of this things.
 Levels/DLC_3/R8_Alien_Letter_Pre_Kitsch	Greetings puny administrator. It is I, investigative journaliser Charlatene Fishwrapper of the Two Point Squabbler. I am conducting secret reporting espionage and have achieved clearance for you to help. The government are hide-and-sneaking a space crash and keeping super quiet, even though there is lots of health problems to the area and its townpeoples.\n\nYou must cure them, and prevent end of times, to receive clearer, more see-through-able clearance for me to write all about government secrecies and find the ongoings going on.
-Levels/DLC_3/R8_Alien_Letter_Pre_SecretFacility	Initiate favour sequence and get a chair to sit with... There is aliens involved in the operations! I have not seized the bottom of the news barrel yet, but learn that aliens arrived on the crashings near Goldpan. If you cooperate one time more, we should see all their doings. You are now a total clearance person and will be taken to deep down headquarters. \r\n\r\nThey say you will need to develop a hiding contraption for the funny looking alien people that don’t look normal like us humans do. They sure do look surprisingly. I for some have not looked at anything like it in my previous looking experiences. Remain carebound and stingy with your trustings.
+Levels/DLC_3/R8_Alien_Letter_Pre_SecretFacility	Initiate favour sequence and get a chair to sit with... There is aliens involved in the operations! I have not seized the bottom of the news barrel yet, but learn that aliens arrived on the crashings near Goldpan. If you cooperate one time more, we should see all their doings. You are now a total clearance person and will be taken to deep down headquarters. \n\nThey say you will need to develop a hiding contraption for the funny looking alien people that don’t look normal like us humans do. They sure do look surprisingly. I for some have not looked at anything like it in my previous looking experiences. Remain carebound and stingy with your trustings.
 Levels/DLC_3/R8_Alien_Letter_Signature	Transmission over,\nCharlatene Fishwrapper
 Levels/DLC_3/R8_KitschAmericanaHospital_Billboard_Subheading	The Handles of Love
 Levels/DLC_3/R8_KitschAmericanaHospital_Description	There are reports of strange events in this town near the alleged crash site.
@@ -4957,13 +5175,64 @@ Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Death_Advisor	TV Show Revie
 Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Fire_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> “Another employee fired - boom! Get outta Roderick's hospital!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
 Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Hire_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> "New characters keep the show fresh - I can barely keep track!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
 Levels/DLC_5/R10_TelevisionHospital_RepEvent_Special_Upgrades_Advisor	TV Show Review: <style="AdvisorHighlight">5/5</style> “Loving all the healthcare tech on Back Wards. Take that germs and stuff!”\n<style="AdvisorHighlight">{[REWARDS]}</style>
-Levels/DLC_5/R10_TelevisionHospital_Welcome_Text	Welcome to Plywood Studios, where the producers of a new medical drama have asked you to run their show. They want a real administrator to add “validity, dynamism and an amusing, gimmicky quality”. On the show, titled “Back Wards”, Roderick Cushion will be playing a senior doctor who's inexplicably forgotten all his training. They’ve decided to call the character Dr Roderick Cushion, because, well, I’d actually rather not get into that again. It’s just simpler for Mr Cushion, okay? Let’s leave it at that.\r\n\r\nTo produce a compelling, County-gripping hit show, you’ll need to work on developing your main character, Dr Roderick Cushion. People don’t like characters who tread water, it reminds them of their desperate, repetitive existences. Roderick won’t fraternise with the rest of the cast on his breaks - not on his salary! - so he's got his very own trailer. If you can’t find him, he’ll probably be in there. Oh, and to inject some urgency into proceedings, the actors will be curing, trying to at least, real patients.\r\nWhat could go wrong?\r
+Levels/DLC_5/R10_TelevisionHospital_Welcome_Text	Welcome to Plywood Studios, where the producers of a new medical drama have asked you to run their show. They want a real administrator to add “validity, dynamism and an amusing, gimmicky quality”. On the show, titled “Back Wards”, Roderick Cushion will be playing a senior doctor who's inexplicably forgotten all his training. They’ve decided to call the character Dr Roderick Cushion, because, well, I’d actually rather not get into that again. It’s just simpler for Mr Cushion, okay? Let’s leave it at that.\n\nTo produce a compelling, County-gripping hit show, you’ll need to work on developing your main character, Dr Roderick Cushion. People don’t like characters who tread water, it reminds them of their desperate, repetitive existences. Roderick won’t fraternise with the rest of the cast on his breaks - not on his salary! - so he's got his very own trailer. If you can’t find him, he’ll probably be in there. Oh, and to inject some urgency into proceedings, the actors will be curing, trying to at least, real patients.\nWhat could go wrong?\n
 Levels/DLC_5/R10_TelevisionHospital_Welcome_Title	Plywood Studios
 Levels/DLC_5/R10_Zara_Letter_OneStarEach	They say Art is never really finished. They say a picture is worth a thousand words. They say Art is long and life is short. But what do they mean? Well, a lot of things I suppose, but I’m not one for sayings, I’m one for doings and it’s time for something new. Our project is over, but does that mean it never really happened? No, of course it happened. Don’t you remember? If you don't, it was a great success. I couldn't have done it without you, we've changed the County forever, and so on... \n\nMust go. My muse is calling me. I hear them in the wind, whispering: “Do something with macaroni”.
 Levels/DLC_5/R10_Zara_Letter_Opening	My name is Zara Fitzpocket (yes, those Fitzpockets) and I am writing to ask for your help. But where to begin?… As you may know, I am an artist, specialising in mixed media collage, papier-mâché and oily paints. My friend, the Arts are sick and the people are too - coincidence? I’m afraid not… \n\nFor far too long, we have overlooked a sickness in our minds, our homes and our loft-studio work spaces. What may have begun as a collective dry spell has become an all too literal illness. No single remedy, be it dramatic, melodic or medical will be enough. No, we must all work together on my biggest project yet.\n\nWith my connections and your uncanny ability to heal things, we must cure the ailing culture of Two Point County. First things firstly, I believe that we’ll be needing a shot in the arm, and who better to administer the injection than a certified healthcare wiz such as yourself? If you’re interested - and I hope you are - your first task will take you to Plywood Studios and the silver screen! Remember, the pen is mightier than the scalpel.
 Levels/DLC_5/R10_Zara_Letter_Second	Congrats on your show, I don’t really watch television, but there was lots about it in the papers. Not that I read the papers… All the same, I’m told you’ve done a wonderful job. Roderick has left me a dozen messages talking about himself, on and on and on… He’s not been this arrogant in years, and it warms my heart to see him back at his terrible, self-centred best.\n\nYou mustn't bask in the bathing tub of glory for too long, another corner of the Arts needs your medical attention. Next up is Mudbury Festival, which has been a disaster for years quite frankly. If loyalty to the cause won't sway you, I’d imagine - if you’re anything like the rest of us - that you’ll have developed a taste for all the praise and acclaim by now.\nIt’s rather nice, isn’t it?
 Levels/DLC_5/R10_Zara_Letter_Signature	Zara
 Levels/DLC_5/R10_Zara_Letter_Third	Our little project has been a conceptual triumph so far, don’t you think? Things are already so much better than they were, and that’s why I thought our final act should be a party to celebrate the newfound health of the Arts. I will be hosting, naturally, and opening my latest exhibit.\n\nOur guests will arrive at Fitzpocket Academy to be treated - quite literally - to an experience for the body and the soul. It will be a party-hospital, an arty hospital. I really have outdone myself this time. I don’t want to get ahead of myself but this art exhibit may well fix all of our problems. If all goes well, the County will look to us, the rich, the famous, the covered in velvet, as beacons of hope and relative health.
+Levels/DLC_6/DLC_AvailableAt	Unlocked after 1 Star on Mitton University
+Levels/DLC_6/DLC_Description	Save patients stranded in time in a medical adventure spanning all of Two Point County's history.
+Levels/DLC_6/DLC_Name	A Stitch in Time
+Levels/DLC_6/DLC_Start_Description	Your skills are required throughout time, as infamous inventor Captain Yesterday works out the kinks and unexpected consequences of his tremendous time travelling technology.
+Levels/DLC_6/Map_IntroText_R11_Future	<style="AdvisorHighlight">Clockwise-above-Thyme</style> is now available!
+Levels/DLC_6/Map_IntroText_R11_Medieval	<style="AdvisorHighlight">Clockwise-upon-Thyme</style> is now available!
+Levels/DLC_6/Map_IntroText_R11_Prehistory	<style="AdvisorHighlight">Clockwise-before-Thyme</style> is now available!
+Levels/DLC_6/R11_Future_AnachronisticCureRateTarget_Advisor_Intro	Every quarter we will have a target for our cure rate of lost patients we have sent back in time. We'll be rewarded with some additional funding if we can meet it.
+Levels/DLC_6/R11_Future_AnachronisticCureRateTarget_Advisor_Name	Yesterday's Target
+Levels/DLC_6/R11_Future_AnachronisticCureRateTarget_Advisor_Outro_Failure	We didn't meet our target for curing lost in time patients before sending them back in time.
+Levels/DLC_6/R11_Future_AnachronisticCureRateTarget_Advisor_Outro_Success	We have been given <style="AdvisorHighlight">{[REWARDS]}</style> for curing lost in time patients before sending them back.
+Levels/DLC_6/R11_Future_AvailableAt	Unlocked after 1 Star on Clockwise-before-Thyme\nRecommended after 1 Star on Sweaty Palms
+Levels/DLC_6/R11_Future_Description	A futuristic city built high above the uninhabitable earth below.
+Levels/DLC_6/R11_Future_FirstAnachronisticPatientArrived_Advisor	A patient from a different era has arrived at the hospital. You can diagnose and treat them as normal, or send them straight to Speed Dating depending on your current capacity.
+Levels/DLC_6/R11_Future_FirstAnachronisticPatientSentAway_Advisor	Congratulations! You've returned your first lost in time patient to the correct era.
+Levels/DLC_6/R11_Future_Letter_Star_1	Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nI must say that I don't appreciate the volume of work you have placed on my desk with all of your time travel nonsense. I am having to write nine of these blasted letters this afternoon, all addressed to you.\n\nContinue avoiding spoilers for more rewards, or return to the thankless mundanity of today and get back to work.
+Levels/DLC_6/R11_Future_Letter_Star_2	Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nI say that your rating "has been awarded", but it hasn't. Not yet. Your hospital hasn't even been built. Consider this accolade provisional and tentative.\n\nContinue avoiding spoilers for more rewards, or return to the thankless mundanity of today and get back to work.
+Levels/DLC_6/R11_Future_Letter_Star_3	Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nWouldn't there need to be some sort of exit in the present, not to mention the past, for that time machine to work? And when will you finally get to the bottom of what caused all of those time portals to appear? It's troubling that after all this "time" you still haven't solved this mystery. Perhaps you've always known, perhaps you'll never know. How curious, how provocative, how tedious.
+Levels/DLC_6/R11_Future_Name	Clockwise-above-Thyme
+Levels/DLC_6/R11_Future_Welcome_Text	Welcome to Clockwise-above-Thyme, futuristic safe-haven for the people of tomorrow, dangling precariously over the uninhabitable earth below... and home to a snazzy new hospital, nice. Turns out you've been inadvertently ripping apart the fabric of time with all your technology. Maybe time travel is actually a pretty sensitive business.\n\nThe future has been flooded with people from all over Two Point's past, but Captain Yesterday is confident we can right the ship if we send them - most of them - home in one piece. He's handing over the keys to the Yesterizer (patent pending... still). You'll find them in Speed Dating in the Rooms List. He's very generously taken 5% off the retail price. What a guy.
+Levels/DLC_6/R11_Future_Welcome_Title	The Future
+Levels/DLC_6/R11_Medieval_Description	A medieval town plagued by ruptures in space and time.
+Levels/DLC_6/R11_Medieval_Letter_Star_1	Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nThat ridiculous blow-hard Admiral Yesteryear just burst into my office spouting some nonsense about you, time travel, and something about a "pasteuriser". It's not that I don't understand, so much as I don't care.\n\nContinue meddling with the fabric of time for more rewards, or return to the present day and get back to work.
+Levels/DLC_6/R11_Medieval_Letter_Star_2	Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nIt's funny to think that, from my perspective, all of the people you're treating are already long gone. Dust in the footnotes of time. It makes all of your hard work there seem rather futile. Is "there" the right word?... All of your work "then" is futile. Better.\n\nContinue meddling with the fabric of time for more rewards, or return to the present day and get back to work.
+Levels/DLC_6/R11_Medieval_Letter_Star_3	Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nMy secretary just looked it up, and you will be pleased to learn that you haven't caused any dangerous and confusing changes to the history of medicine. It seems that town, and everything in it, mysteriously disappeared some 500 years ago. No buildings, no witnesses, no cardiology department. Probably for the best.
+Levels/DLC_6/R11_Medieval_Name	Clockwise-upon-Thyme
+Levels/DLC_6/R11_Medieval_TutorialObjective_Advisor_Success	Expanding the hospital may uncover new Time Portals. The more Time Portals you discover, the more patients we'll have arriving at the hospital.
+Levels/DLC_6/R11_Medieval_Welcome_Text	Welcome to Clockwise and the days of yore. This quaint little town has become a popular spot since the advent of domestic time travel. Who would have thought that there would be serious medical implications involved? Not me! But what're you going to do? Oh right... hospitals.\n\nRifts in time, we're calling them Time Portals, have started appearing all over town 'recently'. As you expand your hospital and find more Time Portals you'll notice that they get busier and busier as we further dilate local spacetime. Science, eh?
+Levels/DLC_6/R11_Medieval_Welcome_Title	The Past
+Levels/DLC_6/R11_Prehistory_AvailableAt	Unlocked after 1 Star on Clockwise-upon-Thyme\nRecommended after 1 Star on Melt Downs
+Levels/DLC_6/R11_Prehistory_Description	This prehistoric settlement predates most things, including the river Thyme.
+Levels/DLC_6/R11_Prehistory_HygieneTarget_Advisor_Intro	Every few months Captain Yesterday will give us a new target to improve the hospital's hygiene rating. We'll be rewarded with money if we can meet it.
+Levels/DLC_6/R11_Prehistory_HygieneTarget_Advisor_Name	Yesterday's Target
+Levels/DLC_6/R11_Prehistory_HygieneTarget_Advisor_Outro_Failure	We didn't meet Captain Yesterday's hygiene target this time.
+Levels/DLC_6/R11_Prehistory_HygieneTarget_Advisor_Outro_Success	We have been given <style="AdvisorHighlight">{[REWARDS]}</style> for our hygiene rating.
+Levels/DLC_6/R11_Prehistory_Letter_Star_1	Congratulations. Your hospital has been awarded a 1 Star rating by the Two Point Health Ministry.\n\nIf "time heals all wounds", I honestly don't know why you're bothering, it all seems a bit redundant. Nonetheless, I hope that this obligatory letter of congratulations finds you before somebody there eats it, or, indeed, you.\n\nContinue to wow the locals with your miraculous technology for more rewards, or return to the modern age and get back to work.
+Levels/DLC_6/R11_Prehistory_Letter_Star_2	Congratulations. Your hospital has been awarded a 2 Star rating by the Two Point Health Ministry.\n\nHow exactly are people paying you for your services... Sand? Bones? Toenail clippings? Better yet, please don't tell me. I'd prefer to keep my lunch on the inside.\n\nContinue to wow the locals with your miraculous technology for more rewards, or return to the modern age and get back to work.
+Levels/DLC_6/R11_Prehistory_Letter_Star_3	Congratulations. Your hospital has been awarded a 3 Star rating by the Two Point Health Ministry.\n\nWhen people say "since records began" in regards to the health sector, they are talking about you. This correspondence constitutes the beginning of all records, meaning that your prehistoric hospital shall forever represent the absolute bare minimum baseline of expectations. Impressive.
+Levels/DLC_6/R11_Prehistory_Name	Clockwise-before-Thyme
+Levels/DLC_6/R11_Prehistory_TutorialObjective_Advisor_Success	You can now build your own Time Portals, which ought to give you a little more control over them. They even have a cushioned landing area: much more civilised experience than those rocky rifts in the ground. Find your newly developed Time Portals in the Items List.
+Levels/DLC_6/R11_Prehistory_TutorialObjective_Advisor_Title	Using Time Portal
+Levels/DLC_6/R11_Prehistory_Welcome_Text	Welcome to Clockwise-before-Thyme and the dawn of civilisation in Two Point County. Captain Yesterday has been getting complaints about missing customers. They enter their Yesterizer and... gone, no trace. We've come back to the earliest time that the Yesterizer can muster to see if there's anything to be done about it.\n\nWe've been given some of Captain Yesterday's blueprints - mostly drawn on napkins - so we can design our own Time Portals in the Research room. Once we've developed our Time Portals we can use them to manage patient flow, save patients from the time void and better understand the universe. All in a day's work, I suppose.
+Levels/DLC_6/R11_Prehistory_Welcome_Title	The Distant Past
+Levels/DLC_6/R11_Yesterday_Letter_OneStarEach	I don't know about you, but personally I think it's pretty funny that the Yesterizer created rifts in time, fired people thousands of years into the future, subsequently tried to send them back home, but instead left them drifting in a timeless void... Who ever said entrepreneurship was easy? Sure, the Yesterizer's got some kinks, but we worked it out!\n\nThe authorities don't seem quite so tickled, though, they're telling me I gotta take it off the market for "the sake of spacetime and existence as we know it", yada yada yada. But hey, a captain's gotta know when to jump ship, right? And as the captain of today fades into our yesterdays, so too must the captain of tomorrow rise from the ashes of alleged "gross corporate negligence".
+Levels/DLC_6/R11_Yesterday_Letter_OneStarEach_Signature	Paradoxically yours,\nCaptain Yesterday
+Levels/DLC_6/R11_Yesterday_Letter_Pre_Future	\n\nSuperb, the time void is back to being the empty, endless abyss that we all know and love. But, I'm gonna level with you: going back to caveman times hasn’t totally fixed things. We gotta go back even further. Not in time, obviously - we've covered that - but in the whole time travel process. A load of your recent patients had been sent to you from a Yesterizer in... the future. So if we don't head to the future and send those people back, they'll never have arrived back in the past and- let's just say things are going to get real messy.\n\nI'm gonna give you priority access to the Yesterizer, so you can send people home. If you could cure them while you're at it, I'll make it worth your while. This is a hospitality industry after all, and I'd rather the Yesterizer's first customers didn't come out the other side all sick and miserable, but don't sweat it. The priority is saving spacetime and we've got a loop to finish!
+Levels/DLC_6/R11_Yesterday_Letter_Pre_Future_Signature	Eventually yours,\nCaptain Yesterday
+Levels/DLC_6/R11_Yesterday_Letter_Pre_Medieval	Hey, how you doin'? What if I told you that you could travel through space and time for a highly competitive price? Now you're saying "what's the catch?", am I right, or am I right? Well, that's the best part, my friend: no catch, no consequences, no questions asked.\n\nI'm Captain Yesterday, inventor, entrepreneur, and all-around family man... presenting to you, the Yesterizer (patent pending), your one-stop-shop for all things today, tomorrow and yesterday. I'm offering you a one-time only, once-in-a-lifetime, not-even-for-my-mother 100% discount on a journey through time. You see, ever since I started rolling these things out we'd have a few... complications, shall we say. We're talking sick people flying out of holes in the ground. Far from ideal, I'm sure you'd agree. If you take care of them, and I keep selling time machines, bingo-bango we're back in business.\n\nAnd hey, if all goes to plan I'll even sell you your own Yesterizer. Pretty neat, huh?
+Levels/DLC_6/R11_Yesterday_Letter_Pre_Medieval_Signature	Previously yours,\nCaptain Yesterday
+Levels/DLC_6/R11_Yesterday_Letter_Pre_Prehistory	I think we make real good partners, you and me. I can see it now, "Yesterday and Co". That could be you, the "Co". That first visit went fantastic. Time travel is all anybody can talk about! Business is going swell and all is well. Now for the bad news...\n\nIt seems like we've got a few people, shall we say, 'unaccounted for'. It's no big deal, it's just they don't seem to, you know, exist anymore. They're lost in the time void, and let me tell you: it is busy in there! What we need is more of those Time Portals, that'd give'm somewhere to go. We need to head back as early as we can and sweep up all of our valued customers. I don't need to tell you, word of mouth is very important for a young business like ours and nobody's recommending nothing in the time void.
+Levels/DLC_6/R11_Yesterday_Letter_Pre_Prehistory_Signature	Initially yours,\nCaptain Yesterday
 Levels/Dev_ALL_EverythingVille	Everything Ville
 Levels/Map_IntroText_R1_IntroHospital2	<style="AdvisorHighlight">Lower Bullocks</style> now available!
 Levels/Map_IntroText_R1_IntroHospital3	<style="AdvisorHighlight">Flottering</style> now available!
@@ -5426,7 +5695,7 @@ Menu/GeneralNotification/Challenges_CS	Challenges: {0}
 Menu/GeneralNotification/Classified	This rival's challenge data is classified!
 Menu/GeneralNotification/GatheringInfo	We are currently gathering information on this rival's challenge
 Menu/GeneralNotification/Kicked	Kicked
-Menu/GeneralNotification/NoConnection	We have no information on this rival and there is no connection to the online services.\r
+Menu/GeneralNotification/NoConnection	We have no information on this rival and there is no connection to the online services.\n
 Menu/GeneralNotification/Objectives	Objectives
 Menu/GeneralNotification/RivalNotYetAttempted	This rival has not yet attempted this challenge!
 Menu/GeneralNotification/Select	Select your rivals
@@ -5716,7 +5985,7 @@ Menu/OnlineSetup/ChallengeLength_CS	Length: {0} days[i2p_One]Length: {0} day
 Menu/OnlineSetup/ChallengeReward_CS	Reward: {0}
 Menu/OnlineSetup/Challengers	Challengers
 Menu/OnlineSetup/SelectFriend	Select a friend to challenge
-Menu/OnlineSetup/SelectFriendOffline	You can challenge friends if you connect to online services.\r
+Menu/OnlineSetup/SelectFriendOffline	You can challenge friends if you connect to online services.\n
 Menu/Options/Audio	Audio
 Menu/Options/Career	Career
 Menu/Options/Controls	Controls
@@ -6233,7 +6502,6 @@ Menu/Sandbox/Illnesses_Bigfoot_Tooltip	Illnesses found in the Pointy Mountains (
 Menu/Sandbox/Illnesses_CS	Illnesses
 Menu/Sandbox/Illnesses_CloseEncounters	Close Encounters
 Menu/Sandbox/Illnesses_CloseEncounters_Tooltip	Illnesses found in the South of Two Point County (and Close Encounters DLC).
-Menu/Sandbox/Illnesses_Culture_Tooltip	
 Menu/Sandbox/Illnesses_Easy	Easy
 Menu/Sandbox/Illnesses_Easy_Tooltip	Illnesses that are easier to diagnose, with a higher chance of treatment success.
 Menu/Sandbox/Illnesses_Green_Tooltip	
@@ -6809,7 +7077,7 @@ Misc/KeyCode/Y	Y
 Misc/KeyCode/Z	Z
 Misc/Kudosh	Kudosh
 Misc/Legal_Text	© Two Point Studios 2019. Published by SEGA Publishing Europe Limited. Two Point, Two Point Hospital, the Two Point Hospital logo and Two Point Studios are either registered trademarks or trademarks of Two Point Studios Limited. SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.
-Misc/Legal_Text_MSStore	© Two Point Studios 2019. Published by SEGA Publishing Europe Limited. Two Point, Two Point Hospital, the Two Point Hospital logo and Two Point Studios are either registered trademarks or trademarks of Two Point Studios Limited. SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.
+Misc/Legal_Text_MSStore	© Two Point Studios 2020. All Rights Reserved. Developed by Two Point Studios. Console version co-developed by Red Kite Games Limited. Published by SEGA Publishing Europe Limited. Two Point, Two Point Hospital, the Two Point Hospital logo and Two Point Studios are either registered trade marks or trade marks of Two Point Studios Limited. SEGA and the SEGA logo are either registered trade marks or trade marks of SEGA Corporation or its affiliates. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.  Portions of this program © 2020  Microsoft Azure Playfab.
 Misc/Locked_CS	Locked
 Misc/MonoBeast_KillStreak_CS	Kill Streak {[COUNT]}
 Misc/Months/AprAbbr_CS	Apr
@@ -6881,6 +7149,22 @@ Names/DLC_4/Visitor_VIP_EcoRating_Last	Onionsack
 Names/DLC_5/Visitor_VIP_Zara_ First	Zara
 Names/DLC_5/Visitor_VIP_Zara_JobTitle	Artist
 Names/DLC_5/Visitor_VIP_Zara_Last	Fitzpocket
+Names/DLC_6/FemalePrehistoric_000	Uk
+Names/DLC_6/FemalePrehistoric_001	Ak
+Names/DLC_6/FemalePrehistoric_002	Ik
+Names/DLC_6/FemalePrehistoric_003	Ek
+Names/DLC_6/FemalePrehistoric_004	Ok
+Names/DLC_6/GuestTrainer_Assistant_TimeTunnel_Description	Went back in time to train herself (pro bono).
+Names/DLC_6/GuestTrainer_Assistant_TimeTunnel_First	Relativity
+Names/DLC_6/GuestTrainer_Assistant_TimeTunnel_Last	Jones
+Names/DLC_6/MalePrehistoric_000	Ug
+Names/DLC_6/MalePrehistoric_001	Ag
+Names/DLC_6/MalePrehistoric_002	Ig
+Names/DLC_6/MalePrehistoric_003	Eg
+Names/DLC_6/MalePrehistoric_004	Og
+Names/DLC_6/Visitor_VIP_Time_Traveller_First	Captain
+Names/DLC_6/Visitor_VIP_Time_Traveller_JobTitle	Time Traveller
+Names/DLC_6/Visitor_VIP_Time_Traveller_Last	Yesterday
 Names/Female_000	Millie-Boo
 Names/Female_001	Jezebel
 Names/Female_002	Brangelina
@@ -7104,6 +7388,8 @@ Names/GuestTrainer_Assistant_Marketing_Last	Styles
 Names/GuestTrainer_Assistant_Service_Description	One of the nicest people in the county. Convicted murderer.
 Names/GuestTrainer_Assistant_Service_First	Clive
 Names/GuestTrainer_Assistant_Service_Last	Dude
+Names/GuestTrainer_Assistant_TimeTunnel_First	Relativity
+Names/GuestTrainer_Assistant_TimeTunnel_Last	Jones
 Names/GuestTrainer_Doctor_Diagnosis_Description	Somehow always ends up being right, much to everyone's annoyance.
 Names/GuestTrainer_Doctor_Diagnosis_First	Gregory
 Names/GuestTrainer_Doctor_Diagnosis_Last	Mouse
@@ -7963,7 +8249,7 @@ Notification/Tutorial_GUI_HubMenu_Staff_Pay_Text	Review the salaries of your sta
 Notification/Tutorial_GUI_HubMenu_Staff_Pay_Title	Staff Pay Review
 Notification/Tutorial_GUI_HubMenu_Staff_Text	Use the staff list to quickly find people based on their job, ability and qualifications. See what each person is currently doing, and keep an eye on their happiness and energy.\n\nClick on someone in the list to jump to that person in the hospital. Use the job filters to view each staff type separately. Click on the arrows by each column heading to sort the list based on that column.\n\nUse the Pay Review button to review salaries and pay satisfaction for each staff member. Use the Job Assignment button to control which jobs each person is allowed to do.
 Notification/Tutorial_GUI_HubMenu_Staff_Title	Staff List
-Notification/Tutorial_GUI_MultiplayerChallenges_Text	Compete with other healthcare organisations in a range of timed challenges. Earn extra rewards, and bragging rights, by triumphing over your rivals. Take on rival organisations from Two Point County, or challenge hospitals owned by your online friends.\r\n\nEach challenge takes place over a number of months. You can compete at the same time as your rivals, or at separate times, and your results are recorded by the Two Point Competition Committee. You'll receive updates throughout the challenge on how each participant was doing at that stage of the competition.
+Notification/Tutorial_GUI_MultiplayerChallenges_Text	Compete with other healthcare organisations in a range of timed challenges. Earn extra rewards, and bragging rights, by triumphing over your rivals. Take on rival organisations from Two Point County, or challenge hospitals owned by your Steam friends.\n\nEach challenge takes place over a number of months. You can compete at the same time as your rivals, or at separate times, and your results are recorded by the Two Point Competition Committee. You'll receive updates throughout the challenge on how each participant was doing at that stage of the competition.
 Notification/Tutorial_GUI_MultiplayerChallenges_Title	Organisation Challenges
 Notification/Tutorial_Temperature_Text	Some parts of the county are quite cold, or too hot. We'll need to keep people comfortable by ensuring they're warm enough, but also not too warm. If people are too cold or too hot they can become unhappy and may eventually leave.\n\nIn cold locations, place radiators around the hospital. In hot locations we'll need air-conditioning. Use the temperature visualisation mode to identify cold and hot areas of the hospital.\n\nMake all of the hospital a comfortable temperature to maximise our Thermal Comfort rating.
 Notification/Tutorial_Temperature_Title	Temperature
@@ -8021,7 +8307,7 @@ Online/OrdinalNumber_Sixth_CS	6th
 Online/OrdinalNumber_Third_Big_CS	<size=350%>3</size>rd
 Online/OrdinalNumber_Third_CS	3rd
 Online/ScreenshotTooltip_CS	Send a screenshot to rivals\n<size=80%>Remaining shots: {0}</size>
-Online/Status_OfflineReason_CantFindSteam_CS	No online service found…\r
+Online/Status_OfflineReason_CantFindSteam_CS	No online service found…\n
 Online/Status_OfflineReason_NoNetwork_CS	No network connection...
 Online/Status_Offline_CS	OFFLINE
 Online/Status_Online_CS	ONLINE
@@ -8068,6 +8354,16 @@ Qualification/Assistant_Service_4_Description	Elite reception and retail skills
 Qualification/Assistant_Service_4_Name	Customer Service IV
 Qualification/Assistant_Service_5_Description	World-class reception and retail skills
 Qualification/Assistant_Service_5_Name	Customer Service V
+Qualification/DLC_6/Assistant_TimeTunnel_1_Description	Allows an Assistant to work in Speed Dating
+Qualification/DLC_6/Assistant_TimeTunnel_1_Name	Yesterization
+Qualification/DLC_6/Assistant_TimeTunnel_2_Description	Enhanced yesterization skills
+Qualification/DLC_6/Assistant_TimeTunnel_2_Name	Yesterization II
+Qualification/DLC_6/Assistant_TimeTunnel_3_Description	Advanced yesterization skills
+Qualification/DLC_6/Assistant_TimeTunnel_3_Name	Yesterization III
+Qualification/DLC_6/Assistant_TimeTunnel_4_Description	Elite yesterization skills
+Qualification/DLC_6/Assistant_TimeTunnel_4_Name	Yesterization IV
+Qualification/DLC_6/Assistant_TimeTunnel_5_Description	World-class yesterization skills
+Qualification/DLC_6/Assistant_TimeTunnel_5_Name	Yesterization V
 Qualification/Doctor_Diagnosis_1_Description	Increased diagnosis skills
 Qualification/Doctor_Diagnosis_1_Name	Diagnostics
 Qualification/Doctor_Diagnosis_2_Description	Enhanced diagnosis skills
@@ -8414,6 +8710,12 @@ Research/DLC_5/ToySoldierMachineLevel2_Name	Advanced Upgrade: War Room
 Research/DLC_5/ToySoldierRoom_CompleteMessage	Attention! Our new treatment is ready to be deployed. We can now win the war against Private Parts.
 Research/DLC_5/ToySoldierRoom_Description	Design a treatment for patients suffering with Private Parts.
 Research/DLC_5/ToySoldierRoom_Name	War Room
+Research/DLC_6/ArtificialTimePortal_CompleteMessage	We've developed our version of the Time Portal. This should simplify things, or, at least, make them drastically more complicated… 
+Research/DLC_6/ArtificialTimePortal_Description	Create an arrival point for patients that are lost in time.
+Research/DLC_6/ArtificialTimePortal_Name	Time Portal
+Research/DLC_6/TimeTravelResearch_CompleteMessage	Our researchers say they have forgotten what they were trying to learn, but are 99.9% sure they succeeded in learning it.
+Research/DLC_6/TimeTravelResearch_Description	Some "experts" have suggested that it's a good idea to understand the repercussions of time travel before engaging in it. Keep them happy by researching things like what happens if you go back in time to tell yourself the results of this research.
+Research/DLC_6/TimeTravelResearch_Name	Time Travel
 Research/DNAMachineLevel1_CompleteMessage	Success! We have developed a more effective machine for DNA Labs.\n\nYou've unlocked a new upgrade that can now be applied, to each machine, by a janitor qualified in mechanics.
 Research/DNAMachineLevel1_Description	We think we could go back and take some of the corners that we cut the first time.
 Research/DNAMachineLevel1_Name	Upgrade: DNA Lab
@@ -8671,16 +8973,16 @@ Room/DLC_3/Frog_Description	Cures patients with Frogborne.\nTurns the frogs that
 Room/DLC_3/Frog_Description_Long	The Toad Hall is used to cure patients with Frogborne.\nDesigned like a nursery to promote the healthy development of our alien frog-like guests. Never mind that most of them are hundreds of years old.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
 Room/DLC_3/Frog_Name	Toad Hall
 Room/DLC_4/Pinocchio_Description	Cures patients with Woodworms.\nYou'll have a whale of a time.
-Room/DLC_4/Pinocchio_Description_Long	Woodwork is used to cure patients with Woodworms.\r\nAs the saying goes: don't be a muppet, get cured by a puppet.\r\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
+Room/DLC_4/Pinocchio_Description_Long	Woodwork is used to cure patients with Woodworms.\nAs the saying goes: don't be a muppet, get cured by a puppet.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
 Room/DLC_4/Pinocchio_Name	Woodwork
 Room/DLC_4/PlantWard_Description	Cures a range of illnesses.\nDig the power of the healing flower.
 Room/DLC_4/PlantWard_Description_Long	Herb Gardens are used to treat a range of herbaceous illnesses.\nA nurse is required to admit each patient, look after them, and discharge them when they're ready to leave.\nAdd multiple 'medical plants' to a Herb Garden to deal with more than one patient at a time.\nYou can also adjust the room settings to request that more nurses work here - this is useful if you have lots of patients.\nTo improve cure rates, you'll need to research upgrades. Also assign a nurse trained with extra treatment skills.
 Room/DLC_4/PlantWard_Name	Herb Garden
 Room/DLC_4/Scarecrow_Description	Cures patients with Distrawed.\nYields results, and straw, lots of straw.
-Room/DLC_4/Scarecrow_Description_Long	Farmacology is used to cure Distrawed patients.\r\nOnce removed from the patient, the strawy excess is recycled and used in one of the many ways that people use straw. I can't think of any right now, but they definitely exist.\r\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
+Room/DLC_4/Scarecrow_Description_Long	Farmacology is used to cure Distrawed patients.\nOnce removed from the patient, the strawy excess is recycled and used in one of the many ways that people use straw. I can't think of any right now, but they definitely exist.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
 Room/DLC_4/Scarecrow_Name	Farmacology
 Room/DLC_4/Tech_Description	Cures patients with Glitchy Patch.\nPrepare to Install.
-Room/DLC_4/Tech_Description_Long	Tech Support is used to cure patients with Glitchy Patch.\r\nDeal with a Glitchy Patch sooner rather than later, to avoid further irritation, or shutting down all of the County's technology simultaneously.\r\nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
+Room/DLC_4/Tech_Description_Long	Tech Support is used to cure patients with Glitchy Patch.\nDeal with a Glitchy Patch sooner rather than later, to avoid further irritation, or shutting down all of the County's technology simultaneously.\nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
 Room/DLC_4/Tech_Name	Tech Support
 Room/DLC_5/Mud_Description	Cures patients with Soiled Self.\nRemoves stains and mud-borne maladies.
 Room/DLC_5/Mud_Description_Long	The Wash Pit is used to cure patients with Soiled Self.\nAdministers a highly complex mix of washing up liquid and hydrophobic steroids via a remote-action medical-grade sponge. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a nurse trained with extra treatment skills.
@@ -8691,6 +8993,9 @@ Room/DLC_5/Stuntman_Name	Danger Zone
 Room/DLC_5/ToySoldier_Description	Cures patients with Private Parts.\nRecover squidgy humans from their hard, green exteriors.
 Room/DLC_5/ToySoldier_Description_Long	The War Room is used to cure patients with Private Parts.\nPatients are melted down into a soldierly soup and then filtered, to remove all warmongering and toy-like, impurities. Once fully sieved, patients can be remoulded into their organic, less stompy, selves. \nTo improve cure rates, you'll need upgrades for the machine. Also assign a doctor trained with extra treatment skills.
 Room/DLC_5/ToySoldier_Name	War Room
+Room/DLC_6/TimeTunnel_Description	Safely ruptures the structure of space and time.\nReturns patients to the correct time period.
+Room/DLC_6/TimeTunnel_Description_Long	Speed Dating is used to return lost in time patients back home.\nPatients are accurately dated by the Yesterizer, which then configures itself to match. All a patient has to do is walk through the swirly gate and they'll reappear in their home era, ready to recount their adventures to whatever witch trial awaits them.\n
+Room/DLC_6/TimeTunnel_Name	Speed Dating
 Room/DNAAnalysis_Description	Cures a range of Genetic illnesses.\nHigh-Tech Diagnosis.\nAnalyse and Manipulate DNA.
 Room/DNAAnalysis_Description_Long	The DNA Lab is used to cure a range of peculiar genetic conditions. It is also a powerful tool for diagnosis. This room requires a Doctor trained in Genetics.\nTo improve results, research and apply upgrades to the machine. Also use a doctor trained with extra diagnosis and treatment skills.
 Room/DNAAnalysis_Name	DNA Lab
@@ -8699,6 +9004,9 @@ Room/ElectricShock_Description_Long	Patients suffering from Shock Horror are sen
 Room/ElectricShock_Name	Shock Clinic
 Room/Filters/All	All
 Room/Filters/Diagnosis	Diagnosis
+Room/Filters/EraMedieval	Medieval
+Room/Filters/EraPrehistory	Prehistoric
+Room/Filters/EraPresent	Modern
 Room/Filters/Facilities	Facilities
 Room/Filters/Treatment	Treatment
 Room/FluidAnalysis_Description	High-Tech Diagnosis.\nExtracts fluids for analysis, and sometimes for fun.
@@ -9080,6 +9388,14 @@ StatusEffects/CaffeineBuzz_Description_M	Who needs sleep anyway?
 StatusEffects/CaffeineBuzz_Name	Caffeine Buzz
 StatusEffects/CaffeineBuzz_Name_F	Caffeine Buzz
 StatusEffects/CaffeineBuzz_Name_M	Caffeine Buzz
+StatusEffects/DLC_6/Anachronistic_Patient_Description_F	Doesn't even belong here.
+StatusEffects/DLC_6/Anachronistic_Patient_Description_M	Doesn't even belong here.
+StatusEffects/DLC_6/Anachronistic_Patient_Name_F	Lost in Time
+StatusEffects/DLC_6/Anachronistic_Patient_Name_M	Lost in Time
+StatusEffects/DLC_6/Time_Portal_Patient_Description_F	Arrived through a time portal.
+StatusEffects/DLC_6/Time_Portal_Patient_Description_M	Arrived through a time portal.
+StatusEffects/DLC_6/Time_Portal_Patient_Name_F	Time Sick
+StatusEffects/DLC_6/Time_Portal_Patient_Name_M	Time Sick
 StatusEffects/Disgusted_Description_F	Saw something revolting
 StatusEffects/Disgusted_Description_M	Saw something revolting
 StatusEffects/Disgusted_Name_F	Disgusted
@@ -9437,6 +9753,9 @@ Tooltip/DLC_2/VIP_Visit_RichGuy	Wiggy Silverbottom is visiting the hospital. Cli
 Tooltip/DLC_3/VIP_Visit_Alien_reporter	Charlatene Fishwrapper, journalist for the Two Point Squabbler, is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Tooltip/DLC_4/VIP_Visit_Eco	Flanolin Onionsack, from the Department of Green Things, is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Tooltip/DLC_5/VIP_Visit_Zara	Artist Zara Fitzpocket is visiting the hospital. Click here to follow along on their visit, once they've arrived.
+Tooltip/DLC_6/InspectorDataPatient_SendHomeAnachronistic_CS	Send to Speed Dating
+Tooltip/DLC_6/InspectorDataRoom_ToggleEras	Send back patients from this era?
+Tooltip/DLC_6/VIP_Visit_Yesterday	Captain Yesterday is visiting the hospital. Click here to follow along on their visit, once they've arrived.
 Tooltip/FinanceTab_CashFlow_Expenses_CS	Staff Wages: {[WAGES]}\nOther: {[OTHER]}
 Tooltip/FinanceTab_CashFlow_Revenue_CS	Treatment: {[TREATMENT]}\nDiagnosis: {[DIAGNOSIS]}\nOther: {[OTHER]}
 Tooltip/FinanceTab_ProfitFactor_CS	Profit Factor:\n{[VALUE1]} (12 months Profit/Loss / 4) \nx {[VALUE2]} (Number of Profitable Months in last 12)
@@ -9534,7 +9853,7 @@ Tooltip/SelectMenuRoomItem_Maintenance_CS	Maintenance {[LEVEL]}
 Tooltip/SelectMenuRoomItem_NoQualifiedJanitors_CS	No Janitors with {[QUALIFICATION]} qualification
 Tooltip/SelectMenuRoomItem_Pickup_CS	Pick Up
 Tooltip/SelectMenuRoomItem_RoboKitJobCost_CS	Cost: {[COST]}
-Tooltip/SelectMenuRoomItem_RoboKitJobLimitReached_CS	Limit Reached!\r
+Tooltip/SelectMenuRoomItem_RoboKitJobLimitReached_CS	Limit Reached!\n
 Tooltip/SelectMenuRoomItem_Sell_CS	Sell for {[COST]}
 Tooltip/SelectMenuRoomItem_Shelve_CS	Shelve Project
 Tooltip/SelectMenuRoomItem_UGCButton	Edit User Generated Item
